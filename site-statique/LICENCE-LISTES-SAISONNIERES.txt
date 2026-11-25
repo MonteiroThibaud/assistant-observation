@@ -1,0 +1,16 @@
+LISTES SAISONNIÈRES (Printemps, Été, Automne, Hiver) — fichier listes-saisonnieres.js
+====================================================================================
+
+Ce fichier n'est PAS couvert par la licence GNU GPL version 3 du code de l'application « Assistant d'observation ».
+
+Origine : sélection, ordre et numéros de page tirés du livre
+« Le Ciel au télescope – 110 observations essentielles à faire avec votre instrument »
+de Carine Souplet et Bertrand d'Armagnac, éditions Stelvision, 2021 (ISBN 978-2-9563417-4-1).
+Le livre : https://www.stelvision.com/astro/boutique/le-ciel-au-telescope/
+
+Seuls les noms des objets et les numéros de page sont repris, pas les textes du livre.
+Reprise avec l'aimable autorisation de l'éditeur (Stelvision, Bertrand d'Armagnac) et de ses auteurs (accord écrit du 29 octobre 2026),
+sous la condition de citer l'ouvrage dans la rubrique « Informations » de l'application (titre, auteurs, éditeur, lien vers le livre
+dans la boutique Stelvision). © éditions Stelvision et ses auteurs, tous droits réservés hors cette autorisation.
+
+Ce fichier peut être retiré sans que l'application cesse de fonctionner : les listes saisonnières disparaissent alors des choix de listes.

@@ -1,0 +1,479 @@
+{
+ "version_registre": 1,
+ "intro": "Adresses des sources, des catalogues, des bibliothèques et des publications utilisées par l’application. Elles s’ouvrent dans le navigateur (connexion nécessaire).",
+ "categories": [
+  {
+   "id": "calculs-du-ciel",
+   "titre": "Calculs du ciel",
+   "liens": [
+    {
+     "id": "astronomy-engine-don-cross",
+     "titre": "Astronomy Engine (Don Cross)",
+     "url": "https://github.com/cosinekitty/astronomy",
+     "licence": "MIT",
+     "statut": "verifiee"
+    },
+    {
+     "id": "astronomia-commenthol-d-apres-jean-meeus",
+     "titre": "astronomia (commenthol), d'après Jean Meeus",
+     "url": "https://github.com/commenthol/astronomia",
+     "licence": "MIT",
+     "statut": "verifiee"
+    },
+    {
+     "id": "jean-meeus-astronomical-algorithms-willmann-bell",
+     "titre": "Jean Meeus, Astronomical Algorithms (Willmann-Bell)",
+     "url": "https://www.willbell.com",
+     "licence": "Sans objet : citation seule, aucun contenu repris",
+     "statut": "citation",
+     "verification": "Livre protégé : les algorithmes publiés sont réimplémentés (bibliothèque astronomia, MIT) ; aucun texte repris."
+    },
+    {
+     "id": "tache-rouge-de-jupiter-sky-telescope",
+     "titre": "Tache rouge de Jupiter : Sky & Telescope",
+     "url": "https://skyandtelescope.org/observing/interactive-sky-watching-tools/transit-times-of-jupiters-great-red-spot/",
+     "licence": "Sans objet : citation seule, aucun contenu repris",
+     "statut": "citation",
+     "verification": "Page de référence citée ; aucun contenu repris."
+    },
+    {
+     "id": "tache-rouge-de-jupiter-jupos",
+     "titre": "Tache rouge de Jupiter : JUPOS",
+     "url": "http://jupos.org",
+     "licence": "Sans objet : citation seule, aucun contenu repris",
+     "statut": "citation",
+     "verification": "Page de référence citée ; aucun contenu repris."
+    }
+   ]
+  },
+  {
+   "id": "satellites",
+   "titre": "Satellites",
+   "liens": [
+    {
+     "id": "satellite-js-shashwat-kandadai",
+     "titre": "satellite.js (Shashwat Kandadai)",
+     "url": "https://github.com/shashwatak/satellite-js",
+     "licence": "MIT",
+     "statut": "verifiee"
+    },
+    {
+     "id": "vallado-et-al-revisiting-spacetrack-report-3-sgp",
+     "titre": "Vallado et al., « Revisiting Spacetrack Report #3 » (SGP4)",
+     "url": "https://celestrak.org/publications/AIAA/2006-6753/",
+     "licence": "Sans objet : citation seule, aucun contenu repris",
+     "statut": "citation",
+     "verification": "Article scientifique cité (méthode SGP4) ; implémentation : satellite.js (MIT) ; aucun texte repris."
+    },
+    {
+     "id": "elements-orbitaux-de-l-iss-celestrak-norad",
+     "titre": "Éléments orbitaux de l'ISS (CelesTrak, NORAD)",
+     "url": "https://celestrak.org/NORAD/elements/gp.php?CATNR=25544&FORMAT=TLE",
+     "licence": "Sans objet : non inclus dans l’application (fichier téléchargé ou importé par l’utilisateur)",
+     "statut": "non-incluse",
+     "verification": "Éléments téléchargés par l'utilisateur depuis CelesTrak, non inclus dans l'application."
+    }
+   ]
+  },
+  {
+   "id": "cometes-et-petites-planetes",
+   "titre": "Comètes et petites planètes",
+   "liens": [
+    {
+     "id": "minor-planet-center-cometes-brillantes",
+     "titre": "Minor Planet Center : comètes brillantes",
+     "url": "https://minorplanetcenter.net/iau/Ephemerides/Comets/Soft00Cmt.txt",
+     "licence": "Sans objet : non inclus dans l’application (fichier téléchargé ou importé par l’utilisateur)",
+     "statut": "non-incluse",
+     "verification": "Éléments importés par l'utilisateur, non inclus dans l'application."
+    },
+    {
+     "id": "minor-planet-center-petites-planetes-brillantes",
+     "titre": "Minor Planet Center : petites planètes brillantes",
+     "url": "https://minorplanetcenter.net/iau/Ephemerides/Bright/",
+     "licence": "Sans objet : non inclus dans l’application (fichier téléchargé ou importé par l’utilisateur)",
+     "statut": "non-incluse",
+     "verification": "Éléments importés par l'utilisateur, non inclus dans l'application."
+    }
+   ]
+  },
+  {
+   "id": "etoiles-et-ciel-profond",
+   "titre": "Étoiles et ciel profond",
+   "liens": [
+    {
+     "id": "hipparcos-et-tycho-2-esa",
+     "titre": "Hipparcos et Tycho-2 (ESA)",
+     "url": "https://www.cosmos.esa.int/web/hipparcos",
+     "licence": "CC-BY-NC-3.0-IGO ; crédit : ESA (usage non commercial)",
+     "statut": "verifiee",
+     "verification": "Page des catalogues de l'ESA (cosmos.esa.int/web/hipparcos/catalogues), vérifiée le 6 novembre 2026 : les catalogues Hipparcos et Tycho sont distribués sous la licence CC BY-NC 3.0 IGO et leurs conditions d'utilisation imposent « Credit: ESA » ; référence : ESA, 1997, SP-1200 (Tycho-2 : Høg et al., 2000). Le projet est non commercial."
+    },
+    {
+     "id": "gaia-esa",
+     "titre": "Gaia (ESA)",
+     "url": "https://www.cosmos.esa.int/gaia",
+     "licence": "CC-BY-SA-4.0",
+     "statut": "choix",
+     "verification": "Gaia n'est utilisé que via AT-HYG (CC BY-SA 4.0). Les textes de l'ESA donnent CC BY-SA 3.0 IGO pour ses images et une source tierce évoque CC BY-NC 3.0 IGO pour les données : ambiguïté tranchée par l'auteur le 6 novembre 2026, qui retient CC BY-SA, version 4.0 (le projet est non commercial)."
+    },
+    {
+     "id": "at-hyg-david-nash-types-spectraux-et-distances",
+     "titre": "AT-HYG (David Nash) : types spectraux et distances",
+     "url": "https://codeberg.org/astronexus/athyg",
+     "licence": "CC-BY-SA-4.0",
+     "statut": "verifiee"
+    },
+    {
+     "id": "openngc-mattia-verga-positions-du-ciel-profond",
+     "titre": "OpenNGC (Mattia Verga) : positions du ciel profond",
+     "url": "https://github.com/mattiaverga/OpenNGC",
+     "licence": "CC-BY-SA-4.0",
+     "statut": "verifiee"
+    },
+    {
+     "id": "simbad-et-le-portail-du-cds-strasbourg",
+     "titre": "SIMBAD et le portail du CDS (Strasbourg)",
+     "url": "https://cds.unistra.fr/",
+     "licence": "ODbL ; citation de l'article d'origine demandée",
+     "statut": "verifiee",
+     "verification": "Page de SIMBAD (CDS), vérifiée le 6 novembre 2026 : usage libre sans inscription sous licence ODbL, citation demandée de l'article d'origine (Wenger et al., 2000, A&AS 143, 9) ; remerciement suggéré : « This research has made use of the SIMBAD database, operated at CDS, Strasbourg, France. » (présent dans Informations)."
+    },
+    {
+     "id": "ned-nasa-et-ipac",
+     "titre": "NED (NASA et IPAC)",
+     "url": "https://ned.ipac.caltech.edu",
+     "licence": "Sans objet : citation seule, aucun contenu repris",
+     "statut": "citation",
+     "verification": "Base consultée pour les identifications (provenance d'OpenNGC) ; aucune donnée reprise directement ; mention dans Informations."
+    },
+    {
+     "id": "d3-celestial-olaf-frohn-constellations-et-catalo",
+     "titre": "d3-celestial (Olaf Frohn) : constellations et catalogues",
+     "url": "https://github.com/ofrohn/d3-celestial",
+     "licence": "BSD-3-Clause",
+     "statut": "verifiee"
+    },
+    {
+     "id": "washington-double-star-catalog-us-naval-observat",
+     "titre": "Washington Double Star Catalog (US Naval Observatory)",
+     "url": "https://www.astro.gsu.edu/wds/",
+     "licence": "Aucune licence indiquée ; données publiques de l'US Naval Observatory ; remerciement demandé",
+     "statut": "verifiee",
+     "verification": "Page du WDS (crf.usno.navy.mil/wds), vérifiée le 6 novembre 2026 : remerciement suggéré « This research has made use of the Washington Double Star Catalog maintained at the U.S. Naval Observatory. » (présent dans Informations) ; le catalogue de données du gouvernement américain indique « No license information was provided »."
+    },
+    {
+     "id": "digitized-sky-survey-stsci",
+     "titre": "Digitized Sky Survey (STScI)",
+     "url": "https://archive.stsci.edu/dss/",
+     "licence": "Libre pour la recherche, l'enseignement et les usages non lucratifs, avec mention de la source ; usage commercial interdit sans autorisation",
+     "statut": "verifiee",
+     "verification": "Page des droits du STScI (gsss.stsci.edu/Acknowledgements/DSSCopyrights.htm), vérifiée le 6 novembre 2026 : usage libre pour la recherche, l'enseignement et les activités à but non lucratif, avec mention de la source ; détenteurs différents selon les relevés (POSS-II : Caltech ; UKSTU : Anglo-Australian Observatory ; POSS-I et QV : STScI) ; usage commercial interdit sans autorisation."
+    },
+    {
+     "id": "skyview-nasa",
+     "titre": "SkyView (NASA)",
+     "url": "https://skyview.gsfc.nasa.gov",
+     "licence": "Service de la NASA ; chaque relevé garde ses droits (DSS : voir l'entrée du Digitized Sky Survey)",
+     "statut": "verifiee",
+     "verification": "FAQ de SkyView (skyview.gsfc.nasa.gov/current/help/faq.html), vérifiée le 6 novembre 2026 : mention non obligatoire, formule suggérée « We acknowledge the use of NASA's SkyView facility (http://skyview.gsfc.nasa.gov) located at NASA Goddard Space Flight Center. » (présente dans Informations) ; SkyView ne contient que des relevés du domaine public ou utilisés avec l'accord de l'auteur."
+    },
+    {
+     "id": "dss-droits-dauteur-et-mentions-stsci",
+     "titre": "DSS : droits d’auteur et mentions (STScI)",
+     "url": "https://gsss.stsci.edu/Acknowledgements/DSSCopyrights.htm",
+     "licence": "Libre pour la recherche, l'enseignement et les usages non lucratifs, avec mention de la source ; usage commercial interdit sans autorisation",
+     "statut": "verifiee",
+     "verification": "Page des droits du STScI (gsss.stsci.edu/Acknowledgements/DSSCopyrights.htm), vérifiée le 6 novembre 2026 : usage libre pour la recherche, l'enseignement et les activités à but non lucratif, avec mention de la source ; détenteurs différents selon les relevés (POSS-II : Caltech ; UKSTU : Anglo-Australian Observatory ; POSS-I et QV : STScI) ; usage commercial interdit sans autorisation."
+    },
+    {
+     "id": "astrometry-net-calage-des-photos",
+     "titre": "Astrometry.net : calage des photos",
+     "url": "https://astrometry.net",
+     "licence": "Sans objet : citation seule, aucun contenu repris",
+     "statut": "citation",
+     "verification": "Service utilisé par l'auteur pour caler ses propres photos ; aucun contenu repris."
+    },
+    {
+     "id": "esa-hubble-noms-de-nebuleuses",
+     "titre": "ESA/Hubble : noms de nébuleuses planétaires (Huître, Petit Joyau)",
+     "url": "https://esahubble.org/",
+     "licence": "Sans objet : citation seule, aucun contenu repris",
+     "statut": "citation",
+     "verification": "Surnoms anglais de nébuleuses planétaires, traduits par l'application ; aucune image ni texte repris."
+    },
+    {
+     "id": "saf-nom-de-ngc-7380",
+     "titre": "Société astronomique de France : nom de NGC 7380 (nébuleuse du Sorcier)",
+     "url": "https://saf-astronomie.fr/",
+     "licence": "Sans objet : citation seule, aucun contenu repris",
+     "statut": "citation",
+     "verification": "Nom français d'objet cité (nébuleuse du Sorcier) ; aucun texte repris."
+    },
+    {
+     "id": "dictionnaire-observatoire-de-paris-ic-5146",
+     "titre": "Dictionnaire étymologique d’astronomie et d’astrophysique (Observatoire de Paris) : nom de IC 5146",
+     "url": "https://dictionary.obspm.fr/",
+     "licence": "Sans objet : citation seule, aucun contenu repris",
+     "statut": "citation",
+     "verification": "Nom français d'objet cité (nébuleuse du Cocon) ; aucun texte repris."
+    },
+    {
+     "id": "wikipedia-fr-ngc-7008",
+     "titre": "Wikipédia en français : nom de NGC 7008 (nébuleuse du Fœtus)",
+     "url": "https://fr.wikipedia.org/wiki/NGC_7008",
+     "licence": "CC-BY-SA-4.0",
+     "statut": "verifiee"
+    }
+   ]
+  },
+  {
+   "id": "asterismes",
+   "titre": "Astérismes",
+   "liens": [
+    {
+     "id": "deep-sky-corner-picot-1-et-ngc-2169",
+     "titre": "Deep Sky Corner (Picot 1 et NGC 2169)",
+     "url": "https://deepskycorner.ch/",
+     "licence": "CC-BY-4.0",
+     "statut": "verifiee"
+    },
+    {
+     "id": "houston-astronomical-society-kemble-2-mini-cassi",
+     "titre": "Houston Astronomical Society : Kemble 2 (Mini-Cassiopée)",
+     "url": "https://www.astronomyhouston.org/newsletters/guidestar/asterisms-%E2%80%93-kemble-2-mini-cassiopeia-alessi-j183507223",
+     "licence": "Sans objet : citation seule, aucun contenu repris",
+     "statut": "citation",
+     "verification": "Article cité pour le tracé de Kemble 2 ; aucun texte repris (audit de la 0.87)."
+    },
+    {
+     "id": "ngc-2169-lamas-37-wikipedia",
+     "titre": "NGC 2169, l’amas « 37 » (Wikipédia)",
+     "url": "https://en.wikipedia.org/wiki/NGC_2169",
+     "licence": "CC-BY-SA-4.0",
+     "statut": "verifiee",
+     "verification": "Texte de Wikipédia sous CC BY-SA 4.0 (mention de licence des pages Wikipédia, vérifiée le 6 novembre 2026) ; seule l'information citée est reprise."
+    },
+    {
+     "id": "licence-creative-commons-cc0-1-0-photo-de-ngc-21",
+     "titre": "Licence Creative Commons CC0 1.0 (photo de NGC 2169 de Chuck Ayoub)",
+     "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "licence": "CC0-1.0",
+     "statut": "verifiee"
+    }
+   ]
+  },
+  {
+   "id": "lieux",
+   "titre": "Lieux",
+   "liens": [
+    {
+     "id": "france-geojson-gregoire-david-contours-des-commu",
+     "titre": "france-geojson (Grégoire David) : contours des communes",
+     "url": "https://github.com/gregoiredavid/france-geojson",
+     "licence": "Tracés IGN Admin Express 2018, sous Licence Ouverte 2.0 ; le dépôt ne déclare pas de licence propre",
+     "statut": "verifiee",
+     "verification": "README du dépôt : tracés issus de l'IGN Admin Express (édition 2018) ; aucun fichier de licence dans le dépôt (vérifié le 6 novembre 2026) ; licence d'Admin Express : voir l'entrée IGN."
+    },
+    {
+     "id": "ign-admin-express",
+     "titre": "IGN, Admin Express",
+     "url": "https://geoservices.ign.fr/adminexpress",
+     "licence": "etalab-2.0",
+     "statut": "verifiee",
+     "verification": "Données de l'IGN ouvertes sous Licence Ouverte 2.0 (communiqué de l'IGN de 2020 ; Admin Express figure dans la liste des produits sous licence ouverte arrêtée au 30 avril 2018) ; vérifié le 6 novembre 2026."
+    },
+    {
+     "id": "etalab-decoupage-administratif",
+     "titre": "Etalab : découpage administratif",
+     "url": "https://github.com/etalab/decoupage-administratif",
+     "licence": "MIT (code) ; Licence Ouverte (données)",
+     "statut": "verifiee",
+     "verification": "README du dépôt, rubrique Licence : « Données : Licence Ouverte » ; fichiers LICENSE et package.json : MIT, © Etalab (lus le 6 novembre 2026)."
+    },
+    {
+     "id": "licence-ouverte-etalab-2-0",
+     "titre": "Licence Ouverte Etalab 2.0",
+     "url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+     "licence": "etalab-2.0",
+     "statut": "verifiee",
+     "verification": "Identifiant SPDX de la Licence Ouverte 2.0 donné par data.gouv.fr (vérifié le 6 novembre 2026)."
+    },
+    {
+     "id": "geonames-lieux-habites-du-monde",
+     "titre": "GeoNames : lieux habités du monde",
+     "url": "https://www.geonames.org/",
+     "licence": "CC-BY-4.0",
+     "statut": "verifiee"
+    },
+    {
+     "id": "licence-creative-commons-cc-by-4-0-geonames-et-p",
+     "titre": "Licence Creative Commons CC BY 4.0 (GeoNames et photos de l’auteur)",
+     "url": "https://creativecommons.org/licenses/by/4.0/",
+     "licence": "CC-BY-4.0",
+     "statut": "verifiee",
+     "verification": "Texte de licence Creative Commons CC BY 4.0."
+    }
+   ]
+  },
+  {
+   "id": "lune",
+   "titre": "Lune",
+   "liens": [
+    {
+     "id": "cgi-moon-kit-nasa-scientific-visualization-studi",
+     "titre": "CGI Moon Kit (NASA, Scientific Visualization Studio) : carte",
+     "url": "https://svs.gsfc.nasa.gov/4720",
+     "licence": "Contenu NASA, généralement non soumis au droit d'auteur aux États-Unis ; usage éducatif ou informatif libre ; citer « NASA/Goddard/Scientific Visualization Studio »",
+     "statut": "verifiee",
+     "verification": "Lignes directrices d'usage des médias de la NASA (nasa.gov), vérifiées le 6 novembre 2026 : le contenu NASA, y compris les cartes de texture et les données de modèles 3D, n'est généralement pas soumis au droit d'auteur aux États-Unis ; la NASA doit être citée comme source ; le Scientific Visualization Studio figure parmi les ressources concernées."
+    },
+    {
+     "id": "lro-et-lola-nasa-pds-relief",
+     "titre": "LRO et LOLA (NASA, PDS) : relief",
+     "url": "https://pds-geosciences.wustl.edu/missions/lro/lola.htm",
+     "licence": "Données du PDS de la NASA, accès public ; créditer l'équipe LOLA de la NASA",
+     "statut": "verifiee",
+     "verification": "Fiche de l'USGS Astrogeology du produit SLDEM2015, issu des données LOLA, vérifiée le 6 novembre 2026 : « Access Constraints : public domain », crédit « NASA's LOLA Team and JAXA's SELENE/Kaguya Team » ; la page du nœud LOLA du PDS n'a pas été lue directement."
+    },
+    {
+     "id": "sldem2015-nasa-pgda-lola-et-kaguya-relief-entre-",
+     "titre": "SLDEM2015 (NASA PGDA ; LOLA et Kaguya) : relief entre 60° N et 60° S",
+     "url": "https://pgda.gsfc.nasa.gov/products/54",
+     "licence": "Domaine public (PDS) ; citer Barker et al. (2016) ; créditer l'équipe LOLA de la NASA et l'équipe SELENE/Kaguya de la JAXA",
+     "statut": "verifiee",
+     "verification": "Fiche de l'USGS Astrogeology « Moon LRO LOLA - SELENE Kaguya TC DEM Merge 60N60S 59m » : « public domain », « Please cite authors » ; page de la NASA PGDA : citer Barker et al. (2016) (vérifiées le 6 novembre 2026)."
+    },
+    {
+     "id": "lroc-quickmap-nasa-et-universite-d-arizona",
+     "titre": "LROC QuickMap (NASA et université d'Arizona)",
+     "url": "https://quickmap.lroc.asu.edu",
+     "licence": "Sans objet : citation seule, aucun contenu repris",
+     "statut": "citation",
+     "verification": "Outil en ligne consulté pour des mesures ; aucun contenu repris."
+    },
+    {
+     "id": "altitudes-des-sommets-jim-singh-d-apres-lroc-qui",
+     "titre": "Altitudes des sommets (Jim Singh, d'après LROC QuickMap)",
+     "url": "https://moonsummits.carrd.co/",
+     "licence": "Sans objet : comparaison seule (aucune valeur reprise) ; mesures sur des données de la NASA (LOLA et LROC, domaine public aux États-Unis)",
+     "statut": "citation",
+     "verification": "Les six hauteurs de Jim Singh (Mons Piton, Pico, Maraldi, Rümker, Gruithuisen Delta et Gamma) ont servi à contrôler le calcul ; les hauteurs affichées sont celles que l’application calcule sur le relief LOLA de la NASA (écart de 120 m au plus avec les relevés de Singh ; trois textes changent de 0,1 km : Mons Rümker, Mons Maraldi, Mons Gruithuisen Delta). Mise à jour du 20 novembre 2026.",
+     "verifiee_le": "2026-11-20",
+     "pages_consultees": "https://moonsummits.carrd.co (aucune mention de licence ; figures et tableaux issus de LROC QuickMap)"
+    },
+    {
+     "id": "gazetier-de-nomenclature-planetaire-de-l-uai-et-",
+     "titre": "Gazetier de nomenclature planétaire de l'UAI et de l'USGS",
+     "url": "https://planetarynames.wr.usgs.gov",
+     "licence": "Domaine public (États-Unis) ; mention « U.S. Geological Survey » demandée",
+     "statut": "verifiee",
+     "verification": "Politique de l'USGS : les données et informations produites par l'USGS sont dans le domaine public des États-Unis (pages « Copyrights and Credits », vérifiées le 6 novembre 2026) ; le catalogue des données du gouvernement américain n'indique pas de licence propre pour le Gazetier."
+    },
+    {
+     "id": "ltvt-jim-mosher-henrik-bondo",
+     "titre": "LTVT (Jim Mosher, Henrik Bondo)",
+     "url": "https://github.com/fermigas/ltvt/wiki",
+     "licence": "Dépôt sans fichier de licence ; données factuelles : gazetier de l’UAI et de l’USGS (domaine public aux États-Unis) et catalogue publié de Head et Gifford (1980), cités avec leurs publications",
+     "statut": "citation",
+     "verification": "Seules des valeurs et des noms sont repris, sans aucun texte : du fichier Named_Lunar_Features_for_map_labeling.csv (gazetier de l'UAI et de l'USGS, positions et diamètres LOLA) : noms officiels, longitudes, latitudes et diamètres de cratères nommés de 3 à 30 km et corrections de formations existantes ; du fichier Head_and_Gifford_DomeList_1980.csv : 68 dômes de fiabilité A et B (nom, position, diamètre, fiabilité). Le dépôt LTVT n'a pas de fichier de licence ; ces valeurs sont des faits issus du gazetier de l'UAI et de l'USGS (domaine public des États-Unis) et du catalogue publié de Head et Gifford (1980). Mention validée par l'auteur le 6 novembre 2026. — Noms, positions, diamètres et fiabilités tirés de publications (gazetier, Head et Gifford 1980) et transcrits dans les fichiers de points de LTVT ; publication citée à son nom (entrée suivante). Aucune autorisation requise ; mise à jour du 20 novembre 2026."
+    },
+    {
+     "id": "pike-1980-usgs-professional-paper-1046-c-dimensi",
+     "titre": "Pike (1980), USGS Professional Paper 1046-C : dimensions des cratères",
+     "url": "https://pubs.usgs.gov/pp/1046c/report.pdf",
+     "licence": "Domaine public (États-Unis, publication de l'USGS)",
+     "statut": "verifiee",
+     "verification": "Politique de l'USGS sur les publications et données qu'il produit (vérifiée le 6 novembre 2026)."
+    },
+    {
+     "id": "kurt-fisher-profondeurs-des-crateres-the-moon-wi",
+     "titre": "Kurt Fisher : profondeurs des cratères (The Moon Wiki)",
+     "url": "https://the-moon.us/wiki/Kurt_Fisher_Crater_Depths",
+     "licence": "Aucune licence indiquée ; valeurs numériques isolées (faits publiés) citées avec leurs publications d’origine : Pike 1976 (The Moon 15, 463-477), Arthur 1974 (Icarus 23, 116-133), Cherrington 1969, Westfall 2000, Viscardy 1985",
+     "statut": "citation",
+     "verification": "Seules des valeurs numériques de profondeur (des faits) sont reprises ; aucun texte ni tableau complet (précision de l'auteur, 6 novembre 2026). — Les mesures de profondeur, de rempart, de fond et de pic central des fiches sont celles de l’application sur le relief LOLA de la NASA ; les valeurs publiées servent de contrôle et de repli, citées avec leurs publications. Aucune autorisation requise ; mise à jour du 20 novembre 2026.",
+     "verifiee_le": "2026-11-20",
+     "pages_consultees": "https://the-moon.us/wiki/Kurt_Fisher_Crater_Depths et https://the-moon.us/wiki/Explanations (aucune licence ; images : droits des photographes)"
+    },
+    {
+     "id": "kruger-et-al-2018-hauteur-des-pics-centraux",
+     "titre": "Krüger et al. (2018) : hauteur des pics centraux",
+     "url": "https://doi.org/10.1029/2018JE005545",
+     "licence": "Sans objet : citation seule, aucun contenu repris",
+     "statut": "citation",
+     "verification": "Article scientifique cité ; aucun texte repris."
+    },
+    {
+     "id": "robbins-2018-relations-entre-profondeur-et-diame",
+     "titre": "Robbins (2018) : relations entre profondeur et diamètre (Kalynn et al. 2013)",
+     "url": "https://doi.org/10.1111/maps.12956",
+     "licence": "Sans objet : citation seule, aucun contenu repris",
+     "statut": "citation",
+     "verification": "Article scientifique cité ; aucun texte repris."
+    },
+    {
+     "id": "lpod-la-lune-du-jour-charles-wood",
+     "titre": "LPOD, la Lune du jour (Charles Wood)",
+     "url": "https://www.lpod.org/",
+     "licence": "Droits réservés (textes et images) ; une seule valeur numérique (pic central de Mädler, 0,6 km) est citée, sans reproduction de texte",
+     "statut": "citation",
+     "verification": "Une seule valeur numérique est reprise (pic central de Mädler, attribué à Charles Wood) ; aucun texte. Mention validée par l'auteur le 6 novembre 2026. — Valeur isolée (fait mesuré), citée avec sa source ; aucun texte ni image repris. Aucune autorisation requise ; mise à jour du 20 novembre 2026.",
+     "verifiee_le": "2026-11-20",
+     "pages_consultees": "https://www2.lpod.org/wiki/LPOD:About"
+    },
+    {
+     "id": "inconstant-moon-catalogue-d-apres-rukl",
+     "titre": "Inconstant Moon : catalogue d'après Rükl",
+     "url": "https://inconstantmoon.com",
+     "licence": "Droits réservés (catalogue d’après l’atlas de Rükl) ; valeurs numériques isolées (faits), citées, sans reproduction de texte",
+     "statut": "citation",
+     "verification": "Des valeurs publiées ont été consultées pour comparaison ; seules des valeurs numériques sont utilisées, aucun texte repris. Mention validée par l'auteur le 6 novembre 2026. — Valeurs publiées consultées pour comparaison et en repli (rang 11 du classement), citées ; aucun texte repris. Aucune autorisation requise ; mise à jour du 20 novembre 2026."
+    },
+    {
+     "id": "head-et-gifford-1980-domes-lunaires",
+     "titre": "Head et Gifford (1980) : Lunar mare domes, classification and modes of origin (The Moon and the Planets 22, 235-258)",
+     "url": "https://doi.org/10.1007/BF00898434",
+     "licence": "Publication citée : faits (noms, positions, diamètres, fiabilité de 68 dômes), sans reproduction de texte",
+     "statut": "citation",
+     "verification": "Catalogue publié en 1980 ; les 68 dômes de fiabilité A et B de l’application (nom, position, diamètre, fiabilité) en sont tirés par les fichiers de points du projet LTVT. Référence vérifiée le 20 novembre 2026 (DOI et pagination confirmés par plusieurs bases bibliographiques). Aucune autorisation requise."
+    }
+   ]
+  },
+  {
+   "id": "listes-polices-et-licences",
+   "titre": "Listes, polices et licences",
+   "liens": [
+    {
+     "id": "le-ciel-au-telescope-stelvision-listes-saisonnie",
+     "titre": "« Le Ciel au télescope » (Stelvision) : listes saisonnières, reprises avec l'aimable autorisation de l'éditeur",
+     "url": "https://www.stelvision.com/astro/boutique/le-ciel-au-telescope/",
+     "licence": "© éditions Stelvision et ses auteurs ; noms d'objets et numéros de page repris avec leur accord écrit du 29 octobre 2026 ; hors licence GPL",
+     "statut": "verifiee",
+     "verification": "Accord écrit de l'éditeur et des auteurs du 29 octobre 2026 (voir LICENCE-LISTES-SAISONNIERES.txt)."
+    },
+    {
+     "id": "polices-alegreya-et-alegreya-sans-huerta-tipogra",
+     "titre": "Polices Alegreya et Alegreya Sans (Huerta Tipográfica, licence SIL OFL)",
+     "url": "https://fonts.google.com/specimen/Alegreya",
+     "licence": "OFL-1.1",
+     "statut": "verifiee"
+    },
+    {
+     "id": "licence-gnu-gpl-version-3-code-de-l-application",
+     "titre": "Licence GNU GPL version 3 (code de l'application)",
+     "url": "https://www.gnu.org/licenses/gpl-3.0.html",
+     "licence": "GPL-3.0-or-later",
+     "statut": "verifiee"
+    },
+    {
+     "id": "licence-creative-commons-cc-by-sa-4-0-openngc-et",
+     "titre": "Licence Creative Commons CC BY-SA 4.0 (OpenNGC et AT-HYG)",
+     "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "licence": "CC-BY-SA-4.0",
+     "statut": "verifiee"
+    }
+   ]
+  }
+ ]
+}

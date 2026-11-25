@@ -1,0 +1,37 @@
+PHOTOS DU CIEL PROFOND, 57 OBJETS AJOUTES - Assistant d'observation (version 0.89)
+===================================================================================
+
+Ces scripts telechargent 57 photos du Digitized Sky Survey (512 x 512 points)
+depuis SkyView, le service de la NASA, des objets NGC et IC ajoutes en 0.89 (positions
+d'OpenNGC). Rien a installer. Compte environ 5 minutes.
+
+WINDOWS
+  1. Clic droit sur le fichier ZIP, puis "Extraire tout".
+     (Ne lance pas le script depuis l'interieur du ZIP : il ne fonctionnerait pas.)
+  2. Dans le dossier obtenu, double-clique sur "Lancer-Windows.bat".
+  3. Si Windows affiche "Windows a protege votre ordinateur" : clique sur
+     "Informations complementaires", puis "Executer quand meme".
+  4. Une fenetre noire affiche l'avancement, objet par objet. Laisse-la ouverte
+     jusqu'a "Termine : 57 photos".
+
+MAC / LINUX
+  1. Decompresse le ZIP.
+  2. Ouvre le Terminal dans le dossier obtenu et tape :  bash Telecharger-DSS.sh
+
+A LA FIN
+  Un dossier "dss_images" apparait a cote des scripts, avec une photo par objet
+  et un fichier index.json. Compresse ce dossier (clic droit, "Envoyer vers",
+  "Dossier compresse") et envoie-le dans la conversation.
+
+EN CAS DE PROBLEME
+  - Tu peux interrompre (fermer la fenetre) et relancer : les photos deja recues
+    sont conservees.
+  - Si quelques objets sont indiques "ECHEC", relance le script une fois :
+    seuls les manquants sont redemandes.
+
+Objets de cette liste (57) : NGC 1788, NGC 2175, NGC 6823, NGC 7380, NGC 2071, NGC 3521, NGC 6818, NGC 4697, NGC 4725, NGC 2440, NGC 4365, NGC 1023, NGC 1999, NGC 4526, NGC 1535, NGC 2683, NGC 4490, NGC 4214, NGC 3184, NGC 2768, NGC 3077, NGC 4535, NGC 4559, NGC 4216, NGC 5248, NGC 1555, NGC 3344, NGC 6822, NGC 1931, NGC 3953, NGC 6503, NGC 925, NGC 2976, NGC 2841, NGC 4414, NGC 2775, NGC 6891, NGC 7814, NGC 5033, NGC 7008, NGC 3079, NGC 5005, NGC 2438, NGC 246, NGC 4361, NGC 6884, NGC 7026, NGC 4438, NGC 4435, NGC 3626, NGC 6905, NGC 2371, NGC 6369, NGC 1501, NGC 4485, IC 5146, IC 405.
+
+Source des images : Digitized Sky Survey, produit au Space Telescope Science
+Institute (subvention NAG W-2166 du gouvernement americain), d'apres les
+telescopes Oschin Schmidt (Palomar) et UK Schmidt. Usage libre non commercial,
+avec cette mention.

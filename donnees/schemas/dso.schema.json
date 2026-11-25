@@ -1,0 +1,84 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Objets du ciel profond",
+ "type": "object",
+ "required": [
+  "schema",
+  "objets"
+ ],
+ "properties": {
+  "objets": {
+   "type": "array",
+   "minItems": 1,
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "designation",
+     "ra_deg",
+     "dec_deg",
+     "type",
+     "mag",
+     "taille_grand_arcmin",
+     "taille_petit_arcmin",
+     "nom"
+    ],
+    "additionalProperties": false,
+    "properties": {
+     "id": {
+      "type": "string",
+      "pattern": "^dso:"
+     },
+     "designation": {
+      "type": "string",
+      "minLength": 1
+     },
+     "ra_deg": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 360
+     },
+     "dec_deg": {
+      "type": "number",
+      "minimum": -90,
+      "maximum": 90
+     },
+     "type": {
+      "type": "string"
+     },
+     "mag": {
+      "type": [
+       "number",
+       "null"
+      ]
+     },
+     "taille_grand_arcmin": {
+      "type": "number"
+     },
+     "taille_petit_arcmin": {
+      "type": "number"
+     },
+     "nom": {
+      "type": "string"
+     },
+     "couleur_principale": {
+      "type": "string"
+     },
+     "couleurs": {
+      "type": "string"
+     },
+     "compagnons": {
+      "type": "array",
+      "minItems": 1
+     },
+     "autres": {
+      "type": "object"
+     },
+     "infos": {
+      "type": "object"
+     }
+    }
+   }
+  }
+ }
+}

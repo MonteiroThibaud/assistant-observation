@@ -1,0 +1,2804 @@
+{
+ "schema": "lune-mesures-v1",
+ "description": "Mesures de base par formation : d = taille (km) ; rh = hauteur du rempart (m) ; dp = profondeur (m) ; fl = altitude du fond (m) ; pk = hauteur du pic central (m). Mesures faites sur le relief LOLA de la NASA par l'application.",
+ "mesures": {
+  "Mare Crisium": {
+   "d": 550
+  },
+  "Langrenus": {
+   "d": 132,
+   "rh": 1177,
+   "dp": 4212,
+   "fl": -4688,
+   "pk": 1362
+  },
+  "Petavius": {
+   "d": 177,
+   "rh": 947,
+   "dp": 2262,
+   "fl": -1846,
+   "pk": 1016
+  },
+  "Posidonius": {
+   "d": 95,
+   "rh": 794,
+   "dp": 1198,
+   "fl": -2310
+  },
+  "Mare Tranquillitatis": {
+   "d": 870
+  },
+  "Théophile": {
+   "d": 100,
+   "rh": 1315,
+   "dp": 3960,
+   "fl": -4442,
+   "pk": 1074
+  },
+  "Mare Serenitatis": {
+   "d": 700
+  },
+  "Mare Nectaris": {
+   "d": 340
+  },
+  "Mare Fecunditatis": {
+   "d": 900
+  },
+  "Aristote": {
+   "d": 87,
+   "rh": 1093,
+   "dp": 3436,
+   "fl": -4713
+  },
+  "Hipparque": {
+   "d": 150,
+   "rh": 889,
+   "dp": 1576,
+   "fl": -166,
+   "pk": 431
+  },
+  "Ptolémée": {
+   "d": 153,
+   "rh": 1167,
+   "dp": 1797,
+   "fl": -640
+  },
+  "Alphonse": {
+   "d": 108,
+   "rh": 430,
+   "dp": 1411,
+   "fl": -1568
+  },
+  "Arzachel": {
+   "d": 96,
+   "rh": 828,
+   "dp": 3245,
+   "fl": -2754,
+   "pk": 503
+  },
+  "Montes Apenninus": {
+   "d": 600
+  },
+  "Archimède": {
+   "d": 83,
+   "rh": 1137,
+   "dp": 1656,
+   "fl": -2753
+  },
+  "Platon": {
+   "d": 101,
+   "rh": 1185,
+   "dp": 1572,
+   "fl": -2520
+  },
+  "Vallis Alpes": {
+   "d": 166
+  },
+  "Rupes Recta": {
+   "d": 110
+  },
+  "Tycho": {
+   "d": 85,
+   "rh": 973,
+   "dp": 4382,
+   "fl": -3321,
+   "pk": 475
+  },
+  "Clavius": {
+   "d": 225,
+   "rh": 1560,
+   "dp": 4023,
+   "fl": -3030,
+   "pk": 864
+  },
+  "Mare Imbrium": {
+   "d": 1100
+  },
+  "Copernic": {
+   "d": 93,
+   "rh": 1032,
+   "dp": 3622,
+   "fl": -3466,
+   "pk": 442
+  },
+  "Sinus Iridum": {
+   "d": 250
+  },
+  "Kepler": {
+   "d": 31,
+   "rh": 524,
+   "dp": 2388,
+   "fl": -2826
+  },
+  "Gassendi": {
+   "d": 110,
+   "rh": 1080,
+   "dp": 1413,
+   "fl": -2312,
+   "pk": 495
+  },
+  "Aristarque": {
+   "d": 40,
+   "rh": 826,
+   "dp": 2936,
+   "fl": -3161
+  },
+  "Schickard": {
+   "d": 227,
+   "rh": 769,
+   "dp": 2171,
+   "fl": -1480
+  },
+  "Grimaldi": {
+   "d": 172,
+   "dp": 1458,
+   "fl": -1875
+  },
+  "Mare Humorum": {
+   "d": 390
+  },
+  "Mare Nubium": {
+   "d": 700
+  },
+  "Ératosthène": {
+   "d": 58,
+   "rh": 1037,
+   "dp": 2920,
+   "fl": -2926,
+   "pk": 607
+  },
+  "Atlas": {
+   "d": 87,
+   "rh": 1128,
+   "dp": 2329,
+   "fl": -2934
+  },
+  "Hercule": {
+   "d": 69,
+   "rh": 746,
+   "dp": 3217,
+   "fl": -4073,
+   "pk": 430
+  },
+  "Rupes Altai": {
+   "d": 500
+  },
+  "Maurolycus": {
+   "d": 114,
+   "rh": 589,
+   "dp": 3910,
+   "fl": -3812,
+   "pk": 366
+  },
+  "Bullialdus": {
+   "d": 61,
+   "rh": 742,
+   "dp": 3082,
+   "fl": -4609
+  },
+  "Schiller": {
+   "d": 70,
+   "dp": 1690,
+   "fl": -3463
+  },
+  "Cassini": {
+   "d": 57,
+   "rh": 699,
+   "dp": 406,
+   "fl": -2253,
+   "pk": 535
+  },
+  "Vallis Schröteri": {
+   "d": 160
+  },
+  "Cyrille": {
+   "d": 98,
+   "rh": 1056,
+   "dp": 2633,
+   "fl": -1518,
+   "pk": 306
+  },
+  "Catherine": {
+   "d": 100,
+   "rh": 176,
+   "dp": 2835,
+   "fl": -1663
+  },
+  "Eudoxe": {
+   "d": 67,
+   "rh": 623,
+   "dp": 3695,
+   "fl": -4231
+  },
+  "Albategnius": {
+   "d": 136,
+   "rh": 1412,
+   "dp": 3373,
+   "fl": -1654
+  },
+  "Mare Vaporum": {
+   "d": 240
+  },
+  "Cléomède": {
+   "d": 125,
+   "rh": 644,
+   "dp": 3178,
+   "fl": -3020,
+   "pk": 749
+  },
+  "Proclus": {
+   "d": 28,
+   "rh": 889,
+   "dp": 3358,
+   "fl": -2808
+  },
+  "Taruntius": {
+   "d": 56,
+   "rh": 465,
+   "dp": 970,
+   "fl": -2538
+  },
+  "Vendelinus": {
+   "d": 147,
+   "rh": 620,
+   "dp": 2361,
+   "fl": -2747
+  },
+  "Furnerius": {
+   "d": 135,
+   "rh": 1290,
+   "dp": 3198,
+   "fl": -2420,
+   "pk": 559
+  },
+  "Stevinus": {
+   "d": 75,
+   "rh": 934,
+   "dp": 3775,
+   "fl": -3032
+  },
+  "Vallis Rheita": {
+   "d": 450
+  },
+  "Piccolomini": {
+   "d": 88,
+   "rh": 1135,
+   "dp": 3541,
+   "fl": -1545,
+   "pk": 1221
+  },
+  "Fracastor": {
+   "d": 124
+  },
+  "Stöfler": {
+   "d": 126,
+   "rh": 392,
+   "dp": 2460,
+   "fl": -2820,
+   "pk": 310
+  },
+  "Walter": {
+   "d": 135,
+   "rh": 1406,
+   "dp": 3005,
+   "fl": -2348,
+   "pk": 1733
+  },
+  "Regiomontanus": {
+   "d": 110,
+   "rh": 1356,
+   "dp": 2062,
+   "fl": -1260
+  },
+  "Purbach": {
+   "d": 118,
+   "rh": 1471,
+   "dp": 2157,
+   "fl": -1304,
+   "pk": 365
+  },
+  "Deslandres": {
+   "d": 234,
+   "rh": 1162,
+   "dp": 1516,
+   "fl": -1340
+  },
+  "Pitatus": {
+   "d": 106,
+   "rh": 825,
+   "dp": 1148,
+   "fl": -2123
+  },
+  "Maginus": {
+   "d": 194,
+   "rh": 1066,
+   "dp": 3838,
+   "fl": -2838,
+   "pk": 411
+  },
+  "Moretus": {
+   "d": 114,
+   "rh": 1000,
+   "dp": 4336,
+   "fl": -3220,
+   "pk": 730
+  },
+  "Longomontanus": {
+   "d": 157,
+   "rh": 1433,
+   "dp": 4320,
+   "fl": -3196
+  },
+  "Wilhelm": {
+   "d": 106,
+   "rh": 734,
+   "dp": 2542,
+   "fl": -2276
+  },
+  "Mersenius": {
+   "d": 84,
+   "rh": 1049,
+   "dp": 2081,
+   "fl": -1970
+  },
+  "Bailly": {
+   "d": 300,
+   "rh": 2185,
+   "dp": 4273,
+   "fl": -1421,
+   "pk": 655
+  },
+  "Hévélius": {
+   "d": 115,
+   "rh": 882,
+   "dp": 1483,
+   "fl": -1348
+  },
+  "Riccioli": {
+   "d": 146,
+   "rh": 1417,
+   "dp": 1868,
+   "fl": -363,
+   "pk": 395
+  },
+  "Marius": {
+   "d": 41,
+   "rh": 316,
+   "dp": 1513,
+   "fl": -2340
+  },
+  "Lansberg": {
+   "d": 39,
+   "rh": 618,
+   "dp": 2618,
+   "fl": -3099,
+   "pk": 412
+  },
+  "Reinhold": {
+   "d": 42,
+   "rh": 573,
+   "dp": 2826,
+   "fl": -2991
+  },
+  "Fra Mauro": {
+   "d": 95,
+   "rh": 344,
+   "dp": 553,
+   "fl": -1570
+  },
+  "Hérodote": {
+   "d": 35,
+   "rh": 584,
+   "dp": 949,
+   "fl": -1093
+  },
+  "Montes Recti": {
+   "d": 90
+  },
+  "Aristillus": {
+   "d": 55,
+   "rh": 1012,
+   "dp": 3163,
+   "fl": -4441,
+   "pk": 426
+  },
+  "Autolycus": {
+   "d": 39,
+   "rh": 685,
+   "dp": 3178,
+   "fl": -4475
+  },
+  "Timocharis": {
+   "d": 33,
+   "rh": 570,
+   "dp": 2549,
+   "fl": -4080
+  },
+  "Euler": {
+   "d": 27,
+   "rh": 417,
+   "dp": 1796,
+   "fl": -2654
+  },
+  "Pythagore": {
+   "d": 142,
+   "rh": 1464,
+   "dp": 3980,
+   "fl": -3704,
+   "pk": 451
+  },
+  "Anaxagore": {
+   "d": 50,
+   "rh": 1312,
+   "dp": 3454,
+   "fl": -2473
+  },
+  "Endymion": {
+   "d": 125,
+   "rh": 1149,
+   "dp": 2896,
+   "fl": -2926
+  },
+  "Bürg": {
+   "d": 40,
+   "rh": 729,
+   "dp": 2590,
+   "fl": -3691,
+   "pk": 323
+  },
+  "Jules César": {
+   "d": 90,
+   "rh": 882,
+   "dp": 1145,
+   "fl": -787
+  },
+  "Manilius": {
+   "d": 39,
+   "rh": 684,
+   "dp": 2501,
+   "fl": -2777
+  },
+  "Ménélas": {
+   "d": 26,
+   "rh": 691,
+   "dp": 2322,
+   "fl": -3991
+  },
+  "Pline": {
+   "d": 43,
+   "rh": 587,
+   "dp": 2369,
+   "fl": -3613,
+   "pk": 394
+  },
+  "Le Monnier": {
+   "d": 61,
+   "rh": 60,
+   "dp": 948,
+   "fl": -2778
+  },
+  "Macrobe": {
+   "d": 64,
+   "rh": 1072,
+   "dp": 3655,
+   "fl": -3334
+  },
+  "Delambre": {
+   "d": 51,
+   "rh": 536,
+   "dp": 3013,
+   "fl": -2654
+  },
+  "Arago": {
+   "d": 26,
+   "rh": 330,
+   "dp": 1850,
+   "fl": -3378
+  },
+  "Abulféda": {
+   "d": 62,
+   "rh": 816,
+   "dp": 2479,
+   "fl": -699
+  },
+  "Werner": {
+   "d": 70,
+   "rh": 997,
+   "dp": 3986,
+   "fl": -2418
+  },
+  "Janssen": {
+   "d": 199,
+   "rh": 1078,
+   "dp": 2841,
+   "fl": -2421,
+   "pk": 944
+  },
+  "Mons Rümker": {
+   "d": 70,
+   "hh": 1056,
+   "st": -1424
+  },
+  "Oceanus Procellarum": {
+   "d": 2500
+  },
+  "Hyginus": {
+   "d": 9,
+   "dp": 671,
+   "fl": -1250
+  },
+  "Rima Ariadaeus": {
+   "d": 300
+  },
+  "Triesnecker": {
+   "d": 26,
+   "rh": 469,
+   "dp": 1926,
+   "fl": -2203
+  },
+  "Rima Hadley": {
+   "d": 80
+  },
+  "Birt": {
+   "d": 17,
+   "rh": 537,
+   "dp": 2746,
+   "fl": -4203
+  },
+  "Rimae Sirsalis": {
+   "d": 400
+  },
+  "Vallis Snellius": {
+   "d": 600
+  },
+  "Cauchy": {
+   "d": 12,
+   "rh": 341,
+   "dp": 2016,
+   "fl": -2209
+  },
+  "Catena Davy": {
+   "d": 50
+  },
+  "Lamont": {
+   "d": 80
+  },
+  "Kies": {
+   "d": 45
+  },
+  "Gruithuisen Gamma": {
+   "d": 20
+  },
+  "Hortensius": {
+   "d": 15,
+   "rh": 445,
+   "dp": 2339,
+   "fl": -2700
+  },
+  "Wargentin": {
+   "d": 84
+  },
+  "Sirsalis": {
+   "d": 42,
+   "rh": 751,
+   "dp": 3228,
+   "fl": -2840,
+   "pk": 507
+  },
+  "Flamsteed": {
+   "d": 20,
+   "rh": 262,
+   "dp": 1635,
+   "fl": -3301
+  },
+  "Letronne": {
+   "d": 120
+  },
+  "Billy": {
+   "d": 46,
+   "rh": 508,
+   "dp": 982,
+   "fl": -2392
+  },
+  "Crüger": {
+   "d": 45,
+   "rh": 242,
+   "dp": 535,
+   "fl": -1720
+  },
+  "Prinz": {
+   "d": 46
+  },
+  "Lambert": {
+   "d": 30,
+   "rh": 470,
+   "dp": 2139,
+   "fl": -3420
+  },
+  "Pytheas": {
+   "d": 20,
+   "rh": 456,
+   "dp": 1867,
+   "fl": -2977
+  },
+  "Lalande": {
+   "d": 24,
+   "rh": 572,
+   "dp": 2129,
+   "fl": -2479
+  },
+  "Mösting": {
+   "d": 25,
+   "rh": 410,
+   "dp": 2241,
+   "fl": -2753
+  },
+  "Herschel": {
+   "d": 41,
+   "rh": 703,
+   "dp": 3132,
+   "fl": -1656
+  },
+  "Flammarion": {
+   "d": 75,
+   "rh": 549,
+   "dp": 728,
+   "fl": -540
+  },
+  "Bode": {
+   "d": 18,
+   "rh": 637,
+   "dp": 2509,
+   "fl": -2062
+  },
+  "Pallas": {
+   "d": 50,
+   "rh": 700,
+   "dp": 1305,
+   "fl": -896,
+   "pk": 392
+  },
+  "Agrippa": {
+   "d": 44,
+   "rh": 949,
+   "dp": 2764,
+   "fl": -1862,
+   "pk": 343
+  },
+  "Godin": {
+   "d": 34,
+   "rh": 388,
+   "dp": 2638,
+   "fl": -1611
+  },
+  "Dionysius": {
+   "d": 18,
+   "rh": 382,
+   "dp": 2570,
+   "fl": -2569
+  },
+  "Maskelyne": {
+   "d": 23,
+   "rh": 231,
+   "dp": 1952,
+   "fl": -3383
+  },
+  "Censorinus": {
+   "d": 4
+  },
+  "Capella": {
+   "d": 49,
+   "rh": 1292,
+   "dp": 2475,
+   "fl": -2603,
+   "pk": 508
+  },
+  "Torricelli": {
+   "d": 22,
+   "rh": 301,
+   "dp": 1818,
+   "fl": -3934
+  },
+  "Goclenius": {
+   "d": 72,
+   "rh": 391,
+   "dp": 1660,
+   "fl": -2586,
+   "pk": 364
+  },
+  "Gutenberg": {
+   "d": 74,
+   "rh": 1036,
+   "dp": 1651,
+   "fl": -2289
+  },
+  "Colombo": {
+   "d": 76,
+   "rh": 722,
+   "dp": 2701,
+   "fl": -2343,
+   "pk": 348
+  },
+  "Rosse": {
+   "d": 12,
+   "rh": 351,
+   "dp": 1970,
+   "fl": -4247
+  },
+  "Beaumont": {
+   "d": 53,
+   "rh": 805,
+   "dp": 1150,
+   "fl": -2435
+  },
+  "Sacrobosco": {
+   "d": 98,
+   "rh": 465,
+   "dp": 2657,
+   "fl": -1310,
+   "pk": 610
+  },
+  "Apianus": {
+   "d": 63,
+   "rh": 1227,
+   "dp": 2426,
+   "fl": -1092
+  },
+  "Aliacensis": {
+   "d": 79,
+   "rh": 618,
+   "dp": 3652,
+   "fl": -2722
+  },
+  "Blanchinus": {
+   "d": 68,
+   "rh": 89,
+   "dp": 1717,
+   "fl": -1393
+  },
+  "La Caille": {
+   "d": 68,
+   "rh": 1151,
+   "dp": 1737,
+   "fl": -683
+  },
+  "Thebit": {
+   "d": 57,
+   "rh": 826,
+   "dp": 2472,
+   "fl": -2087
+  },
+  "Alpetragius": {
+   "d": 39,
+   "rh": 709,
+   "dp": 2104,
+   "fl": -2582,
+   "pk": 681
+  },
+  "Lassell": {
+   "d": 23,
+   "rh": 328,
+   "dp": 599,
+   "fl": -2080
+  },
+  "Hell": {
+   "d": 33,
+   "rh": 602,
+   "dp": 1756,
+   "fl": -2473
+  },
+  "Cichus": {
+   "d": 40,
+   "rh": 1087,
+   "dp": 3193,
+   "fl": -2869
+  },
+  "Heinsius": {
+   "d": 64,
+   "rh": 66,
+   "dp": 2240,
+   "fl": -2950
+  },
+  "Hainzel": {
+   "d": 70,
+   "rh": 1010,
+   "dp": 3093,
+   "fl": -2216,
+   "pk": 807
+  },
+  "Capuanus": {
+   "d": 60,
+   "rh": 1739,
+   "dp": 1452,
+   "fl": -1080
+  },
+  "Ramsden": {
+   "d": 25,
+   "rh": 435,
+   "dp": 1435,
+   "fl": -2121
+  },
+  "Vitello": {
+   "d": 42,
+   "rh": 756,
+   "dp": 1547,
+   "fl": -1997
+  },
+  "Doppelmayer": {
+   "d": 64
+  },
+  "Mercator": {
+   "d": 47,
+   "rh": 986,
+   "dp": 1667,
+   "fl": -1981
+  },
+  "Campanus": {
+   "d": 48,
+   "rh": 511,
+   "dp": 2001,
+   "fl": -2904
+  },
+  "Agatharchides": {
+   "d": 49,
+   "rh": 360,
+   "dp": 699,
+   "fl": -2355
+  },
+  "Opelt": {
+   "d": 48
+  },
+  "Guericke": {
+   "d": 63,
+   "rh": 315,
+   "dp": 438,
+   "fl": -1925
+  },
+  "Parry": {
+   "d": 47,
+   "rh": 681,
+   "dp": 685,
+   "fl": -1495
+  },
+  "Bonpland": {
+   "d": 60
+  },
+  "Gambart": {
+   "d": 25,
+   "rh": 326,
+   "dp": 746,
+   "fl": -1515
+  },
+  "Stadius": {
+   "d": 69
+  },
+  "Piazzi Smyth": {
+   "d": 13,
+   "rh": 419,
+   "dp": 2226,
+   "fl": -4324
+  },
+  "Kirch": {
+   "d": 11,
+   "rh": 241,
+   "dp": 1495,
+   "fl": -3758
+  },
+  "Helicon": {
+   "d": 24,
+   "rh": 133,
+   "dp": 1660,
+   "fl": -3987
+  },
+  "Le Verrier": {
+   "d": 20,
+   "rh": 264,
+   "dp": 1729,
+   "fl": -3830
+  },
+  "Delisle": {
+   "d": 25,
+   "rh": 483,
+   "dp": 2144,
+   "fl": -3395
+  },
+  "Diophantus": {
+   "d": 17,
+   "rh": 543,
+   "dp": 2755,
+   "fl": -3588
+  },
+  "Bianchini": {
+   "d": 38,
+   "rh": 1280,
+   "dp": 2742,
+   "fl": -2425
+  },
+  "Sharp": {
+   "d": 39,
+   "rh": 847,
+   "dp": 2784,
+   "fl": -2521
+  },
+  "J. Herschel": {
+   "d": 165,
+   "rh": 660,
+   "dp": 1074,
+   "fl": -2084
+  },
+  "Philolaus": {
+   "d": 70,
+   "rh": 945,
+   "dp": 3368,
+   "fl": -3162,
+   "pk": 883
+  },
+  "W. Bond": {
+   "d": 156
+  },
+  "Egede": {
+   "d": 37,
+   "rh": 208,
+   "dp": 258,
+   "fl": -2740
+  },
+  "Alexander": {
+   "d": 82,
+   "rh": 1482,
+   "dp": 1925,
+   "fl": -2090
+  },
+  "Calippus": {
+   "d": 32,
+   "rh": 211,
+   "dp": 2478,
+   "fl": -2120
+  },
+  "Linné": {
+   "d": 2
+  },
+  "Bessel": {
+   "d": 15,
+   "rh": 374,
+   "dp": 1495,
+   "fl": -3618
+  },
+  "Valentine": {
+   "d": 30
+  },
+  "Chacornac": {
+   "d": 51,
+   "rh": 941,
+   "dp": 1043,
+   "fl": -1358
+  },
+  "Römer": {
+   "d": 40,
+   "dp": 2765,
+   "fl": -3868,
+   "pk": 567
+  },
+  "Littrow": {
+   "d": 30,
+   "rh": 891,
+   "dp": 789,
+   "fl": -1345
+  },
+  "Vitruvius": {
+   "d": 29,
+   "rh": 230,
+   "dp": 1719,
+   "fl": -2889
+  },
+  "Mons Argaeus": {
+   "d": 50,
+   "hh": 1728,
+   "st": -614
+  },
+  "Franklin": {
+   "d": 56,
+   "rh": 671,
+   "dp": 2323,
+   "fl": -2927
+  },
+  "Cepheus": {
+   "d": 40,
+   "rh": 488,
+   "dp": 3025,
+   "fl": -3951
+  },
+  "Geminus": {
+   "d": 85,
+   "rh": 1001,
+   "dp": 3764,
+   "fl": -3817
+  },
+  "Messala": {
+   "d": 125,
+   "rh": 954,
+   "dp": 1626,
+   "fl": -2033,
+   "pk": 460
+  },
+  "Gauss": {
+   "d": 177,
+   "rh": 1010,
+   "dp": 2243,
+   "fl": -2266,
+   "pk": 992
+  },
+  "Picard": {
+   "d": 23,
+   "rh": 372,
+   "dp": 1944,
+   "fl": -5167
+  },
+  "Peirce": {
+   "d": 18,
+   "rh": 332,
+   "dp": 1676,
+   "fl": -4833
+  },
+  "Firmicus": {
+   "d": 56,
+   "rh": 613,
+   "dp": 1891,
+   "fl": -1906
+  },
+  "Apollonius": {
+   "d": 53,
+   "rh": 992,
+   "dp": 2560,
+   "fl": -2266
+  },
+  "Snellius": {
+   "d": 83,
+   "rh": 554,
+   "dp": 3711,
+   "fl": -3388,
+   "pk": 559
+  },
+  "Humboldt": {
+   "d": 189,
+   "rh": 1042,
+   "dp": 3119,
+   "fl": -3217,
+   "pk": 1465
+  },
+  "Fabricius": {
+   "d": 78,
+   "rh": 1128,
+   "dp": 3356,
+   "fl": -3334,
+   "pk": 634
+  },
+  "Metius": {
+   "d": 87,
+   "rh": 1101,
+   "dp": 3685,
+   "fl": -2515
+  },
+  "Rheita": {
+   "d": 70,
+   "dp": 3488,
+   "fl": -3680
+  },
+  "Curtius": {
+   "d": 95,
+   "rh": 943,
+   "dp": 4103,
+   "fl": -2358
+  },
+  "Blancanus": {
+   "d": 105,
+   "rh": 1041,
+   "dp": 4263,
+   "fl": -3576,
+   "pk": 423
+  },
+  "Scheiner": {
+   "d": 110,
+   "rh": 1099,
+   "dp": 3797,
+   "fl": -3208,
+   "pk": 557
+  },
+  "Phocylides": {
+   "d": 121,
+   "rh": 847,
+   "dp": 2741,
+   "fl": -1540
+  },
+  "Inghirami": {
+   "d": 91,
+   "rh": 838,
+   "dp": 2924,
+   "fl": -1581
+  },
+  "Hansteen": {
+   "d": 45,
+   "rh": 634,
+   "dp": 991,
+   "fl": -2137
+  },
+  "Cavalerius": {
+   "d": 57,
+   "rh": 837,
+   "dp": 3468,
+   "fl": -3582
+  },
+  "Olbers": {
+   "d": 74,
+   "rh": 648,
+   "dp": 1957,
+   "fl": -2140
+  },
+  "Seleucus": {
+   "d": 43,
+   "rh": 417,
+   "dp": 2373,
+   "fl": -3975
+  },
+  "Briggs": {
+   "d": 37,
+   "rh": 542,
+   "dp": 650,
+   "fl": -2097
+  },
+  "Lichtenberg": {
+   "d": 20,
+   "rh": 425,
+   "dp": 1976,
+   "fl": -3789
+  },
+  "Condorcet": {
+   "d": 74,
+   "rh": 720,
+   "dp": 2558,
+   "fl": -2931
+  },
+  "Hahn": {
+   "d": 84,
+   "rh": 411,
+   "dp": 2967,
+   "fl": -3429,
+   "pk": 420
+  },
+  "Berosus": {
+   "d": 74,
+   "rh": 764,
+   "dp": 2785,
+   "fl": -3020
+  },
+  "Burckhardt": {
+   "d": 56,
+   "rh": 1119,
+   "dp": 3064,
+   "fl": -2517,
+   "pk": 419
+  },
+  "Dubyago": {
+   "d": 51,
+   "rh": 321,
+   "dp": 2608,
+   "fl": -2695
+  },
+  "Lamé": {
+   "d": 84,
+   "rh": 980,
+   "dp": 2670,
+   "fl": -2949,
+   "pk": 489
+  },
+  "Legendre": {
+   "d": 78,
+   "rh": 685,
+   "dp": 3028,
+   "fl": -2767,
+   "pk": 326
+  },
+  "Adams": {
+   "d": 66,
+   "rh": 972,
+   "dp": 4150,
+   "fl": -3794
+  },
+  "Hase": {
+   "d": 83,
+   "rh": 704,
+   "dp": 2441,
+   "fl": -2291,
+   "pk": 308
+  },
+  "Gilbert": {
+   "d": 112,
+   "rh": 845,
+   "dp": 2539,
+   "fl": -2465
+  },
+  "Kästner": {
+   "d": 108,
+   "rh": 418,
+   "dp": 1925,
+   "fl": -1937
+  },
+  "Hécatée": {
+   "d": 167,
+   "rh": 963,
+   "dp": 4530,
+   "fl": -4392
+  },
+  "Wrottesley": {
+   "d": 57,
+   "rh": 1059,
+   "dp": 3449,
+   "fl": -2798
+  },
+  "Vega": {
+   "d": 75,
+   "rh": 876,
+   "dp": 3422,
+   "fl": -3307
+  },
+  "Reichenbach": {
+   "d": 71,
+   "rh": 811,
+   "dp": 3227,
+   "fl": -2607
+  },
+  "Neander": {
+   "d": 50,
+   "rh": 733,
+   "dp": 2829,
+   "fl": -563,
+   "pk": 746
+  },
+  "Young": {
+   "d": 71,
+   "rh": 558,
+   "dp": 2628,
+   "fl": -2492
+  },
+  "Watt": {
+   "d": 66,
+   "rh": 554,
+   "dp": 2312,
+   "fl": -2949
+  },
+  "Steinheil": {
+   "d": 67,
+   "rh": 705,
+   "dp": 3956,
+   "fl": -3938
+  },
+  "Biela": {
+   "d": 76,
+   "rh": 951,
+   "dp": 3788,
+   "fl": -4120
+  },
+  "Hagecius": {
+   "d": 76,
+   "rh": 452,
+   "dp": 3558,
+   "fl": -3637
+  },
+  "Rosenberger": {
+   "d": 95,
+   "rh": 577,
+   "dp": 2892,
+   "fl": -3289,
+   "pk": 561
+  },
+  "Nearch": {
+   "d": 75,
+   "rh": 580,
+   "dp": 3225,
+   "fl": -3480
+  },
+  "Vlacq": {
+   "d": 89,
+   "rh": 1043,
+   "dp": 3780,
+   "fl": -3737
+  },
+  "Hommel": {
+   "d": 126,
+   "rh": 1060,
+   "dp": 2898,
+   "fl": -2815,
+   "pk": 443
+  },
+  "Pitiscus": {
+   "d": 82,
+   "rh": 958,
+   "dp": 3631,
+   "fl": -3534,
+   "pk": 517
+  },
+  "Brenner": {
+   "d": 97,
+   "rh": 704,
+   "dp": 2909,
+   "fl": -1955
+  },
+  "Mallet": {
+   "d": 58,
+   "rh": 347,
+   "dp": 2578,
+   "fl": -2951,
+   "pk": 704
+  },
+  "Zagut": {
+   "d": 84,
+   "rh": 1539,
+   "dp": 2666,
+   "fl": 580
+  },
+  "Lindenau": {
+   "d": 53,
+   "rh": 795,
+   "dp": 3150,
+   "fl": -1815,
+   "pk": 354
+  },
+  "Rabbi Levi": {
+   "d": 81,
+   "rh": 1244,
+   "dp": 1924,
+   "fl": 42,
+   "pk": 338
+  },
+  "Riccius": {
+   "d": 71,
+   "rh": 641,
+   "dp": 2235,
+   "fl": -1019
+  },
+  "Büsching": {
+   "d": 52,
+   "rh": 299,
+   "dp": 1836,
+   "fl": -1353
+  },
+  "Buch": {
+   "d": 53,
+   "rh": 722,
+   "dp": 1400,
+   "fl": -559
+  },
+  "Gemma Frisius": {
+   "d": 87,
+   "rh": 345,
+   "dp": 3662,
+   "fl": -2947,
+   "pk": 311
+  },
+  "Nonius": {
+   "d": 69,
+   "rh": 843,
+   "dp": 2694,
+   "fl": -2581
+  },
+  "Kaiser": {
+   "d": 52,
+   "rh": 188,
+   "dp": 2050,
+   "fl": -2535
+  },
+  "Fernelius": {
+   "d": 65,
+   "rh": 486,
+   "dp": 2267,
+   "fl": -2616
+  },
+  "Wilkins": {
+   "d": 57,
+   "rh": 234,
+   "dp": 1671,
+   "fl": 480
+  },
+  "Pontanus": {
+   "d": 57,
+   "rh": 760,
+   "dp": 2096,
+   "fl": -463
+  },
+  "Parrot": {
+   "d": 70,
+   "rh": 772,
+   "dp": 1486,
+   "fl": -797,
+   "pk": 396
+  },
+  "Lade": {
+   "d": 55,
+   "rh": 430,
+   "dp": 900,
+   "fl": -260
+  },
+  "Murchison": {
+   "d": 57,
+   "rh": 660,
+   "dp": 1000,
+   "fl": -973
+  },
+  "Réaumur": {
+   "d": 52,
+   "rh": 415,
+   "dp": 708,
+   "fl": -575
+  },
+  "Barocius": {
+   "d": 82,
+   "rh": 665,
+   "dp": 2984,
+   "fl": -3248
+  },
+  "Clairaut": {
+   "d": 75,
+   "rh": 338,
+   "dp": 2754,
+   "fl": -3044,
+   "pk": 600
+  },
+  "Cuvier": {
+   "d": 75,
+   "rh": 984,
+   "dp": 3181,
+   "fl": -3008
+  },
+  "Héraclite": {
+   "d": 90,
+   "rh": 1260,
+   "dp": 2033,
+   "fl": -1823,
+   "pk": 617
+  },
+  "Licetus": {
+   "d": 74,
+   "rh": 778,
+   "dp": 3350,
+   "fl": -3512
+  },
+  "Zach": {
+   "d": 70,
+   "rh": 543,
+   "dp": 3635,
+   "fl": -3418
+  },
+  "Lilius": {
+   "d": 61,
+   "rh": 415,
+   "dp": 2901,
+   "fl": -2912,
+   "pk": 387
+  },
+  "Jacobi": {
+   "d": 68,
+   "rh": 1047,
+   "dp": 3386,
+   "fl": -3343
+  },
+  "Pentland": {
+   "d": 56,
+   "rh": 326,
+   "dp": 3019,
+   "fl": -2178,
+   "pk": 545
+  },
+  "Faraday": {
+   "d": 69,
+   "rh": 262,
+   "dp": 2908,
+   "fl": -3300
+  },
+  "Miller": {
+   "d": 61,
+   "rh": 591,
+   "dp": 3305,
+   "fl": -3190
+  },
+  "Nasireddin": {
+   "d": 52,
+   "rh": 1276,
+   "dp": 2876,
+   "fl": -2620
+  },
+  "Huggins": {
+   "d": 65,
+   "rh": 351,
+   "dp": 2310,
+   "fl": -3160
+  },
+  "Orontius": {
+   "d": 105,
+   "rh": 271,
+   "dp": 2748,
+   "fl": -3034
+  },
+  "Saussure": {
+   "d": 54,
+   "dp": 2758,
+   "fl": -3361
+  },
+  "Lexell": {
+   "d": 62,
+   "rh": 108,
+   "dp": 1346,
+   "fl": -1917
+  },
+  "Sasserides": {
+   "d": 90,
+   "rh": 231,
+   "dp": 1895,
+   "fl": -1861
+  },
+  "Pictet": {
+   "d": 62,
+   "rh": 354,
+   "dp": 2456,
+   "fl": -2077
+  },
+  "Street": {
+   "d": 57,
+   "rh": 57,
+   "dp": 1991,
+   "fl": -1460
+  },
+  "Porter": {
+   "d": 51,
+   "rh": 301,
+   "dp": 2288,
+   "fl": -2284
+  },
+  "Gruemberger": {
+   "d": 93,
+   "rh": 704,
+   "dp": 3867,
+   "fl": -3789
+  },
+  "Gauricus": {
+   "d": 79,
+   "rh": 968,
+   "dp": 2108,
+   "fl": -1881
+  },
+  "Wurzelbauer": {
+   "d": 88,
+   "rh": 948,
+   "dp": 1221,
+   "fl": -1574
+  },
+  "Weiss": {
+   "d": 66,
+   "rh": 560,
+   "dp": 832,
+   "fl": -1609
+  },
+  "Lagalla": {
+   "d": 85,
+   "rh": 291,
+   "dp": 963,
+   "fl": -980,
+   "pk": 415
+  },
+  "Montanari": {
+   "d": 76,
+   "rh": 1138,
+   "dp": 1634,
+   "fl": -907,
+   "pk": 568
+  },
+  "Mee": {
+   "d": 126,
+   "rh": 902,
+   "dp": 2437,
+   "fl": -2146,
+   "pk": 770
+  },
+  "Zucchius": {
+   "d": 64,
+   "rh": 1155,
+   "dp": 4057,
+   "fl": -2872,
+   "pk": 342
+  },
+  "Segner": {
+   "d": 67,
+   "rh": 378,
+   "dp": 1058,
+   "fl": -2061
+  },
+  "Bettinus": {
+   "d": 71,
+   "rh": 812,
+   "dp": 3547,
+   "fl": -2371
+  },
+  "Kircher": {
+   "d": 72,
+   "rh": 1252,
+   "dp": 3611,
+   "fl": -2313
+  },
+  "Wilson": {
+   "d": 69,
+   "rh": 786,
+   "dp": 2706,
+   "fl": -2242
+  },
+  "Casatus": {
+   "d": 108,
+   "rh": 1577,
+   "dp": 3293,
+   "fl": -2360
+  },
+  "Klaproth": {
+   "d": 119,
+   "rh": 1016,
+   "dp": 2145,
+   "fl": -1736
+  },
+  "Manzinus": {
+   "d": 98,
+   "rh": 907,
+   "dp": 3995,
+   "fl": -2382
+  },
+  "Mutus": {
+   "d": 77,
+   "rh": 1016,
+   "dp": 3389,
+   "fl": -1931,
+   "pk": 436
+  },
+  "Boguslawsky": {
+   "d": 97,
+   "rh": 1643,
+   "dp": 4032,
+   "fl": -880
+  },
+  "Simpelius": {
+   "d": 70,
+   "rh": 1310,
+   "dp": 4115,
+   "fl": -515
+  },
+  "Newton": {
+   "d": 78,
+   "rh": 192,
+   "dp": 3330,
+   "fl": -3164,
+   "pk": 1346
+  },
+  "Short": {
+   "d": 70,
+   "rh": 80,
+   "dp": 3284,
+   "fl": -2060
+  },
+  "Cabeus": {
+   "d": 98,
+   "rh": 1051,
+   "dp": 3509,
+   "fl": -3178
+  },
+  "Malapert": {
+   "d": 69,
+   "rh": 984,
+   "dp": 2679,
+   "fl": -1579
+  },
+  "Schomberger": {
+   "d": 85,
+   "rh": 950,
+   "dp": 4549,
+   "fl": -1809,
+   "pk": 307
+  },
+  "Byrgius": {
+   "d": 87,
+   "rh": 628,
+   "dp": 2184,
+   "fl": -960
+  },
+  "Lamarck": {
+   "d": 100,
+   "rh": 552,
+   "dp": 1791,
+   "fl": -660
+  },
+  "Darwin": {
+   "d": 120,
+   "rh": 1163,
+   "dp": 1715,
+   "fl": -814
+  },
+  "Cavendish": {
+   "d": 56,
+   "rh": 1422,
+   "dp": 2410,
+   "fl": -1350
+  },
+  "Vieta": {
+   "d": 87,
+   "rh": 325,
+   "dp": 3445,
+   "fl": -2235,
+   "pk": 323
+  },
+  "Fourier": {
+   "d": 51,
+   "rh": 385,
+   "dp": 2867,
+   "fl": -2046
+  },
+  "Lehmann": {
+   "d": 53,
+   "rh": 578,
+   "dp": 1270,
+   "fl": -859
+  },
+  "Nasmyth": {
+   "d": 76,
+   "rh": 934,
+   "dp": 806,
+   "fl": 444
+  },
+  "Piazzi": {
+   "d": 134,
+   "rh": 709,
+   "dp": 2442,
+   "fl": -1968
+  },
+  "Lagrange": {
+   "d": 225,
+   "rh": 425,
+   "dp": 1491,
+   "fl": -634,
+   "pk": 470
+  },
+  "Hippalus": {
+   "d": 57
+  },
+  "Rocca": {
+   "d": 89,
+   "rh": 958,
+   "dp": 2667,
+   "fl": -687
+  },
+  "Hedin": {
+   "d": 150,
+   "rh": 1286,
+   "dp": 1593,
+   "fl": -503,
+   "pk": 518
+  },
+  "Krafft": {
+   "d": 51,
+   "rh": 857,
+   "dp": 3240,
+   "fl": -4079,
+   "pk": 354
+  },
+  "Arnold": {
+   "d": 94,
+   "rh": 506,
+   "dp": 1296,
+   "fl": -2028
+  },
+  "Baillaud": {
+   "d": 89,
+   "rh": 655,
+   "dp": 1151,
+   "fl": -1204,
+   "pk": 463
+  },
+  "Barrow": {
+   "d": 92,
+   "rh": 1257,
+   "dp": 1803,
+   "fl": -1344
+  },
+  "Goldschmidt": {
+   "d": 113,
+   "rh": 1165,
+   "dp": 1775,
+   "fl": -1320
+  },
+  "Épigène": {
+   "d": 55,
+   "rh": 536,
+   "dp": 1995,
+   "fl": -2561
+  },
+  "Babbage": {
+   "d": 143,
+   "rh": 719,
+   "dp": 1155,
+   "fl": -1793,
+   "pk": 772
+  },
+  "Anaximène": {
+   "d": 80,
+   "rh": 793,
+   "dp": 1308,
+   "fl": -1256
+  },
+  "Œnopide": {
+   "d": 67,
+   "rh": 769,
+   "dp": 1262,
+   "fl": -2240
+  },
+  "De La Rue": {
+   "d": 134,
+   "rh": 991,
+   "dp": 1297,
+   "fl": -1540,
+   "pk": 480
+  },
+  "Strabon": {
+   "d": 55,
+   "rh": 817,
+   "dp": 2937,
+   "fl": -2822
+  },
+  "Mercurius": {
+   "d": 67,
+   "rh": 968,
+   "dp": 3257,
+   "fl": -2831
+  },
+  "Schumacher": {
+   "d": 60,
+   "rh": 551,
+   "dp": 1280,
+   "fl": -2259
+  },
+  "Zénon": {
+   "d": 65,
+   "rh": 564,
+   "dp": 3065,
+   "fl": -3363
+  },
+  "Chevallier": {
+   "d": 52,
+   "rh": 378,
+   "dp": 529,
+   "fl": -1847
+  },
+  "Berzelius": {
+   "d": 50,
+   "rh": 477,
+   "dp": 1014,
+   "fl": -1794
+  },
+  "Dawes": {
+   "d": 18,
+   "rh": 446,
+   "dp": 1940,
+   "fl": -3684
+  },
+  "Maclear": {
+   "d": 20,
+   "rh": 218,
+   "dp": 460,
+   "fl": -1800
+  },
+  "Sosigenes": {
+   "d": 17,
+   "rh": 496,
+   "dp": 1513,
+   "fl": -1765
+  },
+  "Sulpicius Gallus": {
+   "d": 12,
+   "rh": 305,
+   "dp": 1732,
+   "fl": -3839
+  },
+  "Boscovich": {
+   "d": 46,
+   "rh": 309,
+   "dp": 1071,
+   "fl": -1525
+  },
+  "Pickering": {
+   "d": 15,
+   "rh": 758,
+   "dp": 2713,
+   "fl": -1604
+  },
+  "Theon Senior": {
+   "d": 17,
+   "rh": 612,
+   "dp": 3096,
+   "fl": -3128
+  },
+  "Theon Junior": {
+   "d": 17,
+   "rh": 332,
+   "dp": 2754,
+   "fl": -1904
+  },
+  "Cayley": {
+   "d": 14,
+   "rh": 449,
+   "dp": 2471,
+   "fl": -2392
+  },
+  "Ritter": {
+   "d": 29,
+   "rh": 466,
+   "dp": 1059,
+   "fl": -1420
+  },
+  "Sabine": {
+   "d": 30,
+   "rh": 484,
+   "dp": 1092,
+   "fl": -1555
+  },
+  "Schmidt": {
+   "d": 11,
+   "rh": 322,
+   "dp": 2010,
+   "fl": -2658
+  },
+  "Silberschlag": {
+   "d": 13,
+   "rh": 374,
+   "dp": 2219,
+   "fl": -2003
+  },
+  "Rhaeticus": {
+   "d": 45,
+   "rh": 958,
+   "dp": 1010,
+   "fl": 192
+  },
+  "Ukert": {
+   "d": 23,
+   "rh": 1013,
+   "dp": 2309,
+   "fl": -1339
+  },
+  "Schröter": {
+   "d": 35,
+   "rh": 308,
+   "dp": 580,
+   "fl": -970
+  },
+  "Hind": {
+   "d": 29,
+   "rh": 789,
+   "dp": 2280,
+   "fl": 314
+  },
+  "Halley": {
+   "d": 36,
+   "rh": 86,
+   "dp": 2031,
+   "fl": 333
+  },
+  "Horrocks": {
+   "d": 30,
+   "rh": 398,
+   "dp": 2455,
+   "fl": -2034
+  },
+  "Saunder": {
+   "d": 44,
+   "rh": 326,
+   "dp": 538,
+   "fl": 65
+  },
+  "Spörer": {
+   "d": 28,
+   "rh": 241,
+   "dp": 447,
+   "fl": -6
+  },
+  "Taylor": {
+   "d": 42,
+   "rh": 1119,
+   "dp": 2446,
+   "fl": -1034,
+   "pk": 441
+  },
+  "Zöllner": {
+   "d": 47,
+   "rh": 368,
+   "dp": 1841,
+   "fl": 150
+  },
+  "Descartes": {
+   "d": 48,
+   "rh": 133,
+   "dp": 768,
+   "fl": 141
+  },
+  "Abenezra": {
+   "d": 43,
+   "rh": 569,
+   "dp": 3150,
+   "fl": -2631
+  },
+  "Azophi": {
+   "d": 48,
+   "rh": 824,
+   "dp": 3211,
+   "fl": -2066
+  },
+  "Geber": {
+   "d": 45,
+   "rh": 913,
+   "dp": 3238,
+   "fl": -2153
+  },
+  "Almanon": {
+   "d": 49,
+   "dp": 1850,
+   "fl": -1076
+  },
+  "Tacitus": {
+   "d": 40,
+   "rh": 743,
+   "dp": 3066,
+   "fl": -723
+  },
+  "Playfair": {
+   "d": 47,
+   "rh": 817,
+   "dp": 2510,
+   "fl": -1821
+  },
+  "Argelander": {
+   "d": 34,
+   "rh": 134,
+   "dp": 2073,
+   "fl": -2083
+  },
+  "Davy": {
+   "d": 35,
+   "rh": 569,
+   "dp": 762,
+   "fl": -1833
+  },
+  "Hesiodus": {
+   "d": 43,
+   "rh": 442,
+   "dp": 818,
+   "fl": -2240
+  },
+  "Nicollet": {
+   "d": 15,
+   "rh": 311,
+   "dp": 1714,
+   "fl": -3748
+  },
+  "Müller": {
+   "d": 24,
+   "rh": 195,
+   "dp": 1517,
+   "fl": -36
+  },
+  "Tobias Mayer": {
+   "d": 33,
+   "rh": 616,
+   "dp": 1404,
+   "fl": -1518
+  },
+  "Euclide": {
+   "d": 12,
+   "rh": 361,
+   "dp": 2142,
+   "fl": -3195
+  },
+  "Milichius": {
+   "d": 12,
+   "rh": 360,
+   "dp": 2260,
+   "fl": -2776
+  },
+  "Encke": {
+   "d": 28,
+   "rh": 273,
+   "dp": 619,
+   "fl": -1621
+  },
+  "Gay-Lussac": {
+   "d": 26,
+   "rh": 524,
+   "dp": 819,
+   "fl": -1456
+  },
+  "Beer": {
+   "d": 10,
+   "rh": 217,
+   "dp": 1359,
+   "fl": -3290
+  },
+  "Gruithuisen": {
+   "d": 16,
+   "rh": 355,
+   "dp": 1591,
+   "fl": -3257
+  },
+  "Maupertuis": {
+   "d": 46,
+   "rh": 600,
+   "dp": 1780,
+   "fl": -2560
+  },
+  "Foucault": {
+   "d": 23,
+   "rh": 508,
+   "dp": 2734,
+   "fl": -4788
+  },
+  "Fontenelle": {
+   "d": 38,
+   "rh": 505,
+   "dp": 1442,
+   "fl": -3220
+  },
+  "Mairan": {
+   "d": 40,
+   "rh": 832,
+   "dp": 2720,
+   "fl": -3381
+  },
+  "Harpalus": {
+   "d": 39,
+   "rh": 625,
+   "dp": 2833,
+   "fl": -4673
+  },
+  "Timée": {
+   "d": 33,
+   "rh": 534,
+   "dp": 1996,
+   "fl": -3471
+  },
+  "Archytas": {
+   "d": 32,
+   "rh": 580,
+   "dp": 2361,
+   "fl": -4145
+  },
+  "Protagoras": {
+   "d": 22,
+   "rh": 152,
+   "dp": 2030,
+   "fl": -4553
+  },
+  "Mitchell": {
+   "d": 31,
+   "rh": 511,
+   "dp": 1006,
+   "fl": -2719
+  },
+  "Grove": {
+   "d": 28,
+   "rh": 515,
+   "dp": 2321,
+   "fl": -3815
+  },
+  "Baily": {
+   "d": 27,
+   "rh": 388,
+   "dp": 603,
+   "fl": -2455
+  },
+  "Newcomb": {
+   "d": 41,
+   "rh": 757,
+   "dp": 2327,
+   "fl": -1897
+  },
+  "Williams": {
+   "d": 36,
+   "rh": 351,
+   "dp": 477,
+   "fl": -1972
+  },
+  "Mason": {
+   "d": 33,
+   "rh": 320,
+   "dp": 878,
+   "fl": -2081
+  },
+  "Plana": {
+   "d": 44,
+   "rh": 456,
+   "dp": 1053,
+   "fl": -2057
+  },
+  "Hall": {
+   "d": 39,
+   "rh": 183,
+   "dp": 570,
+   "fl": -1354
+  },
+  "Daniell": {
+   "d": 29,
+   "rh": 499,
+   "dp": 1387,
+   "fl": -2696
+  },
+  "Lyell": {
+   "d": 32,
+   "rh": 368,
+   "dp": 906,
+   "fl": -1446
+  },
+  "Maraldi": {
+   "d": 40,
+   "rh": 245,
+   "dp": 1085,
+   "fl": -1926
+  },
+  "Cameron": {
+   "d": 11,
+   "rh": 236,
+   "dp": 1538,
+   "fl": -3056
+  },
+  "Lawrence": {
+   "d": 24,
+   "rh": 209,
+   "dp": 633,
+   "fl": -1504
+  },
+  "Isidorus": {
+   "d": 42,
+   "rh": 1136,
+   "dp": 2258,
+   "fl": -2482
+  },
+  "Magelhaens": {
+   "d": 40,
+   "rh": 421,
+   "dp": 1890,
+   "fl": -2599
+  },
+  "Santbech": {
+   "d": 64,
+   "rh": 812,
+   "dp": 3414,
+   "fl": -3678
+  },
+  "Bohnenberger": {
+   "d": 33,
+   "rh": 630,
+   "dp": 894,
+   "fl": -2677
+  },
+  "Eimmart": {
+   "d": 46,
+   "rh": 727,
+   "dp": 3368,
+   "fl": -4922
+  },
+  "Lohrmann": {
+   "d": 30,
+   "rh": 904,
+   "dp": 1320,
+   "fl": -856
+  },
+  "Galilaei": {
+   "d": 15,
+   "rh": 348,
+   "dp": 1819,
+   "fl": -3111
+  },
+  "Lacus Mortis": {
+   "d": 151
+  },
+  "Lacus Bonitatis": {
+   "d": 92
+  },
+  "Lacus Felicitatis": {
+   "d": 90
+  },
+  "Lacus Gaudii": {
+   "d": 113
+  },
+  "Lacus Lenitatis": {
+   "d": 80
+  },
+  "Lacus Hiemalis": {
+   "d": 50
+  },
+  "Lacus Odii": {
+   "d": 70
+  },
+  "Lacus Doloris": {
+   "d": 110
+  },
+  "Lacus Excellentiae": {
+   "d": 184
+  },
+  "Lacus Timoris": {
+   "d": 117
+  },
+  "Lacus Perseverantiae": {
+   "d": 70
+  },
+  "Lacus Spei": {
+   "d": 80
+  },
+  "Lacus Temporis": {
+   "d": 117
+  },
+  "Lacus Aestatis": {
+   "d": 90
+  },
+  "Lacus Autumni": {
+   "d": 183
+  },
+  "Lacus Veris": {
+   "d": 396
+  },
+  "Sinus Amoris": {
+   "d": 130
+  },
+  "Sinus Asperitatis": {
+   "d": 206
+  },
+  "Sinus Concordiae": {
+   "d": 142
+  },
+  "Sinus Fidei": {
+   "d": 70
+  },
+  "Sinus Honoris": {
+   "d": 109
+  },
+  "Sinus Lunicus": {
+   "d": 126
+  },
+  "Sinus Roris": {
+   "d": 202
+  },
+  "Sinus Successus": {
+   "d": 132
+  },
+  "Palus Epidemiarum": {
+   "d": 286
+  },
+  "Palus Somni": {
+   "d": 143
+  },
+  "Promontorium Kelvin": {
+   "d": 50
+  },
+  "Promontorium Taenarium": {
+   "d": 70
+  },
+  "Promontorium Fresnel": {
+   "d": 20
+  },
+  "Promontorium Deville": {
+   "d": 20
+  },
+  "Promontorium Archerusia": {
+   "d": 10
+  },
+  "Rupes Cauchy": {
+   "d": 120
+  },
+  "Rupes Liebig": {
+   "d": 37
+  },
+  "Rupes Mercator": {
+   "d": 93
+  },
+  "Rupes Kelvin": {
+   "d": 78
+  },
+  "Rupes Toscanelli": {
+   "d": 70
+  },
+  "Mons Hadley": {
+   "d": 25,
+   "hh": 2634,
+   "st": 1735
+  },
+  "Mons Hadley Delta": {
+   "d": 15,
+   "hh": 1575,
+   "st": 1119
+  },
+  "Mons Bradley": {
+   "d": 30,
+   "hh": 2923,
+   "st": 3215
+  },
+  "Mons Huygens": {
+   "d": 40,
+   "hh": 3955,
+   "st": 2841
+  },
+  "Mons Ampère": {
+   "d": 30,
+   "hh": 737,
+   "st": 944
+  },
+  "Mons Wolff": {
+   "d": 35,
+   "hh": 2417,
+   "st": 1257
+  },
+  "Montes Archimedes": {
+   "d": 163
+  },
+  "Montes Agricola": {
+   "d": 141
+  },
+  "Mons Gruithuisen Delta": {
+   "d": 20,
+   "hh": 1787,
+   "st": -286
+  },
+  "Mons Vinogradov": {
+   "d": 25,
+   "hh": 943,
+   "st": -417
+  },
+  "Mons Delisle": {
+   "d": 30,
+   "hh": 798,
+   "st": -926
+  },
+  "Montes Riphaeus": {
+   "d": 189
+  },
+  "Montes Pyrenaeus": {
+   "d": 164
+  },
+  "Montes Secchi": {
+   "d": 50
+  },
+  "Montes Taurus": {
+   "d": 172
+  },
+  "Mons Penck": {
+   "d": 30,
+   "hh": 3228,
+   "st": 2171
+  },
+  "Mons Hansteen": {
+   "d": 30,
+   "hh": 884,
+   "st": -1056
+  },
+  "Mons Maraldi": {
+   "d": 15,
+   "hh": 916,
+   "st": -491
+  },
+  "Mont Blanc": {
+   "d": 25,
+   "hh": 1350,
+   "st": -437
+  },
+  "Montes Cordillera": {
+   "d": 574
+  },
+  "Montes Rook": {
+   "d": 791
+  },
+  "Rima Hyginus": {
+   "d": 219
+  },
+  "Rimae Triesnecker": {
+   "d": 215
+  },
+  "Rimae Bode": {
+   "d": 70
+  },
+  "Rima Bradley": {
+   "d": 161
+  },
+  "Rima Sharp": {
+   "d": 107
+  },
+  "Rimae Plato": {
+   "d": 87
+  },
+  "Rimae Archimedes": {
+   "d": 169
+  },
+  "Rimae Aristarchus": {
+   "d": 121
+  },
+  "Rima Marius": {
+   "d": 121
+  },
+  "Rima Cauchy": {
+   "d": 140
+  },
+  "Rimae Posidonius": {
+   "d": 70
+  },
+  "Rimae Menelaus": {
+   "d": 131
+  },
+  "Rimae Sulpicius Gallus": {
+   "d": 90
+  },
+  "Rimae Littrow": {
+   "d": 115
+  },
+  "Rimae Plinius": {
+   "d": 124
+  },
+  "Rimae Maclear": {
+   "d": 110
+  },
+  "Rimae Ritter": {
+   "d": 100
+  },
+  "Rimae Sosigenes": {
+   "d": 190
+  },
+  "Rimae Hypatia": {
+   "d": 206
+  },
+  "Rimae Gutenberg": {
+   "d": 330
+  },
+  "Rimae Goclenius": {
+   "d": 240
+  },
+  "Rimae Herigonius": {
+   "d": 100
+  },
+  "Rimae Gassendi": {
+   "d": 70
+  },
+  "Rimae Mersenius": {
+   "d": 84
+  },
+  "Rimae Doppelmayer": {
+   "d": 162
+  },
+  "Rimae Palmieri": {
+   "d": 150
+  },
+  "Rimae Liebig": {
+   "d": 140
+  },
+  "Rimae Ramsden": {
+   "d": 108
+  },
+  "Rimae Pitatus": {
+   "d": 94
+  },
+  "Rima Hesiodus": {
+   "d": 256
+  },
+  "Rimae Alphonsus": {
+   "d": 80
+  },
+  "Rimae Arzachel": {
+   "d": 50
+  },
+  "Rimae Parry": {
+   "d": 82
+  },
+  "Rimae Opelt": {
+   "d": 70
+  },
+  "Rimae Taruntius": {
+   "d": 25
+  },
+  "Rimae Apollonius": {
+   "d": 230
+  },
+  "Rimae Maestlin": {
+   "d": 80
+  },
+  "Rima Schröter": {
+   "d": 200
+  },
+  "Rimae Atlas": {
+   "d": 60
+  },
+  "Rimae Bürg": {
+   "d": 147
+  },
+  "Rimae Chacornac": {
+   "d": 120
+  },
+  "Rimae Daniell": {
+   "d": 200
+  },
+  "Rimae Römer": {
+   "d": 110
+  },
+  "Rima G. Bond": {
+   "d": 168
+  },
+  "Rimae Hevelius": {
+   "d": 182
+  },
+  "Rimae Grimaldi": {
+   "d": 230
+  },
+  "Rimae Zupus": {
+   "d": 120
+  },
+  "Rimae de Gasparis": {
+   "d": 93
+  },
+  "Rima Cardanus": {
+   "d": 175
+  },
+  "Dorsum Buckland": {
+   "d": 380
+  },
+  "Dorsum von Cotta": {
+   "d": 199
+  },
+  "Dorsum Zirkel": {
+   "d": 193
+  },
+  "Dorsum Heim": {
+   "d": 148
+  },
+  "Dorsa Lister": {
+   "d": 203
+  },
+  "Dorsa Aldrovandi": {
+   "d": 136
+  },
+  "Dorsa Barlow": {
+   "d": 120
+  },
+  "Dorsa Argand": {
+   "d": 109
+  },
+  "Dorsa Cato": {
+   "d": 140
+  },
+  "Dorsa Geikie": {
+   "d": 228
+  },
+  "Dorsum Oppel": {
+   "d": 268
+  },
+  "Dorsa Harker": {
+   "d": 197
+  },
+  "Dorsa Ewing": {
+   "d": 141
+  },
+  "Mare Anguis": {
+   "d": 150
+  },
+  "Mare Spumans": {
+   "d": 139
+  },
+  "Mare Undarum": {
+   "d": 243
+  },
+  "Mare Orientale": {
+   "d": 930
+  },
+  "Vallis Capella": {
+   "d": 49
+  },
+  "Vallis Palitzsch": {
+   "d": 132
+  },
+  "Vallis Inghirami": {
+   "d": 148
+  },
+  "Vallis Baade": {
+   "d": 203
+  },
+  "Mons Piton": {
+   "d": 25,
+   "hh": 2134,
+   "st": -584
+  },
+  "Mons Pico": {
+   "d": 25,
+   "hh": 2236,
+   "st": -574
+  },
+  "Mons La Hire": {
+   "d": 25,
+   "hh": 1335,
+   "st": -494
+  },
+  "Montes Alpes": {
+   "d": 281
+  },
+  "Montes Carpatus": {
+   "d": 361
+  },
+  "Montes Jura": {
+   "d": 422
+  },
+  "Montes Caucasus": {
+   "d": 444
+  },
+  "Montes Haemus": {
+   "d": 560
+  },
+  "Montes Teneriffe": {
+   "d": 112
+  },
+  "Montes Spitzbergen": {
+   "d": 60
+  },
+  "Montes Harbinger": {
+   "d": 90
+  },
+  "Mare Frigoris": {
+   "d": 1596
+  },
+  "Mare Cognitum": {
+   "d": 376
+  },
+  "Mare Insularum": {
+   "d": 513
+  },
+  "Mare Humboldtianum": {
+   "d": 273
+  },
+  "Mare Marginis": {
+   "d": 358
+  },
+  "Mare Smythii": {
+   "d": 373
+  },
+  "Sinus Medii": {
+   "d": 335
+  },
+  "Sinus Aestuum": {
+   "d": 290
+  },
+  "Palus Putredinis": {
+   "d": 161
+  },
+  "Lacus Somniorum": {
+   "d": 384
+  },
+  "Promontorium Laplace": {
+   "d": 50
+  },
+  "Promontorium Agarum": {
+   "d": 70
+  },
+  "Messier": {
+   "d": 11
+  }
+ }
+}

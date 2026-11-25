@@ -1,0 +1,341 @@
+{
+ "schema": "listes-v1",
+ "description": "Listes d'objets du ciel profond à cocher dans Paramètres : un fichier = un ensemble de listes de même origine. Chaque objet est cité par sa désignation (celle des catalogues : messier.json, classiques.json, doubles.json) ; `page` = numéro de page dans la source (0 ou absent si la liste n'en a pas ; `pages:false` pour une liste sans pages).",
+ "ensemble": {
+  "id": "ciel-au-telescope",
+  "titre": "Le Ciel au télescope – 110 observations essentielles à faire avec votre instrument",
+  "auteurs": "Carine Souplet et Bertrand d'Armagnac",
+  "editeur": "éditions Stelvision",
+  "annee": 2021,
+  "isbn": "978-2-9563417-4-1",
+  "url": "https://www.stelvision.com/astro/boutique/le-ciel-au-telescope/"
+ },
+ "libre": false,
+ "licence": "© éditions Stelvision et ses auteurs ; reprise des noms d'objets et des numéros de page avec leur accord écrit du 29 octobre 2026 ; hors licence GPL v3",
+ "avis": [
+  "LISTES SAISONNIÈRES de l'Assistant d'observation (Printemps, Été, Automne, Hiver).",
+  "Sélection, ordre et numéros de page tirés du livre « Le Ciel au télescope – 110 observations essentielles à faire avec votre instrument »",
+  "de Carine Souplet et Bertrand d'Armagnac, éditions Stelvision, 2021 (ISBN 978-2-9563417-4-1 ; https://www.stelvision.com/astro/boutique/le-ciel-au-telescope/).",
+  "Reprise avec l'aimable autorisation de l'éditeur et de ses auteurs ; seuls les noms des objets et les numéros de page sont repris.",
+  "Ce fichier n'est PAS couvert par la licence GNU GPL v3 du code de l'application : © éditions Stelvision et ses auteurs, tous droits réservés",
+  "hors l'autorisation donnée à l'application. Il peut être retiré sans que l'application cesse de fonctionner (les listes saisonnières disparaissent alors)."
+ ],
+ "listes": [
+  {
+   "id": "sp",
+   "nom": "Printemps",
+   "nom_complet": "Printemps (Le Ciel au télescope)",
+   "pages": true,
+   "objets": [
+    {
+     "objet": "M5",
+     "page": 88
+    },
+    {
+     "objet": "Picot 1",
+     "page": 90
+    },
+    {
+     "objet": "M81",
+     "page": 92
+    },
+    {
+     "objet": "M82",
+     "page": 92
+    },
+    {
+     "objet": "M53",
+     "page": 94
+    },
+    {
+     "objet": "M65",
+     "page": 96
+    },
+    {
+     "objet": "M66",
+     "page": 96
+    },
+    {
+     "objet": "NGC 3628",
+     "page": 96
+    },
+    {
+     "objet": "M94",
+     "page": 98
+    },
+    {
+     "objet": "M51",
+     "page": 100
+    },
+    {
+     "objet": "M97",
+     "page": 102
+    },
+    {
+     "objet": "M108",
+     "page": 102
+    },
+    {
+     "objet": "M98",
+     "page": 104
+    },
+    {
+     "objet": "M99",
+     "page": 104
+    },
+    {
+     "objet": "M100",
+     "page": 104
+    },
+    {
+     "objet": "M101",
+     "page": 106
+    },
+    {
+     "objet": "M3",
+     "page": 108
+    },
+    {
+     "objet": "M64",
+     "page": 110
+    },
+    {
+     "objet": "M63",
+     "page": 112
+    },
+    {
+     "objet": "M104",
+     "page": 114
+    },
+    {
+     "objet": "NGC 4565",
+     "page": 116
+    },
+    {
+     "objet": "M84",
+     "page": 118
+    },
+    {
+     "objet": "M86",
+     "page": 118
+    }
+   ]
+  },
+  {
+   "id": "se",
+   "nom": "Été",
+   "nom_complet": "Été (Le Ciel au télescope)",
+   "pages": true,
+   "objets": [
+    {
+     "objet": "β Cyg",
+     "page": 120
+    },
+    {
+     "objet": "ε¹ Lyr",
+     "page": 120
+    },
+    {
+     "objet": "ε² Lyr",
+     "page": 120
+    },
+    {
+     "objet": "M13",
+     "page": 122
+    },
+    {
+     "objet": "M8",
+     "page": 124
+    },
+    {
+     "objet": "Kemble 2",
+     "page": 126
+    },
+    {
+     "objet": "M57",
+     "page": 128
+    },
+    {
+     "objet": "M27",
+     "page": 130
+    },
+    {
+     "objet": "Calvet 1",
+     "page": 132
+    },
+    {
+     "objet": "M4",
+     "page": 134
+    },
+    {
+     "objet": "M11",
+     "page": 136
+    },
+    {
+     "objet": "M20",
+     "page": 138
+    },
+    {
+     "objet": "NGC 6960",
+     "page": 140
+    },
+    {
+     "objet": "NGC 6992",
+     "page": 140
+    },
+    {
+     "objet": "M92",
+     "page": 142
+    },
+    {
+     "objet": "M16",
+     "page": 144
+    },
+    {
+     "objet": "M17",
+     "page": 146
+    },
+    {
+     "objet": "NGC 6543",
+     "page": 148
+    }
+   ]
+  },
+  {
+   "id": "sa",
+   "nom": "Automne",
+   "nom_complet": "Automne (Le Ciel au télescope)",
+   "pages": true,
+   "objets": [
+    {
+     "objet": "M31",
+     "page": 150
+    },
+    {
+     "objet": "M32",
+     "page": 150
+    },
+    {
+     "objet": "M110",
+     "page": 150
+    },
+    {
+     "objet": "M34",
+     "page": 152
+    },
+    {
+     "objet": "NGC 869",
+     "page": 154
+    },
+    {
+     "objet": "NGC 884",
+     "page": 154
+    },
+    {
+     "objet": "M15",
+     "page": 156
+    },
+    {
+     "objet": "NGC 457",
+     "page": 158
+    },
+    {
+     "objet": "M52",
+     "page": 160
+    },
+    {
+     "objet": "NGC 7789",
+     "page": 162
+    },
+    {
+     "objet": "M2",
+     "page": 164
+    },
+    {
+     "objet": "NGC 752",
+     "page": 166
+    },
+    {
+     "objet": "NGC 1502",
+     "page": 168
+    },
+    {
+     "objet": "NGC 7009",
+     "page": 170
+    },
+    {
+     "objet": "NGC 7662",
+     "page": 172
+    }
+   ]
+  },
+  {
+   "id": "sh",
+   "nom": "Hiver",
+   "nom_complet": "Hiver (Le Ciel au télescope)",
+   "pages": true,
+   "objets": [
+    {
+     "objet": "M45",
+     "page": 174
+    },
+    {
+     "objet": "M42",
+     "page": 176
+    },
+    {
+     "objet": "M35",
+     "page": 178
+    },
+    {
+     "objet": "NGC 2158",
+     "page": 178
+    },
+    {
+     "objet": "NGC 2264",
+     "page": 180
+    },
+    {
+     "objet": "M41",
+     "page": 182
+    },
+    {
+     "objet": "M44",
+     "page": 184
+    },
+    {
+     "objet": "M38",
+     "page": 186
+    },
+    {
+     "objet": "M36",
+     "page": 188
+    },
+    {
+     "objet": "M37",
+     "page": 190
+    },
+    {
+     "objet": "NGC 2169",
+     "page": 192
+    },
+    {
+     "objet": "NGC 2392",
+     "page": 194
+    },
+    {
+     "objet": "M48",
+     "page": 196
+    },
+    {
+     "objet": "M67",
+     "page": 198
+    },
+    {
+     "objet": "NGC 2403",
+     "page": 200
+    }
+   ]
+  }
+ ]
+}

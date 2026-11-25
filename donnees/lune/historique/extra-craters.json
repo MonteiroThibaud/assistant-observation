@@ -1,0 +1,1714 @@
+{
+ "schema": "lune-extra-craters-v1",
+ "description": "Cratères ajoutés (positions et diamètres officiels de l'UAI et de l'USGS) sans mesure de relief : la description dit où chercher.",
+ "craters": [
+  {
+   "id": "lune:Abbot",
+   "nom": "Abbot",
+   "lon_deg": 54.74,
+   "lat_deg": 5.56,
+   "diametre_km": 10.4
+  },
+  {
+   "id": "lune:Acosta",
+   "nom": "Acosta",
+   "lon_deg": 60.14,
+   "lat_deg": -5.65,
+   "diametre_km": 13.1
+  },
+  {
+   "id": "lune:Aepinus",
+   "nom": "Aepinus",
+   "lon_deg": -109.69,
+   "lat_deg": 87.96,
+   "diametre_km": 16.7
+  },
+  {
+   "id": "lune:Al-Bakri",
+   "nom": "Al-Bakri",
+   "lon_deg": 20.25,
+   "lat_deg": 14.34,
+   "diametre_km": 12.2
+  },
+  {
+   "id": "lune:Alfraganus",
+   "nom": "Alfraganus",
+   "lon_deg": 18.97,
+   "lat_deg": -5.42,
+   "diametre_km": 20.5
+  },
+  {
+   "id": "lune:Al-Marrakushi",
+   "nom": "Al-Marrakushi",
+   "lon_deg": 55.77,
+   "lat_deg": -10.45,
+   "diametre_km": 8.6
+  },
+  {
+   "id": "lune:Ameghino",
+   "nom": "Ameghino",
+   "lon_deg": 57.04,
+   "lat_deg": 3.3,
+   "diametre_km": 9.2
+  },
+  {
+   "id": "lune:Ammonius",
+   "nom": "Ammonius",
+   "lon_deg": -0.83,
+   "lat_deg": -8.52,
+   "diametre_km": 8.6
+  },
+  {
+   "id": "lune:Andersson",
+   "nom": "Andersson",
+   "lon_deg": -95.46,
+   "lat_deg": -49.95,
+   "diametre_km": 13.4
+  },
+  {
+   "id": "lune:Angström",
+   "nom": "Angström",
+   "lon_deg": -41.67,
+   "lat_deg": 29.9,
+   "diametre_km": 9.6
+  },
+  {
+   "id": "lune:Anville",
+   "nom": "Anville",
+   "lon_deg": 49.51,
+   "lat_deg": 1.84,
+   "diametre_km": 10.3
+  },
+  {
+   "id": "lune:Aratus",
+   "nom": "Aratus",
+   "lon_deg": 4.51,
+   "lat_deg": 23.58,
+   "diametre_km": 10.2
+  },
+  {
+   "id": "lune:Ariadaeus",
+   "nom": "Ariadaeus",
+   "lon_deg": 17.28,
+   "lat_deg": 4.55,
+   "diametre_km": 10.4
+  },
+  {
+   "id": "lune:Armstrong",
+   "nom": "Armstrong",
+   "lon_deg": 24.94,
+   "lat_deg": 1.35,
+   "diametre_km": 4.2
+  },
+  {
+   "id": "lune:Artsimovich",
+   "nom": "Artsimovich",
+   "lon_deg": -36.63,
+   "lat_deg": 27.61,
+   "diametre_km": 8
+  },
+  {
+   "id": "lune:Aryabhata",
+   "nom": "Aryabhata",
+   "lon_deg": 35.17,
+   "lat_deg": 6.2,
+   "diametre_km": 21.9
+  },
+  {
+   "id": "lune:Asada",
+   "nom": "Asada",
+   "lon_deg": 49.9,
+   "lat_deg": 7.25,
+   "diametre_km": 12.4
+  },
+  {
+   "id": "lune:Atwood",
+   "nom": "Atwood",
+   "lon_deg": 57.78,
+   "lat_deg": -5.88,
+   "diametre_km": 28.6
+  },
+  {
+   "id": "lune:Auwers",
+   "nom": "Auwers",
+   "lon_deg": 17.12,
+   "lat_deg": 15,
+   "diametre_km": 19.6
+  },
+  {
+   "id": "lune:Avery",
+   "nom": "Avery",
+   "lon_deg": 81.37,
+   "lat_deg": -1.32,
+   "diametre_km": 10.7
+  },
+  {
+   "id": "lune:Bancroft",
+   "nom": "Bancroft",
+   "lon_deg": -6.43,
+   "lat_deg": 28.07,
+   "diametre_km": 12.5
+  },
+  {
+   "id": "lune:Banting",
+   "nom": "Banting",
+   "lon_deg": 16.43,
+   "lat_deg": 26.58,
+   "diametre_km": 5.2
+  },
+  {
+   "id": "lune:Beketov",
+   "nom": "Beketov",
+   "lon_deg": 29.18,
+   "lat_deg": 16.23,
+   "diametre_km": 8.3
+  },
+  {
+   "id": "lune:Béla",
+   "nom": "Béla",
+   "lon_deg": 2.27,
+   "lat_deg": 24.67,
+   "diametre_km": 10.1
+  },
+  {
+   "id": "lune:Bellot",
+   "nom": "Bellot",
+   "lon_deg": 48.19,
+   "lat_deg": -12.48,
+   "diametre_km": 17.5
+  },
+  {
+   "id": "lune:Bessarion",
+   "nom": "Bessarion",
+   "lon_deg": -37.31,
+   "lat_deg": 14.85,
+   "diametre_km": 9.8
+  },
+  {
+   "id": "lune:Biot",
+   "nom": "Biot",
+   "lon_deg": 51.08,
+   "lat_deg": -22.7,
+   "diametre_km": 13
+  },
+  {
+   "id": "lune:Black",
+   "nom": "Black",
+   "lon_deg": 80.39,
+   "lat_deg": -9.2,
+   "diametre_km": 19.5
+  },
+  {
+   "id": "lune:Blagg",
+   "nom": "Blagg",
+   "lon_deg": 1.46,
+   "lat_deg": 1.22,
+   "diametre_km": 5
+  },
+  {
+   "id": "lune:Bliss",
+   "nom": "Bliss",
+   "lon_deg": -13.78,
+   "lat_deg": 53.04,
+   "diametre_km": 22.9
+  },
+  {
+   "id": "lune:Bobillier",
+   "nom": "Bobillier",
+   "lon_deg": 15.44,
+   "lat_deg": 19.63,
+   "diametre_km": 6
+  },
+  {
+   "id": "lune:Boethius",
+   "nom": "Boethius",
+   "lon_deg": 72.33,
+   "lat_deg": 5.57,
+   "diametre_km": 11.2
+  },
+  {
+   "id": "lune:Bombelli",
+   "nom": "Bombelli",
+   "lon_deg": 56.19,
+   "lat_deg": 5.28,
+   "diametre_km": 9.7
+  },
+  {
+   "id": "lune:Borel",
+   "nom": "Borel",
+   "lon_deg": 26.42,
+   "lat_deg": 22.37,
+   "diametre_km": 4.7
+  },
+  {
+   "id": "lune:Born",
+   "nom": "Born",
+   "lon_deg": 66.83,
+   "lat_deg": -6.05,
+   "diametre_km": 15.1
+  },
+  {
+   "id": "lune:Bosch",
+   "nom": "Bosch",
+   "lon_deg": 133.54,
+   "lat_deg": 86.82,
+   "diametre_km": 19.6
+  },
+  {
+   "id": "lune:Bouguer",
+   "nom": "Bouguer",
+   "lon_deg": -35.82,
+   "lat_deg": 52.32,
+   "diametre_km": 22.2
+  },
+  {
+   "id": "lune:Bowen",
+   "nom": "Bowen",
+   "lon_deg": 9.1,
+   "lat_deg": 17.63,
+   "diametre_km": 8.1
+  },
+  {
+   "id": "lune:Brackett",
+   "nom": "Brackett",
+   "lon_deg": 23.54,
+   "lat_deg": 17.84,
+   "diametre_km": 8.9
+  },
+  {
+   "id": "lune:Brayley",
+   "nom": "Brayley",
+   "lon_deg": -36.94,
+   "lat_deg": 20.9,
+   "diametre_km": 14.2
+  },
+  {
+   "id": "lune:Brewster",
+   "nom": "Brewster",
+   "lon_deg": 34.69,
+   "lat_deg": 23.27,
+   "diametre_km": 9.8
+  },
+  {
+   "id": "lune:Bruce",
+   "nom": "Bruce",
+   "lon_deg": 0.37,
+   "lat_deg": 1.16,
+   "diametre_km": 6.1
+  },
+  {
+   "id": "lune:Burnham",
+   "nom": "Burnham",
+   "lon_deg": 7.25,
+   "lat_deg": -13.92,
+   "diametre_km": 24.1
+  },
+  {
+   "id": "lune:Cajal",
+   "nom": "Cajal",
+   "lon_deg": 31.08,
+   "lat_deg": 12.59,
+   "diametre_km": 8.6
+  },
+  {
+   "id": "lune:Carlini",
+   "nom": "Carlini",
+   "lon_deg": -24.12,
+   "lat_deg": 33.75,
+   "diametre_km": 10.7
+  },
+  {
+   "id": "lune:Carlos",
+   "nom": "Carlos",
+   "lon_deg": 2.28,
+   "lat_deg": 24.91,
+   "diametre_km": 4.7
+  },
+  {
+   "id": "lune:Carmichael",
+   "nom": "Carmichael",
+   "lon_deg": 40.36,
+   "lat_deg": 19.53,
+   "diametre_km": 19.7
+  },
+  {
+   "id": "lune:Carrel",
+   "nom": "Carrel",
+   "lon_deg": 26.68,
+   "lat_deg": 10.67,
+   "diametre_km": 15.6
+  },
+  {
+   "id": "lune:Carrillo",
+   "nom": "Carrillo",
+   "lon_deg": 80.96,
+   "lat_deg": -2.11,
+   "diametre_km": 17.9
+  },
+  {
+   "id": "lune:Carrington",
+   "nom": "Carrington",
+   "lon_deg": 62.04,
+   "lat_deg": 43.97,
+   "diametre_km": 27.8
+  },
+  {
+   "id": "lune:Cartan",
+   "nom": "Cartan",
+   "lon_deg": 59.29,
+   "lat_deg": 4.24,
+   "diametre_km": 15.6
+  },
+  {
+   "id": "lune:Catalán",
+   "nom": "Catalán",
+   "lon_deg": -87.37,
+   "lat_deg": -45.7,
+   "diametre_km": 26.8
+  },
+  {
+   "id": "lune:C. Herschel",
+   "nom": "C. Herschel",
+   "lon_deg": -31.29,
+   "lat_deg": 34.48,
+   "diametre_km": 13.7
+  },
+  {
+   "id": "lune:Ching-Te",
+   "nom": "Ching-Te",
+   "lon_deg": 29.97,
+   "lat_deg": 20.02,
+   "diametre_km": 3.7
+  },
+  {
+   "id": "lune:Chladni",
+   "nom": "Chladni",
+   "lon_deg": 1.12,
+   "lat_deg": 3.99,
+   "diametre_km": 13.1
+  },
+  {
+   "id": "lune:Clausius",
+   "nom": "Clausius",
+   "lon_deg": -43.93,
+   "lat_deg": -36.9,
+   "diametre_km": 24.2
+  },
+  {
+   "id": "lune:Clerke",
+   "nom": "Clerke",
+   "lon_deg": 29.8,
+   "lat_deg": 21.68,
+   "diametre_km": 6.7
+  },
+  {
+   "id": "lune:Conon",
+   "nom": "Conon",
+   "lon_deg": 1.95,
+   "lat_deg": 21.66,
+   "diametre_km": 21
+  },
+  {
+   "id": "lune:Couder",
+   "nom": "Couder",
+   "lon_deg": -92.58,
+   "lat_deg": -4.9,
+   "diametre_km": 18.6
+  },
+  {
+   "id": "lune:Crile",
+   "nom": "Crile",
+   "lon_deg": 45.98,
+   "lat_deg": 14.21,
+   "diametre_km": 9.3
+  },
+  {
+   "id": "lune:Crozier",
+   "nom": "Crozier",
+   "lon_deg": 50.72,
+   "lat_deg": -13.56,
+   "diametre_km": 22.5
+  },
+  {
+   "id": "lune:Dale",
+   "nom": "Dale",
+   "lon_deg": 82.93,
+   "lat_deg": -9.56,
+   "diametre_km": 23.4
+  },
+  {
+   "id": "lune:Daly",
+   "nom": "Daly",
+   "lon_deg": 59.5,
+   "lat_deg": 5.74,
+   "diametre_km": 15
+  },
+  {
+   "id": "lune:Darney",
+   "nom": "Darney",
+   "lon_deg": -23.57,
+   "lat_deg": -14.61,
+   "diametre_km": 14.8
+  },
+  {
+   "id": "lune:D'Arrest",
+   "nom": "D'Arrest",
+   "lon_deg": 14.6,
+   "lat_deg": 2.26,
+   "diametre_km": 29.7
+  },
+  {
+   "id": "lune:Daubrée",
+   "nom": "Daubrée",
+   "lon_deg": 14.75,
+   "lat_deg": 15.73,
+   "diametre_km": 14.7
+  },
+  {
+   "id": "lune:Dechen",
+   "nom": "Dechen",
+   "lon_deg": -68.18,
+   "lat_deg": 46.12,
+   "diametre_km": 12
+  },
+  {
+   "id": "lune:Dembowski",
+   "nom": "Dembowski",
+   "lon_deg": 7.27,
+   "lat_deg": 2.88,
+   "diametre_km": 26.1
+  },
+  {
+   "id": "lune:De Morgan",
+   "nom": "De Morgan",
+   "lon_deg": 14.89,
+   "lat_deg": 3.31,
+   "diametre_km": 9.7
+  },
+  {
+   "id": "lune:Deseilligny",
+   "nom": "Deseilligny",
+   "lon_deg": 20.59,
+   "lat_deg": 21.13,
+   "diametre_km": 6
+  },
+  {
+   "id": "lune:De Vico",
+   "nom": "De Vico",
+   "lon_deg": -60.32,
+   "lat_deg": -19.71,
+   "diametre_km": 22.1
+  },
+  {
+   "id": "lune:Dollond",
+   "nom": "Dollond",
+   "lon_deg": 14.41,
+   "lat_deg": -10.48,
+   "diametre_km": 11
+  },
+  {
+   "id": "lune:Draper",
+   "nom": "Draper",
+   "lon_deg": -21.75,
+   "lat_deg": 17.56,
+   "diametre_km": 8.3
+  },
+  {
+   "id": "lune:Drude",
+   "nom": "Drude",
+   "lon_deg": -91.89,
+   "lat_deg": -38.56,
+   "diametre_km": 27.1
+  },
+  {
+   "id": "lune:Dunthorne",
+   "nom": "Dunthorne",
+   "lon_deg": -31.71,
+   "lat_deg": -30.12,
+   "diametre_km": 15.1
+  },
+  {
+   "id": "lune:Elger",
+   "nom": "Elger",
+   "lon_deg": -29.81,
+   "lat_deg": -35.4,
+   "diametre_km": 21.5
+  },
+  {
+   "id": "lune:Elmer",
+   "nom": "Elmer",
+   "lon_deg": 84.18,
+   "lat_deg": -10.23,
+   "diametre_km": 16.9
+  },
+  {
+   "id": "lune:Epimenides",
+   "nom": "Epimenides",
+   "lon_deg": -30.33,
+   "lat_deg": -40.92,
+   "diametre_km": 22.6
+  },
+  {
+   "id": "lune:Erlanger",
+   "nom": "Erlanger",
+   "lon_deg": 28.62,
+   "lat_deg": 86.99,
+   "diametre_km": 10.9
+  },
+  {
+   "id": "lune:Esclangon",
+   "nom": "Esclangon",
+   "lon_deg": 42.06,
+   "lat_deg": 21.47,
+   "diametre_km": 15.3
+  },
+  {
+   "id": "lune:Fabbroni",
+   "nom": "Fabbroni",
+   "lon_deg": 29.27,
+   "lat_deg": 18.66,
+   "diametre_km": 10.6
+  },
+  {
+   "id": "lune:Fahrenheit",
+   "nom": "Fahrenheit",
+   "lon_deg": 61.71,
+   "lat_deg": 13.12,
+   "diametre_km": 6.7
+  },
+  {
+   "id": "lune:Fauth",
+   "nom": "Fauth",
+   "lon_deg": -20.14,
+   "lat_deg": 6.23,
+   "diametre_km": 11.9
+  },
+  {
+   "id": "lune:Fedorov",
+   "nom": "Fedorov",
+   "lon_deg": -37.05,
+   "lat_deg": 28.23,
+   "diametre_km": 6.1
+  },
+  {
+   "id": "lune:Fibiger",
+   "nom": "Fibiger",
+   "lon_deg": 37.13,
+   "lat_deg": 86.14,
+   "diametre_km": 21.1
+  },
+  {
+   "id": "lune:Finsch",
+   "nom": "Finsch",
+   "lon_deg": 21.27,
+   "lat_deg": 23.58,
+   "diametre_km": 4
+  },
+  {
+   "id": "lune:Focas",
+   "nom": "Focas",
+   "lon_deg": -93.91,
+   "lat_deg": -33.7,
+   "diametre_km": 22
+  },
+  {
+   "id": "lune:Franck",
+   "nom": "Franck",
+   "lon_deg": 35.56,
+   "lat_deg": 22.59,
+   "diametre_km": 11.9
+  },
+  {
+   "id": "lune:Franz",
+   "nom": "Franz",
+   "lon_deg": 40.24,
+   "lat_deg": 16.57,
+   "diametre_km": 25.5
+  },
+  {
+   "id": "lune:Fredholm",
+   "nom": "Fredholm",
+   "lon_deg": 46.55,
+   "lat_deg": 18.37,
+   "diametre_km": 13.4
+  },
+  {
+   "id": "lune:Galen",
+   "nom": "Galen",
+   "lon_deg": 4.96,
+   "lat_deg": 21.95,
+   "diametre_km": 9.2
+  },
+  {
+   "id": "lune:Galle",
+   "nom": "Galle",
+   "lon_deg": 22.33,
+   "lat_deg": 55.87,
+   "diametre_km": 21
+  },
+  {
+   "id": "lune:Gardner",
+   "nom": "Gardner",
+   "lon_deg": 33.81,
+   "lat_deg": 17.75,
+   "diametre_km": 17.6
+  },
+  {
+   "id": "lune:G. Bond",
+   "nom": "G. Bond",
+   "lon_deg": 36.32,
+   "lat_deg": 32.39,
+   "diametre_km": 19.1
+  },
+  {
+   "id": "lune:Geissler",
+   "nom": "Geissler",
+   "lon_deg": 76.51,
+   "lat_deg": -2.6,
+   "diametre_km": 17.4
+  },
+  {
+   "id": "lune:Glaisher",
+   "nom": "Glaisher",
+   "lon_deg": 49.34,
+   "lat_deg": 13.19,
+   "diametre_km": 15.9
+  },
+  {
+   "id": "lune:Golgi",
+   "nom": "Golgi",
+   "lon_deg": -59.96,
+   "lat_deg": 27.78,
+   "diametre_km": 5.6
+  },
+  {
+   "id": "lune:Gore",
+   "nom": "Gore",
+   "lon_deg": -62.31,
+   "lat_deg": 86.18,
+   "diametre_km": 9.4
+  },
+  {
+   "id": "lune:Greaves",
+   "nom": "Greaves",
+   "lon_deg": 52.79,
+   "lat_deg": 13.18,
+   "diametre_km": 14.3
+  },
+  {
+   "id": "lune:Grignard",
+   "nom": "Grignard",
+   "lon_deg": -75.83,
+   "lat_deg": 84.54,
+   "diametre_km": 12.9
+  },
+  {
+   "id": "lune:Haidinger",
+   "nom": "Haidinger",
+   "lon_deg": -25.14,
+   "lat_deg": -39.18,
+   "diametre_km": 21.3
+  },
+  {
+   "id": "lune:Harding",
+   "nom": "Harding",
+   "lon_deg": -71.66,
+   "lat_deg": 43.54,
+   "diametre_km": 22.6
+  },
+  {
+   "id": "lune:Hargreaves",
+   "nom": "Hargreaves",
+   "lon_deg": 64.09,
+   "lat_deg": -2.18,
+   "diametre_km": 18
+  },
+  {
+   "id": "lune:Heinrich",
+   "nom": "Heinrich",
+   "lon_deg": -15.37,
+   "lat_deg": 24.84,
+   "diametre_km": 6.9
+  },
+  {
+   "id": "lune:Heis",
+   "nom": "Heis",
+   "lon_deg": -31.98,
+   "lat_deg": 32.47,
+   "diametre_km": 13.7
+  },
+  {
+   "id": "lune:Helmert",
+   "nom": "Helmert",
+   "lon_deg": 87.67,
+   "lat_deg": -7.56,
+   "diametre_km": 26.7
+  },
+  {
+   "id": "lune:Herigonius",
+   "nom": "Herigonius",
+   "lon_deg": -33.97,
+   "lat_deg": -13.36,
+   "diametre_km": 14.9
+  },
+  {
+   "id": "lune:Hermann",
+   "nom": "Hermann",
+   "lon_deg": -57.47,
+   "lat_deg": -0.87,
+   "diametre_km": 15.9
+  },
+  {
+   "id": "lune:Heyrovsky",
+   "nom": "Heyrovsky",
+   "lon_deg": -95.42,
+   "lat_deg": -39.55,
+   "diametre_km": 16.7
+  },
+  {
+   "id": "lune:Hill",
+   "nom": "Hill",
+   "lon_deg": 40.81,
+   "lat_deg": 20.91,
+   "diametre_km": 15.9
+  },
+  {
+   "id": "lune:Hinshelwood",
+   "nom": "Hinshelwood",
+   "lon_deg": -51.89,
+   "lat_deg": 89.41,
+   "diametre_km": 13.3
+  },
+  {
+   "id": "lune:Hohmann",
+   "nom": "Hohmann",
+   "lon_deg": -94.26,
+   "lat_deg": -17.92,
+   "diametre_km": 16.8
+  },
+  {
+   "id": "lune:Horrebow",
+   "nom": "Horrebow",
+   "lon_deg": -40.93,
+   "lat_deg": 58.8,
+   "diametre_km": 25
+  },
+  {
+   "id": "lune:Humason",
+   "nom": "Humason",
+   "lon_deg": -56.66,
+   "lat_deg": 30.73,
+   "diametre_km": 4.3
+  },
+  {
+   "id": "lune:Hume",
+   "nom": "Hume",
+   "lon_deg": 90.47,
+   "lat_deg": -4.68,
+   "diametre_km": 22.3
+  },
+  {
+   "id": "lune:Huxley",
+   "nom": "Huxley",
+   "lon_deg": -4.54,
+   "lat_deg": 20.2,
+   "diametre_km": 3.5
+  },
+  {
+   "id": "lune:Ibn Bajja",
+   "nom": "Ibn Bajja",
+   "lon_deg": -75.04,
+   "lat_deg": -86.3,
+   "diametre_km": 12
+  },
+  {
+   "id": "lune:Ibn Battuta",
+   "nom": "Ibn Battuta",
+   "lon_deg": 50.44,
+   "lat_deg": -6.95,
+   "diametre_km": 11.5
+  },
+  {
+   "id": "lune:Ivan",
+   "nom": "Ivan",
+   "lon_deg": -43.26,
+   "lat_deg": 26.86,
+   "diametre_km": 3.8
+  },
+  {
+   "id": "lune:Jansen",
+   "nom": "Jansen",
+   "lon_deg": 28.64,
+   "lat_deg": 13.55,
+   "diametre_km": 24.2
+  },
+  {
+   "id": "lune:Jehan",
+   "nom": "Jehan",
+   "lon_deg": -31.86,
+   "lat_deg": 20.71,
+   "diametre_km": 4.5
+  },
+  {
+   "id": "lune:Jomo",
+   "nom": "Jomo",
+   "lon_deg": 2.44,
+   "lat_deg": 24.41,
+   "diametre_km": 7.4
+  },
+  {
+   "id": "lune:Joy",
+   "nom": "Joy",
+   "lon_deg": 6.56,
+   "lat_deg": 25.01,
+   "diametre_km": 5.1
+  },
+  {
+   "id": "lune:Kathleen",
+   "nom": "Kathleen",
+   "lon_deg": -0.83,
+   "lat_deg": 25.34,
+   "diametre_km": 5.4
+  },
+  {
+   "id": "lune:Kirchhoff",
+   "nom": "Kirchhoff",
+   "lon_deg": 38.84,
+   "lat_deg": 30.3,
+   "diametre_km": 24.4
+  },
+  {
+   "id": "lune:Knox-Shaw",
+   "nom": "Knox-Shaw",
+   "lon_deg": 80.19,
+   "lat_deg": 5.36,
+   "diametre_km": 13.4
+  },
+  {
+   "id": "lune:König",
+   "nom": "König",
+   "lon_deg": -24.68,
+   "lat_deg": -24.23,
+   "diametre_km": 22.9
+  },
+  {
+   "id": "lune:Kreiken",
+   "nom": "Kreiken",
+   "lon_deg": 84.55,
+   "lat_deg": -9.05,
+   "diametre_km": 29.4
+  },
+  {
+   "id": "lune:Krieger",
+   "nom": "Krieger",
+   "lon_deg": -45.61,
+   "lat_deg": 29.02,
+   "diametre_km": 22.9
+  },
+  {
+   "id": "lune:Krogh",
+   "nom": "Krogh",
+   "lon_deg": 65.69,
+   "lat_deg": 9.41,
+   "diametre_km": 19.2
+  },
+  {
+   "id": "lune:Kuiper",
+   "nom": "Kuiper",
+   "lon_deg": -22.68,
+   "lat_deg": -9.78,
+   "diametre_km": 6.3
+  },
+  {
+   "id": "lune:Kundt",
+   "nom": "Kundt",
+   "lon_deg": -11.57,
+   "lat_deg": -11.57,
+   "diametre_km": 10.3
+  },
+  {
+   "id": "lune:Kunowsky",
+   "nom": "Kunowsky",
+   "lon_deg": -32.53,
+   "lat_deg": 3.22,
+   "diametre_km": 18.3
+  },
+  {
+   "id": "lune:Lallemand",
+   "nom": "Lallemand",
+   "lon_deg": -84.21,
+   "lat_deg": -14.4,
+   "diametre_km": 16.7
+  },
+  {
+   "id": "lune:Lamèch",
+   "nom": "Lamèch",
+   "lon_deg": 13.15,
+   "lat_deg": 42.79,
+   "diametre_km": 12.4
+  },
+  {
+   "id": "lune:Landsteiner",
+   "nom": "Landsteiner",
+   "lon_deg": -14.79,
+   "lat_deg": 31.3,
+   "diametre_km": 6.1
+  },
+  {
+   "id": "lune:Leakey",
+   "nom": "Leakey",
+   "lon_deg": 37.46,
+   "lat_deg": -3.19,
+   "diametre_km": 12.5
+  },
+  {
+   "id": "lune:Lebesgue",
+   "nom": "Lebesgue",
+   "lon_deg": 88.97,
+   "lat_deg": -5.14,
+   "diametre_km": 11.4
+  },
+  {
+   "id": "lune:Lepaute",
+   "nom": "Lepaute",
+   "lon_deg": -33.69,
+   "lat_deg": -33.3,
+   "diametre_km": 16.4
+  },
+  {
+   "id": "lune:Lindbergh",
+   "nom": "Lindbergh",
+   "lon_deg": 52.9,
+   "lat_deg": -5.41,
+   "diametre_km": 13.3
+  },
+  {
+   "id": "lune:Liouville",
+   "nom": "Liouville",
+   "lon_deg": 73.57,
+   "lat_deg": 2.73,
+   "diametre_km": 16.1
+  },
+  {
+   "id": "lune:Lippershey",
+   "nom": "Lippershey",
+   "lon_deg": -10.38,
+   "lat_deg": -25.96,
+   "diametre_km": 6.7
+  },
+  {
+   "id": "lune:Loewy",
+   "nom": "Loewy",
+   "lon_deg": -32.85,
+   "lat_deg": -22.69,
+   "diametre_km": 22.4
+  },
+  {
+   "id": "lune:Lubbock",
+   "nom": "Lubbock",
+   "lon_deg": 41.79,
+   "lat_deg": -3.99,
+   "diametre_km": 14.1
+  },
+  {
+   "id": "lune:Lucian",
+   "nom": "Lucian",
+   "lon_deg": 36.78,
+   "lat_deg": 14.34,
+   "diametre_km": 6.8
+  },
+  {
+   "id": "lune:Luther",
+   "nom": "Luther",
+   "lon_deg": 24.15,
+   "lat_deg": 33.2,
+   "diametre_km": 9.3
+  },
+  {
+   "id": "lune:MacMillan",
+   "nom": "MacMillan",
+   "lon_deg": -7.85,
+   "lat_deg": 24.2,
+   "diametre_km": 6.9
+  },
+  {
+   "id": "lune:Mädler",
+   "nom": "Mädler",
+   "lon_deg": 29.76,
+   "lat_deg": -11.04,
+   "diametre_km": 27.6
+  },
+  {
+   "id": "lune:Maestlin",
+   "nom": "Maestlin",
+   "lon_deg": -40.72,
+   "lat_deg": 4.9,
+   "diametre_km": 6.8
+  },
+  {
+   "id": "lune:Manners",
+   "nom": "Manners",
+   "lon_deg": 19.99,
+   "lat_deg": 4.57,
+   "diametre_km": 15.1
+  },
+  {
+   "id": "lune:Marco Polo",
+   "nom": "Marco Polo",
+   "lon_deg": -2.05,
+   "lat_deg": 15.52,
+   "diametre_km": 28.2
+  },
+  {
+   "id": "lune:Marth",
+   "nom": "Marth",
+   "lon_deg": -29.35,
+   "lat_deg": -31.16,
+   "diametre_km": 6.5
+  },
+  {
+   "id": "lune:Maury",
+   "nom": "Maury",
+   "lon_deg": 39.69,
+   "lat_deg": 37.11,
+   "diametre_km": 16.6
+  },
+  {
+   "id": "lune:McClure",
+   "nom": "McClure",
+   "lon_deg": 50.24,
+   "lat_deg": -15.32,
+   "diametre_km": 24
+  },
+  {
+   "id": "lune:McDonald",
+   "nom": "McDonald",
+   "lon_deg": -20.88,
+   "lat_deg": 30.39,
+   "diametre_km": 7
+  },
+  {
+   "id": "lune:Menzel",
+   "nom": "Menzel",
+   "lon_deg": 36.94,
+   "lat_deg": 3.41,
+   "diametre_km": 3.4
+  },
+  {
+   "id": "lune:Michael",
+   "nom": "Michael",
+   "lon_deg": 0.21,
+   "lat_deg": 25.05,
+   "diametre_km": 3.5
+  },
+  {
+   "id": "lune:Moltke",
+   "nom": "Moltke",
+   "lon_deg": 24.16,
+   "lat_deg": -0.59,
+   "diametre_km": 6.2
+  },
+  {
+   "id": "lune:Morley",
+   "nom": "Morley",
+   "lon_deg": 64.62,
+   "lat_deg": -2.82,
+   "diametre_km": 13.7
+  },
+  {
+   "id": "lune:Natasha",
+   "nom": "Natasha",
+   "lon_deg": -31.16,
+   "lat_deg": 19.98,
+   "diametre_km": 11
+  },
+  {
+   "id": "lune:Naumann",
+   "nom": "Naumann",
+   "lon_deg": -62.02,
+   "lat_deg": 35.38,
+   "diametre_km": 9.9
+  },
+  {
+   "id": "lune:Nielsen",
+   "nom": "Nielsen",
+   "lon_deg": -51.76,
+   "lat_deg": 31.8,
+   "diametre_km": 9.6
+  },
+  {
+   "id": "lune:Norman",
+   "nom": "Norman",
+   "lon_deg": -30.35,
+   "lat_deg": -11.78,
+   "diametre_km": 9.9
+  },
+  {
+   "id": "lune:Nunn",
+   "nom": "Nunn",
+   "lon_deg": 91.15,
+   "lat_deg": 4.62,
+   "diametre_km": 18.5
+  },
+  {
+   "id": "lune:Patricia",
+   "nom": "Patricia",
+   "lon_deg": 0.5,
+   "lat_deg": 24.91,
+   "diametre_km": 10.1
+  },
+  {
+   "id": "lune:Peek",
+   "nom": "Peek",
+   "lon_deg": 86.96,
+   "lat_deg": 2.76,
+   "diametre_km": 12.6
+  },
+  {
+   "id": "lune:Peters",
+   "nom": "Peters",
+   "lon_deg": 29.39,
+   "lat_deg": 68.07,
+   "diametre_km": 14.7
+  },
+  {
+   "id": "lune:Petit",
+   "nom": "Petit",
+   "lon_deg": 63.46,
+   "lat_deg": 2.32,
+   "diametre_km": 5
+  },
+  {
+   "id": "lune:Pomortsev",
+   "nom": "Pomortsev",
+   "lon_deg": 66.91,
+   "lat_deg": 0.74,
+   "diametre_km": 25.5
+  },
+  {
+   "id": "lune:Puiseux",
+   "nom": "Puiseux",
+   "lon_deg": -39.19,
+   "lat_deg": -27.82,
+   "diametre_km": 24.9
+  },
+  {
+   "id": "lune:Raman",
+   "nom": "Raman",
+   "lon_deg": -55.16,
+   "lat_deg": 26.96,
+   "diametre_km": 10.2
+  },
+  {
+   "id": "lune:Rankine",
+   "nom": "Rankine",
+   "lon_deg": 71.49,
+   "lat_deg": -3.87,
+   "diametre_km": 10.5
+  },
+  {
+   "id": "lune:Reiner",
+   "nom": "Reiner",
+   "lon_deg": -54.98,
+   "lat_deg": 6.92,
+   "diametre_km": 29.9
+  },
+  {
+   "id": "lune:Respighi",
+   "nom": "Respighi",
+   "lon_deg": 71.9,
+   "lat_deg": 2.86,
+   "diametre_km": 17.9
+  },
+  {
+   "id": "lune:Ritchey",
+   "nom": "Ritchey",
+   "lon_deg": 8.48,
+   "lat_deg": -11.13,
+   "diametre_km": 24.1
+  },
+  {
+   "id": "lune:Robinson",
+   "nom": "Robinson",
+   "lon_deg": -46.03,
+   "lat_deg": 59.06,
+   "diametre_km": 24.1
+  },
+  {
+   "id": "lune:Rocco",
+   "nom": "Rocco",
+   "lon_deg": -45,
+   "lat_deg": 28.91,
+   "diametre_km": 4.3
+  },
+  {
+   "id": "lune:Ross",
+   "nom": "Ross",
+   "lon_deg": 21.74,
+   "lat_deg": 11.67,
+   "diametre_km": 24.5
+  },
+  {
+   "id": "lune:Ruth",
+   "nom": "Ruth",
+   "lon_deg": -45.06,
+   "lat_deg": 28.71,
+   "diametre_km": 3.1
+  },
+  {
+   "id": "lune:Sabatier",
+   "nom": "Sabatier",
+   "lon_deg": 79.01,
+   "lat_deg": 13.19,
+   "diametre_km": 9.6
+  },
+  {
+   "id": "lune:Santos-Dumont",
+   "nom": "Santos-Dumont",
+   "lon_deg": 4.75,
+   "lat_deg": 27.79,
+   "diametre_km": 8.8
+  },
+  {
+   "id": "lune:Sarabhai",
+   "nom": "Sarabhai",
+   "lon_deg": 21,
+   "lat_deg": 24.75,
+   "diametre_km": 7.4
+  },
+  {
+   "id": "lune:Scheele",
+   "nom": "Scheele",
+   "lon_deg": -37.85,
+   "lat_deg": -9.45,
+   "diametre_km": 4.7
+  },
+  {
+   "id": "lune:Schiaparelli",
+   "nom": "Schiaparelli",
+   "lon_deg": -58.82,
+   "lat_deg": 23.38,
+   "diametre_km": 24.2
+  },
+  {
+   "id": "lune:Schönfeld",
+   "nom": "Schönfeld",
+   "lon_deg": -98,
+   "lat_deg": 44.76,
+   "diametre_km": 24.6
+  },
+  {
+   "id": "lune:Schwabe",
+   "nom": "Schwabe",
+   "lon_deg": 45.48,
+   "lat_deg": 65.1,
+   "diametre_km": 25.5
+  },
+  {
+   "id": "lune:Secchi",
+   "nom": "Secchi",
+   "lon_deg": 43.56,
+   "lat_deg": 2.4,
+   "diametre_km": 22.1
+  },
+  {
+   "id": "lune:Seeliger",
+   "nom": "Seeliger",
+   "lon_deg": 3,
+   "lat_deg": -2.22,
+   "diametre_km": 8.3
+  },
+  {
+   "id": "lune:Shackleton",
+   "nom": "Shackleton",
+   "lon_deg": 129.78,
+   "lat_deg": -89.67,
+   "diametre_km": 20.9
+  },
+  {
+   "id": "lune:Shapley",
+   "nom": "Shapley",
+   "lon_deg": 56.83,
+   "lat_deg": 9.35,
+   "diametre_km": 24.8
+  },
+  {
+   "id": "lune:Sheepshanks",
+   "nom": "Sheepshanks",
+   "lon_deg": 17.04,
+   "lat_deg": 59.24,
+   "diametre_km": 23.7
+  },
+  {
+   "id": "lune:Shuleykin",
+   "nom": "Shuleykin",
+   "lon_deg": -92.67,
+   "lat_deg": -27.11,
+   "diametre_km": 14.7
+  },
+  {
+   "id": "lune:Sinas",
+   "nom": "Sinas",
+   "lon_deg": 31.6,
+   "lat_deg": 8.85,
+   "diametre_km": 11.7
+  },
+  {
+   "id": "lune:Slocum",
+   "nom": "Slocum",
+   "lon_deg": 89.07,
+   "lat_deg": -3.15,
+   "diametre_km": 12.2
+  },
+  {
+   "id": "lune:Smithson",
+   "nom": "Smithson",
+   "lon_deg": 53.64,
+   "lat_deg": 2.38,
+   "diametre_km": 6
+  },
+  {
+   "id": "lune:Somerville",
+   "nom": "Somerville",
+   "lon_deg": 64.96,
+   "lat_deg": -8.33,
+   "diametre_km": 17.1
+  },
+  {
+   "id": "lune:Sömmering",
+   "nom": "Sömmering",
+   "lon_deg": -7.53,
+   "lat_deg": 0.19,
+   "diametre_km": 28
+  },
+  {
+   "id": "lune:Spurr",
+   "nom": "Spurr",
+   "lon_deg": -1.27,
+   "lat_deg": 27.91,
+   "diametre_km": 13.2
+  },
+  {
+   "id": "lune:Stewart",
+   "nom": "Stewart",
+   "lon_deg": 66.98,
+   "lat_deg": 2.15,
+   "diametre_km": 13.8
+  },
+  {
+   "id": "lune:Suess",
+   "nom": "Suess",
+   "lon_deg": -47.72,
+   "lat_deg": 4.36,
+   "diametre_km": 8.4
+  },
+  {
+   "id": "lune:Svedberg",
+   "nom": "Svedberg",
+   "lon_deg": 65.15,
+   "lat_deg": -81.68,
+   "diametre_km": 15.3
+  },
+  {
+   "id": "lune:Swasey",
+   "nom": "Swasey",
+   "lon_deg": 89.67,
+   "lat_deg": -5.46,
+   "diametre_km": 24.9
+  },
+  {
+   "id": "lune:Swift",
+   "nom": "Swift",
+   "lon_deg": 53.44,
+   "lat_deg": 19.35,
+   "diametre_km": 10.1
+  },
+  {
+   "id": "lune:Tacquet",
+   "nom": "Tacquet",
+   "lon_deg": 19.2,
+   "lat_deg": 16.64,
+   "diametre_km": 6.4
+  },
+  {
+   "id": "lune:Taizo",
+   "nom": "Taizo",
+   "lon_deg": 2.2,
+   "lat_deg": 24.7,
+   "diametre_km": 8.2
+  },
+  {
+   "id": "lune:Talbot",
+   "nom": "Talbot",
+   "lon_deg": 85.3,
+   "lat_deg": -2.47,
+   "diametre_km": 12.4
+  },
+  {
+   "id": "lune:Tannerus",
+   "nom": "Tannerus",
+   "lon_deg": 21.92,
+   "lat_deg": -56.44,
+   "diametre_km": 28.1
+  },
+  {
+   "id": "lune:Theaetetus",
+   "nom": "Theaetetus",
+   "lon_deg": 6.06,
+   "lat_deg": 37.01,
+   "diametre_km": 24.6
+  },
+  {
+   "id": "lune:Theiler",
+   "nom": "Theiler",
+   "lon_deg": 82.85,
+   "lat_deg": 13.36,
+   "diametre_km": 8.3
+  },
+  {
+   "id": "lune:Theophrastus",
+   "nom": "Theophrastus",
+   "lon_deg": 39.06,
+   "lat_deg": 17.46,
+   "diametre_km": 8
+  },
+  {
+   "id": "lune:Tolansky",
+   "nom": "Tolansky",
+   "lon_deg": -15.98,
+   "lat_deg": -9.52,
+   "diametre_km": 13
+  },
+  {
+   "id": "lune:Toscanelli",
+   "nom": "Toscanelli",
+   "lon_deg": -47.61,
+   "lat_deg": 27.96,
+   "diametre_km": 7
+  },
+  {
+   "id": "lune:Townley",
+   "nom": "Townley",
+   "lon_deg": 63.19,
+   "lat_deg": 3.42,
+   "diametre_km": 17.7
+  },
+  {
+   "id": "lune:Trouvelot",
+   "nom": "Trouvelot",
+   "lon_deg": 5.79,
+   "lat_deg": 49.37,
+   "diametre_km": 8.5
+  },
+  {
+   "id": "lune:Tucker",
+   "nom": "Tucker",
+   "lon_deg": 88.21,
+   "lat_deg": -5.62,
+   "diametre_km": 6.8
+  },
+  {
+   "id": "lune:Turner",
+   "nom": "Turner",
+   "lon_deg": -13.24,
+   "lat_deg": -1.4,
+   "diametre_km": 11.2
+  },
+  {
+   "id": "lune:Väisälä",
+   "nom": "Väisälä",
+   "lon_deg": -47.9,
+   "lat_deg": 25.9,
+   "diametre_km": 8.1
+  },
+  {
+   "id": "lune:van Albada",
+   "nom": "van Albada",
+   "lon_deg": 64.35,
+   "lat_deg": 9.36,
+   "diametre_km": 22.9
+  },
+  {
+   "id": "lune:Van Biesbroeck",
+   "nom": "Van Biesbroeck",
+   "lon_deg": -45.59,
+   "lat_deg": 28.77,
+   "diametre_km": 9.1
+  },
+  {
+   "id": "lune:Very",
+   "nom": "Very",
+   "lon_deg": 25.35,
+   "lat_deg": 25.62,
+   "diametre_km": 4.7
+  },
+  {
+   "id": "lune:Virchow",
+   "nom": "Virchow",
+   "lon_deg": 83.77,
+   "lat_deg": 9.88,
+   "diametre_km": 18.8
+  },
+  {
+   "id": "lune:Vogel",
+   "nom": "Vogel",
+   "lon_deg": 5.83,
+   "lat_deg": -15.11,
+   "diametre_km": 26.3
+  },
+  {
+   "id": "lune:von Baeyer",
+   "nom": "von Baeyer",
+   "lon_deg": 61.87,
+   "lat_deg": -81.8,
+   "diametre_km": 13.5
+  },
+  {
+   "id": "lune:Wallace",
+   "nom": "Wallace",
+   "lon_deg": -8.75,
+   "lat_deg": 20.26,
+   "diametre_km": 25.7
+  },
+  {
+   "id": "lune:Wallach",
+   "nom": "Wallach",
+   "lon_deg": 32.27,
+   "lat_deg": 4.89,
+   "diametre_km": 5.7
+  },
+  {
+   "id": "lune:Wapowski",
+   "nom": "Wapowski",
+   "lon_deg": 53.79,
+   "lat_deg": -83.08,
+   "diametre_km": 11.4
+  },
+  {
+   "id": "lune:Watts",
+   "nom": "Watts",
+   "lon_deg": 46.31,
+   "lat_deg": 8.84,
+   "diametre_km": 15.6
+  },
+  {
+   "id": "lune:Webb",
+   "nom": "Webb",
+   "lon_deg": 60,
+   "lat_deg": -0.98,
+   "diametre_km": 21.4
+  },
+  {
+   "id": "lune:Whewell",
+   "nom": "Whewell",
+   "lon_deg": 13.73,
+   "lat_deg": 4.16,
+   "diametre_km": 13.1
+  },
+  {
+   "id": "lune:Whipple",
+   "nom": "Whipple",
+   "lon_deg": 120.02,
+   "lat_deg": 89.14,
+   "diametre_km": 14.5
+  },
+  {
+   "id": "lune:Wichmann",
+   "nom": "Wichmann",
+   "lon_deg": -38.13,
+   "lat_deg": -7.54,
+   "diametre_km": 9.8
+  },
+  {
+   "id": "lune:Wildt",
+   "nom": "Wildt",
+   "lon_deg": 75.83,
+   "lat_deg": 9.02,
+   "diametre_km": 12.3
+  },
+  {
+   "id": "lune:Winthrop",
+   "nom": "Winthrop",
+   "lon_deg": -44.46,
+   "lat_deg": -10.76,
+   "diametre_km": 17.2
+  },
+  {
+   "id": "lune:Wöhler",
+   "nom": "Wöhler",
+   "lon_deg": 31.35,
+   "lat_deg": -38.25,
+   "diametre_km": 28.1
+  },
+  {
+   "id": "lune:Wolf",
+   "nom": "Wolf",
+   "lon_deg": -16.63,
+   "lat_deg": -22.79,
+   "diametre_km": 25.7
+  },
+  {
+   "id": "lune:Wollaston",
+   "nom": "Wollaston",
+   "lon_deg": -46.98,
+   "lat_deg": 30.6,
+   "diametre_km": 9.6
+  },
+  {
+   "id": "lune:Yangel'",
+   "nom": "Yangel'",
+   "lon_deg": 4.69,
+   "lat_deg": 16.96,
+   "diametre_km": 7.9
+  },
+  {
+   "id": "lune:Zähringer",
+   "nom": "Zähringer",
+   "lon_deg": 40.21,
+   "lat_deg": 5.51,
+   "diametre_km": 11.2
+  },
+  {
+   "id": "lune:Zinner",
+   "nom": "Zinner",
+   "lon_deg": -58.86,
+   "lat_deg": 26.64,
+   "diametre_km": 4.6
+  },
+  {
+   "id": "lune:[Firdausi]",
+   "nom": "[Firdausi]",
+   "lon_deg": -34.07,
+   "lat_deg": 24.68,
+   "diametre_km": 6.1
+  },
+  {
+   "id": "lune:[Hadley]",
+   "nom": "[Hadley]",
+   "lon_deg": 2.8,
+   "lat_deg": 25.46,
+   "diametre_km": 5.9
+  },
+  {
+   "id": "lune:[Sung-Mei]",
+   "nom": "[Sung-Mei]",
+   "lon_deg": 11.28,
+   "lat_deg": 24.58,
+   "diametre_km": 5
+  },
+  {
+   "id": "lune:[Undest]",
+   "nom": "[Undest]",
+   "lon_deg": -18.46,
+   "lat_deg": 26.13,
+   "diametre_km": 6.8
+  },
+  {
+   "id": "lune:[Vinogradov]",
+   "nom": "[Vinogradov]",
+   "lon_deg": -31.18,
+   "lat_deg": 19.96,
+   "diametre_km": 11.3
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "schema": "types-v1",
+ "description": "Codes des types d'objets du ciel profond et leurs libellés français.",
+ "types": {
+  "gc": "amas globulaire",
+  "oc": "amas ouvert",
+  "pn": "nébuleuse planétaire",
+  "snr": "rémanent de supernova",
+  "s": "galaxie spirale",
+  "e": "galaxie elliptique",
+  "i": "galaxie irrégulière",
+  "sfr": "nébuleuse",
+  "rn": "nébuleuse par réflexion",
+  "pos": "groupe d'étoiles",
+  "bn": "nébuleuse",
+  "en": "nébuleuse en émission",
+  "s0": "galaxie lenticulaire",
+  "sd": "galaxie naine",
+  "g": "galaxie",
+  "ds": "étoile double",
+  "ast": "petite planète",
+  "com": "comète"
+ }
+}

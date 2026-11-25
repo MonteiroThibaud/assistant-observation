@@ -1,0 +1,21 @@
+IMAGES DU CIEL PROFOND (Digitized Sky Survey) — dossier donnees-hors-gpl/dss/images-dss-512/
+==========================================================================================
+
+Ces images ne sont PAS couvertes par la licence GNU GPL version 3 du code de l'application « Assistant d'observation ».
+
+Origine : relevé Digitized Sky Survey (DSS) du Space Telescope Science Institute (STScI), téléchargé depuis SkyView, le service de la NASA (https://skyview.gsfc.nasa.gov), pour la position et le champ de chaque objet (le fichier donnees/ciel-profond/images-dss.json donne, pour chaque image, le champ en degrés, l'ascension droite et la déclinaison du centre).
+
+Traitement par l'auteur de l'application : conversion en niveaux de gris, fond assombri, détails faibles atténués, nébuleuses adoucies, mise à 512 × 512 points.
+
+Droits d'auteur des plaques d'origine :
+  - © California Institute of Technology : relevés POSS-II (ciel nord) ;
+  - © Anglo-Australian Observatory Board : relevés UKST (ciel sud) ;
+  - © AURA / STScI : autres plaques.
+
+Conditions d'utilisation (celles du STScI) : l'utilisation est libre pour la recherche, l'enseignement et les activités sans but lucratif, avec mention de la source ; tout usage commercial exige l'autorisation des détenteurs de droits. Ces images ne peuvent donc pas être redistribuées sous la GPL, ni sous une licence qui autorise l'usage commercial.
+
+Mentions à conserver (reprises dans la rubrique « Informations » de l'application) :
+
+  « The Digitized Sky Survey was produced at the Space Telescope Science Institute under U.S. Government grant NAG W-2166. The images of these surveys are based on photographic data obtained using the Oschin Schmidt Telescope on Palomar Mountain and the UK Schmidt Telescope. The plates were processed into the present compressed digital form with the permission of these institutions. »
+
+  « We acknowledge the use of NASA's SkyView facility (skyview.gsfc.nasa.gov) located at NASA Goddard Space Flight Center. »

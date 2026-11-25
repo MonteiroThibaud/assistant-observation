@@ -1,0 +1,80 @@
+{
+ "CONST": {
+  "octets": 591,
+  "elements": 27,
+  "type": "dict",
+  "sha256": "585c7f7af4a98f3f61e25e2b49b6a5874155443f7b7683377e027f1eacd6c328"
+ },
+ "FEATURES": {
+  "octets": 32602,
+  "elements": 1161,
+  "type": "list",
+  "sha256": "f958f35975532c33f36689c62cd5a62f9605a6b89c8a97b584ff1abc9f5af3a2"
+ },
+ "MESSIER": {
+  "octets": 5151,
+  "elements": 110,
+  "type": "list",
+  "sha256": "0e4548421e30f93ff8b7c0600ca27762bd6dce7d611625ec3f726f5a62f45c26"
+ },
+ "DSO_EXTRA": {
+  "octets": 9776,
+  "elements": 167,
+  "type": "list",
+  "sha256": "c5afb26939cd8f91aca2267be8c4abc8f05719dc85aedb1a330a508f396cb33b"
+ },
+ "DSO_DOUBLE": {
+  "octets": 4296,
+  "elements": 34,
+  "type": "list",
+  "sha256": "98dc56d49463ff74c5927a2ba8716a057aaa5ccd136e1e9d079a1fcbed7227bd"
+ },
+ "SKY_STARS": {
+  "octets": 78516,
+  "elements": 5044,
+  "type": "list",
+  "sha256": "9d652d3747f606d3d83989e027c600e9310c0d385b97d3420f0b50c73698e10c"
+ },
+ "SKY_CONS": {
+  "octets": 29872,
+  "elements": 88,
+  "type": "dict",
+  "sha256": "427360cea4cd7e5ff975f116117ca772a305427fb3e6fa6b5255d1e3dfe60659"
+ },
+ "DSO_TYPE": {
+  "octets": 431,
+  "elements": 18,
+  "type": "dict",
+  "sha256": "3d4e1c5343299795d32e4864b00bd12f634b4629504ba3f1b384cd0698471eb1"
+ },
+ "DOUBLE_INFO": {
+  "octets": 2532,
+  "elements": 34,
+  "type": "dict",
+  "sha256": "889aa042d0853fa0925fb0ad09a9fbaf337ea5990f2ba9abc02aaec55ae898a0"
+ },
+ "ASTERISMS": {
+  "octets": 4564,
+  "elements": 7,
+  "type": "dict",
+  "sha256": "d712201b11f8c993e4502e465220ff97b1e9a7f941a7a6411e0b9fb20ba64787"
+ },
+ "MOON_FILTERS": {
+  "octets": 213,
+  "elements": 10,
+  "type": "list",
+  "sha256": "a0fc75761b7cdc2f8d430bb9456083a65af471e392d04ef41a3349c7e9991ce9"
+ },
+ "DESC": {
+  "octets": 267393,
+  "elements": 1161,
+  "type": "dict",
+  "sha256": "af07414753ea055d8582a978bc71023dae3a723d334d7d907a50b1d746c6f813"
+ },
+ "FEAT_M": {
+  "octets": 60616,
+  "elements": 1139,
+  "type": "dict",
+  "sha256": "bca043088f839f2714d70d5ec21bbe61b40e02aba20a7e7e0068ae3056d9be80"
+ }
+}

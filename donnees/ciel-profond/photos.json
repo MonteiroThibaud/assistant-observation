@@ -1,0 +1,295 @@
+{
+ "schema": "photos-v1",
+ "description": "Photos de l'auteur (Thibaud Monteiro) montrées à l'oculaire à la place de l'image du Digitized Sky Survey. Une photo sert à un ou plusieurs objets (`objets` : désignations des catalogues). `web` : photo de 1 500 points intégrée à la page (fichier de binaires/web/) ; `installee` : photo haute résolution de l'application installée (fichier de binaires/installee/photos/, adresse img/…). `champ` = largeur du champ en degrés ; `ra`, `dec` = centre de la photo (J2000, degrés) ; `largeur`, `hauteur` = dimensions de l'image en points. `commentaire` = commentaire écrit dans le code avant la photo. Le bloc « web » est facultatif : une photo sans bloc « web » n'est pas dans la page en ligne (limite de 16 Mo), seulement dans l'application installée.",
+ "commentaire_installee": ";  // Photos de Thibaud Monteiro (version installée : fichiers haute résolution du dossier img/) ; nord en haut, est à gauche ; une photo sert à tous les objets qu'elle contient",
+ "photos": [
+  {
+   "id": "ORION",
+   "commentaire": "Grande nébuleuse d'Orion : photo de Thibaud Monteiro (février 2023, traitée avec Siril), mise au nord en haut et calée sur le catalogue d'étoiles ; elle sert à M42, M43 et NGC 1977",
+   "legende": "photo de Thibaud Monteiro (février 2023)",
+   "objets": [
+    "M42",
+    "M43",
+    "NGC 1977"
+   ],
+   "web": {
+    "fichier": "photo-ORION.jpg",
+    "champ": 1.171,
+    "ra": 83.7675,
+    "dec": -5.3975,
+    "largeur": 1048,
+    "hauteur": 1500
+   },
+   "installee": {
+    "fichier": "img/ph_ORION.jpg",
+    "champ": 1.1708,
+    "ra": 83.7675,
+    "dec": -5.3975,
+    "largeur": 2000,
+    "hauteur": 2862
+   }
+  },
+  {
+   "id": "NGC7023",
+   "commentaire": "Photos de Thibaud Monteiro : positions calculées par Astrometry.net (solveur installé en local) à partir des étoiles de chaque photo, avec la distorsion du champ corrigée (NGC 6960 : solution de Siril recalée sur les étoiles) ; nord en haut, est à gauche ; une photo sert à tous les objets qu'elle contient",
+   "legende": "photo de Thibaud Monteiro (mai 2022)",
+   "objets": [
+    "NGC 7023"
+   ],
+   "installee": {
+    "fichier": "img/ph_NGC7023.jpg",
+    "champ": 1.7003,
+    "ra": 314.9441,
+    "dec": 68.1231,
+    "largeur": 3000,
+    "hauteur": 1939
+   }
+  },
+  {
+   "id": "NGC7000",
+   "legende": "photo de Thibaud Monteiro (août 2022)",
+   "objets": [
+    "NGC 7000"
+   ],
+   "installee": {
+    "fichier": "img/ph_NGC7000.jpg",
+    "champ": 1.7541,
+    "ra": 314.8878,
+    "dec": 43.7788,
+    "largeur": 3000,
+    "hauteur": 2084
+   }
+  },
+  {
+   "id": "M27",
+   "legende": "photo de Thibaud Monteiro (août 2022)",
+   "objets": [
+    "M27"
+   ],
+   "installee": {
+    "fichier": "img/ph_M27.jpg",
+    "champ": 1.79,
+    "ra": 299.8886,
+    "dec": 22.7156,
+    "largeur": 3000,
+    "hauteur": 2206
+   }
+  },
+  {
+   "id": "ROSETTE",
+   "legende": "photo de Thibaud Monteiro (février 2025)",
+   "objets": [
+    "NGC 2244",
+    "NGC 2237"
+   ],
+   "installee": {
+    "fichier": "img/ph_Rosette.jpg",
+    "champ": 1.903,
+    "ra": 98.0608,
+    "dec": 4.9817,
+    "largeur": 3000,
+    "hauteur": 2210
+   }
+  },
+  {
+   "id": "M81",
+   "legende": "photo de Thibaud Monteiro (mars 2025)",
+   "objets": [
+    "M81",
+    "M82"
+   ],
+   "installee": {
+    "fichier": "img/ph_M81.jpg",
+    "champ": 1.2158,
+    "ra": 149.6555,
+    "dec": 69.2449,
+    "largeur": 2046,
+    "hauteur": 3000
+   }
+  },
+  {
+   "id": "M45",
+   "legende": "photo de Thibaud Monteiro (août 2022)",
+   "objets": [
+    "M45"
+   ],
+   "installee": {
+    "fichier": "img/ph_M45.jpg",
+    "champ": 1.7222,
+    "ra": 56.7471,
+    "dec": 24.1996,
+    "largeur": 3000,
+    "hauteur": 2214
+   }
+  },
+  {
+   "id": "IC1396",
+   "legende": "photo de Thibaud Monteiro (septembre 2023)",
+   "objets": [
+    "IC 1396"
+   ],
+   "installee": {
+    "fichier": "img/ph_IC1396.jpg",
+    "champ": 1.8173,
+    "ra": 323.8379,
+    "dec": 57.487,
+    "largeur": 3000,
+    "hauteur": 2100
+   }
+  },
+  {
+   "id": "HORSEHEAD",
+   "legende": "photo de Thibaud Monteiro (février 2023)",
+   "objets": [
+    "NGC 2024",
+    "IC 434"
+   ],
+   "installee": {
+    "fichier": "img/ph_Horsehead.jpg",
+    "champ": 1.1687,
+    "ra": 85.2706,
+    "dec": -2.3096,
+    "largeur": 2037,
+    "hauteur": 3000
+   }
+  },
+  {
+   "id": "NGC6888",
+   "legende": "photo de Thibaud Monteiro (juin 2026)",
+   "objets": [
+    "NGC 6888"
+   ],
+   "installee": {
+    "fichier": "img/ph_NGC6888.jpg",
+    "champ": 1.9342,
+    "ra": 302.6357,
+    "dec": 38.5218,
+    "largeur": 3000,
+    "hauteur": 2265
+   }
+  },
+  {
+   "id": "M33",
+   "legende": "photo de Thibaud Monteiro (septembre 2022)",
+   "objets": [
+    "M33"
+   ],
+   "installee": {
+    "fichier": "img/ph_M33.jpg",
+    "champ": 1.5484,
+    "ra": 23.5175,
+    "dec": 30.6631,
+    "largeur": 3000,
+    "hauteur": 2069
+   }
+  },
+  {
+   "id": "M31",
+   "legende": "photo de Thibaud Monteiro (août 2020)",
+   "objets": [
+    "M31",
+    "M32",
+    "M110"
+   ],
+   "installee": {
+    "fichier": "img/ph_M31.jpg",
+    "champ": 1.6785,
+    "ra": 10.7739,
+    "dec": 41.2698,
+    "largeur": 3000,
+    "hauteur": 2232
+   }
+  },
+  {
+   "id": "M101",
+   "legende": "photo de Thibaud Monteiro (mai 2023)",
+   "objets": [
+    "M101"
+   ],
+   "installee": {
+    "fichier": "img/ph_M101.jpg",
+    "champ": 1.5639,
+    "ra": 210.7823,
+    "dec": 54.3805,
+    "largeur": 3000,
+    "hauteur": 2292
+   }
+  },
+  {
+   "id": "M13",
+   "legende": "photo de Thibaud Monteiro (mai 2026)",
+   "objets": [
+    "M13"
+   ],
+   "installee": {
+    "fichier": "img/ph_M13.jpg",
+    "champ": 1.798,
+    "ra": 250.4335,
+    "dec": 36.4659,
+    "largeur": 3000,
+    "hauteur": 2020
+   }
+  },
+  {
+   "id": "IC5070",
+   "legende": "photo de Thibaud Monteiro (août 2025)",
+   "objets": [
+    "IC 5070"
+   ],
+   "installee": {
+    "fichier": "img/ph_IC5070.jpg",
+    "champ": 1.1747,
+    "ra": 312.8793,
+    "dec": 44.0146,
+    "largeur": 2105,
+    "hauteur": 3000
+   }
+  },
+  {
+   "id": "NGC6992",
+   "legende": "photo de Thibaud Monteiro (juillet 2022)",
+   "objets": [
+    "NGC 6992"
+   ],
+   "installee": {
+    "fichier": "img/ph_NGC6992.jpg",
+    "champ": 1.1905,
+    "ra": 314.0515,
+    "dec": 31.4529,
+    "largeur": 2079,
+    "hauteur": 3000
+   }
+  },
+  {
+   "id": "NGC7635",
+   "legende": "photo de Thibaud Monteiro (mai 2024)",
+   "objets": [
+    "M52",
+    "NGC 7635"
+   ],
+   "installee": {
+    "fichier": "img/ph_NGC7635.jpg",
+    "champ": 1.7732,
+    "ra": 349.9679,
+    "dec": 61.2562,
+    "largeur": 3000,
+    "hauteur": 2032
+   }
+  },
+  {
+   "id": "NGC6960",
+   "legende": "photo de Thibaud Monteiro (août 2024)",
+   "objets": [
+    "NGC 6960"
+   ],
+   "installee": {
+    "fichier": "img/ph_NGC6960.jpg",
+    "champ": 1.2157,
+    "ra": 311.7904,
+    "dec": 30.4297,
+    "largeur": 2059,
+    "hauteur": 3000
+   }
+  }
+ ]
+}

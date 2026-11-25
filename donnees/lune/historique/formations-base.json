@@ -1,0 +1,3948 @@
+{
+ "schema": "lune-formations-v1",
+ "description": "Formations lunaires de base : longitude (est positif) et latitude sélénographiques en degrés ; priorité 1 = incontournable (absente : 1 par défaut dans le code).",
+ "formations": [
+  {
+   "id": "lune:Mare Crisium",
+   "nom": "Mare Crisium",
+   "lon_deg": 59.1,
+   "lat_deg": 17
+  },
+  {
+   "id": "lune:Langrenus",
+   "nom": "Langrenus",
+   "lon_deg": 61,
+   "lat_deg": -8.9
+  },
+  {
+   "id": "lune:Petavius",
+   "nom": "Petavius",
+   "lon_deg": 60.4,
+   "lat_deg": -25.3
+  },
+  {
+   "id": "lune:Posidonius",
+   "nom": "Posidonius",
+   "lon_deg": 29.9,
+   "lat_deg": 31.8
+  },
+  {
+   "id": "lune:Mare Tranquillitatis",
+   "nom": "Mare Tranquillitatis",
+   "lon_deg": 31.4,
+   "lat_deg": 8.5
+  },
+  {
+   "id": "lune:Théophile",
+   "nom": "Théophile",
+   "lon_deg": 26.4,
+   "lat_deg": -11.4
+  },
+  {
+   "id": "lune:Mare Serenitatis",
+   "nom": "Mare Serenitatis",
+   "lon_deg": 17.5,
+   "lat_deg": 28
+  },
+  {
+   "id": "lune:Mare Nectaris",
+   "nom": "Mare Nectaris",
+   "lon_deg": 35.5,
+   "lat_deg": -15.2
+  },
+  {
+   "id": "lune:Mare Fecunditatis",
+   "nom": "Mare Fecunditatis",
+   "lon_deg": 53.7,
+   "lat_deg": -7.8
+  },
+  {
+   "id": "lune:Aristote",
+   "nom": "Aristote",
+   "lon_deg": 17.4,
+   "lat_deg": 50.2
+  },
+  {
+   "id": "lune:Hipparque",
+   "nom": "Hipparque",
+   "lon_deg": 5.2,
+   "lat_deg": -5.1
+  },
+  {
+   "id": "lune:Ptolémée",
+   "nom": "Ptolémée",
+   "lon_deg": -1.9,
+   "lat_deg": -9.3
+  },
+  {
+   "id": "lune:Alphonse",
+   "nom": "Alphonse",
+   "lon_deg": -2.8,
+   "lat_deg": -13.4
+  },
+  {
+   "id": "lune:Arzachel",
+   "nom": "Arzachel",
+   "lon_deg": -1.9,
+   "lat_deg": -18.2
+  },
+  {
+   "id": "lune:Montes Apenninus",
+   "nom": "Montes Apenninus",
+   "lon_deg": -3.7,
+   "lat_deg": 18.9
+  },
+  {
+   "id": "lune:Archimède",
+   "nom": "Archimède",
+   "lon_deg": -4,
+   "lat_deg": 29.7
+  },
+  {
+   "id": "lune:Platon",
+   "nom": "Platon",
+   "lon_deg": -9.4,
+   "lat_deg": 51.6
+  },
+  {
+   "id": "lune:Montes Alpes",
+   "nom": "Montes Alpes",
+   "lon_deg": -0.6,
+   "lat_deg": 48.4
+  },
+  {
+   "id": "lune:Vallis Alpes",
+   "nom": "Vallis Alpes",
+   "lon_deg": 3.6,
+   "lat_deg": 49.2
+  },
+  {
+   "id": "lune:Rupes Recta",
+   "nom": "Rupes Recta",
+   "lon_deg": -7.8,
+   "lat_deg": -22
+  },
+  {
+   "id": "lune:Tycho",
+   "nom": "Tycho",
+   "lon_deg": -11.4,
+   "lat_deg": -43.3
+  },
+  {
+   "id": "lune:Clavius",
+   "nom": "Clavius",
+   "lon_deg": -14.4,
+   "lat_deg": -58.4
+  },
+  {
+   "id": "lune:Mare Imbrium",
+   "nom": "Mare Imbrium",
+   "lon_deg": -15.6,
+   "lat_deg": 32.8
+  },
+  {
+   "id": "lune:Copernic",
+   "nom": "Copernic",
+   "lon_deg": -20.1,
+   "lat_deg": 9.6
+  },
+  {
+   "id": "lune:Sinus Iridum",
+   "nom": "Sinus Iridum",
+   "lon_deg": -31.5,
+   "lat_deg": 44.1
+  },
+  {
+   "id": "lune:Kepler",
+   "nom": "Kepler",
+   "lon_deg": -38,
+   "lat_deg": 8.1
+  },
+  {
+   "id": "lune:Gassendi",
+   "nom": "Gassendi",
+   "lon_deg": -39.9,
+   "lat_deg": -17.6
+  },
+  {
+   "id": "lune:Aristarque",
+   "nom": "Aristarque",
+   "lon_deg": -47.5,
+   "lat_deg": 23.7
+  },
+  {
+   "id": "lune:Schickard",
+   "nom": "Schickard",
+   "lon_deg": -54.6,
+   "lat_deg": -44.3
+  },
+  {
+   "id": "lune:Grimaldi",
+   "nom": "Grimaldi",
+   "lon_deg": -68.3,
+   "lat_deg": -5.5
+  },
+  {
+   "id": "lune:Mare Humorum",
+   "nom": "Mare Humorum",
+   "lon_deg": -38.6,
+   "lat_deg": -24.4
+  },
+  {
+   "id": "lune:Mare Nubium",
+   "nom": "Mare Nubium",
+   "lon_deg": -16.6,
+   "lat_deg": -21.3
+  },
+  {
+   "id": "lune:Ératosthène",
+   "nom": "Ératosthène",
+   "lon_deg": -11.3,
+   "lat_deg": 14.5
+  },
+  {
+   "id": "lune:Atlas",
+   "nom": "Atlas",
+   "lon_deg": 44.4,
+   "lat_deg": 46.7
+  },
+  {
+   "id": "lune:Hercule",
+   "nom": "Hercule",
+   "lon_deg": 39.1,
+   "lat_deg": 46.7
+  },
+  {
+   "id": "lune:Rupes Altai",
+   "nom": "Rupes Altai",
+   "lon_deg": 22.6,
+   "lat_deg": -24.3
+  },
+  {
+   "id": "lune:Maurolycus",
+   "nom": "Maurolycus",
+   "lon_deg": 14,
+   "lat_deg": -41.8
+  },
+  {
+   "id": "lune:Bullialdus",
+   "nom": "Bullialdus",
+   "lon_deg": -22.2,
+   "lat_deg": -20.7
+  },
+  {
+   "id": "lune:Schiller",
+   "nom": "Schiller",
+   "lon_deg": -39,
+   "lat_deg": -51.8
+  },
+  {
+   "id": "lune:Mons Piton",
+   "nom": "Mons Piton",
+   "lon_deg": -1.1,
+   "lat_deg": 40.6
+  },
+  {
+   "id": "lune:Mons Pico",
+   "nom": "Mons Pico",
+   "lon_deg": -8.9,
+   "lat_deg": 45.8
+  },
+  {
+   "id": "lune:Cassini",
+   "nom": "Cassini",
+   "lon_deg": 4.6,
+   "lat_deg": 40.2
+  },
+  {
+   "id": "lune:Mare Frigoris",
+   "nom": "Mare Frigoris",
+   "lon_deg": 1.4,
+   "lat_deg": 56
+  },
+  {
+   "id": "lune:Vallis Schröteri",
+   "nom": "Vallis Schröteri",
+   "lon_deg": -50.8,
+   "lat_deg": 26.2
+  },
+  {
+   "id": "lune:Reiner Gamma",
+   "nom": "Reiner Gamma",
+   "lon_deg": -59,
+   "lat_deg": 7.5
+  },
+  {
+   "id": "lune:Site Apollo 11",
+   "nom": "Site Apollo 11",
+   "lon_deg": 23.5,
+   "lat_deg": 0.7
+  },
+  {
+   "id": "lune:Cyrille",
+   "nom": "Cyrille",
+   "lon_deg": 24,
+   "lat_deg": -13.2,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Catherine",
+   "nom": "Catherine",
+   "lon_deg": 23.4,
+   "lat_deg": -18,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Eudoxe",
+   "nom": "Eudoxe",
+   "lon_deg": 16.3,
+   "lat_deg": 44.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Albategnius",
+   "nom": "Albategnius",
+   "lon_deg": 4,
+   "lat_deg": -11.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Mare Vaporum",
+   "nom": "Mare Vaporum",
+   "lon_deg": 3.6,
+   "lat_deg": 13.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Sinus Medii",
+   "nom": "Sinus Medii",
+   "lon_deg": 1.7,
+   "lat_deg": 2.4,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Sinus Aestuum",
+   "nom": "Sinus Aestuum",
+   "lon_deg": -8.8,
+   "lat_deg": 10.9,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Palus Putredinis",
+   "nom": "Palus Putredinis",
+   "lon_deg": 0.4,
+   "lat_deg": 26.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Lacus Somniorum",
+   "nom": "Lacus Somniorum",
+   "lon_deg": 29.2,
+   "lat_deg": 38,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Cléomède",
+   "nom": "Cléomède",
+   "lon_deg": 56,
+   "lat_deg": 27.6,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Messier",
+   "nom": "Messier",
+   "lon_deg": 47.6,
+   "lat_deg": -1.9,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Proclus",
+   "nom": "Proclus",
+   "lon_deg": 46.8,
+   "lat_deg": 16.1,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Taruntius",
+   "nom": "Taruntius",
+   "lon_deg": 46.5,
+   "lat_deg": 5.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Vendelinus",
+   "nom": "Vendelinus",
+   "lon_deg": 61.6,
+   "lat_deg": -16.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Furnerius",
+   "nom": "Furnerius",
+   "lon_deg": 60.6,
+   "lat_deg": -36,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Stevinus",
+   "nom": "Stevinus",
+   "lon_deg": 54.2,
+   "lat_deg": -32.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Vallis Rheita",
+   "nom": "Vallis Rheita",
+   "lon_deg": 51.5,
+   "lat_deg": -42.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Piccolomini",
+   "nom": "Piccolomini",
+   "lon_deg": 32.2,
+   "lat_deg": -29.7,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Fracastor",
+   "nom": "Fracastor",
+   "lon_deg": 33.2,
+   "lat_deg": -21.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Stöfler",
+   "nom": "Stöfler",
+   "lon_deg": 6,
+   "lat_deg": -41.1,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Walter",
+   "nom": "Walter",
+   "lon_deg": 0.7,
+   "lat_deg": -33.1,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Regiomontanus",
+   "nom": "Regiomontanus",
+   "lon_deg": -1,
+   "lat_deg": -28.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Purbach",
+   "nom": "Purbach",
+   "lon_deg": -2.3,
+   "lat_deg": -25.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Deslandres",
+   "nom": "Deslandres",
+   "lon_deg": -5.2,
+   "lat_deg": -33.1,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Pitatus",
+   "nom": "Pitatus",
+   "lon_deg": -13.5,
+   "lat_deg": -29.9,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Maginus",
+   "nom": "Maginus",
+   "lon_deg": -6.2,
+   "lat_deg": -50,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Moretus",
+   "nom": "Moretus",
+   "lon_deg": -5.5,
+   "lat_deg": -70.6,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Longomontanus",
+   "nom": "Longomontanus",
+   "lon_deg": -21.9,
+   "lat_deg": -49.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Wilhelm",
+   "nom": "Wilhelm",
+   "lon_deg": -20.4,
+   "lat_deg": -43.1,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Mersenius",
+   "nom": "Mersenius",
+   "lon_deg": -49.2,
+   "lat_deg": -21.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Bailly",
+   "nom": "Bailly",
+   "lon_deg": -69.1,
+   "lat_deg": -66.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Hévélius",
+   "nom": "Hévélius",
+   "lon_deg": -67.6,
+   "lat_deg": 2.2,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Riccioli",
+   "nom": "Riccioli",
+   "lon_deg": -74.6,
+   "lat_deg": -3.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Marius",
+   "nom": "Marius",
+   "lon_deg": -50.8,
+   "lat_deg": 11.9,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Lansberg",
+   "nom": "Lansberg",
+   "lon_deg": -26.6,
+   "lat_deg": -0.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Reinhold",
+   "nom": "Reinhold",
+   "lon_deg": -22.8,
+   "lat_deg": 3.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Fra Mauro",
+   "nom": "Fra Mauro",
+   "lon_deg": -17,
+   "lat_deg": -6.1,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Hérodote",
+   "nom": "Hérodote",
+   "lon_deg": -49.7,
+   "lat_deg": 23.2,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Montes Carpatus",
+   "nom": "Montes Carpatus",
+   "lon_deg": -24.4,
+   "lat_deg": 14.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Montes Jura",
+   "nom": "Montes Jura",
+   "lon_deg": -34,
+   "lat_deg": 47.1,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Montes Caucasus",
+   "nom": "Montes Caucasus",
+   "lon_deg": 10,
+   "lat_deg": 38.4,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Montes Haemus",
+   "nom": "Montes Haemus",
+   "lon_deg": 9.2,
+   "lat_deg": 19.9,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Montes Teneriffe",
+   "nom": "Montes Teneriffe",
+   "lon_deg": -13.2,
+   "lat_deg": 47.9,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Montes Recti",
+   "nom": "Montes Recti",
+   "lon_deg": -20,
+   "lat_deg": 48,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Aristillus",
+   "nom": "Aristillus",
+   "lon_deg": 1.2,
+   "lat_deg": 33.9,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Autolycus",
+   "nom": "Autolycus",
+   "lon_deg": 1.5,
+   "lat_deg": 30.7,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Timocharis",
+   "nom": "Timocharis",
+   "lon_deg": -13.1,
+   "lat_deg": 26.7,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Euler",
+   "nom": "Euler",
+   "lon_deg": -29.2,
+   "lat_deg": 23.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Pythagore",
+   "nom": "Pythagore",
+   "lon_deg": -63,
+   "lat_deg": 63.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Anaxagore",
+   "nom": "Anaxagore",
+   "lon_deg": -10.1,
+   "lat_deg": 73.4,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Endymion",
+   "nom": "Endymion",
+   "lon_deg": 56.5,
+   "lat_deg": 53.6,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Bürg",
+   "nom": "Bürg",
+   "lon_deg": 28.2,
+   "lat_deg": 45,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Jules César",
+   "nom": "Jules César",
+   "lon_deg": 15.4,
+   "lat_deg": 9,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Manilius",
+   "nom": "Manilius",
+   "lon_deg": 9.1,
+   "lat_deg": 14.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Ménélas",
+   "nom": "Ménélas",
+   "lon_deg": 16,
+   "lat_deg": 16.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Pline",
+   "nom": "Pline",
+   "lon_deg": 23.7,
+   "lat_deg": 15.4,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Le Monnier",
+   "nom": "Le Monnier",
+   "lon_deg": 30.6,
+   "lat_deg": 26.6,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Macrobe",
+   "nom": "Macrobe",
+   "lon_deg": 46,
+   "lat_deg": 21.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Delambre",
+   "nom": "Delambre",
+   "lon_deg": 17.5,
+   "lat_deg": -1.9,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Arago",
+   "nom": "Arago",
+   "lon_deg": 21.4,
+   "lat_deg": 6.2,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Abulféda",
+   "nom": "Abulféda",
+   "lon_deg": 13.9,
+   "lat_deg": -13.8,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Werner",
+   "nom": "Werner",
+   "lon_deg": 3.3,
+   "lat_deg": -28,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Janssen",
+   "nom": "Janssen",
+   "lon_deg": 41,
+   "lat_deg": -44.9,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Mons Rümker",
+   "nom": "Mons Rümker",
+   "lon_deg": -58.1,
+   "lat_deg": 40.8,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Mare Cognitum",
+   "nom": "Mare Cognitum",
+   "lon_deg": -23.1,
+   "lat_deg": -10,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Mare Insularum",
+   "nom": "Mare Insularum",
+   "lon_deg": -30.9,
+   "lat_deg": 7.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Oceanus Procellarum",
+   "nom": "Oceanus Procellarum",
+   "lon_deg": -57.4,
+   "lat_deg": 18.4,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Site Apollo 12",
+   "nom": "Site Apollo 12",
+   "lon_deg": -23.4,
+   "lat_deg": -3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Site Apollo 14",
+   "nom": "Site Apollo 14",
+   "lon_deg": -17.5,
+   "lat_deg": -3.6,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Site Apollo 15",
+   "nom": "Site Apollo 15",
+   "lon_deg": 3.6,
+   "lat_deg": 26.1,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Site Apollo 16",
+   "nom": "Site Apollo 16",
+   "lon_deg": 15.5,
+   "lat_deg": -9,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Site Apollo 17",
+   "nom": "Site Apollo 17",
+   "lon_deg": 30.8,
+   "lat_deg": 20.2,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Mare Humboldtianum",
+   "nom": "Mare Humboldtianum",
+   "lon_deg": 81.5,
+   "lat_deg": 56.8,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Mare Marginis",
+   "nom": "Mare Marginis",
+   "lon_deg": 86.1,
+   "lat_deg": 13.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Mare Smythii",
+   "nom": "Mare Smythii",
+   "lon_deg": 87.5,
+   "lat_deg": 1.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Hyginus",
+   "nom": "Hyginus",
+   "lon_deg": 6.3,
+   "lat_deg": 7.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rima Ariadaeus",
+   "nom": "Rima Ariadaeus",
+   "lon_deg": 14,
+   "lat_deg": 6.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Triesnecker",
+   "nom": "Triesnecker",
+   "lon_deg": 3.6,
+   "lat_deg": 4.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rima Hadley",
+   "nom": "Rima Hadley",
+   "lon_deg": 3,
+   "lat_deg": 25,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Birt",
+   "nom": "Birt",
+   "lon_deg": -8.5,
+   "lat_deg": -22.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Hippalus",
+   "nom": "Rimae Hippalus",
+   "lon_deg": -29.2,
+   "lat_deg": -24.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Sirsalis",
+   "nom": "Rimae Sirsalis",
+   "lon_deg": -61.7,
+   "lat_deg": -15.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Vallis Snellius",
+   "nom": "Vallis Snellius",
+   "lon_deg": 56,
+   "lat_deg": -31.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Cauchy",
+   "nom": "Cauchy",
+   "lon_deg": 38.6,
+   "lat_deg": 9.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Catena Davy",
+   "nom": "Catena Davy",
+   "lon_deg": -7,
+   "lat_deg": -11,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lamont",
+   "nom": "Lamont",
+   "lon_deg": 23.7,
+   "lat_deg": 4.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsa Smirnov",
+   "nom": "Dorsa Smirnov",
+   "lon_deg": 25.3,
+   "lat_deg": 27.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Kies",
+   "nom": "Kies",
+   "lon_deg": -22.5,
+   "lat_deg": -26.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Gruithuisen Gamma",
+   "nom": "Gruithuisen Gamma",
+   "lon_deg": -40.7,
+   "lat_deg": 36.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Hortensius",
+   "nom": "Hortensius",
+   "lon_deg": -28,
+   "lat_deg": 6.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Wargentin",
+   "nom": "Wargentin",
+   "lon_deg": -60.2,
+   "lat_deg": -49.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sirsalis",
+   "nom": "Sirsalis",
+   "lon_deg": -60.4,
+   "lat_deg": -12.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Flamsteed",
+   "nom": "Flamsteed",
+   "lon_deg": -44.3,
+   "lat_deg": -4.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Letronne",
+   "nom": "Letronne",
+   "lon_deg": -42.5,
+   "lat_deg": -10.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Billy",
+   "nom": "Billy",
+   "lon_deg": -50.1,
+   "lat_deg": -13.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Crüger",
+   "nom": "Crüger",
+   "lon_deg": -66.8,
+   "lat_deg": -16.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Prinz",
+   "nom": "Prinz",
+   "lon_deg": -44.1,
+   "lat_deg": 25.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lambert",
+   "nom": "Lambert",
+   "lon_deg": -21,
+   "lat_deg": 25.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Pytheas",
+   "nom": "Pytheas",
+   "lon_deg": -20.6,
+   "lat_deg": 20.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lalande",
+   "nom": "Lalande",
+   "lon_deg": -8.6,
+   "lat_deg": -4.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mösting",
+   "nom": "Mösting",
+   "lon_deg": -5.9,
+   "lat_deg": -0.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Herschel",
+   "nom": "Herschel",
+   "lon_deg": -2.1,
+   "lat_deg": -5.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Flammarion",
+   "nom": "Flammarion",
+   "lon_deg": -3.7,
+   "lat_deg": -3.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Bode",
+   "nom": "Bode",
+   "lon_deg": -2.4,
+   "lat_deg": 6.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Pallas",
+   "nom": "Pallas",
+   "lon_deg": -1.6,
+   "lat_deg": 5.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Agrippa",
+   "nom": "Agrippa",
+   "lon_deg": 10.5,
+   "lat_deg": 4.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Godin",
+   "nom": "Godin",
+   "lon_deg": 10.2,
+   "lat_deg": 1.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dionysius",
+   "nom": "Dionysius",
+   "lon_deg": 17.3,
+   "lat_deg": 2.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Maskelyne",
+   "nom": "Maskelyne",
+   "lon_deg": 30.1,
+   "lat_deg": 2.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Censorinus",
+   "nom": "Censorinus",
+   "lon_deg": 32.7,
+   "lat_deg": -0.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Capella",
+   "nom": "Capella",
+   "lon_deg": 35,
+   "lat_deg": -7.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Torricelli",
+   "nom": "Torricelli",
+   "lon_deg": 28.5,
+   "lat_deg": -4.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Goclenius",
+   "nom": "Goclenius",
+   "lon_deg": 45,
+   "lat_deg": -10,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Gutenberg",
+   "nom": "Gutenberg",
+   "lon_deg": 41.2,
+   "lat_deg": -8.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Colombo",
+   "nom": "Colombo",
+   "lon_deg": 45.8,
+   "lat_deg": -15.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rosse",
+   "nom": "Rosse",
+   "lon_deg": 35,
+   "lat_deg": -17.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Beaumont",
+   "nom": "Beaumont",
+   "lon_deg": 28.8,
+   "lat_deg": -18,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sacrobosco",
+   "nom": "Sacrobosco",
+   "lon_deg": 16.7,
+   "lat_deg": -23.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Apianus",
+   "nom": "Apianus",
+   "lon_deg": 7.9,
+   "lat_deg": -26.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Aliacensis",
+   "nom": "Aliacensis",
+   "lon_deg": 5.1,
+   "lat_deg": -30.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Blanchinus",
+   "nom": "Blanchinus",
+   "lon_deg": 2.5,
+   "lat_deg": -25.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:La Caille",
+   "nom": "La Caille",
+   "lon_deg": 1.1,
+   "lat_deg": -23.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Thebit",
+   "nom": "Thebit",
+   "lon_deg": -4,
+   "lat_deg": -22,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Alpetragius",
+   "nom": "Alpetragius",
+   "lon_deg": -4.5,
+   "lat_deg": -16,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lassell",
+   "nom": "Lassell",
+   "lon_deg": -7.9,
+   "lat_deg": -15.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Hell",
+   "nom": "Hell",
+   "lon_deg": -7.8,
+   "lat_deg": -32.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Cichus",
+   "nom": "Cichus",
+   "lon_deg": -21.1,
+   "lat_deg": -33.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Heinsius",
+   "nom": "Heinsius",
+   "lon_deg": -17.7,
+   "lat_deg": -39.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Hainzel",
+   "nom": "Hainzel",
+   "lon_deg": -33.5,
+   "lat_deg": -41.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Capuanus",
+   "nom": "Capuanus",
+   "lon_deg": -26.7,
+   "lat_deg": -34.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Ramsden",
+   "nom": "Ramsden",
+   "lon_deg": -31.8,
+   "lat_deg": -32.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Vitello",
+   "nom": "Vitello",
+   "lon_deg": -37.5,
+   "lat_deg": -30.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Doppelmayer",
+   "nom": "Doppelmayer",
+   "lon_deg": -41.4,
+   "lat_deg": -28.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mercator",
+   "nom": "Mercator",
+   "lon_deg": -26.1,
+   "lat_deg": -29.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Campanus",
+   "nom": "Campanus",
+   "lon_deg": -27.8,
+   "lat_deg": -28,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Agatharchides",
+   "nom": "Agatharchides",
+   "lon_deg": -30.9,
+   "lat_deg": -19.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Opelt",
+   "nom": "Opelt",
+   "lon_deg": -17.5,
+   "lat_deg": -16.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Guericke",
+   "nom": "Guericke",
+   "lon_deg": -14.1,
+   "lat_deg": -11.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Parry",
+   "nom": "Parry",
+   "lon_deg": -15.8,
+   "lat_deg": -7.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Bonpland",
+   "nom": "Bonpland",
+   "lon_deg": -17.4,
+   "lat_deg": -8.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Gambart",
+   "nom": "Gambart",
+   "lon_deg": -15.2,
+   "lat_deg": 1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Stadius",
+   "nom": "Stadius",
+   "lon_deg": -13.7,
+   "lat_deg": 10.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Piazzi Smyth",
+   "nom": "Piazzi Smyth",
+   "lon_deg": -3.2,
+   "lat_deg": 41.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Kirch",
+   "nom": "Kirch",
+   "lon_deg": -5.6,
+   "lat_deg": 39.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Montes Spitzbergen",
+   "nom": "Montes Spitzbergen",
+   "lon_deg": -5,
+   "lat_deg": 35,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mons La Hire",
+   "nom": "Mons La Hire",
+   "lon_deg": -25.5,
+   "lat_deg": 27.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Helicon",
+   "nom": "Helicon",
+   "lon_deg": -23.1,
+   "lat_deg": 40.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Le Verrier",
+   "nom": "Le Verrier",
+   "lon_deg": -20.6,
+   "lat_deg": 40.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Delisle",
+   "nom": "Delisle",
+   "lon_deg": -34.6,
+   "lat_deg": 29.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Diophantus",
+   "nom": "Diophantus",
+   "lon_deg": -34.3,
+   "lat_deg": 27.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Promontorium Laplace",
+   "nom": "Promontorium Laplace",
+   "lon_deg": -25.5,
+   "lat_deg": 46.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Promontorium Heraclides",
+   "nom": "Promontorium Heraclides",
+   "lon_deg": -33.2,
+   "lat_deg": 40.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Bianchini",
+   "nom": "Bianchini",
+   "lon_deg": -34.3,
+   "lat_deg": 48.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sharp",
+   "nom": "Sharp",
+   "lon_deg": -40.2,
+   "lat_deg": 45.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:J. Herschel",
+   "nom": "J. Herschel",
+   "lon_deg": -42,
+   "lat_deg": 62,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Philolaus",
+   "nom": "Philolaus",
+   "lon_deg": -32.4,
+   "lat_deg": 72.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:W. Bond",
+   "nom": "W. Bond",
+   "lon_deg": 4.5,
+   "lat_deg": 65.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Egede",
+   "nom": "Egede",
+   "lon_deg": 10.6,
+   "lat_deg": 48.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Alexander",
+   "nom": "Alexander",
+   "lon_deg": 13.5,
+   "lat_deg": 40.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Calippus",
+   "nom": "Calippus",
+   "lon_deg": 10.7,
+   "lat_deg": 38.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Linné",
+   "nom": "Linné",
+   "lon_deg": 11.8,
+   "lat_deg": 27.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Bessel",
+   "nom": "Bessel",
+   "lon_deg": 17.9,
+   "lat_deg": 21.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Valentine",
+   "nom": "Valentine",
+   "lon_deg": 10.1,
+   "lat_deg": 30.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Chacornac",
+   "nom": "Chacornac",
+   "lon_deg": 31.7,
+   "lat_deg": 29.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Römer",
+   "nom": "Römer",
+   "lon_deg": 36.4,
+   "lat_deg": 25.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Littrow",
+   "nom": "Littrow",
+   "lon_deg": 31.4,
+   "lat_deg": 21.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Vitruvius",
+   "nom": "Vitruvius",
+   "lon_deg": 31.3,
+   "lat_deg": 17.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mons Argaeus",
+   "nom": "Mons Argaeus",
+   "lon_deg": 29,
+   "lat_deg": 19.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Franklin",
+   "nom": "Franklin",
+   "lon_deg": 47.7,
+   "lat_deg": 38.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Cepheus",
+   "nom": "Cepheus",
+   "lon_deg": 45.8,
+   "lat_deg": 40.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Geminus",
+   "nom": "Geminus",
+   "lon_deg": 56.7,
+   "lat_deg": 34.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Messala",
+   "nom": "Messala",
+   "lon_deg": 60.5,
+   "lat_deg": 39.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Gauss",
+   "nom": "Gauss",
+   "lon_deg": 79,
+   "lat_deg": 35.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Picard",
+   "nom": "Picard",
+   "lon_deg": 54.7,
+   "lat_deg": 14.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Peirce",
+   "nom": "Peirce",
+   "lon_deg": 53.4,
+   "lat_deg": 18.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Promontorium Agarum",
+   "nom": "Promontorium Agarum",
+   "lon_deg": 66,
+   "lat_deg": 14,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Firmicus",
+   "nom": "Firmicus",
+   "lon_deg": 63.4,
+   "lat_deg": 7.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Apollonius",
+   "nom": "Apollonius",
+   "lon_deg": 61.1,
+   "lat_deg": 4.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Snellius",
+   "nom": "Snellius",
+   "lon_deg": 55.7,
+   "lat_deg": -29.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Humboldt",
+   "nom": "Humboldt",
+   "lon_deg": 80.9,
+   "lat_deg": -27.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Fabricius",
+   "nom": "Fabricius",
+   "lon_deg": 42,
+   "lat_deg": -42.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Metius",
+   "nom": "Metius",
+   "lon_deg": 43.3,
+   "lat_deg": -40.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rheita",
+   "nom": "Rheita",
+   "lon_deg": 47.2,
+   "lat_deg": -37.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Curtius",
+   "nom": "Curtius",
+   "lon_deg": 4.4,
+   "lat_deg": -67.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Blancanus",
+   "nom": "Blancanus",
+   "lon_deg": -21.4,
+   "lat_deg": -63.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Scheiner",
+   "nom": "Scheiner",
+   "lon_deg": -27.8,
+   "lat_deg": -60.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Phocylides",
+   "nom": "Phocylides",
+   "lon_deg": -57,
+   "lat_deg": -52.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Inghirami",
+   "nom": "Inghirami",
+   "lon_deg": -68.8,
+   "lat_deg": -47.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Hansteen",
+   "nom": "Hansteen",
+   "lon_deg": -52,
+   "lat_deg": -11.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Cavalerius",
+   "nom": "Cavalerius",
+   "lon_deg": -66.8,
+   "lat_deg": 5.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Olbers",
+   "nom": "Olbers",
+   "lon_deg": -75.9,
+   "lat_deg": 7.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Seleucus",
+   "nom": "Seleucus",
+   "lon_deg": -66.6,
+   "lat_deg": 21,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Briggs",
+   "nom": "Briggs",
+   "lon_deg": -69.1,
+   "lat_deg": 26.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lichtenberg",
+   "nom": "Lichtenberg",
+   "lon_deg": -67.7,
+   "lat_deg": 31.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Montes Harbinger",
+   "nom": "Montes Harbinger",
+   "lon_deg": -41,
+   "lat_deg": 27,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Condorcet",
+   "nom": "Condorcet",
+   "lon_deg": 69.6,
+   "lat_deg": 12.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Hahn",
+   "nom": "Hahn",
+   "lon_deg": 73.6,
+   "lat_deg": 31.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Berosus",
+   "nom": "Berosus",
+   "lon_deg": 69.9,
+   "lat_deg": 33.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Burckhardt",
+   "nom": "Burckhardt",
+   "lon_deg": 56.5,
+   "lat_deg": 31.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dubyago",
+   "nom": "Dubyago",
+   "lon_deg": 70,
+   "lat_deg": 4.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lamé",
+   "nom": "Lamé",
+   "lon_deg": 64.5,
+   "lat_deg": -14.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Legendre",
+   "nom": "Legendre",
+   "lon_deg": 70.2,
+   "lat_deg": -28.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Adams",
+   "nom": "Adams",
+   "lon_deg": 68.2,
+   "lat_deg": -31.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Hase",
+   "nom": "Hase",
+   "lon_deg": 62.5,
+   "lat_deg": -29.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Gilbert",
+   "nom": "Gilbert",
+   "lon_deg": 76,
+   "lat_deg": -3.2,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Kästner",
+   "nom": "Kästner",
+   "lon_deg": 78.5,
+   "lat_deg": -6.8,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Hécatée",
+   "nom": "Hécatée",
+   "lon_deg": 79.4,
+   "lat_deg": -21.8,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Wrottesley",
+   "nom": "Wrottesley",
+   "lon_deg": 56.8,
+   "lat_deg": -23.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Vega",
+   "nom": "Vega",
+   "lon_deg": 63.4,
+   "lat_deg": -45.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Reichenbach",
+   "nom": "Reichenbach",
+   "lon_deg": 48,
+   "lat_deg": -30.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Neander",
+   "nom": "Neander",
+   "lon_deg": 39.9,
+   "lat_deg": -31.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Young",
+   "nom": "Young",
+   "lon_deg": 50.9,
+   "lat_deg": -41.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Watt",
+   "nom": "Watt",
+   "lon_deg": 48.6,
+   "lat_deg": -49.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Steinheil",
+   "nom": "Steinheil",
+   "lon_deg": 46.5,
+   "lat_deg": -48.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Biela",
+   "nom": "Biela",
+   "lon_deg": 51.3,
+   "lat_deg": -54.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Hagecius",
+   "nom": "Hagecius",
+   "lon_deg": 46.6,
+   "lat_deg": -59.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rosenberger",
+   "nom": "Rosenberger",
+   "lon_deg": 43.1,
+   "lat_deg": -55.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Nearch",
+   "nom": "Nearch",
+   "lon_deg": 39.1,
+   "lat_deg": -58.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Vlacq",
+   "nom": "Vlacq",
+   "lon_deg": 38.8,
+   "lat_deg": -53.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Hommel",
+   "nom": "Hommel",
+   "lon_deg": 33.8,
+   "lat_deg": -54.7,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Pitiscus",
+   "nom": "Pitiscus",
+   "lon_deg": 30.9,
+   "lat_deg": -50.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Brenner",
+   "nom": "Brenner",
+   "lon_deg": 39.3,
+   "lat_deg": -39,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mallet",
+   "nom": "Mallet",
+   "lon_deg": 54.2,
+   "lat_deg": -45.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Zagut",
+   "nom": "Zagut",
+   "lon_deg": 22.1,
+   "lat_deg": -32,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lindenau",
+   "nom": "Lindenau",
+   "lon_deg": 24.9,
+   "lat_deg": -32.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rabbi Levi",
+   "nom": "Rabbi Levi",
+   "lon_deg": 23.6,
+   "lat_deg": -34.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Riccius",
+   "nom": "Riccius",
+   "lon_deg": 26.5,
+   "lat_deg": -36.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Büsching",
+   "nom": "Büsching",
+   "lon_deg": 20,
+   "lat_deg": -38,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Buch",
+   "nom": "Buch",
+   "lon_deg": 17.7,
+   "lat_deg": -38.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Gemma Frisius",
+   "nom": "Gemma Frisius",
+   "lon_deg": 13.3,
+   "lat_deg": -34.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Nonius",
+   "nom": "Nonius",
+   "lon_deg": 3.8,
+   "lat_deg": -34.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Kaiser",
+   "nom": "Kaiser",
+   "lon_deg": 6.5,
+   "lat_deg": -36.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Fernelius",
+   "nom": "Fernelius",
+   "lon_deg": 4.9,
+   "lat_deg": -38.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Wilkins",
+   "nom": "Wilkins",
+   "lon_deg": 19.6,
+   "lat_deg": -29.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Pontanus",
+   "nom": "Pontanus",
+   "lon_deg": 14.4,
+   "lat_deg": -28.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Parrot",
+   "nom": "Parrot",
+   "lon_deg": 3.3,
+   "lat_deg": -14.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lade",
+   "nom": "Lade",
+   "lon_deg": 10.1,
+   "lat_deg": -1.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Murchison",
+   "nom": "Murchison",
+   "lon_deg": -0.1,
+   "lat_deg": 5.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Réaumur",
+   "nom": "Réaumur",
+   "lon_deg": 0.7,
+   "lat_deg": -2.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Barocius",
+   "nom": "Barocius",
+   "lon_deg": 16.8,
+   "lat_deg": -44.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Clairaut",
+   "nom": "Clairaut",
+   "lon_deg": 13.9,
+   "lat_deg": -47.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Cuvier",
+   "nom": "Cuvier",
+   "lon_deg": 9.9,
+   "lat_deg": -50.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Héraclite",
+   "nom": "Héraclite",
+   "lon_deg": 6.2,
+   "lat_deg": -49.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Licetus",
+   "nom": "Licetus",
+   "lon_deg": 6.7,
+   "lat_deg": -47.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Zach",
+   "nom": "Zach",
+   "lon_deg": 5.3,
+   "lat_deg": -60.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lilius",
+   "nom": "Lilius",
+   "lon_deg": 6.2,
+   "lat_deg": -54.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Jacobi",
+   "nom": "Jacobi",
+   "lon_deg": 11.4,
+   "lat_deg": -56.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Pentland",
+   "nom": "Pentland",
+   "lon_deg": 11.5,
+   "lat_deg": -64.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Faraday",
+   "nom": "Faraday",
+   "lon_deg": 8.7,
+   "lat_deg": -42.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Miller",
+   "nom": "Miller",
+   "lon_deg": 0.8,
+   "lat_deg": -39.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Nasireddin",
+   "nom": "Nasireddin",
+   "lon_deg": 0.2,
+   "lat_deg": -41,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Huggins",
+   "nom": "Huggins",
+   "lon_deg": -1.4,
+   "lat_deg": -41.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Orontius",
+   "nom": "Orontius",
+   "lon_deg": -4.6,
+   "lat_deg": -40.6,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Saussure",
+   "nom": "Saussure",
+   "lon_deg": -3.8,
+   "lat_deg": -43.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lexell",
+   "nom": "Lexell",
+   "lon_deg": -4.2,
+   "lat_deg": -35.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sasserides",
+   "nom": "Sasserides",
+   "lon_deg": -9.3,
+   "lat_deg": -39.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Pictet",
+   "nom": "Pictet",
+   "lon_deg": -7.4,
+   "lat_deg": -43.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Street",
+   "nom": "Street",
+   "lon_deg": -10.5,
+   "lat_deg": -46.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Porter",
+   "nom": "Porter",
+   "lon_deg": -10.1,
+   "lat_deg": -56.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Gruemberger",
+   "nom": "Gruemberger",
+   "lon_deg": -10,
+   "lat_deg": -66.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Gauricus",
+   "nom": "Gauricus",
+   "lon_deg": -12.6,
+   "lat_deg": -33.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Wurzelbauer",
+   "nom": "Wurzelbauer",
+   "lon_deg": -15.9,
+   "lat_deg": -33.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Weiss",
+   "nom": "Weiss",
+   "lon_deg": -19.5,
+   "lat_deg": -31.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lagalla",
+   "nom": "Lagalla",
+   "lon_deg": -22.5,
+   "lat_deg": -44.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Montanari",
+   "nom": "Montanari",
+   "lon_deg": -20.6,
+   "lat_deg": -45.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mee",
+   "nom": "Mee",
+   "lon_deg": -35.3,
+   "lat_deg": -43.7,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Zucchius",
+   "nom": "Zucchius",
+   "lon_deg": -50.3,
+   "lat_deg": -61.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Segner",
+   "nom": "Segner",
+   "lon_deg": -48.3,
+   "lat_deg": -58.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Bettinus",
+   "nom": "Bettinus",
+   "lon_deg": -44.8,
+   "lat_deg": -63.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Kircher",
+   "nom": "Kircher",
+   "lon_deg": -45.3,
+   "lat_deg": -67.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Wilson",
+   "nom": "Wilson",
+   "lon_deg": -42.4,
+   "lat_deg": -69.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Casatus",
+   "nom": "Casatus",
+   "lon_deg": -29.5,
+   "lat_deg": -72.8,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Klaproth",
+   "nom": "Klaproth",
+   "lon_deg": -26,
+   "lat_deg": -69.8,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Manzinus",
+   "nom": "Manzinus",
+   "lon_deg": 26.8,
+   "lat_deg": -67.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mutus",
+   "nom": "Mutus",
+   "lon_deg": 30.1,
+   "lat_deg": -63.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Boguslawsky",
+   "nom": "Boguslawsky",
+   "lon_deg": 43.2,
+   "lat_deg": -72.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Simpelius",
+   "nom": "Simpelius",
+   "lon_deg": 15.2,
+   "lat_deg": -73,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Newton",
+   "nom": "Newton",
+   "lon_deg": -16.9,
+   "lat_deg": -76.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Short",
+   "nom": "Short",
+   "lon_deg": -7.3,
+   "lat_deg": -74.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Cabeus",
+   "nom": "Cabeus",
+   "lon_deg": -35.5,
+   "lat_deg": -84.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Malapert",
+   "nom": "Malapert",
+   "lon_deg": 12.9,
+   "lat_deg": -84.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Schomberger",
+   "nom": "Schomberger",
+   "lon_deg": 24.9,
+   "lat_deg": -76.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Byrgius",
+   "nom": "Byrgius",
+   "lon_deg": -65.3,
+   "lat_deg": -24.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lamarck",
+   "nom": "Lamarck",
+   "lon_deg": -69.8,
+   "lat_deg": -22.9,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Darwin",
+   "nom": "Darwin",
+   "lon_deg": -69.5,
+   "lat_deg": -20.2,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Cavendish",
+   "nom": "Cavendish",
+   "lon_deg": -53.7,
+   "lat_deg": -24.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Vieta",
+   "nom": "Vieta",
+   "lon_deg": -56.3,
+   "lat_deg": -29.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Fourier",
+   "nom": "Fourier",
+   "lon_deg": -53,
+   "lat_deg": -30.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lehmann",
+   "nom": "Lehmann",
+   "lon_deg": -56,
+   "lat_deg": -40,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Nasmyth",
+   "nom": "Nasmyth",
+   "lon_deg": -56.2,
+   "lat_deg": -50.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Piazzi",
+   "nom": "Piazzi",
+   "lon_deg": -67.9,
+   "lat_deg": -36.6,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Lagrange",
+   "nom": "Lagrange",
+   "lon_deg": -72.8,
+   "lat_deg": -32.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Hippalus",
+   "nom": "Hippalus",
+   "lon_deg": -30.2,
+   "lat_deg": -24.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rocca",
+   "nom": "Rocca",
+   "lon_deg": -72.8,
+   "lat_deg": -12.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Hedin",
+   "nom": "Hedin",
+   "lon_deg": -76.5,
+   "lat_deg": 2,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Krafft",
+   "nom": "Krafft",
+   "lon_deg": -72.6,
+   "lat_deg": 16.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Arnold",
+   "nom": "Arnold",
+   "lon_deg": 35.9,
+   "lat_deg": 66.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Baillaud",
+   "nom": "Baillaud",
+   "lon_deg": 37.5,
+   "lat_deg": 74.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Barrow",
+   "nom": "Barrow",
+   "lon_deg": 7.7,
+   "lat_deg": 71.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Goldschmidt",
+   "nom": "Goldschmidt",
+   "lon_deg": -3.8,
+   "lat_deg": 73.2,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Épigène",
+   "nom": "Épigène",
+   "lon_deg": -4.6,
+   "lat_deg": 67.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Babbage",
+   "nom": "Babbage",
+   "lon_deg": -57.1,
+   "lat_deg": 59.7,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Anaximène",
+   "nom": "Anaximène",
+   "lon_deg": -44.5,
+   "lat_deg": 72.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Œnopide",
+   "nom": "Œnopide",
+   "lon_deg": -64.1,
+   "lat_deg": 57,
+   "priorite": 3
+  },
+  {
+   "id": "lune:De La Rue",
+   "nom": "De La Rue",
+   "lon_deg": 52.3,
+   "lat_deg": 59.1,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Strabon",
+   "nom": "Strabon",
+   "lon_deg": 54.3,
+   "lat_deg": 61.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mercurius",
+   "nom": "Mercurius",
+   "lon_deg": 66.2,
+   "lat_deg": 46.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Schumacher",
+   "nom": "Schumacher",
+   "lon_deg": 60.7,
+   "lat_deg": 42.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Zénon",
+   "nom": "Zénon",
+   "lon_deg": 72.9,
+   "lat_deg": 45.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Chevallier",
+   "nom": "Chevallier",
+   "lon_deg": 51.2,
+   "lat_deg": 44.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Berzelius",
+   "nom": "Berzelius",
+   "lon_deg": 50.9,
+   "lat_deg": 36.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dawes",
+   "nom": "Dawes",
+   "lon_deg": 26.4,
+   "lat_deg": 17.2,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Maclear",
+   "nom": "Maclear",
+   "lon_deg": 20,
+   "lat_deg": 10.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sosigenes",
+   "nom": "Sosigenes",
+   "lon_deg": 17.6,
+   "lat_deg": 8.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sulpicius Gallus",
+   "nom": "Sulpicius Gallus",
+   "lon_deg": 11.7,
+   "lat_deg": 19.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Boscovich",
+   "nom": "Boscovich",
+   "lon_deg": 11.1,
+   "lat_deg": 10,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Pickering",
+   "nom": "Pickering",
+   "lon_deg": 7,
+   "lat_deg": -2.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Theon Senior",
+   "nom": "Theon Senior",
+   "lon_deg": 15.4,
+   "lat_deg": -0.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Theon Junior",
+   "nom": "Theon Junior",
+   "lon_deg": 15.8,
+   "lat_deg": -2.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Cayley",
+   "nom": "Cayley",
+   "lon_deg": 15.1,
+   "lat_deg": 3.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Ritter",
+   "nom": "Ritter",
+   "lon_deg": 19.3,
+   "lat_deg": 1.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sabine",
+   "nom": "Sabine",
+   "lon_deg": 20.1,
+   "lat_deg": 1.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Schmidt",
+   "nom": "Schmidt",
+   "lon_deg": 18.8,
+   "lat_deg": 1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Silberschlag",
+   "nom": "Silberschlag",
+   "lon_deg": 12.5,
+   "lat_deg": 6.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rhaeticus",
+   "nom": "Rhaeticus",
+   "lon_deg": 5,
+   "lat_deg": 0,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Ukert",
+   "nom": "Ukert",
+   "lon_deg": 1.4,
+   "lat_deg": 7.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Schröter",
+   "nom": "Schröter",
+   "lon_deg": -7.1,
+   "lat_deg": 2.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Hind",
+   "nom": "Hind",
+   "lon_deg": 7.4,
+   "lat_deg": -8,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Halley",
+   "nom": "Halley",
+   "lon_deg": 5.8,
+   "lat_deg": -8.2,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Horrocks",
+   "nom": "Horrocks",
+   "lon_deg": 5.9,
+   "lat_deg": -4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Saunder",
+   "nom": "Saunder",
+   "lon_deg": 8.9,
+   "lat_deg": -4.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Spörer",
+   "nom": "Spörer",
+   "lon_deg": -1.9,
+   "lat_deg": -4.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Taylor",
+   "nom": "Taylor",
+   "lon_deg": 16.6,
+   "lat_deg": -5.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Zöllner",
+   "nom": "Zöllner",
+   "lon_deg": 19,
+   "lat_deg": -8.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Descartes",
+   "nom": "Descartes",
+   "lon_deg": 15.8,
+   "lat_deg": -11.6,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Abenezra",
+   "nom": "Abenezra",
+   "lon_deg": 11.8,
+   "lat_deg": -20.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Azophi",
+   "nom": "Azophi",
+   "lon_deg": 12.7,
+   "lat_deg": -22.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Geber",
+   "nom": "Geber",
+   "lon_deg": 14,
+   "lat_deg": -19.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Almanon",
+   "nom": "Almanon",
+   "lon_deg": 15.5,
+   "lat_deg": -16.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Tacitus",
+   "nom": "Tacitus",
+   "lon_deg": 19,
+   "lat_deg": -16.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Playfair",
+   "nom": "Playfair",
+   "lon_deg": 8.5,
+   "lat_deg": -23.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Argelander",
+   "nom": "Argelander",
+   "lon_deg": 5.9,
+   "lat_deg": -16.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Davy",
+   "nom": "Davy",
+   "lon_deg": -8.3,
+   "lat_deg": -11.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Hesiodus",
+   "nom": "Hesiodus",
+   "lon_deg": -16.3,
+   "lat_deg": -29.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Nicollet",
+   "nom": "Nicollet",
+   "lon_deg": -12.5,
+   "lat_deg": -22,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Müller",
+   "nom": "Müller",
+   "lon_deg": 2,
+   "lat_deg": -7.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Tobias Mayer",
+   "nom": "Tobias Mayer",
+   "lon_deg": -29.2,
+   "lat_deg": 15.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Euclide",
+   "nom": "Euclide",
+   "lon_deg": -29.5,
+   "lat_deg": -7.4,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Milichius",
+   "nom": "Milichius",
+   "lon_deg": -30.2,
+   "lat_deg": 10,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Encke",
+   "nom": "Encke",
+   "lon_deg": -36.6,
+   "lat_deg": 4.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Gay-Lussac",
+   "nom": "Gay-Lussac",
+   "lon_deg": -20.7,
+   "lat_deg": 13.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Beer",
+   "nom": "Beer",
+   "lon_deg": -9.1,
+   "lat_deg": 27.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Gruithuisen",
+   "nom": "Gruithuisen",
+   "lon_deg": -39.8,
+   "lat_deg": 32.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Maupertuis",
+   "nom": "Maupertuis",
+   "lon_deg": -27.6,
+   "lat_deg": 49.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Foucault",
+   "nom": "Foucault",
+   "lon_deg": -39.8,
+   "lat_deg": 50.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Fontenelle",
+   "nom": "Fontenelle",
+   "lon_deg": -19.2,
+   "lat_deg": 63.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mairan",
+   "nom": "Mairan",
+   "lon_deg": -43.6,
+   "lat_deg": 41.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Harpalus",
+   "nom": "Harpalus",
+   "lon_deg": -43.3,
+   "lat_deg": 52.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Timée",
+   "nom": "Timée",
+   "lon_deg": -0.4,
+   "lat_deg": 62.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Archytas",
+   "nom": "Archytas",
+   "lon_deg": 5.2,
+   "lat_deg": 58.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Protagoras",
+   "nom": "Protagoras",
+   "lon_deg": 7.4,
+   "lat_deg": 56,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mitchell",
+   "nom": "Mitchell",
+   "lon_deg": 20.3,
+   "lat_deg": 49.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Grove",
+   "nom": "Grove",
+   "lon_deg": 33,
+   "lat_deg": 40.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Baily",
+   "nom": "Baily",
+   "lon_deg": 30.5,
+   "lat_deg": 49.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Newcomb",
+   "nom": "Newcomb",
+   "lon_deg": 43.8,
+   "lat_deg": 30,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Williams",
+   "nom": "Williams",
+   "lon_deg": 37.5,
+   "lat_deg": 42,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mason",
+   "nom": "Mason",
+   "lon_deg": 30.5,
+   "lat_deg": 42.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Plana",
+   "nom": "Plana",
+   "lon_deg": 28.5,
+   "lat_deg": 42.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Hall",
+   "nom": "Hall",
+   "lon_deg": 36.9,
+   "lat_deg": 33.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Daniell",
+   "nom": "Daniell",
+   "lon_deg": 31.3,
+   "lat_deg": 35.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lyell",
+   "nom": "Lyell",
+   "lon_deg": 40.7,
+   "lat_deg": 13.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Maraldi",
+   "nom": "Maraldi",
+   "lon_deg": 34.9,
+   "lat_deg": 19.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Cameron",
+   "nom": "Cameron",
+   "lon_deg": 45.9,
+   "lat_deg": 6.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lawrence",
+   "nom": "Lawrence",
+   "lon_deg": 43.4,
+   "lat_deg": 7.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Isidorus",
+   "nom": "Isidorus",
+   "lon_deg": 33.4,
+   "lat_deg": -8.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Magelhaens",
+   "nom": "Magelhaens",
+   "lon_deg": 44,
+   "lat_deg": -12.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Santbech",
+   "nom": "Santbech",
+   "lon_deg": 44,
+   "lat_deg": -21.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Bohnenberger",
+   "nom": "Bohnenberger",
+   "lon_deg": 40,
+   "lat_deg": -16,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Eimmart",
+   "nom": "Eimmart",
+   "lon_deg": 64.7,
+   "lat_deg": 24.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lohrmann",
+   "nom": "Lohrmann",
+   "lon_deg": -67.5,
+   "lat_deg": -0.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Galilaei",
+   "nom": "Galilaei",
+   "lon_deg": -62.8,
+   "lat_deg": 10.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Mortis",
+   "nom": "Lacus Mortis",
+   "lon_deg": 27.2,
+   "lat_deg": 45,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Lacus Bonitatis",
+   "nom": "Lacus Bonitatis",
+   "lon_deg": 43.7,
+   "lat_deg": 23.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Felicitatis",
+   "nom": "Lacus Felicitatis",
+   "lon_deg": 5,
+   "lat_deg": 19,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Gaudii",
+   "nom": "Lacus Gaudii",
+   "lon_deg": 12.6,
+   "lat_deg": 16.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Lenitatis",
+   "nom": "Lacus Lenitatis",
+   "lon_deg": 12,
+   "lat_deg": 14,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Hiemalis",
+   "nom": "Lacus Hiemalis",
+   "lon_deg": 14,
+   "lat_deg": 15,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Odii",
+   "nom": "Lacus Odii",
+   "lon_deg": 7,
+   "lat_deg": 19,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Doloris",
+   "nom": "Lacus Doloris",
+   "lon_deg": 9,
+   "lat_deg": 17.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Excellentiae",
+   "nom": "Lacus Excellentiae",
+   "lon_deg": -44,
+   "lat_deg": -35.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Timoris",
+   "nom": "Lacus Timoris",
+   "lon_deg": -27.3,
+   "lat_deg": -38.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Perseverantiae",
+   "nom": "Lacus Perseverantiae",
+   "lon_deg": 62,
+   "lat_deg": 8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Spei",
+   "nom": "Lacus Spei",
+   "lon_deg": 65,
+   "lat_deg": 43,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Temporis",
+   "nom": "Lacus Temporis",
+   "lon_deg": 58.4,
+   "lat_deg": 45.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Aestatis",
+   "nom": "Lacus Aestatis",
+   "lon_deg": -69,
+   "lat_deg": -15,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Autumni",
+   "nom": "Lacus Autumni",
+   "lon_deg": -83.9,
+   "lat_deg": -9.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Lacus Veris",
+   "nom": "Lacus Veris",
+   "lon_deg": -86.1,
+   "lat_deg": -16.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sinus Amoris",
+   "nom": "Sinus Amoris",
+   "lon_deg": 39.1,
+   "lat_deg": 18.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sinus Asperitatis",
+   "nom": "Sinus Asperitatis",
+   "lon_deg": 27.4,
+   "lat_deg": -3.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sinus Concordiae",
+   "nom": "Sinus Concordiae",
+   "lon_deg": 43.2,
+   "lat_deg": 10.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sinus Fidei",
+   "nom": "Sinus Fidei",
+   "lon_deg": 2,
+   "lat_deg": 18,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sinus Honoris",
+   "nom": "Sinus Honoris",
+   "lon_deg": 18.1,
+   "lat_deg": 11.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sinus Lunicus",
+   "nom": "Sinus Lunicus",
+   "lon_deg": -1.4,
+   "lat_deg": 31.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sinus Roris",
+   "nom": "Sinus Roris",
+   "lon_deg": -56.6,
+   "lat_deg": 54,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Sinus Successus",
+   "nom": "Sinus Successus",
+   "lon_deg": 59,
+   "lat_deg": 0.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Palus Epidemiarum",
+   "nom": "Palus Epidemiarum",
+   "lon_deg": -28.2,
+   "lat_deg": -32,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Palus Somni",
+   "nom": "Palus Somni",
+   "lon_deg": 45,
+   "lat_deg": 14.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Promontorium Kelvin",
+   "nom": "Promontorium Kelvin",
+   "lon_deg": -33,
+   "lat_deg": -27,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Promontorium Taenarium",
+   "nom": "Promontorium Taenarium",
+   "lon_deg": -8,
+   "lat_deg": -19,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Promontorium Fresnel",
+   "nom": "Promontorium Fresnel",
+   "lon_deg": 4.7,
+   "lat_deg": 29,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Promontorium Deville",
+   "nom": "Promontorium Deville",
+   "lon_deg": 1,
+   "lat_deg": 43.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Promontorium Archerusia",
+   "nom": "Promontorium Archerusia",
+   "lon_deg": 22,
+   "lat_deg": 16.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rupes Cauchy",
+   "nom": "Rupes Cauchy",
+   "lon_deg": 37,
+   "lat_deg": 9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rupes Liebig",
+   "nom": "Rupes Liebig",
+   "lon_deg": -48.5,
+   "lat_deg": -24.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rupes Mercator",
+   "nom": "Rupes Mercator",
+   "lon_deg": -22.3,
+   "lat_deg": -31,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rupes Kelvin",
+   "nom": "Rupes Kelvin",
+   "lon_deg": -33.1,
+   "lat_deg": -27.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rupes Toscanelli",
+   "nom": "Rupes Toscanelli",
+   "lon_deg": -47.5,
+   "lat_deg": 27.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mons Hadley",
+   "nom": "Mons Hadley",
+   "lon_deg": 4.7,
+   "lat_deg": 26.5,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Mons Hadley Delta",
+   "nom": "Mons Hadley Delta",
+   "lon_deg": 3.8,
+   "lat_deg": 25.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mons Bradley",
+   "nom": "Mons Bradley",
+   "lon_deg": 1,
+   "lat_deg": 22,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mons Huygens",
+   "nom": "Mons Huygens",
+   "lon_deg": -2.9,
+   "lat_deg": 20,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mons Ampère",
+   "nom": "Mons Ampère",
+   "lon_deg": -4,
+   "lat_deg": 19,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mons Wolff",
+   "nom": "Mons Wolff",
+   "lon_deg": -6.8,
+   "lat_deg": 17,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Montes Archimedes",
+   "nom": "Montes Archimedes",
+   "lon_deg": -4.6,
+   "lat_deg": 25.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Montes Agricola",
+   "nom": "Montes Agricola",
+   "lon_deg": -54.2,
+   "lat_deg": 29.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mons Gruithuisen Delta",
+   "nom": "Mons Gruithuisen Delta",
+   "lon_deg": -39.5,
+   "lat_deg": 36,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mons Vinogradov",
+   "nom": "Mons Vinogradov",
+   "lon_deg": -32.4,
+   "lat_deg": 22.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mons Delisle",
+   "nom": "Mons Delisle",
+   "lon_deg": -35.8,
+   "lat_deg": 29.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Montes Riphaeus",
+   "nom": "Montes Riphaeus",
+   "lon_deg": -28.1,
+   "lat_deg": -7.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Montes Pyrenaeus",
+   "nom": "Montes Pyrenaeus",
+   "lon_deg": 41.2,
+   "lat_deg": -15.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Montes Secchi",
+   "nom": "Montes Secchi",
+   "lon_deg": 43,
+   "lat_deg": 3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Montes Taurus",
+   "nom": "Montes Taurus",
+   "lon_deg": 41.1,
+   "lat_deg": 28.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mons Penck",
+   "nom": "Mons Penck",
+   "lon_deg": 21.6,
+   "lat_deg": -10,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mons Hansteen",
+   "nom": "Mons Hansteen",
+   "lon_deg": -50,
+   "lat_deg": -12.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mons Maraldi",
+   "nom": "Mons Maraldi",
+   "lon_deg": 35.3,
+   "lat_deg": 20.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mont Blanc",
+   "nom": "Mont Blanc",
+   "lon_deg": 1,
+   "lat_deg": 45,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Montes Cordillera",
+   "nom": "Montes Cordillera",
+   "lon_deg": -81.6,
+   "lat_deg": -17.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Montes Rook",
+   "nom": "Montes Rook",
+   "lon_deg": -82.5,
+   "lat_deg": -20.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rima Hyginus",
+   "nom": "Rima Hyginus",
+   "lon_deg": 7.8,
+   "lat_deg": 7.4,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Rimae Triesnecker",
+   "nom": "Rimae Triesnecker",
+   "lon_deg": 4.6,
+   "lat_deg": 4.3,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Rimae Bode",
+   "nom": "Rimae Bode",
+   "lon_deg": -4,
+   "lat_deg": 10,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rima Bradley",
+   "nom": "Rima Bradley",
+   "lon_deg": -1.2,
+   "lat_deg": 23.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rima Sharp",
+   "nom": "Rima Sharp",
+   "lon_deg": -50.5,
+   "lat_deg": 46.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Plato",
+   "nom": "Rimae Plato",
+   "lon_deg": -3.2,
+   "lat_deg": 52.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Archimedes",
+   "nom": "Rimae Archimedes",
+   "lon_deg": -4.1,
+   "lat_deg": 26.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Aristarchus",
+   "nom": "Rimae Aristarchus",
+   "lon_deg": -47.5,
+   "lat_deg": 26.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rima Marius",
+   "nom": "Rima Marius",
+   "lon_deg": -48.9,
+   "lat_deg": 16.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rima Cauchy",
+   "nom": "Rima Cauchy",
+   "lon_deg": 38,
+   "lat_deg": 10.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Posidonius",
+   "nom": "Rimae Posidonius",
+   "lon_deg": 28.7,
+   "lat_deg": 32,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Menelaus",
+   "nom": "Rimae Menelaus",
+   "lon_deg": 17.9,
+   "lat_deg": 17.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Sulpicius Gallus",
+   "nom": "Rimae Sulpicius Gallus",
+   "lon_deg": 10,
+   "lat_deg": 21,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Littrow",
+   "nom": "Rimae Littrow",
+   "lon_deg": 29.9,
+   "lat_deg": 22.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Plinius",
+   "nom": "Rimae Plinius",
+   "lon_deg": 23.6,
+   "lat_deg": 17.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Maclear",
+   "nom": "Rimae Maclear",
+   "lon_deg": 20,
+   "lat_deg": 13,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Ritter",
+   "nom": "Rimae Ritter",
+   "lon_deg": 18,
+   "lat_deg": 3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Sosigenes",
+   "nom": "Rimae Sosigenes",
+   "lon_deg": 18.7,
+   "lat_deg": 8.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Hypatia",
+   "nom": "Rimae Hypatia",
+   "lon_deg": 22.4,
+   "lat_deg": -0.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Gutenberg",
+   "nom": "Rimae Gutenberg",
+   "lon_deg": 38,
+   "lat_deg": -5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Goclenius",
+   "nom": "Rimae Goclenius",
+   "lon_deg": 43,
+   "lat_deg": -8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Herigonius",
+   "nom": "Rimae Herigonius",
+   "lon_deg": -37,
+   "lat_deg": -13,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Gassendi",
+   "nom": "Rimae Gassendi",
+   "lon_deg": -40,
+   "lat_deg": -18,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Mersenius",
+   "nom": "Rimae Mersenius",
+   "lon_deg": -49.2,
+   "lat_deg": -21.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Doppelmayer",
+   "nom": "Rimae Doppelmayer",
+   "lon_deg": -45.1,
+   "lat_deg": -25.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Palmieri",
+   "nom": "Rimae Palmieri",
+   "lon_deg": -47,
+   "lat_deg": -28,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Liebig",
+   "nom": "Rimae Liebig",
+   "lon_deg": -45,
+   "lat_deg": -20,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Ramsden",
+   "nom": "Rimae Ramsden",
+   "lon_deg": -31.4,
+   "lat_deg": -33.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Pitatus",
+   "nom": "Rimae Pitatus",
+   "lon_deg": -13.8,
+   "lat_deg": -28.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rima Hesiodus",
+   "nom": "Rima Hesiodus",
+   "lon_deg": -20,
+   "lat_deg": -30,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Alphonsus",
+   "nom": "Rimae Alphonsus",
+   "lon_deg": -2,
+   "lat_deg": -14,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Arzachel",
+   "nom": "Rimae Arzachel",
+   "lon_deg": -2,
+   "lat_deg": -18,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Parry",
+   "nom": "Rimae Parry",
+   "lon_deg": -16.8,
+   "lat_deg": -6.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Opelt",
+   "nom": "Rimae Opelt",
+   "lon_deg": -18,
+   "lat_deg": -13,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Taruntius",
+   "nom": "Rimae Taruntius",
+   "lon_deg": 46.5,
+   "lat_deg": 5.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Apollonius",
+   "nom": "Rimae Apollonius",
+   "lon_deg": 53,
+   "lat_deg": 5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Maestlin",
+   "nom": "Rimae Maestlin",
+   "lon_deg": -40,
+   "lat_deg": 2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rima Schröter",
+   "nom": "Rima Schröter",
+   "lon_deg": 0,
+   "lat_deg": 24,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Atlas",
+   "nom": "Rimae Atlas",
+   "lon_deg": 43.6,
+   "lat_deg": 47.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Bürg",
+   "nom": "Rimae Bürg",
+   "lon_deg": 23.8,
+   "lat_deg": 44.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Chacornac",
+   "nom": "Rimae Chacornac",
+   "lon_deg": 32,
+   "lat_deg": 29,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Daniell",
+   "nom": "Rimae Daniell",
+   "lon_deg": 26,
+   "lat_deg": 37,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Römer",
+   "nom": "Rimae Römer",
+   "lon_deg": 35,
+   "lat_deg": 27,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rima G. Bond",
+   "nom": "Rima G. Bond",
+   "lon_deg": 35.5,
+   "lat_deg": 33.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Hevelius",
+   "nom": "Rimae Hevelius",
+   "lon_deg": -68,
+   "lat_deg": 1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Grimaldi",
+   "nom": "Rimae Grimaldi",
+   "lon_deg": -64,
+   "lat_deg": 9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae Zupus",
+   "nom": "Rimae Zupus",
+   "lon_deg": -53,
+   "lat_deg": -15,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rimae de Gasparis",
+   "nom": "Rimae de Gasparis",
+   "lon_deg": -51.1,
+   "lat_deg": -24.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Rima Cardanus",
+   "nom": "Rima Cardanus",
+   "lon_deg": -71.5,
+   "lat_deg": 11.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsum Buckland",
+   "nom": "Dorsum Buckland",
+   "lon_deg": 12.8,
+   "lat_deg": 20.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsum von Cotta",
+   "nom": "Dorsum von Cotta",
+   "lon_deg": 11.9,
+   "lat_deg": 23.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsum Zirkel",
+   "nom": "Dorsum Zirkel",
+   "lon_deg": -23.5,
+   "lat_deg": 28.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsum Heim",
+   "nom": "Dorsum Heim",
+   "lon_deg": -29.8,
+   "lat_deg": 32,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsa Lister",
+   "nom": "Dorsa Lister",
+   "lon_deg": 23.8,
+   "lat_deg": 20.3,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsa Aldrovandi",
+   "nom": "Dorsa Aldrovandi",
+   "lon_deg": 28.5,
+   "lat_deg": 24,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsa Barlow",
+   "nom": "Dorsa Barlow",
+   "lon_deg": 31,
+   "lat_deg": 15,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsa Argand",
+   "nom": "Dorsa Argand",
+   "lon_deg": -40.6,
+   "lat_deg": 28.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsa Cato",
+   "nom": "Dorsa Cato",
+   "lon_deg": 47,
+   "lat_deg": 1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsa Geikie",
+   "nom": "Dorsa Geikie",
+   "lon_deg": 52.5,
+   "lat_deg": -4.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsum Oppel",
+   "nom": "Dorsum Oppel",
+   "lon_deg": 52.6,
+   "lat_deg": 18.7,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsa Harker",
+   "nom": "Dorsa Harker",
+   "lon_deg": 64,
+   "lat_deg": 14.5,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Dorsa Ewing",
+   "nom": "Dorsa Ewing",
+   "lon_deg": -39.4,
+   "lat_deg": -10.2,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mare Anguis",
+   "nom": "Mare Anguis",
+   "lon_deg": 67.7,
+   "lat_deg": 22.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mare Spumans",
+   "nom": "Mare Spumans",
+   "lon_deg": 65.1,
+   "lat_deg": 1.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mare Undarum",
+   "nom": "Mare Undarum",
+   "lon_deg": 68.4,
+   "lat_deg": 6.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Mare Orientale",
+   "nom": "Mare Orientale",
+   "lon_deg": -92.8,
+   "lat_deg": -19.4,
+   "priorite": 2
+  },
+  {
+   "id": "lune:Vallis Capella",
+   "nom": "Vallis Capella",
+   "lon_deg": 34.9,
+   "lat_deg": -7.6,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Vallis Palitzsch",
+   "nom": "Vallis Palitzsch",
+   "lon_deg": 64.3,
+   "lat_deg": -26.4,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Vallis Inghirami",
+   "nom": "Vallis Inghirami",
+   "lon_deg": -72.2,
+   "lat_deg": -43.8,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Vallis Baade",
+   "nom": "Vallis Baade",
+   "lon_deg": -76.2,
+   "lat_deg": -45.9,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Luna 2",
+   "nom": "Site Luna 2",
+   "lon_deg": 0,
+   "lat_deg": 29.1,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Luna 9",
+   "nom": "Site Luna 9",
+   "lon_deg": -64.37,
+   "lat_deg": 7.08,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Luna 16",
+   "nom": "Site Luna 16",
+   "lon_deg": 56.3,
+   "lat_deg": -0.68,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Lunokhod 1",
+   "nom": "Site Lunokhod 1",
+   "lon_deg": -35,
+   "lat_deg": 38.28,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Lunokhod 2",
+   "nom": "Site Lunokhod 2",
+   "lon_deg": 30.38,
+   "lat_deg": 25.51,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Luna 24",
+   "nom": "Site Luna 24",
+   "lon_deg": 62.2,
+   "lat_deg": 12.25,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Ranger 7",
+   "nom": "Site Ranger 7",
+   "lon_deg": -20.58,
+   "lat_deg": -10.35,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Ranger 8",
+   "nom": "Site Ranger 8",
+   "lon_deg": 24.65,
+   "lat_deg": 2.67,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Surveyor 1",
+   "nom": "Site Surveyor 1",
+   "lon_deg": -43.21,
+   "lat_deg": -2.45,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Surveyor 3",
+   "nom": "Site Surveyor 3",
+   "lon_deg": -23.34,
+   "lat_deg": -2.94,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Surveyor 5",
+   "nom": "Site Surveyor 5",
+   "lon_deg": 23.18,
+   "lat_deg": 1.41,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Surveyor 6",
+   "nom": "Site Surveyor 6",
+   "lon_deg": -1.37,
+   "lat_deg": 0.46,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Surveyor 7",
+   "nom": "Site Surveyor 7",
+   "lon_deg": -11.41,
+   "lat_deg": -41.01,
+   "priorite": 3
+  },
+  {
+   "id": "lune:Site Chang'e 3",
+   "nom": "Site Chang'e 3",
+   "lon_deg": -19.51,
+   "lat_deg": 44.12,
+   "priorite": 3
+  },
+  {
+   "id": "lune:X lunaire",
+   "nom": "X lunaire",
+   "lon_deg": 0.5,
+   "lat_deg": -24.6
+  },
+  {
+   "id": "lune:V lunaire",
+   "nom": "V lunaire",
+   "lon_deg": 1.5,
+   "lat_deg": 8.5
+  }
+ ]
+}

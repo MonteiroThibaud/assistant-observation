@@ -1,0 +1,35 @@
+RELIEF FIN DE LA LUNE AVEC SLDEM2015 - Assistant d'observation (application installee)
+====================================================================================
+
+Pourquoi : le relief LOLA seul (meme a 64 points par degre) contient des traces du passage du satellite LRO : traits presque verticaux
+de plusieurs centaines de kilometres dans les mers. SLDEM2015 combine LOLA et la camera stereo du satellite japonais Kaguya (SELENE) :
+il n'interpole pas entre les traces et ne devrait pas les avoir. Il couvre 60 degres N a 60 degres S ; au-dela, le programme garde le relief LOLA,
+avec un raccord progressif sur 2 degres.
+
+SOUS WINDOWS 11 (ou 10) : AUCUNE INSTALLATION
+  1. Extraire le ZIP (clic droit, "Extraire tout"). Si vous avez deja le dossier de l'outil du relief LOLA, copiez-y ces fichiers :
+     Python portable et la carte LOLA de 506 Mo y sont deja, ils ne seront pas retelecharges.
+  2. Double-cliquez sur  Fabriquer-le-relief-sldem.bat
+     (si Windows affiche "Windows a protege votre ordinateur" : "Informations complementaires", puis "Executer quand meme").
+  3. Appuyez sur une touche et attendez : telechargement de la carte SLDEM2015 (2,8 Go), puis fabrication.
+     Prevoyez 4 Go d'espace libre, 3 Go de memoire vive libre, 30 a 90 minutes selon la connexion.
+  4. A la fin, la fenetre affiche TERMINE et le rapport. Envoyez le fichier  relief-sldem.zip  (environ 25 a 30 Mo)
+     dans la conversation avec Claude : il contient relief-fin.bin.gz et rapport.txt.
+
+  Si une etape echoue : relancez simplement le .bat, les etapes deja faites ne sont pas refaites
+  (le telechargement reprend ou il s'etait arrete).
+
+SOUS MAC OU LINUX (ou si vous avez deja Python 3)
+  pip install numpy tifffile
+  https://imbrium.mit.edu/DATA/SLDEM2015/GLOBAL/FLOAT_IMG/SLDEM2015_128_60S_60N_000_360_FLOAT.IMG
+  https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004720/ldem_64_uint.tif
+  python3 fabrique_relief_sldem.py SLDEM2015_128_60S_60N_000_360_FLOAT.IMG ldem_64_uint.tif --sortie relief-sldem
+
+FICHIERS FOURNIS
+  Fabriquer-le-relief-sldem.bat    le lanceur pour Windows
+  fabrique_relief_sldem.py         le programme (utilise aussi fabrique_relief_lune.py, fourni)
+  fabrique_relief_lune.py          fonctions communes (lecture de la carte LOLA, ecriture du relief)
+
+Le programme detecte tout seul l'ordre des octets et l'unite de la carte SLDEM2015, mesure son decalage avec le relief LOLA et le trait
+de relief signale pres du Mare Nectaris, et ecrit tout dans rapport.txt.
+Sources : SLDEM2015 (LOLA Team, Kaguya Team ; Barker et al., 2016, Icarus 273), NASA PDS ; CGI Moon Kit (NASA SVS) : domaine public.

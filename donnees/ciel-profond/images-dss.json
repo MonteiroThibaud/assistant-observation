@@ -1,0 +1,1654 @@
+{
+ "schema": "images-dss-v1",
+ "description": "Images du ciel profond (DSS) : champ (degrés), ascension droite et déclinaison du centre (J2000, degrés), fichier de 512 points (application installée) et, pour 96 objets, de 256 points (page web). Retraitées : niveaux de gris, fond assombri, détails faibles atténués.",
+ "images": [
+  {
+   "id": "dso:M1",
+   "fov_deg": 0.3,
+   "ra_deg": 83.625,
+   "dec_deg": 22.017,
+   "fichier_512": "images-dss-512/M1.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M2",
+   "fov_deg": 0.39,
+   "ra_deg": 323.375,
+   "dec_deg": -0.817,
+   "fichier_512": "images-dss-512/M2.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M3",
+   "fov_deg": 0.48,
+   "ra_deg": 205.55,
+   "dec_deg": 28.383,
+   "fichier_512": "images-dss-512/M3.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M4",
+   "fov_deg": 0.78,
+   "ra_deg": 245.9,
+   "dec_deg": -26.533,
+   "fichier_512": "images-dss-512/M4.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M5",
+   "fov_deg": 0.51,
+   "ra_deg": 229.65,
+   "dec_deg": 2.083,
+   "fichier_512": "images-dss-512/M5.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M6",
+   "fov_deg": 0.45,
+   "ra_deg": 265.0865,
+   "dec_deg": -32.2542,
+   "fichier_512": "images-dss-512/M6.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M7",
+   "fov_deg": 2.4,
+   "ra_deg": 268.475,
+   "dec_deg": -34.817,
+   "fichier_512": "images-dss-512/M7.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M8",
+   "fov_deg": 2.7,
+   "ra_deg": 270.95,
+   "dec_deg": -24.383,
+   "fichier_512": "images-dss-512/M8.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M9",
+   "fov_deg": 0.3,
+   "ra_deg": 259.8,
+   "dec_deg": -18.517,
+   "fichier_512": "images-dss-512/M9.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M10",
+   "fov_deg": 0.45,
+   "ra_deg": 254.275,
+   "dec_deg": -4.1,
+   "fichier_512": "images-dss-512/M10.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M11",
+   "fov_deg": 0.42,
+   "ra_deg": 282.775,
+   "dec_deg": -6.267,
+   "fichier_512": "images-dss-512/M11.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M12",
+   "fov_deg": 0.42,
+   "ra_deg": 251.8,
+   "dec_deg": -1.95,
+   "fichier_512": "images-dss-512/M12.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M14",
+   "fov_deg": 0.36,
+   "ra_deg": 264.4,
+   "dec_deg": -3.25,
+   "fichier_512": "images-dss-512/M14.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M15",
+   "fov_deg": 0.36,
+   "ra_deg": 322.5,
+   "dec_deg": 12.167,
+   "fichier_512": "images-dss-512/M15.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M16",
+   "fov_deg": 0.3,
+   "ra_deg": 274.7007,
+   "dec_deg": -13.8072,
+   "fichier_512": "images-dss-512/M16.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M17",
+   "fov_deg": 1.38,
+   "ra_deg": 275.2,
+   "dec_deg": -16.183,
+   "fichier_512": "images-dss-512/M17.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M18",
+   "fov_deg": 0.3,
+   "ra_deg": 274.9937,
+   "dec_deg": -17.102,
+   "fichier_512": "images-dss-512/M18.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M19",
+   "fov_deg": 0.42,
+   "ra_deg": 255.65,
+   "dec_deg": -26.267,
+   "fichier_512": "images-dss-512/M19.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M20",
+   "fov_deg": 0.87,
+   "ra_deg": 270.6755,
+   "dec_deg": -22.9719,
+   "fichier_512": "images-dss-512/M20.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M21",
+   "fov_deg": 0.39,
+   "ra_deg": 271.056,
+   "dec_deg": -22.4901,
+   "fichier_512": "images-dss-512/M21.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M22",
+   "fov_deg": 0.72,
+   "ra_deg": 279.1,
+   "dec_deg": -23.9,
+   "fichier_512": "images-dss-512/M22.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M23",
+   "fov_deg": 0.81,
+   "ra_deg": 269.2699,
+   "dec_deg": -18.9853,
+   "fichier_512": "images-dss-512/M23.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M24",
+   "fov_deg": 2.7,
+   "ra_deg": 274.225,
+   "dec_deg": -18.483,
+   "fichier_512": "images-dss-512/M24.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M25",
+   "fov_deg": 0.96,
+   "ra_deg": 277.9449,
+   "dec_deg": -19.1149,
+   "fichier_512": "images-dss-512/M25.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M26",
+   "fov_deg": 0.45,
+   "ra_deg": 281.3278,
+   "dec_deg": -9.3836,
+   "fichier_512": "images-dss-512/M26.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M28",
+   "fov_deg": 0.33,
+   "ra_deg": 276.125,
+   "dec_deg": -24.867,
+   "fichier_512": "images-dss-512/M28.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M29",
+   "fov_deg": 0.3,
+   "ra_deg": 305.9907,
+   "dec_deg": 38.5077,
+   "fichier_512": "images-dss-512/M29.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M30",
+   "fov_deg": 0.33,
+   "ra_deg": 325.1,
+   "dec_deg": -23.183,
+   "fichier_512": "images-dss-512/M30.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M34",
+   "fov_deg": 1.05,
+   "ra_deg": 40.5,
+   "dec_deg": 42.783,
+   "fichier_512": "images-dss-512/M34.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M35",
+   "fov_deg": 0.84,
+   "ra_deg": 92.2711,
+   "dec_deg": 24.3386,
+   "fichier_512": "images-dss-512/M35.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M36",
+   "fov_deg": 0.36,
+   "ra_deg": 84.0739,
+   "dec_deg": 34.1407,
+   "fichier_512": "images-dss-512/M36.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M37",
+   "fov_deg": 0.72,
+   "ra_deg": 88.1,
+   "dec_deg": 32.55,
+   "fichier_512": "images-dss-512/M37.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M38",
+   "fov_deg": 0.63,
+   "ra_deg": 82.175,
+   "dec_deg": 35.833,
+   "fichier_512": "images-dss-512/M38.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M39",
+   "fov_deg": 0.96,
+   "ra_deg": 322.9513,
+   "dec_deg": 48.4382,
+   "fichier_512": "images-dss-512/M39.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M40",
+   "fov_deg": 0.3,
+   "ra_deg": 185.5671,
+   "dec_deg": 58.0844,
+   "fichier_512": "images-dss-512/M40.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M41",
+   "fov_deg": 1.14,
+   "ra_deg": 101.4998,
+   "dec_deg": -20.7542,
+   "fichier_512": "images-dss-512/M41.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M44",
+   "fov_deg": 2.85,
+   "ra_deg": 130.0925,
+   "dec_deg": 19.6721,
+   "fichier_512": "images-dss-512/M44.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M46",
+   "fov_deg": 0.81,
+   "ra_deg": 115.45,
+   "dec_deg": -14.817,
+   "fichier_512": "images-dss-512/M46.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M47",
+   "fov_deg": 0.9,
+   "ra_deg": 114.15,
+   "dec_deg": -14.5,
+   "fichier_512": "images-dss-512/M47.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M48",
+   "fov_deg": 1.62,
+   "ra_deg": 123.45,
+   "dec_deg": -5.8,
+   "fichier_512": "images-dss-512/M48.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M49",
+   "fov_deg": 0.3,
+   "ra_deg": 187.45,
+   "dec_deg": 8,
+   "fichier_512": "images-dss-512/M49.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M50",
+   "fov_deg": 0.48,
+   "ra_deg": 105.6686,
+   "dec_deg": -8.364,
+   "fichier_512": "images-dss-512/M50.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M51",
+   "fov_deg": 0.33,
+   "ra_deg": 202.475,
+   "dec_deg": 47.2,
+   "fichier_512": "images-dss-512/M51.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M53",
+   "fov_deg": 0.39,
+   "ra_deg": 198.225,
+   "dec_deg": 18.167,
+   "fichier_512": "images-dss-512/M53.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M54",
+   "fov_deg": 0.3,
+   "ra_deg": 283.775,
+   "dec_deg": -30.483,
+   "fichier_512": "images-dss-512/M54.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M55",
+   "fov_deg": 0.57,
+   "ra_deg": 295,
+   "dec_deg": -30.967,
+   "fichier_512": "images-dss-512/M55.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M56",
+   "fov_deg": 0.3,
+   "ra_deg": 289.15,
+   "dec_deg": 30.183,
+   "fichier_512": "images-dss-512/M56.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M57",
+   "fov_deg": 0.3,
+   "ra_deg": 283.4,
+   "dec_deg": 33.033,
+   "fichier_512": "images-dss-512/M57.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M58",
+   "fov_deg": 0.3,
+   "ra_deg": 189.425,
+   "dec_deg": 11.817,
+   "fichier_512": "images-dss-512/M58.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M59",
+   "fov_deg": 0.3,
+   "ra_deg": 190.5,
+   "dec_deg": 11.65,
+   "fichier_512": "images-dss-512/M59.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M60",
+   "fov_deg": 0.3,
+   "ra_deg": 190.925,
+   "dec_deg": 11.55,
+   "fichier_512": "images-dss-512/M60.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M61",
+   "fov_deg": 0.3,
+   "ra_deg": 185.475,
+   "dec_deg": 4.467,
+   "fichier_512": "images-dss-512/M61.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M62",
+   "fov_deg": 0.42,
+   "ra_deg": 255.3,
+   "dec_deg": -30.117,
+   "fichier_512": "images-dss-512/M62.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M63",
+   "fov_deg": 0.39,
+   "ra_deg": 198.95,
+   "dec_deg": 42.033,
+   "fichier_512": "images-dss-512/M63.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M64",
+   "fov_deg": 0.3,
+   "ra_deg": 194.175,
+   "dec_deg": 21.683,
+   "fichier_512": "images-dss-512/M64.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M65",
+   "fov_deg": 0.3,
+   "ra_deg": 169.725,
+   "dec_deg": 13.083,
+   "fichier_512": "images-dss-512/M65.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M66",
+   "fov_deg": 0.3,
+   "ra_deg": 170.05,
+   "dec_deg": 12.983,
+   "fichier_512": "images-dss-512/M66.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M67",
+   "fov_deg": 0.9,
+   "ra_deg": 132.8339,
+   "dec_deg": 11.8119,
+   "fichier_512": "images-dss-512/M67.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M68",
+   "fov_deg": 0.36,
+   "ra_deg": 189.875,
+   "dec_deg": -26.75,
+   "fichier_512": "images-dss-512/M68.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M69",
+   "fov_deg": 0.3,
+   "ra_deg": 277.85,
+   "dec_deg": -32.35,
+   "fichier_512": "images-dss-512/M69.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M70",
+   "fov_deg": 0.3,
+   "ra_deg": 280.8,
+   "dec_deg": -32.3,
+   "fichier_512": "images-dss-512/M70.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M71",
+   "fov_deg": 0.3,
+   "ra_deg": 298.45,
+   "dec_deg": 18.783,
+   "fichier_512": "images-dss-512/M71.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M72",
+   "fov_deg": 0.3,
+   "ra_deg": 313.375,
+   "dec_deg": -12.533,
+   "fichier_512": "images-dss-512/M72.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M73",
+   "fov_deg": 0.3,
+   "ra_deg": 314.725,
+   "dec_deg": -12.633,
+   "fichier_512": "images-dss-512/M73.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M74",
+   "fov_deg": 0.33,
+   "ra_deg": 24.175,
+   "dec_deg": 15.783,
+   "fichier_512": "images-dss-512/M74.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M75",
+   "fov_deg": 0.3,
+   "ra_deg": 301.525,
+   "dec_deg": -21.917,
+   "fichier_512": "images-dss-512/M75.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M76",
+   "fov_deg": 0.3,
+   "ra_deg": 25.6,
+   "dec_deg": 51.567,
+   "fichier_512": "images-dss-512/M76.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M77",
+   "fov_deg": 0.3,
+   "ra_deg": 40.675,
+   "dec_deg": -0.017,
+   "fichier_512": "images-dss-512/M77.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M78",
+   "fov_deg": 0.3,
+   "ra_deg": 86.6909,
+   "dec_deg": 0.0793,
+   "fichier_512": "images-dss-512/M78.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M79",
+   "fov_deg": 0.3,
+   "ra_deg": 81.0441,
+   "dec_deg": -24.5242,
+   "fichier_512": "images-dss-512/M79.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M80",
+   "fov_deg": 0.3,
+   "ra_deg": 244.25,
+   "dec_deg": -22.983,
+   "fichier_512": "images-dss-512/M80.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M83",
+   "fov_deg": 0.39,
+   "ra_deg": 204.25,
+   "dec_deg": -29.867,
+   "fichier_512": "images-dss-512/M83.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M84",
+   "fov_deg": 0.3,
+   "ra_deg": 186.275,
+   "dec_deg": 12.883,
+   "fichier_512": "images-dss-512/M84.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M85",
+   "fov_deg": 0.3,
+   "ra_deg": 186.35,
+   "dec_deg": 18.183,
+   "fichier_512": "images-dss-512/M85.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M86",
+   "fov_deg": 0.3,
+   "ra_deg": 186.55,
+   "dec_deg": 12.95,
+   "fichier_512": "images-dss-512/M86.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M87",
+   "fov_deg": 0.3,
+   "ra_deg": 187.7,
+   "dec_deg": 12.4,
+   "fichier_512": "images-dss-512/M87.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M88",
+   "fov_deg": 0.3,
+   "ra_deg": 188,
+   "dec_deg": 14.417,
+   "fichier_512": "images-dss-512/M88.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M89",
+   "fov_deg": 0.3,
+   "ra_deg": 188.925,
+   "dec_deg": 12.55,
+   "fichier_512": "images-dss-512/M89.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M90",
+   "fov_deg": 0.3,
+   "ra_deg": 189.2,
+   "dec_deg": 13.167,
+   "fichier_512": "images-dss-512/M90.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M91",
+   "fov_deg": 0.3,
+   "ra_deg": 188.85,
+   "dec_deg": 14.5,
+   "fichier_512": "images-dss-512/M91.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M92",
+   "fov_deg": 0.33,
+   "ra_deg": 259.275,
+   "dec_deg": 43.133,
+   "fichier_512": "images-dss-512/M92.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M93",
+   "fov_deg": 0.66,
+   "ra_deg": 116.15,
+   "dec_deg": -23.867,
+   "fichier_512": "images-dss-512/M93.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M94",
+   "fov_deg": 0.33,
+   "ra_deg": 192.725,
+   "dec_deg": 41.117,
+   "fichier_512": "images-dss-512/M94.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M95",
+   "fov_deg": 0.3,
+   "ra_deg": 161,
+   "dec_deg": 11.7,
+   "fichier_512": "images-dss-512/M95.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M96",
+   "fov_deg": 0.3,
+   "ra_deg": 161.7,
+   "dec_deg": 11.817,
+   "fichier_512": "images-dss-512/M96.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M97",
+   "fov_deg": 0.3,
+   "ra_deg": 168.7,
+   "dec_deg": 55.017,
+   "fichier_512": "images-dss-512/M97.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M98",
+   "fov_deg": 0.3,
+   "ra_deg": 183.45,
+   "dec_deg": 14.9,
+   "fichier_512": "images-dss-512/M98.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M99",
+   "fov_deg": 0.3,
+   "ra_deg": 184.7,
+   "dec_deg": 14.417,
+   "fichier_512": "images-dss-512/M99.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M100",
+   "fov_deg": 0.3,
+   "ra_deg": 185.725,
+   "dec_deg": 15.817,
+   "fichier_512": "images-dss-512/M100.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M102",
+   "fov_deg": 0.3,
+   "ra_deg": 226.623,
+   "dec_deg": 55.76,
+   "fichier_512": "images-dss-512/M102.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M103",
+   "fov_deg": 0.3,
+   "ra_deg": 23.3409,
+   "dec_deg": 60.658,
+   "fichier_512": "images-dss-512/M103.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M104",
+   "fov_deg": 0.3,
+   "ra_deg": 190,
+   "dec_deg": -11.617,
+   "fichier_512": "images-dss-512/M104.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M105",
+   "fov_deg": 0.3,
+   "ra_deg": 161.95,
+   "dec_deg": 12.583,
+   "fichier_512": "images-dss-512/M105.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M106",
+   "fov_deg": 0.57,
+   "ra_deg": 184.75,
+   "dec_deg": 47.3,
+   "fichier_512": "images-dss-512/M106.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M107",
+   "fov_deg": 0.3,
+   "ra_deg": 248.125,
+   "dec_deg": -13.05,
+   "fichier_512": "images-dss-512/M107.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M108",
+   "fov_deg": 0.3,
+   "ra_deg": 167.875,
+   "dec_deg": 55.667,
+   "fichier_512": "images-dss-512/M108.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:M109",
+   "fov_deg": 0.3,
+   "ra_deg": 179.4,
+   "dec_deg": 53.383,
+   "fichier_512": "images-dss-512/M109.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6979",
+   "fov_deg": 1.35,
+   "ra_deg": 312.617,
+   "dec_deg": 32.026,
+   "fichier_512": "images-dss-512/NGC_6979.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 869",
+   "fov_deg": 0.9,
+   "ra_deg": 34.75,
+   "dec_deg": 57.128,
+   "fichier_512": "images-dss-512/NGC_869.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 884",
+   "fov_deg": 0.9,
+   "ra_deg": 35.596,
+   "dec_deg": 57.125,
+   "fichier_512": "images-dss-512/NGC_884.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 457",
+   "fov_deg": 0.6,
+   "ra_deg": 19.896,
+   "dec_deg": 58.287,
+   "fichier_512": "images-dss-512/NGC_457.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 7789",
+   "fov_deg": 0.9,
+   "ra_deg": 359.35,
+   "dec_deg": 56.708,
+   "fichier_512": "images-dss-512/NGC_7789.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 752",
+   "fov_deg": 2.25,
+   "ra_deg": 29.421,
+   "dec_deg": 37.785,
+   "fichier_512": "images-dss-512/NGC_752.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 7662",
+   "fov_deg": 0.3,
+   "ra_deg": 351.473,
+   "dec_deg": 42.535,
+   "fichier_512": "images-dss-512/NGC_7662.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6543",
+   "fov_deg": 0.3,
+   "ra_deg": 269.639,
+   "dec_deg": 66.633,
+   "fichier_512": "images-dss-512/NGC_6543.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6826",
+   "fov_deg": 0.3,
+   "ra_deg": 296.201,
+   "dec_deg": 50.525,
+   "fichier_512": "images-dss-512/NGC_6826.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 7009",
+   "fov_deg": 0.3,
+   "ra_deg": 316.045,
+   "dec_deg": -11.363,
+   "fichier_512": "images-dss-512/NGC_7009.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 7293",
+   "fov_deg": 0.75,
+   "ra_deg": 337.411,
+   "dec_deg": -20.837,
+   "fichier_512": "images-dss-512/NGC_7293.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2392",
+   "fov_deg": 0.3,
+   "ra_deg": 112.295,
+   "dec_deg": 20.912,
+   "fichier_512": "images-dss-512/NGC_2392.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 3242",
+   "fov_deg": 0.3,
+   "ra_deg": 156.192,
+   "dec_deg": -18.642,
+   "fichier_512": "images-dss-512/NGC_3242.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2264",
+   "fov_deg": 0.3,
+   "ra_deg": 100.242,
+   "dec_deg": 9.895,
+   "fichier_512": "images-dss-512/NGC_2264.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 1499",
+   "fov_deg": 4.8,
+   "ra_deg": 60.825,
+   "dec_deg": 36.422,
+   "fichier_512": "images-dss-512/NGC_1499.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 281",
+   "fov_deg": 1.05,
+   "ra_deg": 13.2473,
+   "dec_deg": 56.6219,
+   "fichier_512": "images-dss-512/NGC_281.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2261",
+   "fov_deg": 0.3,
+   "ra_deg": 99.791,
+   "dec_deg": 8.736,
+   "fichier_512": "images-dss-512/NGC_2261.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 40",
+   "fov_deg": 0.3,
+   "ra_deg": 3.254,
+   "dec_deg": 72.522,
+   "fichier_512": "images-dss-512/NGC_40.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 1514",
+   "fov_deg": 0.3,
+   "ra_deg": 62.321,
+   "dec_deg": 30.776,
+   "fichier_512": "images-dss-512/NGC_1514.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6210",
+   "fov_deg": 0.3,
+   "ra_deg": 251.123,
+   "dec_deg": 23.8,
+   "fichier_512": "images-dss-512/NGC_6210.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 7027",
+   "fov_deg": 0.3,
+   "ra_deg": 316.757,
+   "dec_deg": 42.236,
+   "fichier_512": "images-dss-512/NGC_7027.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6572",
+   "fov_deg": 0.3,
+   "ra_deg": 273.026,
+   "dec_deg": 6.854,
+   "fichier_512": "images-dss-512/NGC_6572.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 891",
+   "fov_deg": 0.41,
+   "ra_deg": 35.637,
+   "dec_deg": 42.348,
+   "fichier_512": "images-dss-512/NGC_891.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4631",
+   "fov_deg": 0.45,
+   "ra_deg": 190.533,
+   "dec_deg": 32.542,
+   "fichier_512": "images-dss-512/NGC_4631.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4656",
+   "fov_deg": 0.45,
+   "ra_deg": 190.99,
+   "dec_deg": 32.17,
+   "fichier_512": "images-dss-512/NGC_4656.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 7331",
+   "fov_deg": 0.32,
+   "ra_deg": 339.267,
+   "dec_deg": 34.416,
+   "fichier_512": "images-dss-512/NGC_7331.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2403",
+   "fov_deg": 0.66,
+   "ra_deg": 114.214,
+   "dec_deg": 65.603,
+   "fichier_512": "images-dss-512/NGC_2403.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6946",
+   "fov_deg": 0.34,
+   "ra_deg": 308.718,
+   "dec_deg": 60.154,
+   "fichier_512": "images-dss-512/NGC_6946.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 253",
+   "fov_deg": 0.82,
+   "ra_deg": 11.888,
+   "dec_deg": -25.289,
+   "fichier_512": "images-dss-512/NGC_253.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4038",
+   "fov_deg": 0.3,
+   "ra_deg": 180.471,
+   "dec_deg": -18.868,
+   "fichier_512": "images-dss-512/NGC_4038.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 3115",
+   "fov_deg": 0.3,
+   "ra_deg": 151.308,
+   "dec_deg": -7.719,
+   "fichier_512": "images-dss-512/NGC_3115.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2903",
+   "fov_deg": 0.4,
+   "ra_deg": 143.042,
+   "dec_deg": 21.501,
+   "fichier_512": "images-dss-512/NGC_2903.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4244",
+   "fov_deg": 0.5,
+   "ra_deg": 184.374,
+   "dec_deg": 37.807,
+   "fichier_512": "images-dss-512/NGC_4244.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4449",
+   "fov_deg": 0.3,
+   "ra_deg": 187.046,
+   "dec_deg": 44.094,
+   "fichier_512": "images-dss-512/NGC_4449.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 147",
+   "fov_deg": 0.4,
+   "ra_deg": 8.3,
+   "dec_deg": 48.509,
+   "fichier_512": "images-dss-512/NGC_147.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 185",
+   "fov_deg": 0.35,
+   "ra_deg": 9.742,
+   "dec_deg": 48.337,
+   "fichier_512": "images-dss-512/NGC_185.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4236",
+   "fov_deg": 0.66,
+   "ra_deg": 184.175,
+   "dec_deg": 69.463,
+   "fichier_512": "images-dss-512/NGC_4236.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:IC 342",
+   "fov_deg": 0.64,
+   "ra_deg": 56.702,
+   "dec_deg": 68.096,
+   "fichier_512": "images-dss-512/IC_342.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 7479",
+   "fov_deg": 0.3,
+   "ra_deg": 346.236,
+   "dec_deg": 12.323,
+   "fichier_512": "images-dss-512/NGC_7479.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2419",
+   "fov_deg": 0.3,
+   "ra_deg": 114.535,
+   "dec_deg": 38.882,
+   "fichier_512": "images-dss-512/NGC_2419.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2158",
+   "fov_deg": 0.3,
+   "ra_deg": 91.854,
+   "dec_deg": 24.097,
+   "fichier_512": "images-dss-512/NGC_2158.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6633",
+   "fov_deg": 0.6,
+   "ra_deg": 276.8135,
+   "dec_deg": 6.5082,
+   "fichier_512": "images-dss-512/NGC_6633.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:IC 4665",
+   "fov_deg": 2.1,
+   "ra_deg": 266.575,
+   "dec_deg": 5.717,
+   "fichier_512": "images-dss-512/IC_4665.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2362",
+   "fov_deg": 0.3,
+   "ra_deg": 109.671,
+   "dec_deg": -24.955,
+   "fichier_512": "images-dss-512/NGC_2362.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6939",
+   "fov_deg": 0.3,
+   "ra_deg": 307.875,
+   "dec_deg": 60.662,
+   "fichier_512": "images-dss-512/NGC_6939.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:Cr 399",
+   "fov_deg": 1.8,
+   "ra_deg": 291.35,
+   "dec_deg": 20.183,
+   "fichier_512": "images-dss-512/Cr_399.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 5907",
+   "fov_deg": 0.38,
+   "ra_deg": 228.974,
+   "dec_deg": 56.329,
+   "fichier_512": "images-dss-512/NGC_5907.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:Mel 111",
+   "fov_deg": 5,
+   "ra_deg": 186.25,
+   "dec_deg": 26.1,
+   "fichier_512": "images-dss-512/Mel_111.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:Mel 20",
+   "fov_deg": 5,
+   "ra_deg": 51.73,
+   "dec_deg": 49.12,
+   "fichier_512": "images-dss-512/Mel_20.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:Mel 25",
+   "fov_deg": 5,
+   "ra_deg": 66.75,
+   "dec_deg": 15.87,
+   "fichier_512": "images-dss-512/Mel_25.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4565",
+   "fov_deg": 0.5,
+   "ra_deg": 189.0866,
+   "dec_deg": 25.9877,
+   "fichier_512": "images-dss-512/NGC_4565.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 3628",
+   "fov_deg": 0.45,
+   "ra_deg": 170.0709,
+   "dec_deg": 13.5895,
+   "fichier_512": "images-dss-512/NGC_3628.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 1788",
+   "fov_deg": 0.3,
+   "ra_deg": 76.7217,
+   "dec_deg": -3.341,
+   "fichier_512": "images-dss-512/NGC_1788.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2175",
+   "fov_deg": 1.2,
+   "ra_deg": 92.4148,
+   "dec_deg": 20.4876,
+   "fichier_512": "images-dss-512/NGC_2175.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6823",
+   "fov_deg": 0.75,
+   "ra_deg": 295.7912,
+   "dec_deg": 23.2999,
+   "fichier_512": "images-dss-512/NGC_6823.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 7380",
+   "fov_deg": 0.75,
+   "ra_deg": 341.8375,
+   "dec_deg": 58.1324,
+   "fichier_512": "images-dss-512/NGC_7380.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2071",
+   "fov_deg": 0.3,
+   "ra_deg": 86.7803,
+   "dec_deg": 0.2943,
+   "fichier_512": "images-dss-512/NGC_2071.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 3521",
+   "fov_deg": 0.3,
+   "ra_deg": 166.4524,
+   "dec_deg": -0.0359,
+   "fichier_512": "images-dss-512/NGC_3521.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6818",
+   "fov_deg": 0.3,
+   "ra_deg": 295.9905,
+   "dec_deg": -14.1532,
+   "fichier_512": "images-dss-512/NGC_6818.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4697",
+   "fov_deg": 0.3,
+   "ra_deg": 192.1495,
+   "dec_deg": -5.8007,
+   "fichier_512": "images-dss-512/NGC_4697.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4725",
+   "fov_deg": 0.3,
+   "ra_deg": 192.6107,
+   "dec_deg": 25.5008,
+   "fichier_512": "images-dss-512/NGC_4725.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2440",
+   "fov_deg": 0.3,
+   "ra_deg": 115.4807,
+   "dec_deg": -18.2085,
+   "fichier_512": "images-dss-512/NGC_2440.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4365",
+   "fov_deg": 0.3,
+   "ra_deg": 186.1178,
+   "dec_deg": 7.3177,
+   "fichier_512": "images-dss-512/NGC_4365.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 1023",
+   "fov_deg": 0.3,
+   "ra_deg": 40.1,
+   "dec_deg": 39.0633,
+   "fichier_512": "images-dss-512/NGC_1023.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 1999",
+   "fov_deg": 0.3,
+   "ra_deg": 84.1056,
+   "dec_deg": -6.7159,
+   "fichier_512": "images-dss-512/NGC_1999.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4526",
+   "fov_deg": 0.3,
+   "ra_deg": 188.5129,
+   "dec_deg": 7.6995,
+   "fichier_512": "images-dss-512/NGC_4526.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 1535",
+   "fov_deg": 0.3,
+   "ra_deg": 63.5657,
+   "dec_deg": -12.7394,
+   "fichier_512": "images-dss-512/NGC_1535.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2683",
+   "fov_deg": 0.3,
+   "ra_deg": 133.1722,
+   "dec_deg": 33.4217,
+   "fichier_512": "images-dss-512/NGC_2683.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4490",
+   "fov_deg": 0.3,
+   "ra_deg": 187.651,
+   "dec_deg": 41.6439,
+   "fichier_512": "images-dss-512/NGC_4490.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4214",
+   "fov_deg": 0.3,
+   "ra_deg": 183.9132,
+   "dec_deg": 36.3269,
+   "fichier_512": "images-dss-512/NGC_4214.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 3184",
+   "fov_deg": 0.3,
+   "ra_deg": 154.5702,
+   "dec_deg": 41.4241,
+   "fichier_512": "images-dss-512/NGC_3184.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2768",
+   "fov_deg": 0.3,
+   "ra_deg": 137.9062,
+   "dec_deg": 60.0372,
+   "fichier_512": "images-dss-512/NGC_2768.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 3077",
+   "fov_deg": 0.3,
+   "ra_deg": 150.8295,
+   "dec_deg": 68.7339,
+   "fichier_512": "images-dss-512/NGC_3077.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4535",
+   "fov_deg": 0.3,
+   "ra_deg": 188.5846,
+   "dec_deg": 8.1978,
+   "fichier_512": "images-dss-512/NGC_4535.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4559",
+   "fov_deg": 0.32,
+   "ra_deg": 188.9902,
+   "dec_deg": 27.96,
+   "fichier_512": "images-dss-512/NGC_4559.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4216",
+   "fov_deg": 0.3,
+   "ra_deg": 183.9768,
+   "dec_deg": 13.1494,
+   "fichier_512": "images-dss-512/NGC_4216.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 5248",
+   "fov_deg": 0.3,
+   "ra_deg": 204.3834,
+   "dec_deg": 8.8852,
+   "fichier_512": "images-dss-512/NGC_5248.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 1555",
+   "fov_deg": 0.3,
+   "ra_deg": 65.4976,
+   "dec_deg": 19.5352,
+   "fichier_512": "images-dss-512/NGC_1555.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 3344",
+   "fov_deg": 0.3,
+   "ra_deg": 160.8798,
+   "dec_deg": 24.9222,
+   "fichier_512": "images-dss-512/NGC_3344.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6822",
+   "fov_deg": 0.52,
+   "ra_deg": 296.2406,
+   "dec_deg": -14.8034,
+   "fichier_512": "images-dss-512/NGC_6822.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 1931",
+   "fov_deg": 0.3,
+   "ra_deg": 82.8556,
+   "dec_deg": 34.2466,
+   "fichier_512": "images-dss-512/NGC_1931.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 3953",
+   "fov_deg": 0.3,
+   "ra_deg": 178.4538,
+   "dec_deg": 52.3268,
+   "fichier_512": "images-dss-512/NGC_3953.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6503",
+   "fov_deg": 0.3,
+   "ra_deg": 267.3601,
+   "dec_deg": 70.1444,
+   "fichier_512": "images-dss-512/NGC_6503.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 925",
+   "fov_deg": 0.32,
+   "ra_deg": 36.8203,
+   "dec_deg": 33.5792,
+   "fichier_512": "images-dss-512/NGC_925.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2976",
+   "fov_deg": 0.3,
+   "ra_deg": 146.8144,
+   "dec_deg": 67.9164,
+   "fichier_512": "images-dss-512/NGC_2976.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2841",
+   "fov_deg": 0.3,
+   "ra_deg": 140.511,
+   "dec_deg": 50.9765,
+   "fichier_512": "images-dss-512/NGC_2841.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4414",
+   "fov_deg": 0.3,
+   "ra_deg": 186.6129,
+   "dec_deg": 31.2235,
+   "fichier_512": "images-dss-512/NGC_4414.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2775",
+   "fov_deg": 0.3,
+   "ra_deg": 137.5838,
+   "dec_deg": 7.0379,
+   "fichier_512": "images-dss-512/NGC_2775.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6891",
+   "fov_deg": 0.3,
+   "ra_deg": 303.7868,
+   "dec_deg": 12.7044,
+   "fichier_512": "images-dss-512/NGC_6891.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 7814",
+   "fov_deg": 0.3,
+   "ra_deg": 0.812,
+   "dec_deg": 16.1454,
+   "fichier_512": "images-dss-512/NGC_7814.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 5033",
+   "fov_deg": 0.3,
+   "ra_deg": 198.3645,
+   "dec_deg": 36.5939,
+   "fichier_512": "images-dss-512/NGC_5033.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 7008",
+   "fov_deg": 0.3,
+   "ra_deg": 315.1367,
+   "dec_deg": 54.5432,
+   "fichier_512": "images-dss-512/NGC_7008.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 3079",
+   "fov_deg": 0.3,
+   "ra_deg": 150.4908,
+   "dec_deg": 55.6798,
+   "fichier_512": "images-dss-512/NGC_3079.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 5005",
+   "fov_deg": 0.3,
+   "ra_deg": 197.7343,
+   "dec_deg": 37.0592,
+   "fichier_512": "images-dss-512/NGC_5005.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2438",
+   "fov_deg": 0.3,
+   "ra_deg": 115.46,
+   "dec_deg": -14.7358,
+   "fichier_512": "images-dss-512/NGC_2438.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 246",
+   "fov_deg": 0.3,
+   "ra_deg": 11.764,
+   "dec_deg": -11.8719,
+   "fichier_512": "images-dss-512/NGC_246.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4361",
+   "fov_deg": 0.3,
+   "ra_deg": 186.1282,
+   "dec_deg": -18.7848,
+   "fichier_512": "images-dss-512/NGC_4361.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6884",
+   "fov_deg": 0.3,
+   "ra_deg": 302.5987,
+   "dec_deg": 46.4608,
+   "fichier_512": "images-dss-512/NGC_6884.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 7026",
+   "fov_deg": 0.3,
+   "ra_deg": 316.577,
+   "dec_deg": 47.8522,
+   "fichier_512": "images-dss-512/NGC_7026.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4438",
+   "fov_deg": 0.3,
+   "ra_deg": 186.94,
+   "dec_deg": 13.0088,
+   "fichier_512": "images-dss-512/NGC_4438.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4435",
+   "fov_deg": 0.3,
+   "ra_deg": 186.9187,
+   "dec_deg": 13.0789,
+   "fichier_512": "images-dss-512/NGC_4435.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 3626",
+   "fov_deg": 0.3,
+   "ra_deg": 170.0159,
+   "dec_deg": 18.3568,
+   "fichier_512": "images-dss-512/NGC_3626.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6905",
+   "fov_deg": 0.3,
+   "ra_deg": 305.5958,
+   "dec_deg": 20.1045,
+   "fichier_512": "images-dss-512/NGC_6905.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 2371",
+   "fov_deg": 0.3,
+   "ra_deg": 111.3944,
+   "dec_deg": 29.4906,
+   "fichier_512": "images-dss-512/NGC_2371.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 6369",
+   "fov_deg": 0.3,
+   "ra_deg": 262.3354,
+   "dec_deg": -23.7594,
+   "fichier_512": "images-dss-512/NGC_6369.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 1501",
+   "fov_deg": 0.3,
+   "ra_deg": 61.7474,
+   "dec_deg": 60.9207,
+   "fichier_512": "images-dss-512/NGC_1501.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:NGC 4485",
+   "fov_deg": 0.3,
+   "ra_deg": 187.6297,
+   "dec_deg": 41.7012,
+   "fichier_512": "images-dss-512/NGC_4485.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:IC 5146",
+   "fov_deg": 0.3,
+   "ra_deg": 328.3698,
+   "dec_deg": 47.2669,
+   "fichier_512": "images-dss-512/IC_5146.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  },
+  {
+   "id": "dso:IC 405",
+   "fov_deg": 1.5,
+   "ra_deg": 79.1228,
+   "dec_deg": 34.3562,
+   "fichier_512": "images-dss-512/IC_405.jpg",
+   "source": "Digitized Sky Survey (STScI) via SkyView (NASA), retraité"
+  }
+ ]
+}

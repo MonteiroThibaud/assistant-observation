@@ -1,0 +1,137 @@
+{
+ "police-AlegreyaL-500.woff2": {
+  "octets": 24200,
+  "sha256": "53addbca37745d63946bfb8fefc33570c075a91d5463c4194139b6a2efad3930",
+  "role": "police Alegreya intégrée (AlegreyaL 500)"
+ },
+ "police-AlegreyaL-700.woff2": {
+  "octets": 24352,
+  "sha256": "1c582501cee54f7137a80732266cbd3f0e9ef1f0e85d093228fb4f4db852df4e",
+  "role": "police Alegreya intégrée (AlegreyaL 700)"
+ },
+ "police-AlegreyaSansL-400.woff2": {
+  "octets": 23708,
+  "sha256": "b2a5a35a2563a2f9bf9fb91939fc6ea6c115e9811cda5c4a37d02f623c7c4dbe",
+  "role": "police Alegreya intégrée (AlegreyaSansL 400)"
+ },
+ "police-AlegreyaSansL-500.woff2": {
+  "octets": 23928,
+  "sha256": "55b61d22cc7afd0bca94d17a84f0e92963b8f5216dbfbde56b2f6cf530c9b2dd",
+  "role": "police Alegreya intégrée (AlegreyaSansL 500)"
+ },
+ "police-AlegreyaSansL-700.woff2": {
+  "octets": 23976,
+  "sha256": "5acd19a588614d23e52b741a21dd8555178ab4932c3195c6d8fb4b296f84acae",
+  "role": "police Alegreya intégrée (AlegreyaSansL 700)"
+ },
+ "photo-ORION.jpg": {
+  "octets": 126286,
+  "sha256": "68aa3d83f6ec579fe77d9dc7ff2737aa99e0d7a4313190f77b1e78c3d8631e0c",
+  "role": "photo de l'auteur"
+ },
+ "photo-NGC7023.jpg": {
+  "octets": 121370,
+  "sha256": "5f8ce413b5c42b49f07ca7f5be9cc7cffc4ea7b648f9d675772270f6e5dce7cb",
+  "role": "photo de l'auteur"
+ },
+ "photo-NGC7000.jpg": {
+  "octets": 112759,
+  "sha256": "704e2519859de05784274da80744fdb150b5f33f1f4e9494ece1f50ea9149084",
+  "role": "photo de l'auteur"
+ },
+ "photo-M27.jpg": {
+  "octets": 115845,
+  "sha256": "b4651e82efbbb1401cfea071eff959b3499583482b1b304f9efcdf0bf75e5e00",
+  "role": "photo de l'auteur"
+ },
+ "photo-ROSETTE.jpg": {
+  "octets": 116299,
+  "sha256": "9e19dd3f3c277c0b20d3c0147c8794f74fec13c5c013cf97245a242b101263bd",
+  "role": "photo de l'auteur"
+ },
+ "photo-M81.jpg": {
+  "octets": 111410,
+  "sha256": "45552b11c04b7894d38ad9ad401235bcfa1f04689769a8fa2e48cca217ebee72",
+  "role": "photo de l'auteur"
+ },
+ "photo-M45.jpg": {
+  "octets": 117792,
+  "sha256": "f9b29ecb32e0f6f646f188958ba40926668adb7f581b1613b5705fcce6a59c27",
+  "role": "photo de l'auteur"
+ },
+ "photo-IC1396.jpg": {
+  "octets": 115584,
+  "sha256": "d5627c0c0a9fc625cf88a4c0d4813d1cf6b163b538a6a9abef20301c251a8551",
+  "role": "photo de l'auteur"
+ },
+ "photo-HORSEHEAD.jpg": {
+  "octets": 109676,
+  "sha256": "c450736dd05211b2470c8694ed61d1541d7118ec7f934a1a72cf01f807728db4",
+  "role": "photo de l'auteur"
+ },
+ "photo-NGC6888.jpg": {
+  "octets": 116906,
+  "sha256": "2c4bf900f0ff46f1d87cc86d236676b0a7d3d42fb481650e7f4824f5ae504b1a",
+  "role": "photo de l'auteur"
+ },
+ "photo-M33.jpg": {
+  "octets": 113636,
+  "sha256": "b5acde8a01e2e1b09f28e67d680bd79863b17477f17548075a9dc129d4585230",
+  "role": "photo de l'auteur"
+ },
+ "photo-M31.jpg": {
+  "octets": 116425,
+  "sha256": "28d1066c233e444921007f461ae42545642312f6eb722f43be3bdb7e2ea16687",
+  "role": "photo de l'auteur"
+ },
+ "photo-M101.jpg": {
+  "octets": 69564,
+  "sha256": "c3d53bfc64e03de6dfb927de0de94acb1097196813309ae0c4a783a77b4eb2fd",
+  "role": "photo de l'auteur"
+ },
+ "photo-M13.jpg": {
+  "octets": 116928,
+  "sha256": "a09b1e260746775ace323d039a0cf50ab14774584ea17d9c910c16c1476a70f2",
+  "role": "photo de l'auteur"
+ },
+ "photo-IC5070.jpg": {
+  "octets": 114172,
+  "sha256": "18e511dfefb2bb7b508c830bd72a547674f611ab2208502a25cbd77903486e16",
+  "role": "photo de l'auteur"
+ },
+ "photo-NGC6992.jpg": {
+  "octets": 114623,
+  "sha256": "637e8bb0931b1e46f1be975dddc0c06fba9e4f385f5bad060c90e85e9ce87557",
+  "role": "photo de l'auteur"
+ },
+ "photo-NGC7635.jpg": {
+  "octets": 116856,
+  "sha256": "457aa85eb3d476b5e5566fc0e0a77cd86b1160af5b87b8963ce01321cd3a5534",
+  "role": "photo de l'auteur"
+ },
+ "photo-NGC6960.jpg": {
+  "octets": 117751,
+  "sha256": "68831b4667d62f7d2955177417fd6dccce19499e473b7fcb3d306b8284bd115a",
+  "role": "photo de l'auteur"
+ },
+ "carte-lune.jpg": {
+  "octets": 3358102,
+  "sha256": "ad5a263e15e92639588e6375c47d73f5544c4eb50416564f10dd3a836a18b75c",
+  "role": "texture de la Lune (page web)"
+ },
+ "relief-lune.webp": {
+  "octets": 3990528,
+  "sha256": "0a52af17f17b883c5a33d40b9a473cb7e67954f5093474f974c3aa43919c6df1",
+  "role": "relief de la Lune (page web)"
+ },
+ "etoiles-champ.bin": {
+  "octets": 691693,
+  "sha256": "de3d92a5e18d4a301132561266cc63a723095914e43ab44fee6d03737e8adc95",
+  "role": "étoiles du champ (page web)"
+ },
+ "etoiles-info.bin.gz": {
+  "octets": 69568,
+  "sha256": "6fa4ed5c6c81f345ccb0b76c5473f916371f6d5fbacfc43b1200fbcbeb22e787",
+  "role": "informations stellaires (page web)"
+ }
+}

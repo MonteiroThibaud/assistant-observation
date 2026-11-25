@@ -1,0 +1,38 @@
+TUILES DE TEXTURE DE LA LUNE - Assistant d'observation (application installee)
+===========================================================================
+
+Ce programme fabrique, a partir de la carte couleur LROC de la NASA, les tuiles de texture
+plus fines (0,67 km par point au lieu de 1,33 km) que l'application charge quand on zoome sur la Lune.
+Version 2 (qualite JPEG 88 au lieu de 72) : les tuiles sont plus nettes, sans effet de blocs ; le programme fabrique aussi la
+texture de base de l'application a partir de la meme carte (memes tons que les tuiles). Taille : environ 17 a 20 Mo.
+
+SOUS WINDOWS 11 (ou 10) : AUCUNE INSTALLATION
+  1. Clic droit sur le fichier ZIP, puis "Extraire tout" (ne lancez pas le programme depuis l'interieur du ZIP).
+  2. Dans le dossier obtenu, double-cliquez sur  Fabriquer-les-tuiles.bat
+     (si Windows affiche "Windows a protege votre ordinateur" : "Informations complementaires",
+      puis "Executer quand meme").
+  3. Appuyez sur une touche pour demarrer, puis attendez : le programme telecharge tout seul un Python portable (11 Mo),
+     quelques modules (60 Mo) et la carte de la NASA (300 a 500 Mo), puis fabrique les tuiles.
+     Compte 10 a 30 minutes et 4 Go de memoire vive libre. Rien n'est installe sur Windows : tout reste dans le dossier.
+  4. A la fin, la fenetre affiche TERMINE. Envoyez le fichier  tuiles-lune.zip  (environ 17 a 20 Mo)
+     dans la conversation avec Claude.
+
+  Si vous avez deja lance la premiere version, le dossier contient deja la carte de la NASA et Python portable : le .bat ne les
+  retelecharge pas et va directement a la fabrication.
+
+  Si une etape echoue : relancez simplement le .bat, les etapes deja faites ne sont pas refaites
+  (le telechargement de la carte reprend ou il s'etait arrete).
+
+SOUS MAC OU LINUX (ou si vous avez deja Python 3)
+  pip install numpy pillow tifffile imagecodecs
+  Telechargez lroc_color_16bit_srgb_16k.tif :
+  https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004720/lroc_color_16bit_srgb_16k.tif
+  puis :  python3 fabrique_tuiles_lune.py lroc_color_16bit_srgb_16k.tif
+
+FICHIERS FOURNIS
+  Fabriquer-les-tuiles.bat      le lanceur pour Windows
+  fabrique_tuiles_lune.py       le programme de fabrication
+  moon-texture.jpg              la texture actuelle de l'application (sert a caler les tons des nouvelles tuiles : ne pas la supprimer)
+
+Source des donnees : NASA Scientific Visualization Studio, CGI Moon Kit (LRO / LROC), domaine public.
+Essai sans carte NASA (Python) : python fabrique_tuiles_lune.py --essai

@@ -1,0 +1,4106 @@
+{
+ "dates": {
+  "phase0": "2026-12-09T00:52:31.284Z",
+  "phase45": "2026-12-13T04:39:11.910Z",
+  "phase90": "2026-12-17T05:43:14.883Z",
+  "phase135": "2026-11-21T06:43:20.823Z",
+  "phase180": "2026-11-24T14:54:04.191Z",
+  "phase225": "2026-11-27T19:55:50.268Z",
+  "phase270": "2026-12-01T06:09:14.538Z",
+  "phase315": "2026-12-05T00:30:20.538Z",
+  "libr_latN": "2027-01-30T09:00:00.000Z",
+  "libr_latS": "2027-07-27T09:00:00.000Z",
+  "libr_lonE": "2027-08-08T12:00:00.000Z",
+  "libr_lonW": "2026-12-18T09:00:00.000Z"
+ },
+ "cas": [
+  {
+   "id": "c001",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": null,
+   "zoom": 1,
+   "strate": "disque entier"
+  },
+  {
+   "id": "c002",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": null,
+   "zoom": 1,
+   "strate": "disque entier"
+  },
+  {
+   "id": "c003",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": null,
+   "zoom": 1,
+   "strate": "disque entier"
+  },
+  {
+   "id": "c004",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": null,
+   "zoom": 1,
+   "strate": "disque entier"
+  },
+  {
+   "id": "c005",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": null,
+   "zoom": 1,
+   "strate": "disque entier"
+  },
+  {
+   "id": "c006",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": null,
+   "zoom": 1,
+   "strate": "disque entier"
+  },
+  {
+   "id": "c007",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": null,
+   "zoom": 1,
+   "strate": "disque entier"
+  },
+  {
+   "id": "c008",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": null,
+   "zoom": 1,
+   "strate": "disque entier"
+  },
+  {
+   "id": "c009",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": null,
+   "zoom": 1,
+   "strate": "disque entier"
+  },
+  {
+   "id": "c010",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": null,
+   "zoom": 1,
+   "strate": "disque entier"
+  },
+  {
+   "id": "c011",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": null,
+   "zoom": 1,
+   "strate": "disque entier"
+  },
+  {
+   "id": "c012",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": null,
+   "zoom": 1,
+   "strate": "disque entier"
+  },
+  {
+   "id": "c013",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Clavius",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c014",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Clavius",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c015",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Clavius",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c016",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Clavius",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c017",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Clavius",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c018",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Clavius",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c019",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Clavius",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c020",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Clavius",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c021",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Clavius",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c022",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Clavius",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c023",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Clavius",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c024",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Clavius",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c025",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Clavius",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c026",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Clavius",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c027",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Clavius",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c028",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Tycho",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c029",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Tycho",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c030",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Tycho",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c031",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Tycho",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c032",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Tycho",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c033",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Tycho",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c034",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Tycho",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c035",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Tycho",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c036",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Tycho",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c037",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Tycho",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c038",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Tycho",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c039",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Tycho",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c040",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Tycho",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c041",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Tycho",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c042",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Tycho",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c043",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Maginus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c044",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Maginus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c045",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Maginus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c046",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Maginus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c047",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Maginus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c048",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Maginus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c049",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Maginus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c050",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Maginus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c051",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Maginus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c052",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Maginus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c053",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Maginus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c054",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Maginus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c055",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Maginus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c056",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Maginus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c057",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Maginus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c058",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Montes Apenninus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c059",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Montes Apenninus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c060",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Montes Apenninus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c061",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Montes Apenninus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c062",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Montes Apenninus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c063",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Montes Apenninus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c064",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Montes Apenninus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c065",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Montes Apenninus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c066",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Montes Apenninus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c067",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Montes Apenninus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c068",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Montes Apenninus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c069",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Montes Apenninus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c070",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Montes Apenninus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c071",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Montes Apenninus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c072",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Montes Apenninus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c073",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Montes Alpes",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c074",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Montes Alpes",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c075",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Montes Alpes",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c076",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Montes Alpes",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c077",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Montes Alpes",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c078",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Montes Alpes",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c079",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Montes Alpes",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c080",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Montes Alpes",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c081",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Montes Alpes",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c082",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Montes Alpes",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c083",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Montes Alpes",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c084",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Montes Alpes",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c085",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Montes Alpes",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c086",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Montes Alpes",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c087",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Montes Alpes",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c088",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Montes Caucasus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c089",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Montes Caucasus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c090",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Montes Caucasus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c091",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Montes Caucasus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c092",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Montes Caucasus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c093",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Montes Caucasus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c094",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Montes Caucasus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c095",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Montes Caucasus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c096",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Montes Caucasus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c097",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Montes Caucasus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c098",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Montes Caucasus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c099",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Montes Caucasus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c100",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Montes Caucasus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c101",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Montes Caucasus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c102",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Montes Caucasus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c103",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Maurolycus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c104",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Maurolycus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c105",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Maurolycus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c106",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Maurolycus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c107",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Maurolycus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c108",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Maurolycus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c109",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Maurolycus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c110",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Maurolycus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c111",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Maurolycus",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c112",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Maurolycus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c113",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Maurolycus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c114",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Maurolycus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c115",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Maurolycus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c116",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Maurolycus",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c117",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Maurolycus",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c118",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Schickard",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c119",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Schickard",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c120",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Schickard",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c121",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Schickard",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c122",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Schickard",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c123",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Schickard",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c124",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Schickard",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c125",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Schickard",
+   "zoom": 3,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c126",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Schickard",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c127",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Schickard",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c128",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Schickard",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c129",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Schickard",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c130",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Schickard",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c131",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Schickard",
+   "zoom": 30,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c132",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Schickard",
+   "zoom": 10,
+   "strate": "plateaux"
+  },
+  {
+   "id": "c133",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Copernic",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c134",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Copernic",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c135",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Copernic",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c136",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Copernic",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c137",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Copernic",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c138",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Copernic",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c139",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Copernic",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c140",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Copernic",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c141",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Copernic",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c142",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Copernic",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c143",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Copernic",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c144",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Copernic",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c145",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Copernic",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c146",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Copernic",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c147",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Copernic",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c148",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Aristarque",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c149",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Aristarque",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c150",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Aristarque",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c151",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Aristarque",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c152",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Aristarque",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c153",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Aristarque",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c154",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Aristarque",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c155",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Aristarque",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c156",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Aristarque",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c157",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Aristarque",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c158",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Aristarque",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c159",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Aristarque",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c160",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Aristarque",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c161",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Aristarque",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c162",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Aristarque",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c163",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Kepler",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c164",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Kepler",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c165",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Kepler",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c166",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Kepler",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c167",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Kepler",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c168",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Kepler",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c169",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Kepler",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c170",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Kepler",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c171",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Kepler",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c172",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Kepler",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c173",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Kepler",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c174",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Kepler",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c175",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Kepler",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c176",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Kepler",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c177",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Kepler",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c178",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Platon",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c179",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Platon",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c180",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Platon",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c181",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Platon",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c182",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Platon",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c183",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Platon",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c184",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Platon",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c185",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Platon",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c186",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Platon",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c187",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Platon",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c188",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Platon",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c189",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Platon",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c190",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Platon",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c191",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Platon",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c192",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Platon",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c193",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Gassendi",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c194",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Gassendi",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c195",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Gassendi",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c196",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Gassendi",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c197",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Gassendi",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c198",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Gassendi",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c199",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Gassendi",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c200",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Gassendi",
+   "zoom": 10,
+   "strate": "cratères"
+  },
+  {
+   "id": "c201",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Gassendi",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c202",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Gassendi",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c203",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Gassendi",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c204",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Gassendi",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c205",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Gassendi",
+   "zoom": 30,
+   "strate": "cratères"
+  },
+  {
+   "id": "c206",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Gassendi",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c207",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Gassendi",
+   "zoom": 3,
+   "strate": "cratères"
+  },
+  {
+   "id": "c208",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Mare Serenitatis",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c209",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Mare Serenitatis",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c210",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Mare Serenitatis",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c211",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Serenitatis",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c212",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Mare Serenitatis",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c213",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Mare Serenitatis",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c214",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Mare Serenitatis",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c215",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Mare Serenitatis",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c216",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Mare Serenitatis",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c217",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Mare Serenitatis",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c218",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Serenitatis",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c219",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Mare Serenitatis",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c220",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Serenitatis",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c221",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Mare Serenitatis",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c222",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Mare Serenitatis",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c223",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Crisium",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c224",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Mare Crisium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c225",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Crisium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c226",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Mare Crisium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c227",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Crisium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c228",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Mare Crisium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c229",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Mare Crisium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c230",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Mare Crisium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c231",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Mare Crisium",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c232",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Mare Crisium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c233",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Mare Crisium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c234",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Mare Crisium",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c235",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Mare Crisium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c236",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Crisium",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c237",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Mare Crisium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c238",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Mare Nubium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c239",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Mare Nubium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c240",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Nubium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c241",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Mare Nubium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c242",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Nubium",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c243",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Mare Nubium",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c244",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Mare Nubium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c245",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Mare Nubium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c246",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Nubium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c247",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Nubium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c248",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Mare Nubium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c249",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Mare Nubium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c250",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Mare Nubium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c251",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Nubium",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c252",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Mare Nubium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c253",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Mare Imbrium",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c254",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Mare Imbrium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c255",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Mare Imbrium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c256",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Mare Imbrium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c257",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Imbrium",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c258",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Mare Imbrium",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c259",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Mare Imbrium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c260",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Mare Imbrium",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c261",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Imbrium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c262",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Imbrium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c263",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Mare Imbrium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c264",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Mare Imbrium",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c265",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Mare Imbrium",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c266",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Imbrium",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c267",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Mare Imbrium",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c268",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c269",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c270",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c271",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c272",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c273",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c274",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c275",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c276",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c277",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c278",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c279",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c280",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c281",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c282",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Tranquillitatis",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c283",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c284",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c285",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c286",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c287",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c288",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c289",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 10,
+   "strate": "mers"
+  },
+  {
+   "id": "c290",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c291",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c292",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c293",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c294",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c295",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 3,
+   "strate": "mers"
+  },
+  {
+   "id": "c296",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c297",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Oceanus Procellarum",
+   "zoom": 30,
+   "strate": "mers"
+  },
+  {
+   "id": "c298",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Grimaldi",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c299",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Grimaldi",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c300",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Grimaldi",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c301",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Grimaldi",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c302",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Grimaldi",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c303",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Grimaldi",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c304",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Grimaldi",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c305",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Grimaldi",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c306",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Grimaldi",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c307",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Grimaldi",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c308",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Grimaldi",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c309",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Grimaldi",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c310",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Grimaldi",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c311",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Grimaldi",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c312",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Grimaldi",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c313",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Mare Orientale",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c314",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Mare Orientale",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c315",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Mare Orientale",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c316",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Mare Orientale",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c317",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Mare Orientale",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c318",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Orientale",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c319",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Mare Orientale",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c320",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Mare Orientale",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c321",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Orientale",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c322",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Mare Orientale",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c323",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Mare Orientale",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c324",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Orientale",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c325",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Mare Orientale",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c326",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Mare Orientale",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c327",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Orientale",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c328",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c329",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c330",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c331",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c332",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c333",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c334",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c335",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c336",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c337",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c338",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c339",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c340",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c341",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c342",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Mare Humboldtianum",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c343",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Mare Smythii",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c344",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Mare Smythii",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c345",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Mare Smythii",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c346",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Mare Smythii",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c347",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Mare Smythii",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c348",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Mare Smythii",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c349",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Mare Smythii",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c350",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Mare Smythii",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c351",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Mare Smythii",
+   "zoom": 30,
+   "strate": "bords"
+  },
+  {
+   "id": "c352",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Mare Smythii",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c353",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Mare Smythii",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c354",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Mare Smythii",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c355",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Mare Smythii",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c356",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Mare Smythii",
+   "zoom": 10,
+   "strate": "bords"
+  },
+  {
+   "id": "c357",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Mare Smythii",
+   "zoom": 3,
+   "strate": "bords"
+  },
+  {
+   "id": "c358",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Shackleton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c359",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Shackleton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c360",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Shackleton",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c361",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Shackleton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c362",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Shackleton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c363",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Shackleton",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c364",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Shackleton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c365",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Shackleton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c366",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Shackleton",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c367",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Shackleton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c368",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Shackleton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c369",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Shackleton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c370",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Shackleton",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c371",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Shackleton",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c372",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Shackleton",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c373",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Shackleton",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c374",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Shackleton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c375",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Shackleton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c376",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Shackleton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c377",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Shackleton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c378",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Shackleton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c379",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Shackleton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c380",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Cabeus",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c381",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Cabeus",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c382",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Cabeus",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c383",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Cabeus",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c384",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Cabeus",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c385",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Cabeus",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c386",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Cabeus",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c387",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Cabeus",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c388",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Cabeus",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c389",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Cabeus",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c390",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Cabeus",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c391",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Cabeus",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c392",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Cabeus",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c393",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Cabeus",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c394",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Cabeus",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c395",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Cabeus",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c396",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Cabeus",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c397",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Cabeus",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c398",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Cabeus",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c399",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Cabeus",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c400",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Cabeus",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c401",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Cabeus",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c402",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Malapert",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c403",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Malapert",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c404",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Malapert",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c405",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Malapert",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c406",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Malapert",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c407",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Malapert",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c408",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Malapert",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c409",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Malapert",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c410",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Malapert",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c411",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Malapert",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c412",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Malapert",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c413",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Malapert",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c414",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Malapert",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c415",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Malapert",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c416",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Malapert",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c417",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Malapert",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c418",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Malapert",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c419",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Malapert",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c420",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Malapert",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c421",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Malapert",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c422",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Malapert",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c423",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Malapert",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c424",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Bailly",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c425",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Bailly",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c426",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Bailly",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c427",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Bailly",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c428",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Bailly",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c429",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Bailly",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c430",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Bailly",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c431",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Bailly",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c432",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Bailly",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c433",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Bailly",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c434",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Bailly",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c435",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Bailly",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c436",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Bailly",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c437",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Bailly",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c438",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Bailly",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c439",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Bailly",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c440",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Bailly",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c441",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Bailly",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c442",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Bailly",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c443",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Bailly",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c444",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Bailly",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c445",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Bailly",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c446",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Newton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c447",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Newton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c448",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Newton",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c449",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Newton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c450",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Newton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c451",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Newton",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c452",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Newton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c453",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Newton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c454",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Newton",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c455",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Newton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c456",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Newton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c457",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Newton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c458",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Newton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c459",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Newton",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c460",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Newton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c461",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Newton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c462",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Newton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c463",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Newton",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c464",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Newton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c465",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Newton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c466",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Newton",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c467",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Newton",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c468",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Boussingault",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c469",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Boussingault",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c470",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Boussingault",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c471",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Boussingault",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c472",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Boussingault",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c473",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Boussingault",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c474",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Boussingault",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c475",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Boussingault",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c476",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Boussingault",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c477",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Boussingault",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c478",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Boussingault",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c479",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Boussingault",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c480",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Boussingault",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c481",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Boussingault",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c482",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Boussingault",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c483",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Boussingault",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c484",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Boussingault",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c485",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Boussingault",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c486",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Boussingault",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c487",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Boussingault",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c488",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Boussingault",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c489",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Boussingault",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c490",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Peary",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c491",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Peary",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c492",
+   "date_cle": "libr_latN",
+   "date": "2027-01-30T09:00:00.000Z",
+   "region": "Peary",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c493",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Peary",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c494",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Peary",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c495",
+   "date_cle": "libr_lonE",
+   "date": "2027-08-08T12:00:00.000Z",
+   "region": "Peary",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c496",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Peary",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c497",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Peary",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c498",
+   "date_cle": "libr_lonW",
+   "date": "2026-12-18T09:00:00.000Z",
+   "region": "Peary",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c499",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Peary",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c500",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Peary",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c501",
+   "date_cle": "phase180",
+   "date": "2026-11-24T14:54:04.191Z",
+   "region": "Peary",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c502",
+   "date_cle": "phase45",
+   "date": "2026-12-13T04:39:11.910Z",
+   "region": "Peary",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c503",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Peary",
+   "zoom": 30,
+   "strate": "pôles"
+  },
+  {
+   "id": "c504",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Peary",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c505",
+   "date_cle": "phase225",
+   "date": "2026-11-27T19:55:50.268Z",
+   "region": "Peary",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c506",
+   "date_cle": "phase0",
+   "date": "2026-12-09T00:52:31.284Z",
+   "region": "Peary",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c507",
+   "date_cle": "phase90",
+   "date": "2026-12-17T05:43:14.883Z",
+   "region": "Peary",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c508",
+   "date_cle": "libr_latS",
+   "date": "2027-07-27T09:00:00.000Z",
+   "region": "Peary",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c509",
+   "date_cle": "phase270",
+   "date": "2026-12-01T06:09:14.538Z",
+   "region": "Peary",
+   "zoom": 3,
+   "strate": "pôles"
+  },
+  {
+   "id": "c510",
+   "date_cle": "phase315",
+   "date": "2026-12-05T00:30:20.538Z",
+   "region": "Peary",
+   "zoom": 10,
+   "strate": "pôles"
+  },
+  {
+   "id": "c511",
+   "date_cle": "phase135",
+   "date": "2026-11-21T06:43:20.823Z",
+   "region": "Peary",
+   "zoom": 30,
+   "strate": "pôles"
+  }
+ ]
+}

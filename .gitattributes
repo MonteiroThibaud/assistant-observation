@@ -1,0 +1,15 @@
+# Fins de ligne : toujours LF dans les fichiers du dépôt et dans la copie de travail, même sous Windows
+# (les sommes de contrôle de donnees/ et donnees-hors-gpl/ en dépendent) ; les scripts Windows gardent CRLF
+* text=auto eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.sh text eol=lf
+# Fichiers binaires : jamais convertis
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.gz binary
+*.bin binary
+*.woff2 binary
+*.ico binary

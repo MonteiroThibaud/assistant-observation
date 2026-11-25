@@ -1,0 +1,409 @@
+{
+ "schema": "listes-v1",
+ "description": "Sélection personnelle pour un Dobson de 300 mm depuis Roanne : objets du ciel profond ajoutés en 0.89 (données OpenNGC). Liste sans numéros de page (`pages:false`).",
+ "ensemble": {
+  "id": "selection-300mm",
+  "titre": "Sélection personnelle (300 mm)",
+  "auteurs": "Thibaud Monteiro (Club Astro Jupiter du Roannais)"
+ },
+ "libre": true,
+ "licence": "GPL-3.0-or-later",
+ "listes": [
+  {
+   "id": "s300",
+   "nom": "Sélection personnelle (300 mm)",
+   "nom_complet": "Sélection personnelle (300 mm)",
+   "pages": false,
+   "objets": [
+    {
+     "objet": "NGC 7814",
+     "page": 0
+    },
+    {
+     "objet": "NGC 129",
+     "page": 0
+    },
+    {
+     "objet": "NGC 246",
+     "page": 0
+    },
+    {
+     "objet": "NGC 188",
+     "page": 0
+    },
+    {
+     "objet": "NGC 654",
+     "page": 0
+    },
+    {
+     "objet": "NGC 659",
+     "page": 0
+    },
+    {
+     "objet": "NGC 663",
+     "page": 0
+    },
+    {
+     "objet": "NGC 925",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1023",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1245",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1501",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1535",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1528",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1545",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1555",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1647",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1788",
+     "page": 0
+    },
+    {
+     "objet": "IC 405",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1907",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1931",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1981",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1980",
+     "page": 0
+    },
+    {
+     "objet": "NGC 1999",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2071",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2175",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2232",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2281",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2301",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2360",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2371",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2423",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2420",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2438",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2440",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2506",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2539",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2683",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2775",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2768",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2841",
+     "page": 0
+    },
+    {
+     "objet": "NGC 2976",
+     "page": 0
+    },
+    {
+     "objet": "NGC 3079",
+     "page": 0
+    },
+    {
+     "objet": "NGC 3077",
+     "page": 0
+    },
+    {
+     "objet": "NGC 3184",
+     "page": 0
+    },
+    {
+     "objet": "NGC 3344",
+     "page": 0
+    },
+    {
+     "objet": "NGC 3521",
+     "page": 0
+    },
+    {
+     "objet": "NGC 3626",
+     "page": 0
+    },
+    {
+     "objet": "NGC 3953",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4147",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4214",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4216",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4365",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4361",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4414",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4435",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4438",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4485",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4490",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4526",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4535",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4559",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4697",
+     "page": 0
+    },
+    {
+     "objet": "NGC 4725",
+     "page": 0
+    },
+    {
+     "objet": "NGC 5005",
+     "page": 0
+    },
+    {
+     "objet": "NGC 5033",
+     "page": 0
+    },
+    {
+     "objet": "NGC 5053",
+     "page": 0
+    },
+    {
+     "objet": "NGC 5248",
+     "page": 0
+    },
+    {
+     "objet": "NGC 5466",
+     "page": 0
+    },
+    {
+     "objet": "NGC 5634",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6229",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6356",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6369",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6503",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6535",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6760",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6819",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6823",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6818",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6822",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6866",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6884",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6891",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6905",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6910",
+     "page": 0
+    },
+    {
+     "objet": "NGC 6940",
+     "page": 0
+    },
+    {
+     "objet": "NGC 7008",
+     "page": 0
+    },
+    {
+     "objet": "NGC 7006",
+     "page": 0
+    },
+    {
+     "objet": "NGC 7026",
+     "page": 0
+    },
+    {
+     "objet": "NGC 7062",
+     "page": 0
+    },
+    {
+     "objet": "NGC 7086",
+     "page": 0
+    },
+    {
+     "objet": "IC 5146",
+     "page": 0
+    },
+    {
+     "objet": "NGC 7160",
+     "page": 0
+    },
+    {
+     "objet": "NGC 7243",
+     "page": 0
+    },
+    {
+     "objet": "NGC 7380",
+     "page": 0
+    },
+    {
+     "objet": "NGC 7492",
+     "page": 0
+    },
+    {
+     "objet": "NGC 7510",
+     "page": 0
+    },
+    {
+     "objet": "NGC 7686",
+     "page": 0
+    }
+   ]
+  }
+ ]
+}

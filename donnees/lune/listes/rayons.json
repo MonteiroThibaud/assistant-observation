@@ -1,0 +1,35 @@
+{
+ "schema": "listes-lune-v1",
+ "description": "Listes de formations lunaires choisies à la main, à cocher dans Paramètres (section « Listes d'objets », Formations lunaires). Une formation est citée par son nom exact (lune/formations.json). Les autres listes (À voir ce soir, Libration favorable, Incontournables, Grands cratères, Cratères à pic central, Les plus profonds, Remparts les plus hauts, listes par instrument) sont calculées par le code d'après les mesures et la position de la Lune.",
+ "ensemble": {
+  "id": "application",
+  "titre": "Sélections de l'Assistant d'observation"
+ },
+ "libre": true,
+ "licence": "GPL-3.0-or-later (sélection de l'application)",
+ "listes": [
+  {
+   "id": "rays",
+   "groupe": "Sélections",
+   "nom": "Cratères à rayons",
+   "sous_titre": "rayons brillants",
+   "note": "Cratères jeunes aux rayons brillants (sélection indicative) : non vérifiée contre une source publiée",
+   "formations": [
+    "Tycho",
+    "Copernic",
+    "Kepler",
+    "Aristarque",
+    "Proclus",
+    "Anaxagore",
+    "Olbers",
+    "Langrenus",
+    "Stevinus",
+    "Pytheas",
+    "Byrgius",
+    "Messier",
+    "Censorinus",
+    "Dionysius"
+   ]
+  }
+ ]
+}

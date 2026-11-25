@@ -1,0 +1,107 @@
+[
+ {
+  "etiquette": "phase 25°",
+  "t": "2026-11-11T13:00:00.000Z",
+  "elat": 6.25,
+  "elon": 1.91,
+  "eclairee": 5
+ },
+ {
+  "etiquette": "phase 55°",
+  "t": "2026-11-14T07:00:00.000Z",
+  "elat": 4.12,
+  "elon": -1.63,
+  "eclairee": 22
+ },
+ {
+  "etiquette": "phase 90°",
+  "t": "2026-11-17T12:00:00.000Z",
+  "elat": 0.04,
+  "elon": -5.76,
+  "eclairee": 50
+ },
+ {
+  "etiquette": "phase 125°",
+  "t": "2026-11-20T12:00:00.000Z",
+  "elat": -4.03,
+  "elon": -7.21,
+  "eclairee": 79
+ },
+ {
+  "etiquette": "phase 160°",
+  "t": "2026-11-23T04:00:00.000Z",
+  "elat": -6.31,
+  "elon": -4.96,
+  "eclairee": 97
+ },
+ {
+  "etiquette": "phase 180°",
+  "t": "2026-11-24T15:00:00.000Z",
+  "elat": -6.44,
+  "elon": -2.46,
+  "eclairee": 100
+ },
+ {
+  "etiquette": "phase 200°",
+  "t": "2026-11-26T01:00:00.000Z",
+  "elat": -5.66,
+  "elon": 0.32,
+  "eclairee": 97
+ },
+ {
+  "etiquette": "phase 235°",
+  "t": "2026-11-28T14:00:00.000Z",
+  "elat": -2.47,
+  "elon": 4.62,
+  "eclairee": 79
+ },
+ {
+  "etiquette": "phase 270°",
+  "t": "2026-12-01T06:00:00.000Z",
+  "elat": 1.75,
+  "elon": 6.76,
+  "eclairee": 50
+ },
+ {
+  "etiquette": "phase 305°",
+  "t": "2026-12-04T04:00:00.000Z",
+  "elat": 5.32,
+  "elon": 6.42,
+  "eclairee": 21
+ },
+ {
+  "etiquette": "phase 335°",
+  "t": "2026-12-06T19:00:00.000Z",
+  "elat": 6.6,
+  "elon": 4.58,
+  "eclairee": 5
+ },
+ {
+  "etiquette": "libration nord maximale",
+  "t": "2026-12-07T02:00:00.000Z",
+  "elat": 6.62,
+  "elon": 4.31,
+  "eclairee": 4
+ },
+ {
+  "etiquette": "libration sud maximale",
+  "t": "2026-11-24T03:00:00.000Z",
+  "elat": -6.5,
+  "elon": -3.39,
+  "eclairee": 99
+ },
+ {
+  "etiquette": "libration est maximale",
+  "t": "2026-12-02T06:00:00.000Z",
+  "elat": 3.18,
+  "elon": 6.9,
+  "eclairee": 40
+ },
+ {
+  "etiquette": "libration ouest maximale",
+  "t": "2026-11-20T04:00:00.000Z",
+  "elat": -3.62,
+  "elon": -7.24,
+  "eclairee": 76
+ }
+]

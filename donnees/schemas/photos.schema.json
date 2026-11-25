@@ -1,0 +1,129 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Photos de l'auteur",
+ "type": "object",
+ "required": [
+  "schema",
+  "commentaire_installee",
+  "photos"
+ ],
+ "properties": {
+  "schema": {
+   "const": "photos-v1"
+  },
+  "commentaire_installee": {
+   "type": "string"
+  },
+  "photos": {
+   "type": "array",
+   "minItems": 1,
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "legende",
+     "objets",
+     "installee"
+    ],
+    "properties": {
+     "id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9]+$"
+     },
+     "commentaire": {
+      "type": "string"
+     },
+     "legende": {
+      "type": "string",
+      "minLength": 3
+     },
+     "objets": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+       "type": "string",
+       "minLength": 1
+      }
+     },
+     "web": {
+      "type": "object",
+      "required": [
+       "fichier",
+       "champ",
+       "ra",
+       "dec",
+       "largeur",
+       "hauteur"
+      ],
+      "properties": {
+       "fichier": {
+        "type": "string"
+       },
+       "champ": {
+        "type": "number",
+        "exclusiveMinimum": 0
+       },
+       "ra": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 360
+       },
+       "dec": {
+        "type": "number",
+        "minimum": -90,
+        "maximum": 90
+       },
+       "largeur": {
+        "type": "integer",
+        "minimum": 1
+       },
+       "hauteur": {
+        "type": "integer",
+        "minimum": 1
+       }
+      }
+     },
+     "installee": {
+      "type": "object",
+      "required": [
+       "fichier",
+       "champ",
+       "ra",
+       "dec",
+       "largeur",
+       "hauteur"
+      ],
+      "properties": {
+       "fichier": {
+        "type": "string",
+        "pattern": "^img/.+\\.jpg$"
+       },
+       "champ": {
+        "type": "number",
+        "exclusiveMinimum": 0
+       },
+       "ra": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 360
+       },
+       "dec": {
+        "type": "number",
+        "minimum": -90,
+        "maximum": 90
+       },
+       "largeur": {
+        "type": "integer",
+        "minimum": 1
+       },
+       "hauteur": {
+        "type": "integer",
+        "minimum": 1
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

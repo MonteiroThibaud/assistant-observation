@@ -1,0 +1,15 @@
+# Clés de signature Android : ne jamais les publier
+*.keystore
+*.jks
+signing-key-info.txt
+# Fichiers temporaires
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+node_modules/
+*.zip
+*.log
+# Gros fichiers de travail
+*.tif
+*.npz

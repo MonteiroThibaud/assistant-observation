@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce logiciel, merci de le citer ainsi."
+title: "Assistant d'observation"
+type: software
+authors:
+  - family-names: Monteiro
+    given-names: Thibaud
+    email: contact.assistantobservation@laposte.net
+license: GPL-3.0-or-later
+version: "1.0.0"          # à mettre à jour à chaque version diffusée
+date-released: "2026-11-25"   # à mettre à jour à chaque version diffusée
+abstract: >-
+  Application web gratuite et libre, utilisable sans réseau, d'aide à l'observation de la Lune, des planètes et du ciel profond au télescope : tableau de la nuit, atlas lunaire avec relief et ombres calculés, objets de Messier et classiques, étoiles doubles, vue à l'oculaire à l'échelle, transits de l'ISS, carnet d'observation. Interface en français.
+keywords:
+  - astronomie
+  - observation
+  - télescope
+  - Lune
+  - ciel profond
+  - application web
+  - hors ligne
+repository-code: "https://github.com/MonteiroThibaud/assistant-observation"
+url: "https://github.com/MonteiroThibaud/assistant-observation"

@@ -1,0 +1,180 @@
+{
+ "schema": "lune-montagnes-v1",
+ "description": "Hauteurs et altitudes des montagnes : MONS nom -> [hh = hauteur au-dessus de la plaine (m), st = altitude du sommet (m)] ; ST nom -> altitude du sommet ; HH_CH nom -> hauteur ; SP_CH nom -> [longitude, latitude] du sommet ; S1H nom -> hauteur relevée par Jim Singh (LROC QuickMap).",
+ "MONS": {
+  "Mons Piton": [
+   2330,
+   -420
+  ],
+  "Mons Pico": [
+   2460,
+   -500
+  ],
+  "Mons Rümker": [
+   1220,
+   -1340
+  ],
+  "Mons Gruithuisen Gamma": [
+   1760,
+   -380
+  ],
+  "Mons La Hire": [
+   1660,
+   -210
+  ],
+  "Mons Argaeus": [
+   2680,
+   -350
+  ],
+  "Mons Hadley": [
+   3900,
+   1920
+  ],
+  "Mons Hadley Delta": [
+   3390,
+   1440
+  ],
+  "Mons Bradley": [
+   5210,
+   3290
+  ],
+  "Mons Huygens": [
+   5020,
+   3050
+  ],
+  "Mons Ampère": [
+   3220,
+   1210
+  ],
+  "Mons Wolff": [
+   3370,
+   1570
+  ],
+  "Mons Gruithuisen Delta": [
+   2020,
+   -230
+  ],
+  "Mons Vinogradov": [
+   1300,
+   -100
+  ],
+  "Mons Delisle": [
+   1160,
+   -760
+  ],
+  "Mons Penck": [
+   4590,
+   2360
+  ],
+  "Mons Hansteen": [
+   1090,
+   -990
+  ],
+  "Mons Maraldi": [
+   1190,
+   -370
+  ],
+  "Mont Blanc": [
+   3660,
+   930
+  ]
+ },
+ "ST": {
+  "Montes Alpes": 1400,
+  "Montes Carpatus": 2170,
+  "Montes Jura": 860,
+  "Montes Haemus": 2400,
+  "Montes Teneriffe": -850,
+  "Montes Recti": -1070,
+  "Montes Spitzbergen": -1170,
+  "Montes Harbinger": 660,
+  "Montes Archimedes": 470,
+  "Montes Agricola": -600,
+  "Montes Riphaeus": -230,
+  "Montes Pyrenaeus": 1290,
+  "Montes Secchi": -310,
+  "Montes Taurus": 700
+ },
+ "HH_CH": {
+  "Montes Alpes": 3960,
+  "Montes Carpatus": 3410,
+  "Montes Jura": 3800,
+  "Montes Haemus": 4710,
+  "Montes Teneriffe": 2150,
+  "Montes Recti": 1890,
+  "Montes Spitzbergen": 1420,
+  "Montes Harbinger": 2230,
+  "Montes Archimedes": 2440,
+  "Montes Agricola": 1570,
+  "Montes Riphaeus": 1510,
+  "Montes Pyrenaeus": 3980,
+  "Montes Secchi": 1340,
+  "Montes Taurus": 2580
+ },
+ "SP_CH": {
+  "Montes Alpes": [
+   1.64,
+   50.23
+  ],
+  "Montes Carpatus": [
+   -27.4,
+   16.46
+  ],
+  "Montes Jura": [
+   -37.01,
+   46.75
+  ],
+  "Montes Haemus": [
+   10.09,
+   18.55
+  ],
+  "Montes Teneriffe": [
+   -15.21,
+   49.01
+  ],
+  "Montes Recti": [
+   -18.07,
+   48.51
+  ],
+  "Montes Spitzbergen": [
+   -5.07,
+   34.88
+  ],
+  "Montes Harbinger": [
+   -41.01,
+   26.45
+  ],
+  "Montes Archimedes": [
+   -4.53,
+   26.93
+  ],
+  "Montes Agricola": [
+   -52.9,
+   27.51
+  ],
+  "Montes Riphaeus": [
+   -27.07,
+   -7.05
+  ],
+  "Montes Pyrenaeus": [
+   42,
+   -14.5
+  ],
+  "Montes Secchi": [
+   43.39,
+   3.04
+  ],
+  "Montes Taurus": [
+   40.26,
+   24.68
+  ]
+ },
+ "S1H": {
+  "Mons Piton": 2300,
+  "Mons Pico": 2450,
+  "Mons Maraldi": 1300,
+  "Mons Rümker": 1300,
+  "Mons Gruithuisen Delta": 1900,
+  "Mons Gruithuisen Gamma": 1750
+ }
+}

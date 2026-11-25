@@ -1,0 +1,34 @@
+RELIEF FIN DE LA LUNE - Assistant d'observation (application installee)
+=====================================================================
+
+Ce programme fabrique un nouveau relief fin a partir de la carte de deplacement LOLA a 64 points par degre du CGI Moon Kit de la NASA
+(ldem_64_uint.tif), pour remplacer le relief actuel (grain de 5 m, traits parasites de passage du satellite).
+Il garde la face visible, ramene 64 points par degre a 32 par moyenne de 2 x 2 (moins de bruit), garde une precision de 1 m
+et mesure a la fin le trait de relief signale pres du Mare Nectaris pour dire s'il subsiste.
+
+SOUS WINDOWS 11 (ou 10) : AUCUNE INSTALLATION
+  1. Clic droit sur le fichier ZIP, puis "Extraire tout". Si vous avez deja le dossier de l'outil des tuiles de la Lune,
+     vous pouvez y copier ces fichiers : Python portable y est deja.
+  2. Double-cliquez sur  Fabriquer-le-relief.bat
+     (si Windows affiche "Windows a protege votre ordinateur" : "Informations complementaires", puis "Executer quand meme").
+  3. Appuyez sur une touche, puis attendez : le programme telecharge ce qu'il lui faut (Python portable 11 Mo s'il n'est pas la,
+     modules 30 Mo, carte de la NASA 506 Mo), puis fabrique le relief. Compte 10 a 30 minutes et 3 Go de memoire vive libre.
+  4. A la fin, la fenetre affiche TERMINE et le rapport. Envoyez le fichier  relief-lune.zip  (environ 22 Mo)
+     dans la conversation avec Claude : il contient relief-fin.bin.gz et rapport.txt.
+
+  Si une etape echoue : relancez simplement le .bat, les etapes deja faites ne sont pas refaites
+  (le telechargement de la carte reprend ou il s'etait arrete).
+
+SOUS MAC OU LINUX (ou si vous avez deja Python 3)
+  pip install numpy tifffile
+  Telechargez ldem_64_uint.tif :
+  https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004720/ldem_64_uint.tif
+  puis :  python3 fabrique_relief_lune.py ldem_64_uint.tif --sortie relief-lune
+
+FICHIERS FOURNIS
+  Fabriquer-le-relief.bat      le lanceur pour Windows
+  fabrique_relief_lune.py      le programme de fabrication (essai sans carte : python fabrique_relief_lune.py --essai)
+
+Source des donnees : NASA Scientific Visualization Studio, CGI Moon Kit (donnees LRO / LOLA), domaine public.
+Remarque : cette carte vient des memes mesures LOLA que le relief actuel ; si le rapport montre que le trait subsiste, la suite sera
+la carte SLDEM2015 (LOLA et camera SELENE), plus complete entre 60 degres N et 60 degres S.

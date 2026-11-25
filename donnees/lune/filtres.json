@@ -1,0 +1,46 @@
+{
+ "schema": "lune-filtres-v1",
+ "description": "Filtres de type de la liste des formations lunaires : [code, libellé].",
+ "filtres": [
+  [
+   "all",
+   "Tous"
+  ],
+  [
+   "mer",
+   "Mers"
+  ],
+  [
+   "lac",
+   "Lacs et golfes"
+  ],
+  [
+   "crater",
+   "Cratères"
+  ],
+  [
+   "mont",
+   "Montagnes"
+  ],
+  [
+   "dome",
+   "Dômes"
+  ],
+  [
+   "rille",
+   "Rilles et vallées"
+  ],
+  [
+   "relief",
+   "Reliefs"
+  ],
+  [
+   "site",
+   "Atterrissage"
+  ],
+  [
+   "effet",
+   "Effets"
+  ]
+ ]
+}

@@ -1,0 +1,6373 @@
+{
+ "schema": "lune-corrections-v1",
+ "description": "Corrections des notices lunaires (0.76) : pos = positions et d = tailles du gazetier de nomenclature planétaire de l'UAI et de l'USGS (réseau de contrôle LOLA, fichier du projet LTVT) ; meas = mesures refaites ; repl = remplacements de texte dans les descriptions [nom, ancien, nouveau].",
+ "pos": {
+  "Mare Crisium": [
+   59.1,
+   16.18
+  ],
+  "Langrenus": [
+   61.04,
+   -8.86
+  ],
+  "Petavius": [
+   60.78,
+   -25.39
+  ],
+  "Posidonius": [
+   29.99,
+   31.88
+  ],
+  "Mare Tranquillitatis": [
+   30.83,
+   8.35
+  ],
+  "Théophile": [
+   26.28,
+   -11.45
+  ],
+  "Mare Serenitatis": [
+   18.36,
+   27.29
+  ],
+  "Mare Nectaris": [
+   34.6,
+   -15.19
+  ],
+  "Mare Fecunditatis": [
+   53.67,
+   -7.83
+  ],
+  "Aristote": [
+   17.32,
+   50.24
+  ],
+  "Hipparque": [
+   4.91,
+   -5.36
+  ],
+  "Ptolémée": [
+   -1.84,
+   -9.16
+  ],
+  "Alphonse": [
+   -2.85,
+   -13.39
+  ],
+  "Arzachel": [
+   -1.93,
+   -18.26
+  ],
+  "Montes Apenninus": [
+   0.03,
+   19.87
+  ],
+  "Archimède": [
+   -3.99,
+   29.72
+  ],
+  "Platon": [
+   -9.38,
+   51.62
+  ],
+  "Montes Alpes": [
+   -0.58,
+   48.36
+  ],
+  "Vallis Alpes": [
+   3.63,
+   49.21
+  ],
+  "Rupes Recta": [
+   -7.7,
+   -21.67
+  ],
+  "Tycho": [
+   -11.22,
+   -43.3
+  ],
+  "Clavius": [
+   -14.73,
+   -58.62
+  ],
+  "Mare Imbrium": [
+   -14.91,
+   34.72
+  ],
+  "Copernic": [
+   -20.08,
+   9.62
+  ],
+  "Sinus Iridum": [
+   -31.67,
+   45.01
+  ],
+  "Kepler": [
+   -38.01,
+   8.12
+  ],
+  "Gassendi": [
+   -39.96,
+   -17.55
+  ],
+  "Aristarque": [
+   -47.49,
+   23.73
+  ],
+  "Schickard": [
+   -55.11,
+   -44.38
+  ],
+  "Grimaldi": [
+   -68.36,
+   -5.38
+  ],
+  "Mare Humorum": [
+   -38.57,
+   -24.48
+  ],
+  "Mare Nubium": [
+   -17.29,
+   -20.59
+  ],
+  "Ératosthène": [
+   -11.32,
+   14.47
+  ],
+  "Atlas": [
+   44.38,
+   46.74
+  ],
+  "Hercule": [
+   39.21,
+   46.82
+  ],
+  "Rupes Altai": [
+   23.12,
+   -24.32
+  ],
+  "Maurolycus": [
+   13.92,
+   -41.77
+  ],
+  "Bullialdus": [
+   -22.26,
+   -20.75
+  ],
+  "Schiller": [
+   -39.78,
+   -51.72
+  ],
+  "Mons Piton": [
+   -0.92,
+   40.72
+  ],
+  "Mons Pico": [
+   -8.87,
+   45.82
+  ],
+  "Cassini": [
+   4.64,
+   40.25
+  ],
+  "Mare Frigoris": [
+   -0.01,
+   57.59
+  ],
+  "Vallis Schröteri": [
+   -51.58,
+   26.16
+  ],
+  "Reiner Gamma": [
+   -58.96,
+   7.39
+  ],
+  "Cyrille": [
+   24.07,
+   -13.29
+  ],
+  "Catherine": [
+   23.55,
+   -17.98
+  ],
+  "Eudoxe": [
+   16.23,
+   44.27
+  ],
+  "Albategnius": [
+   4.01,
+   -11.24
+  ],
+  "Mare Vaporum": [
+   4.09,
+   13.2
+  ],
+  "Sinus Medii": [
+   1.03,
+   1.63
+  ],
+  "Sinus Aestuum": [
+   -8.34,
+   12.1
+  ],
+  "Palus Putredinis": [
+   0,
+   27.36
+  ],
+  "Lacus Somniorum": [
+   30.8,
+   37.56
+  ],
+  "Cléomède": [
+   55.5,
+   27.6
+  ],
+  "Messier": [
+   47.65,
+   -1.9
+  ],
+  "Proclus": [
+   46.89,
+   16.09
+  ],
+  "Taruntius": [
+   46.54,
+   5.5
+  ],
+  "Vendelinus": [
+   61.55,
+   -16.46
+  ],
+  "Furnerius": [
+   60.54,
+   -36
+  ],
+  "Stevinus": [
+   54.14,
+   -32.49
+  ],
+  "Vallis Rheita": [
+   51.65,
+   -42.51
+  ],
+  "Piccolomini": [
+   32.2,
+   -29.7
+  ],
+  "Fracastor": [
+   33.07,
+   -21.36
+  ],
+  "Stöfler": [
+   5.93,
+   -41.24
+  ],
+  "Walter": [
+   0.62,
+   -33.25
+  ],
+  "Regiomontanus": [
+   -1.09,
+   -28.28
+  ],
+  "Purbach": [
+   -2.03,
+   -25.51
+  ],
+  "Deslandres": [
+   -5.57,
+   -32.55
+  ],
+  "Pitatus": [
+   -13.53,
+   -29.88
+  ],
+  "Maginus": [
+   -5.98,
+   -50.03
+  ],
+  "Moretus": [
+   -5.95,
+   -70.63
+  ],
+  "Longomontanus": [
+   -21.88,
+   -49.55
+  ],
+  "Wilhelm": [
+   -20.94,
+   -43.21
+  ],
+  "Mersenius": [
+   -49.34,
+   -21.49
+  ],
+  "Bailly": [
+   -68.9,
+   -66.82
+  ],
+  "Hévélius": [
+   -67.46,
+   2.2
+  ],
+  "Riccioli": [
+   -74.42,
+   -2.9
+  ],
+  "Marius": [
+   -50.84,
+   11.9
+  ],
+  "Lansberg": [
+   -26.63,
+   -0.31
+  ],
+  "Reinhold": [
+   -22.86,
+   3.28
+  ],
+  "Fra Mauro": [
+   -16.97,
+   -6.06
+  ],
+  "Hérodote": [
+   -49.84,
+   23.25
+  ],
+  "Montes Carpatus": [
+   -23.62,
+   14.57
+  ],
+  "Montes Jura": [
+   -36.11,
+   47.49
+  ],
+  "Montes Caucasus": [
+   9.93,
+   37.52
+  ],
+  "Montes Haemus": [
+   12.03,
+   17.11
+  ],
+  "Montes Teneriffe": [
+   -13.19,
+   47.89
+  ],
+  "Montes Recti": [
+   -19.72,
+   48.3
+  ],
+  "Aristillus": [
+   1.21,
+   33.88
+  ],
+  "Autolycus": [
+   1.49,
+   30.68
+  ],
+  "Timocharis": [
+   -13.1,
+   26.72
+  ],
+  "Euler": [
+   -29.18,
+   23.26
+  ],
+  "Pythagore": [
+   -62.98,
+   63.68
+  ],
+  "Anaxagore": [
+   -10.17,
+   73.48
+  ],
+  "Endymion": [
+   56.48,
+   53.61
+  ],
+  "Bürg": [
+   28.21,
+   45.07
+  ],
+  "Jules César": [
+   15.21,
+   9.17
+  ],
+  "Manilius": [
+   9.07,
+   14.45
+  ],
+  "Ménélas": [
+   15.93,
+   16.26
+  ],
+  "Pline": [
+   23.61,
+   15.36
+  ],
+  "Le Monnier": [
+   30.5,
+   26.66
+  ],
+  "Macrobe": [
+   45.97,
+   21.26
+  ],
+  "Delambre": [
+   17.39,
+   -1.94
+  ],
+  "Arago": [
+   21.43,
+   6.15
+  ],
+  "Abulféda": [
+   13.91,
+   -13.87
+  ],
+  "Werner": [
+   3.29,
+   -28.03
+  ],
+  "Janssen": [
+   40.82,
+   -44.96
+  ],
+  "Mons Rümker": [
+   -58.38,
+   40.76
+  ],
+  "Mare Cognitum": [
+   -22.31,
+   -10.53
+  ],
+  "Mare Insularum": [
+   -30.64,
+   7.79
+  ],
+  "Oceanus Procellarum": [
+   -56.68,
+   20.67
+  ],
+  "Mare Humboldtianum": [
+   81.54,
+   56.92
+  ],
+  "Mare Marginis": [
+   86.52,
+   12.7
+  ],
+  "Mare Smythii": [
+   87.05,
+   -1.71
+  ],
+  "Hyginus": [
+   6.27,
+   7.76
+  ],
+  "Rima Ariadaeus": [
+   13.44,
+   6.48
+  ],
+  "Triesnecker": [
+   3.6,
+   4.18
+  ],
+  "Rima Hadley": [
+   3.15,
+   25.72
+  ],
+  "Birt": [
+   -8.59,
+   -22.36
+  ],
+  "Rimae Hippalus": [
+   -29.36,
+   -25.6
+  ],
+  "Rimae Sirsalis": [
+   -61.36,
+   -15.01
+  ],
+  "Vallis Snellius": [
+   57.84,
+   -30.93
+  ],
+  "Cauchy": [
+   38.63,
+   9.56
+  ],
+  "Catena Davy": [
+   -6.27,
+   -10.98
+  ],
+  "Lamont": [
+   23.32,
+   5.14
+  ],
+  "Dorsa Smirnov": [
+   25.53,
+   26.41
+  ],
+  "Kies": [
+   -22.63,
+   -26.31
+  ],
+  "Gruithuisen Gamma": [
+   -40.72,
+   36.56
+  ],
+  "Hortensius": [
+   -28,
+   6.47
+  ],
+  "Wargentin": [
+   -60.44,
+   -49.53
+  ],
+  "Sirsalis": [
+   -60.51,
+   -12.49
+  ],
+  "Flamsteed": [
+   -44.34,
+   -4.49
+  ],
+  "Letronne": [
+   -42.49,
+   -10.5
+  ],
+  "Billy": [
+   -50.24,
+   -13.83
+  ],
+  "Crüger": [
+   -66.96,
+   -16.68
+  ],
+  "Prinz": [
+   -44.14,
+   25.49
+  ],
+  "Lambert": [
+   -20.99,
+   25.77
+  ],
+  "Pytheas": [
+   -20.59,
+   20.57
+  ],
+  "Lalande": [
+   -8.65,
+   -4.46
+  ],
+  "Mösting": [
+   -5.88,
+   -0.7
+  ],
+  "Herschel": [
+   -2.09,
+   -5.69
+  ],
+  "Flammarion": [
+   -3.73,
+   -3.33
+  ],
+  "Bode": [
+   -2.45,
+   6.71
+  ],
+  "Pallas": [
+   -1.65,
+   5.48
+  ],
+  "Agrippa": [
+   10.47,
+   4.1
+  ],
+  "Godin": [
+   10.16,
+   1.82
+  ],
+  "Dionysius": [
+   17.29,
+   2.77
+  ],
+  "Maskelyne": [
+   30.04,
+   2.16
+  ],
+  "Censorinus": [
+   32.69,
+   -0.42
+  ],
+  "Capella": [
+   34.92,
+   -7.65
+  ],
+  "Torricelli": [
+   28.4,
+   -4.72
+  ],
+  "Goclenius": [
+   45.03,
+   -10.05
+  ],
+  "Gutenberg": [
+   41.25,
+   -8.61
+  ],
+  "Colombo": [
+   46.02,
+   -15.26
+  ],
+  "Rosse": [
+   34.98,
+   -17.95
+  ],
+  "Beaumont": [
+   28.82,
+   -18.08
+  ],
+  "Sacrobosco": [
+   16.64,
+   -23.75
+  ],
+  "Apianus": [
+   7.87,
+   -26.96
+  ],
+  "Aliacensis": [
+   5.13,
+   -30.6
+  ],
+  "Blanchinus": [
+   2.44,
+   -25.32
+  ],
+  "La Caille": [
+   1.08,
+   -23.68
+  ],
+  "Thebit": [
+   -4.02,
+   -22.01
+  ],
+  "Alpetragius": [
+   -4.51,
+   -16.05
+  ],
+  "Lassell": [
+   -7.9,
+   -15.49
+  ],
+  "Hell": [
+   -7.8,
+   -32.41
+  ],
+  "Cichus": [
+   -21.18,
+   -33.29
+  ],
+  "Heinsius": [
+   -17.82,
+   -39.48
+  ],
+  "Hainzel": [
+   -33.52,
+   -41.23
+  ],
+  "Capuanus": [
+   -26.73,
+   -34.09
+  ],
+  "Ramsden": [
+   -31.87,
+   -32.96
+  ],
+  "Vitello": [
+   -37.55,
+   -30.42
+  ],
+  "Doppelmayer": [
+   -41.51,
+   -28.48
+  ],
+  "Mercator": [
+   -26.11,
+   -29.25
+  ],
+  "Campanus": [
+   -27.9,
+   -28.04
+  ],
+  "Agatharchides": [
+   -31.11,
+   -19.85
+  ],
+  "Opelt": [
+   -17.64,
+   -16.32
+  ],
+  "Guericke": [
+   -14.19,
+   -11.57
+  ],
+  "Parry": [
+   -15.78,
+   -7.88
+  ],
+  "Bonpland": [
+   -17.33,
+   -8.38
+  ],
+  "Gambart": [
+   -15.24,
+   0.92
+  ],
+  "Stadius": [
+   -13.77,
+   10.48
+  ],
+  "Piazzi Smyth": [
+   -3.24,
+   41.91
+  ],
+  "Kirch": [
+   -5.62,
+   39.27
+  ],
+  "Montes Spitzbergen": [
+   -5.21,
+   34.47
+  ],
+  "Mons La Hire": [
+   -25.51,
+   27.66
+  ],
+  "Helicon": [
+   -23.11,
+   40.43
+  ],
+  "Le Verrier": [
+   -20.61,
+   40.33
+  ],
+  "Delisle": [
+   -34.68,
+   29.98
+  ],
+  "Diophantus": [
+   -34.3,
+   27.62
+  ],
+  "Promontorium Laplace": [
+   -25.51,
+   46.84
+  ],
+  "Promontorium Heraclides": [
+   -34.1,
+   40.6
+  ],
+  "Bianchini": [
+   -34.37,
+   48.78
+  ],
+  "Sharp": [
+   -40.22,
+   45.75
+  ],
+  "J. Herschel": [
+   -41.86,
+   62.31
+  ],
+  "Philolaus": [
+   -32.88,
+   72.22
+  ],
+  "W. Bond": [
+   3.52,
+   65.41
+  ],
+  "Egede": [
+   10.64,
+   48.72
+  ],
+  "Alexander": [
+   13.69,
+   40.25
+  ],
+  "Calippus": [
+   10.72,
+   38.92
+  ],
+  "Linné": [
+   11.8,
+   27.75
+  ],
+  "Bessel": [
+   17.92,
+   21.73
+  ],
+  "Chacornac": [
+   31.67,
+   29.88
+  ],
+  "Römer": [
+   36.41,
+   25.43
+  ],
+  "Littrow": [
+   31.39,
+   21.5
+  ],
+  "Vitruvius": [
+   31.28,
+   17.66
+  ],
+  "Mons Argaeus": [
+   29.01,
+   19.33
+  ],
+  "Franklin": [
+   47.64,
+   38.73
+  ],
+  "Cepheus": [
+   45.78,
+   40.68
+  ],
+  "Geminus": [
+   56.66,
+   34.42
+  ],
+  "Messala": [
+   60.06,
+   39.31
+  ],
+  "Gauss": [
+   79.08,
+   36.01
+  ],
+  "Picard": [
+   54.72,
+   14.57
+  ],
+  "Peirce": [
+   53.35,
+   18.26
+  ],
+  "Promontorium Agarum": [
+   65.73,
+   13.87
+  ],
+  "Firmicus": [
+   63.43,
+   7.25
+  ],
+  "Apollonius": [
+   60.96,
+   4.51
+  ],
+  "Snellius": [
+   55.7,
+   -29.33
+  ],
+  "Humboldt": [
+   80.96,
+   -27.02
+  ],
+  "Fabricius": [
+   41.84,
+   -42.75
+  ],
+  "Metius": [
+   43.37,
+   -40.42
+  ],
+  "Rheita": [
+   47.17,
+   -37.1
+  ],
+  "Curtius": [
+   4.4,
+   -67.08
+  ],
+  "Blancanus": [
+   -21.63,
+   -63.77
+  ],
+  "Scheiner": [
+   -27.81,
+   -60.35
+  ],
+  "Phocylides": [
+   -57.31,
+   -52.79
+  ],
+  "Inghirami": [
+   -68.95,
+   -47.49
+  ],
+  "Hansteen": [
+   -52.06,
+   -11.53
+  ],
+  "Cavalerius": [
+   -66.93,
+   5.1
+  ],
+  "Olbers": [
+   -76.14,
+   7.3
+  ],
+  "Seleucus": [
+   -66.66,
+   21.09
+  ],
+  "Briggs": [
+   -69.19,
+   26.45
+  ],
+  "Lichtenberg": [
+   -67.72,
+   31.85
+  ],
+  "Montes Harbinger": [
+   -41.29,
+   26.89
+  ],
+  "Condorcet": [
+   69.58,
+   12.1
+  ],
+  "Hahn": [
+   73.55,
+   31.22
+  ],
+  "Berosus": [
+   69.99,
+   33.5
+  ],
+  "Burckhardt": [
+   56.39,
+   31.11
+  ],
+  "Dubyago": [
+   69.95,
+   4.38
+  ],
+  "Lamé": [
+   64.56,
+   -14.76
+  ],
+  "Legendre": [
+   70.02,
+   -28.92
+  ],
+  "Adams": [
+   68.39,
+   -31.89
+  ],
+  "Hase": [
+   62.68,
+   -29.37
+  ],
+  "Gilbert": [
+   76.16,
+   -3.2
+  ],
+  "Kästner": [
+   78.94,
+   -6.9
+  ],
+  "Hécatée": [
+   79.68,
+   -22.06
+  ],
+  "Wrottesley": [
+   56.62,
+   -23.9
+  ],
+  "Vega": [
+   63.27,
+   -45.41
+  ],
+  "Reichenbach": [
+   47.95,
+   -30.48
+  ],
+  "Neander": [
+   39.88,
+   -31.35
+  ],
+  "Young": [
+   50.98,
+   -41.54
+  ],
+  "Watt": [
+   48.48,
+   -49.6
+  ],
+  "Steinheil": [
+   46.66,
+   -48.71
+  ],
+  "Biela": [
+   51.63,
+   -54.99
+  ],
+  "Hagecius": [
+   46.63,
+   -59.92
+  ],
+  "Rosenberger": [
+   43.15,
+   -55.49
+  ],
+  "Nearch": [
+   39.01,
+   -58.58
+  ],
+  "Vlacq": [
+   38.69,
+   -53.39
+  ],
+  "Hommel": [
+   32.93,
+   -54.74
+  ],
+  "Pitiscus": [
+   30.57,
+   -50.61
+  ],
+  "Brenner": [
+   39.11,
+   -39.09
+  ],
+  "Mallet": [
+   54.05,
+   -45.41
+  ],
+  "Zagut": [
+   21.89,
+   -31.94
+  ],
+  "Lindenau": [
+   24.77,
+   -32.35
+  ],
+  "Rabbi Levi": [
+   23.46,
+   -34.78
+  ],
+  "Riccius": [
+   26.43,
+   -37.02
+  ],
+  "Büsching": [
+   19.96,
+   -38.04
+  ],
+  "Buch": [
+   17.68,
+   -38.9
+  ],
+  "Gemma Frisius": [
+   13.37,
+   -34.33
+  ],
+  "Nonius": [
+   3.79,
+   -34.9
+  ],
+  "Kaiser": [
+   6.48,
+   -36.49
+  ],
+  "Fernelius": [
+   4.86,
+   -38.18
+  ],
+  "Wilkins": [
+   19.58,
+   -29.58
+  ],
+  "Pontanus": [
+   14.36,
+   -28.42
+  ],
+  "Parrot": [
+   3.29,
+   -14.57
+  ],
+  "Lade": [
+   9.99,
+   -1.33
+  ],
+  "Murchison": [
+   -0.21,
+   5.07
+  ],
+  "Réaumur": [
+   0.73,
+   -2.45
+  ],
+  "Barocius": [
+   16.81,
+   -44.98
+  ],
+  "Clairaut": [
+   13.86,
+   -47.84
+  ],
+  "Cuvier": [
+   9.69,
+   -50.29
+  ],
+  "Héraclite": [
+   6.42,
+   -49.31
+  ],
+  "Licetus": [
+   6.54,
+   -47.19
+  ],
+  "Zach": [
+   5.25,
+   -60.92
+  ],
+  "Lilius": [
+   6.09,
+   -54.6
+  ],
+  "Jacobi": [
+   11.3,
+   -56.82
+  ],
+  "Pentland": [
+   11.34,
+   -64.57
+  ],
+  "Faraday": [
+   8.75,
+   -42.45
+  ],
+  "Miller": [
+   0.78,
+   -39.37
+  ],
+  "Nasireddin": [
+   0.14,
+   -41.04
+  ],
+  "Huggins": [
+   -1.52,
+   -41.07
+  ],
+  "Orontius": [
+   -3.96,
+   -40.37
+  ],
+  "Saussure": [
+   -3.88,
+   -43.38
+  ],
+  "Lexell": [
+   -4.27,
+   -35.78
+  ],
+  "Sasserides": [
+   -9.44,
+   -39.28
+  ],
+  "Pictet": [
+   -7.49,
+   -43.56
+  ],
+  "Street": [
+   -10.74,
+   -46.58
+  ],
+  "Porter": [
+   -10.18,
+   -56.15
+  ],
+  "Gruemberger": [
+   -10.3,
+   -67.04
+  ],
+  "Gauricus": [
+   -12.74,
+   -33.91
+  ],
+  "Wurzelbauer": [
+   -16.06,
+   -34.04
+  ],
+  "Weiss": [
+   -19.59,
+   -31.76
+  ],
+  "Lagalla": [
+   -22.36,
+   -44.48
+  ],
+  "Montanari": [
+   -20.76,
+   -45.83
+  ],
+  "Mee": [
+   -35.19,
+   -43.63
+  ],
+  "Zucchius": [
+   -50.65,
+   -61.38
+  ],
+  "Segner": [
+   -48.68,
+   -58.96
+  ],
+  "Bettinus": [
+   -45.16,
+   -63.4
+  ],
+  "Kircher": [
+   -45.48,
+   -67.01
+  ],
+  "Wilson": [
+   -42.83,
+   -69.33
+  ],
+  "Casatus": [
+   -30.75,
+   -72.7
+  ],
+  "Klaproth": [
+   -26.26,
+   -69.85
+  ],
+  "Manzinus": [
+   26.37,
+   -67.51
+  ],
+  "Mutus": [
+   29.93,
+   -63.65
+  ],
+  "Boguslawsky": [
+   43.26,
+   -72.9
+  ],
+  "Simpelius": [
+   14.74,
+   -72.61
+  ],
+  "Newton": [
+   -17.44,
+   -76.52
+  ],
+  "Short": [
+   -7.68,
+   -74.54
+  ],
+  "Cabeus": [
+   -42.13,
+   -85.33
+  ],
+  "Malapert": [
+   11.4,
+   -85
+  ],
+  "Schomberger": [
+   24.69,
+   -76.64
+  ],
+  "Byrgius": [
+   -65.38,
+   -24.73
+  ],
+  "Lamarck": [
+   -70.06,
+   -23.12
+  ],
+  "Darwin": [
+   -69.21,
+   -19.93
+  ],
+  "Cavendish": [
+   -53.78,
+   -24.63
+  ],
+  "Vieta": [
+   -56.53,
+   -29.31
+  ],
+  "Fourier": [
+   -53.1,
+   -30.31
+  ],
+  "Lehmann": [
+   -56.17,
+   -39.96
+  ],
+  "Nasmyth": [
+   -56.39,
+   -50.49
+  ],
+  "Piazzi": [
+   -68.01,
+   -36.16
+  ],
+  "Lagrange": [
+   -71.45,
+   -32.6
+  ],
+  "Hippalus": [
+   -30.42,
+   -24.92
+  ],
+  "Rocca": [
+   -72.89,
+   -12.89
+  ],
+  "Hedin": [
+   -76.57,
+   2.87
+  ],
+  "Krafft": [
+   -72.72,
+   16.56
+  ],
+  "Arnold": [
+   35.83,
+   66.98
+  ],
+  "Baillaud": [
+   37.35,
+   74.61
+  ],
+  "Barrow": [
+   7.59,
+   71.28
+  ],
+  "Goldschmidt": [
+   -3.37,
+   73.04
+  ],
+  "Épigène": [
+   -4.62,
+   67.5
+  ],
+  "Babbage": [
+   -57.38,
+   59.56
+  ],
+  "Anaximène": [
+   -44.98,
+   72.49
+  ],
+  "Œnopide": [
+   -64.2,
+   57.13
+  ],
+  "De La Rue": [
+   52.84,
+   59.02
+  ],
+  "Strabon": [
+   54.42,
+   61.94
+  ],
+  "Mercurius": [
+   66.07,
+   46.66
+  ],
+  "Schumacher": [
+   60.81,
+   42.42
+  ],
+  "Zénon": [
+   72.98,
+   45.15
+  ],
+  "Chevallier": [
+   51.57,
+   45.01
+  ],
+  "Berzelius": [
+   50.95,
+   36.55
+  ],
+  "Dawes": [
+   26.34,
+   17.21
+  ],
+  "Maclear": [
+   20.1,
+   10.52
+  ],
+  "Sosigenes": [
+   17.6,
+   8.7
+  ],
+  "Sulpicius Gallus": [
+   11.68,
+   19.63
+  ],
+  "Boscovich": [
+   11.01,
+   9.71
+  ],
+  "Pickering": [
+   6.99,
+   -2.88
+  ],
+  "Theon Senior": [
+   15.42,
+   -0.81
+  ],
+  "Theon Junior": [
+   15.79,
+   -2.41
+  ],
+  "Cayley": [
+   15.09,
+   3.94
+  ],
+  "Ritter": [
+   19.17,
+   1.96
+  ],
+  "Sabine": [
+   20.07,
+   1.38
+  ],
+  "Schmidt": [
+   18.78,
+   0.96
+  ],
+  "Silberschlag": [
+   12.53,
+   6.21
+  ],
+  "Rhaeticus": [
+   4.92,
+   0.03
+  ],
+  "Ukert": [
+   1.37,
+   7.71
+  ],
+  "Schröter": [
+   -6.98,
+   2.74
+  ],
+  "Hind": [
+   7.31,
+   -7.92
+  ],
+  "Halley": [
+   5.73,
+   -8.05
+  ],
+  "Horrocks": [
+   5.85,
+   -3.99
+  ],
+  "Saunder": [
+   8.72,
+   -4.26
+  ],
+  "Spörer": [
+   -1.77,
+   -4.3
+  ],
+  "Taylor": [
+   16.65,
+   -5.28
+  ],
+  "Zöllner": [
+   18.9,
+   -7.97
+  ],
+  "Descartes": [
+   15.67,
+   -11.74
+  ],
+  "Abenezra": [
+   11.89,
+   -20.99
+  ],
+  "Azophi": [
+   12.7,
+   -22.19
+  ],
+  "Geber": [
+   13.85,
+   -19.46
+  ],
+  "Almanon": [
+   15.14,
+   -16.85
+  ],
+  "Tacitus": [
+   18.95,
+   -16.2
+  ],
+  "Playfair": [
+   8.45,
+   -23.56
+  ],
+  "Argelander": [
+   5.8,
+   -16.55
+  ],
+  "Davy": [
+   -8.15,
+   -11.85
+  ],
+  "Hesiodus": [
+   -16.42,
+   -29.42
+  ],
+  "Nicollet": [
+   -12.5,
+   -21.95
+  ],
+  "Müller": [
+   2.04,
+   -7.64
+  ],
+  "Tobias Mayer": [
+   -29.17,
+   15.54
+  ],
+  "Euclide": [
+   -29.56,
+   -7.4
+  ],
+  "Milichius": [
+   -30.23,
+   10.01
+  ],
+  "Encke": [
+   -36.68,
+   4.57
+  ],
+  "Gay-Lussac": [
+   -20.79,
+   13.88
+  ],
+  "Beer": [
+   -9.1,
+   27.07
+  ],
+  "Gruithuisen": [
+   -39.78,
+   32.89
+  ],
+  "Maupertuis": [
+   -27.28,
+   49.7
+  ],
+  "Foucault": [
+   -39.86,
+   50.46
+  ],
+  "Fontenelle": [
+   -18.96,
+   63.42
+  ],
+  "Mairan": [
+   -43.5,
+   41.6
+  ],
+  "Harpalus": [
+   -43.49,
+   52.73
+  ],
+  "Timée": [
+   -0.55,
+   62.91
+  ],
+  "Archytas": [
+   4.99,
+   58.87
+  ],
+  "Protagoras": [
+   7.34,
+   56.02
+  ],
+  "Mitchell": [
+   20.17,
+   49.77
+  ],
+  "Grove": [
+   32.98,
+   40.3
+  ],
+  "Baily": [
+   30.56,
+   49.78
+  ],
+  "Newcomb": [
+   43.67,
+   29.76
+  ],
+  "Williams": [
+   37.31,
+   42.02
+  ],
+  "Mason": [
+   30.51,
+   42.7
+  ],
+  "Plana": [
+   28.22,
+   42.25
+  ],
+  "Hall": [
+   36.75,
+   33.81
+  ],
+  "Daniell": [
+   31.16,
+   35.42
+  ],
+  "Lyell": [
+   40.56,
+   13.63
+  ],
+  "Maraldi": [
+   34.8,
+   19.36
+  ],
+  "Cameron": [
+   45.93,
+   6.19
+  ],
+  "Lawrence": [
+   43.3,
+   7.35
+  ],
+  "Isidorus": [
+   33.5,
+   -7.96
+  ],
+  "Magelhaens": [
+   44.07,
+   -11.98
+  ],
+  "Santbech": [
+   44.06,
+   -20.99
+  ],
+  "Bohnenberger": [
+   40.06,
+   -16.24
+  ],
+  "Eimmart": [
+   64.8,
+   23.97
+  ],
+  "Lohrmann": [
+   -67.38,
+   -0.44
+  ],
+  "Galilaei": [
+   -62.83,
+   10.48
+  ],
+  "Lacus Mortis": [
+   27.32,
+   45.13
+  ],
+  "Lacus Bonitatis": [
+   44.32,
+   23.18
+  ],
+  "Lacus Felicitatis": [
+   5.36,
+   18.52
+  ],
+  "Lacus Gaudii": [
+   12.27,
+   16.33
+  ],
+  "Lacus Lenitatis": [
+   12.05,
+   14.32
+  ],
+  "Lacus Hiemalis": [
+   13.97,
+   15.01
+  ],
+  "Lacus Odii": [
+   7.27,
+   19.22
+  ],
+  "Lacus Doloris": [
+   8.61,
+   16.8
+  ],
+  "Lacus Excellentiae": [
+   -43.58,
+   -35.65
+  ],
+  "Lacus Timoris": [
+   -27.95,
+   -39.42
+  ],
+  "Lacus Perseverantiae": [
+   61.93,
+   7.84
+  ],
+  "Lacus Spei": [
+   65.2,
+   43.46
+  ],
+  "Lacus Temporis": [
+   56.21,
+   46.77
+  ],
+  "Lacus Aestatis": [
+   -68.57,
+   -14.83
+  ],
+  "Lacus Autumni": [
+   -83.17,
+   -11.81
+  ],
+  "Lacus Veris": [
+   -85.91,
+   -16.48
+  ],
+  "Sinus Amoris": [
+   37.29,
+   19.92
+  ],
+  "Sinus Asperitatis": [
+   27.49,
+   -5.41
+  ],
+  "Sinus Concordiae": [
+   42.47,
+   10.98
+  ],
+  "Sinus Fidei": [
+   2.04,
+   17.99
+  ],
+  "Sinus Honoris": [
+   17.87,
+   11.72
+  ],
+  "Sinus Lunicus": [
+   -1.85,
+   32.36
+  ],
+  "Sinus Roris": [
+   -50.86,
+   50.26
+  ],
+  "Sinus Successus": [
+   58.52,
+   1.12
+  ],
+  "Palus Epidemiarum": [
+   -27.54,
+   -32
+  ],
+  "Palus Somni": [
+   44.72,
+   13.69
+  ],
+  "Promontorium Kelvin": [
+   -33.45,
+   -26.95
+  ],
+  "Promontorium Taenarium": [
+   -7.34,
+   -18.63
+  ],
+  "Promontorium Fresnel": [
+   4.75,
+   28.63
+  ],
+  "Promontorium Deville": [
+   1.14,
+   43.31
+  ],
+  "Promontorium Archerusia": [
+   21.94,
+   16.8
+  ],
+  "Rupes Cauchy": [
+   37.08,
+   9.31
+  ],
+  "Rupes Liebig": [
+   -45.92,
+   -25.14
+  ],
+  "Rupes Mercator": [
+   -22.84,
+   -30.21
+  ],
+  "Rupes Kelvin": [
+   -33.17,
+   -28.03
+  ],
+  "Rupes Toscanelli": [
+   -47.53,
+   26.97
+  ],
+  "Mons Hadley": [
+   4.12,
+   26.69
+  ],
+  "Mons Hadley Delta": [
+   3.71,
+   25.72
+  ],
+  "Mons Bradley": [
+   0.38,
+   21.73
+  ],
+  "Mons Huygens": [
+   -2.86,
+   19.92
+  ],
+  "Mons Ampère": [
+   -3.71,
+   19.32
+  ],
+  "Mons Wolff": [
+   -6.8,
+   16.88
+  ],
+  "Montes Archimedes": [
+   -5.25,
+   25.39
+  ],
+  "Montes Agricola": [
+   -54.07,
+   29.06
+  ],
+  "Mons Gruithuisen Delta": [
+   -39.59,
+   36.07
+  ],
+  "Mons Vinogradov": [
+   -32.52,
+   22.35
+  ],
+  "Mons Delisle": [
+   -35.79,
+   29.42
+  ],
+  "Montes Riphaeus": [
+   -27.6,
+   -7.48
+  ],
+  "Montes Pyrenaeus": [
+   41.51,
+   -14.05
+  ],
+  "Montes Secchi": [
+   43.17,
+   2.72
+  ],
+  "Montes Taurus": [
+   40.34,
+   27.32
+  ],
+  "Mons Penck": [
+   21.74,
+   -10
+  ],
+  "Mons Hansteen": [
+   -50.21,
+   -12.19
+  ],
+  "Mons Maraldi": [
+   35.5,
+   20.34
+  ],
+  "Mont Blanc": [
+   0.44,
+   45.41
+  ],
+  "Montes Cordillera": [
+   -94.93,
+   -19.44
+  ],
+  "Montes Rook": [
+   -94.95,
+   -19.49
+  ],
+  "Rima Hyginus": [
+   6.77,
+   7.62
+  ],
+  "Rimae Triesnecker": [
+   4.83,
+   5.1
+  ],
+  "Rimae Bode": [
+   -3.22,
+   9.54
+  ],
+  "Rima Bradley": [
+   -0.6,
+   24.17
+  ],
+  "Rima Sharp": [
+   -50.36,
+   46.02
+  ],
+  "Rimae Plato": [
+   -3.02,
+   50.88
+  ],
+  "Rimae Archimedes": [
+   -4.53,
+   26.34
+  ],
+  "Rimae Aristarchus": [
+   -47.25,
+   27.52
+  ],
+  "Rima Marius": [
+   -49.54,
+   16.37
+  ],
+  "Rima Cauchy": [
+   38.07,
+   10.42
+  ],
+  "Rimae Posidonius": [
+   29.61,
+   32.03
+  ],
+  "Rimae Menelaus": [
+   17.77,
+   17.1
+  ],
+  "Rimae Sulpicius Gallus": [
+   9.99,
+   20.65
+  ],
+  "Rimae Littrow": [
+   30.47,
+   22.47
+  ],
+  "Rimae Plinius": [
+   23.14,
+   17.05
+  ],
+  "Rimae Maclear": [
+   19.9,
+   12.23
+  ],
+  "Rimae Ritter": [
+   17.97,
+   3.5
+  ],
+  "Rimae Sosigenes": [
+   18.72,
+   8.08
+  ],
+  "Rimae Hypatia": [
+   22.78,
+   -0.34
+  ],
+  "Rimae Gutenberg": [
+   36.42,
+   -4.42
+  ],
+  "Rimae Goclenius": [
+   42.88,
+   -7.84
+  ],
+  "Rimae Herigonius": [
+   -36.75,
+   -13.92
+  ],
+  "Rimae Gassendi": [
+   -39.87,
+   -17.47
+  ],
+  "Rimae Mersenius": [
+   -46.53,
+   -20.69
+  ],
+  "Rimae Doppelmayer": [
+   -44.53,
+   -26.23
+  ],
+  "Rimae Palmieri": [
+   -47.17,
+   -27.83
+  ],
+  "Rimae Ramsden": [
+   -31.32,
+   -32.93
+  ],
+  "Rimae Pitatus": [
+   -13.62,
+   -29.84
+  ],
+  "Rima Hesiodus": [
+   -21.85,
+   -30.54
+  ],
+  "Rimae Alphonsus": [
+   -1.94,
+   -13.4
+  ],
+  "Rimae Arzachel": [
+   -1.38,
+   -18.31
+  ],
+  "Rimae Parry": [
+   -16.52,
+   -8.07
+  ],
+  "Rimae Opelt": [
+   -18.14,
+   -13.64
+  ],
+  "Rimae Taruntius": [
+   46.83,
+   5.83
+  ],
+  "Rimae Apollonius": [
+   54.33,
+   4.39
+  ],
+  "Rimae Maestlin": [
+   -40.48,
+   2.88
+  ],
+  "Rima Schröter": [
+   -6.25,
+   1.28
+  ],
+  "Rimae Atlas": [
+   44.42,
+   46.82
+  ],
+  "Rimae Bürg": [
+   25.27,
+   44.7
+  ],
+  "Rimae Chacornac": [
+   31.24,
+   29.01
+  ],
+  "Rimae Daniell": [
+   24.33,
+   37.53
+  ],
+  "Rimae Römer": [
+   34.86,
+   26.98
+  ],
+  "Rima G. Bond": [
+   35.25,
+   32.86
+  ],
+  "Rimae Hevelius": [
+   -66.38,
+   0.81
+  ],
+  "Rimae Grimaldi": [
+   -63.9,
+   -6.18
+  ],
+  "Rimae Zupus": [
+   -53.76,
+   -15.46
+  ],
+  "Rimae de Gasparis": [
+   -50.3,
+   -24.99
+  ],
+  "Rima Cardanus": [
+   -71.14,
+   11.32
+  ],
+  "Dorsum Buckland": [
+   14.3,
+   19.43
+  ],
+  "Dorsum von Cotta": [
+   11.95,
+   23.6
+  ],
+  "Dorsum Zirkel": [
+   -24.82,
+   29.55
+  ],
+  "Dorsum Heim": [
+   -29.83,
+   32.2
+  ],
+  "Dorsa Lister": [
+   23.52,
+   19.76
+  ],
+  "Dorsa Aldrovandi": [
+   28.65,
+   23.61
+  ],
+  "Dorsa Barlow": [
+   30.57,
+   14.04
+  ],
+  "Dorsa Argand": [
+   -40.34,
+   28.29
+  ],
+  "Dorsa Cato": [
+   47.7,
+   0.21
+  ],
+  "Dorsa Geikie": [
+   52.83,
+   -4.21
+  ],
+  "Dorsum Oppel": [
+   52.09,
+   19.31
+  ],
+  "Dorsa Harker": [
+   63.65,
+   13.79
+  ],
+  "Dorsa Ewing": [
+   -38.31,
+   -11.06
+  ],
+  "Mare Anguis": [
+   67.58,
+   22.43
+  ],
+  "Mare Spumans": [
+   65.3,
+   1.3
+  ],
+  "Mare Undarum": [
+   68.66,
+   7.49
+  ],
+  "Mare Orientale": [
+   -94.67,
+   -19.87
+  ],
+  "Vallis Capella": [
+   35.04,
+   -7.39
+  ],
+  "Vallis Palitzsch": [
+   64.64,
+   -26.16
+  ],
+  "Vallis Inghirami": [
+   -72.59,
+   -43.95
+  ],
+  "Vallis Baade": [
+   -77.23,
+   -45.55
+  ],
+  "Site Apollo 11": [
+   23.473,
+   0.674
+  ],
+  "Site Apollo 12": [
+   -23.422,
+   -3.012
+  ],
+  "Site Apollo 14": [
+   -17.471,
+   -3.645
+  ],
+  "Site Apollo 15": [
+   3.634,
+   26.132
+  ],
+  "Site Apollo 16": [
+   15.5,
+   -8.973
+  ],
+  "Site Apollo 17": [
+   30.772,
+   20.191
+  ],
+  "Site Lunokhod 2": [
+   30.922,
+   25.832
+  ]
+ },
+ "d": {
+  "Mare Crisium": 555.92,
+  "Langrenus": 131.98,
+  "Petavius": 184.06,
+  "Posidonius": 95.06,
+  "Mare Tranquillitatis": 875.75,
+  "Théophile": 98.59,
+  "Mare Serenitatis": 674.28,
+  "Mare Nectaris": 339.39,
+  "Mare Fecunditatis": 840.35,
+  "Aristote": 87.57,
+  "Hipparque": 143.95,
+  "Ptolémée": 153.67,
+  "Alphonse": 110.54,
+  "Arzachel": 96.99,
+  "Montes Apenninus": 599.67,
+  "Archimède": 81.04,
+  "Platon": 100.68,
+  "Montes Alpes": 334.48,
+  "Vallis Alpes": 155.42,
+  "Rupes Recta": 115.95,
+  "Tycho": 85.29,
+  "Clavius": 230.77,
+  "Mare Imbrium": 1145.53,
+  "Copernic": 96.07,
+  "Sinus Iridum": 249.29,
+  "Kepler": 29.49,
+  "Gassendi": 111.39,
+  "Aristarque": 39.99,
+  "Schickard": 212.18,
+  "Grimaldi": 173.49,
+  "Mare Humorum": 419.67,
+  "Mare Nubium": 714.5,
+  "Ératosthène": 58.77,
+  "Atlas": 88.12,
+  "Hercule": 68.32,
+  "Rupes Altai": 545.19,
+  "Maurolycus": 115.35,
+  "Bullialdus": 60.72,
+  "Schiller": 179.36,
+  "Mons Piton": 22.5,
+  "Mons Pico": 24.42,
+  "Cassini": 56.88,
+  "Mare Frigoris": 1446.41,
+  "Vallis Schröteri": 185.32,
+  "Reiner Gamma": 73.44,
+  "Cyrille": 98.09,
+  "Catherine": 98.77,
+  "Eudoxe": 70.16,
+  "Albategnius": 130.84,
+  "Mare Vaporum": 242.46,
+  "Sinus Medii": 286.67,
+  "Sinus Aestuum": 316.5,
+  "Palus Putredinis": 180.45,
+  "Lacus Somniorum": 424.76,
+  "Cléomède": 130.77,
+  "Messier": 13.8,
+  "Proclus": 26.91,
+  "Taruntius": 57.32,
+  "Vendelinus": 141.21,
+  "Furnerius": 135.03,
+  "Stevinus": 71.54,
+  "Vallis Rheita": 509.07,
+  "Piccolomini": 87.58,
+  "Fracastor": 120.58,
+  "Stöfler": 129.87,
+  "Walter": 134.23,
+  "Regiomontanus": 126.64,
+  "Purbach": 114.97,
+  "Deslandres": 227.02,
+  "Pitatus": 100.63,
+  "Maginus": 155.58,
+  "Moretus": 114.45,
+  "Longomontanus": 145.5,
+  "Wilhelm": 100.83,
+  "Mersenius": 84.46,
+  "Bailly": 300.56,
+  "Hévélius": 113.87,
+  "Riccioli": 155.66,
+  "Marius": 40.09,
+  "Lansberg": 38.75,
+  "Reinhold": 43.28,
+  "Fra Mauro": 96.76,
+  "Hérodote": 35.87,
+  "Montes Carpatus": 333.59,
+  "Montes Jura": 420.8,
+  "Montes Caucasus": 443.51,
+  "Montes Haemus": 384.66,
+  "Montes Teneriffe": 111.98,
+  "Montes Recti": 83.24,
+  "Aristillus": 54.37,
+  "Autolycus": 38.88,
+  "Timocharis": 34.14,
+  "Euler": 26.03,
+  "Pythagore": 144.55,
+  "Anaxagore": 51.9,
+  "Endymion": 122.1,
+  "Bürg": 41.04,
+  "Jules César": 84.72,
+  "Manilius": 38.34,
+  "Ménélas": 27.13,
+  "Pline": 41.31,
+  "Le Monnier": 68.4,
+  "Macrobe": 62.79,
+  "Delambre": 51.49,
+  "Arago": 25.51,
+  "Abulféda": 62.23,
+  "Werner": 70.59,
+  "Janssen": 200.65,
+  "Mons Rümker": 73.25,
+  "Mare Cognitum": 350.01,
+  "Mare Insularum": 511.93,
+  "Oceanus Procellarum": 2592.24,
+  "Mare Humboldtianum": 230.78,
+  "Mare Marginis": 357.63,
+  "Mare Smythii": 373.97,
+  "Hyginus": 8.7,
+  "Rima Ariadaeus": 247.45,
+  "Triesnecker": 24.97,
+  "Rima Hadley": 116.09,
+  "Birt": 15.81,
+  "Rimae Hippalus": 266,
+  "Rimae Sirsalis": 405,
+  "Vallis Snellius": 640,
+  "Cauchy": 11.8,
+  "Catena Davy": 52.34,
+  "Lamont": 83.23,
+  "Dorsa Smirnov": 221.78,
+  "Kies": 45.54,
+  "Gruithuisen Gamma": 19.65,
+  "Hortensius": 14.16,
+  "Wargentin": 84.69,
+  "Sirsalis": 44.17,
+  "Flamsteed": 19.34,
+  "Letronne": 117.59,
+  "Billy": 45.57,
+  "Crüger": 45.94,
+  "Prinz": 46.13,
+  "Lambert": 30.12,
+  "Pytheas": 18.81,
+  "Lalande": 23.54,
+  "Mösting": 24.38,
+  "Herschel": 39.09,
+  "Flammarion": 76.18,
+  "Bode": 17.8,
+  "Pallas": 49.51,
+  "Agrippa": 43.75,
+  "Godin": 34.25,
+  "Dionysius": 17.25,
+  "Maskelyne": 22.42,
+  "Censorinus": 4.1,
+  "Capella": 48.13,
+  "Torricelli": 30.87,
+  "Goclenius": 73.04,
+  "Gutenberg": 70.65,
+  "Colombo": 79.02,
+  "Rosse": 11.43,
+  "Beaumont": 50.69,
+  "Sacrobosco": 97.67,
+  "Apianus": 63.44,
+  "Aliacensis": 79.65,
+  "Blanchinus": 59.9,
+  "La Caille": 67.22,
+  "Thebit": 54.64,
+  "Alpetragius": 40.02,
+  "Lassell": 21.82,
+  "Hell": 33.31,
+  "Cichus": 39.18,
+  "Heinsius": 64.87,
+  "Hainzel": 70.56,
+  "Capuanus": 59.69,
+  "Ramsden": 25.11,
+  "Vitello": 42.51,
+  "Doppelmayer": 65.08,
+  "Mercator": 46.32,
+  "Campanus": 46.41,
+  "Agatharchides": 51.98,
+  "Opelt": 48.73,
+  "Guericke": 60.75,
+  "Parry": 47.28,
+  "Bonpland": 59.25,
+  "Gambart": 24.68,
+  "Stadius": 68.48,
+  "Piazzi Smyth": 12.96,
+  "Kirch": 11.71,
+  "Montes Spitzbergen": 59.19,
+  "Mons La Hire": 21.71,
+  "Helicon": 23.74,
+  "Le Verrier": 20.52,
+  "Delisle": 24.83,
+  "Diophantus": 17.57,
+  "Promontorium Laplace": 50,
+  "Promontorium Heraclides": 50,
+  "Bianchini": 37.59,
+  "Sharp": 37.61,
+  "J. Herschel": 154.44,
+  "Philolaus": 71.44,
+  "W. Bond": 170.53,
+  "Egede": 34.18,
+  "Alexander": 94.8,
+  "Calippus": 34.03,
+  "Linné": 2.23,
+  "Bessel": 15.56,
+  "Chacornac": 50.44,
+  "Römer": 43.7,
+  "Littrow": 28.52,
+  "Vitruvius": 30.94,
+  "Mons Argaeus": 61.48,
+  "Franklin": 55.92,
+  "Cepheus": 39.43,
+  "Geminus": 81.98,
+  "Messala": 122.4,
+  "Gauss": 170.72,
+  "Picard": 22.35,
+  "Peirce": 18.86,
+  "Promontorium Agarum": 62.46,
+  "Firmicus": 56.81,
+  "Apollonius": 50.66,
+  "Snellius": 85.98,
+  "Humboldt": 199.46,
+  "Fabricius": 78.9,
+  "Metius": 83.81,
+  "Rheita": 70.81,
+  "Curtius": 99.29,
+  "Blancanus": 105.82,
+  "Scheiner": 110.07,
+  "Phocylides": 115.18,
+  "Inghirami": 94.6,
+  "Hansteen": 44.99,
+  "Cavalerius": 59.35,
+  "Olbers": 73.02,
+  "Seleucus": 45.01,
+  "Briggs": 36.75,
+  "Lichtenberg": 19.53,
+  "Montes Harbinger": 92.7,
+  "Condorcet": 74.85,
+  "Hahn": 87.49,
+  "Berosus": 75.24,
+  "Burckhardt": 54.36,
+  "Dubyago": 48.12,
+  "Lamé": 84.28,
+  "Legendre": 78.08,
+  "Adams": 63.27,
+  "Hase": 82.08,
+  "Gilbert": 100.25,
+  "Kästner": 116.07,
+  "Hécatée": 133.67,
+  "Wrottesley": 58.38,
+  "Vega": 73.51,
+  "Reichenbach": 64.85,
+  "Neander": 49.22,
+  "Young": 71.44,
+  "Watt": 66.54,
+  "Steinheil": 63.28,
+  "Biela": 77.03,
+  "Hagecius": 79.55,
+  "Rosenberger": 91.65,
+  "Nearch": 72.79,
+  "Vlacq": 89.21,
+  "Hommel": 113.6,
+  "Pitiscus": 79.85,
+  "Brenner": 90.01,
+  "Mallet": 58.92,
+  "Zagut": 78.92,
+  "Lindenau": 53.08,
+  "Rabbi Levi": 82.44,
+  "Riccius": 71.79,
+  "Büsching": 53.49,
+  "Buch": 51.31,
+  "Gemma Frisius": 88.54,
+  "Nonius": 70.61,
+  "Kaiser": 53.15,
+  "Fernelius": 68.42,
+  "Wilkins": 59.44,
+  "Pontanus": 55.66,
+  "Parrot": 70.66,
+  "Lade": 58.11,
+  "Murchison": 57.83,
+  "Réaumur": 51.25,
+  "Barocius": 82.72,
+  "Clairaut": 76.89,
+  "Cuvier": 77.3,
+  "Héraclite": 85.74,
+  "Licetus": 75.42,
+  "Zach": 68.54,
+  "Lilius": 61.18,
+  "Jacobi": 66.28,
+  "Pentland": 56.45,
+  "Faraday": 69.03,
+  "Miller": 61.37,
+  "Nasireddin": 51.99,
+  "Huggins": 65.79,
+  "Orontius": 121.02,
+  "Saussure": 54.56,
+  "Lexell": 63.7,
+  "Sasserides": 81.74,
+  "Pictet": 59.95,
+  "Street": 58.52,
+  "Porter": 51.46,
+  "Gruemberger": 91.5,
+  "Gauricus": 79.64,
+  "Wurzelbauer": 86.77,
+  "Weiss": 66.56,
+  "Lagalla": 88.78,
+  "Montanari": 77.05,
+  "Mee": 134.11,
+  "Zucchius": 63.18,
+  "Segner": 67.84,
+  "Bettinus": 71.78,
+  "Kircher": 71.2,
+  "Wilson": 66.57,
+  "Casatus": 102.85,
+  "Klaproth": 121.37,
+  "Manzinus": 95.97,
+  "Mutus": 76.33,
+  "Boguslawsky": 94.59,
+  "Simpelius": 68.89,
+  "Newton": 83.85,
+  "Short": 67.94,
+  "Cabeus": 100.58,
+  "Malapert": 72.38,
+  "Schomberger": 85.8,
+  "Byrgius": 84.46,
+  "Lamarck": 114.65,
+  "Darwin": 122.18,
+  "Cavendish": 52.64,
+  "Vieta": 87.16,
+  "Fourier": 51.57,
+  "Lehmann": 53.85,
+  "Nasmyth": 78.37,
+  "Piazzi": 102.57,
+  "Lagrange": 162.21,
+  "Hippalus": 57.36,
+  "Rocca": 84.06,
+  "Hedin": 157.38,
+  "Krafft": 51.15,
+  "Arnold": 93.13,
+  "Baillaud": 89.44,
+  "Barrow": 93.82,
+  "Goldschmidt": 115.26,
+  "Épigène": 54.51,
+  "Babbage": 146.56,
+  "Anaximène": 81.12,
+  "Œnopide": 73.47,
+  "De La Rue": 135.22,
+  "Strabon": 54.72,
+  "Mercurius": 64.3,
+  "Schumacher": 61.31,
+  "Zénon": 66.78,
+  "Chevallier": 51.83,
+  "Berzelius": 48.53,
+  "Dawes": 17.6,
+  "Maclear": 20.34,
+  "Sosigenes": 16.99,
+  "Sulpicius Gallus": 11.61,
+  "Boscovich": 41.53,
+  "Pickering": 15.4,
+  "Theon Senior": 18.02,
+  "Theon Junior": 17.61,
+  "Cayley": 14.2,
+  "Ritter": 29.52,
+  "Sabine": 29.75,
+  "Schmidt": 11.13,
+  "Silberschlag": 12.56,
+  "Rhaeticus": 44.43,
+  "Ukert": 21.71,
+  "Schröter": 36.67,
+  "Hind": 28.5,
+  "Halley": 34.59,
+  "Horrocks": 29.65,
+  "Saunder": 44.38,
+  "Spörer": 25.57,
+  "Taylor": 36.35,
+  "Zöllner": 47.69,
+  "Descartes": 47.73,
+  "Abenezra": 43.19,
+  "Azophi": 47.54,
+  "Geber": 44.68,
+  "Almanon": 47.76,
+  "Tacitus": 39.81,
+  "Playfair": 49.88,
+  "Argelander": 33.72,
+  "Davy": 33.94,
+  "Hesiodus": 43.24,
+  "Nicollet": 14.73,
+  "Müller": 23.4,
+  "Tobias Mayer": 33.15,
+  "Euclide": 11.8,
+  "Milichius": 12.19,
+  "Encke": 28.27,
+  "Gay-Lussac": 25.4,
+  "Beer": 9.06,
+  "Gruithuisen": 14.98,
+  "Maupertuis": 45.49,
+  "Foucault": 25.08,
+  "Fontenelle": 37.68,
+  "Mairan": 39.49,
+  "Harpalus": 39.77,
+  "Timée": 32.81,
+  "Archytas": 31.95,
+  "Protagoras": 21.05,
+  "Mitchell": 32.15,
+  "Grove": 28.55,
+  "Baily": 25.68,
+  "Newcomb": 39.8,
+  "Williams": 36.36,
+  "Mason": 33.33,
+  "Plana": 42.97,
+  "Hall": 31.77,
+  "Daniell": 28.2,
+  "Lyell": 31.17,
+  "Maraldi": 39.62,
+  "Cameron": 10.91,
+  "Lawrence": 24.02,
+  "Isidorus": 41.39,
+  "Magelhaens": 37.2,
+  "Santbech": 62.24,
+  "Bohnenberger": 31.74,
+  "Eimmart": 44.99,
+  "Lohrmann": 31.25,
+  "Galilaei": 15.99,
+  "Lacus Mortis": 158.78,
+  "Lacus Bonitatis": 122.1,
+  "Lacus Felicitatis": 98.48,
+  "Lacus Gaudii": 88.54,
+  "Lacus Lenitatis": 78.25,
+  "Lacus Hiemalis": 48.04,
+  "Lacus Odii": 72.68,
+  "Lacus Doloris": 102.9,
+  "Lacus Excellentiae": 197.74,
+  "Lacus Timoris": 153.65,
+  "Lacus Perseverantiae": 70.64,
+  "Lacus Spei": 76.67,
+  "Lacus Temporis": 205.3,
+  "Lacus Aestatis": 86.39,
+  "Lacus Autumni": 195.65,
+  "Lacus Veris": 382.88,
+  "Sinus Amoris": 189.1,
+  "Sinus Asperitatis": 219.14,
+  "Sinus Concordiae": 159.03,
+  "Sinus Fidei": 70.7,
+  "Sinus Honoris": 111.61,
+  "Sinus Lunicus": 119.18,
+  "Sinus Roris": 195.04,
+  "Sinus Successus": 126.65,
+  "Palus Epidemiarum": 300.38,
+  "Palus Somni": 163.45,
+  "Promontorium Kelvin": 45.01,
+  "Promontorium Taenarium": 70,
+  "Promontorium Fresnel": 20,
+  "Promontorium Deville": 16.56,
+  "Promontorium Archerusia": 11.21,
+  "Rupes Cauchy": 169.85,
+  "Rupes Liebig": 144.78,
+  "Rupes Mercator": 132.4,
+  "Rupes Kelvin": 85.92,
+  "Rupes Toscanelli": 50.14,
+  "Mons Hadley": 26.4,
+  "Mons Hadley Delta": 17.24,
+  "Mons Bradley": 76.49,
+  "Mons Huygens": 41.97,
+  "Mons Ampère": 29.96,
+  "Mons Wolff": 32.87,
+  "Montes Archimedes": 146.54,
+  "Montes Agricola": 159.76,
+  "Mons Gruithuisen Delta": 27.24,
+  "Mons Vinogradov": 28.73,
+  "Mons Delisle": 32.42,
+  "Montes Riphaeus": 190.12,
+  "Montes Pyrenaeus": 251.33,
+  "Montes Secchi": 52.47,
+  "Montes Taurus": 166.16,
+  "Mons Penck": 37.59,
+  "Mons Hansteen": 30.65,
+  "Mons Maraldi": 15.9,
+  "Mont Blanc": 21.57,
+  "Montes Cordillera": 963.5,
+  "Montes Rook": 682.28,
+  "Rima Hyginus": 203.96,
+  "Rimae Triesnecker": 200,
+  "Rimae Bode": 233,
+  "Rima Bradley": 133.76,
+  "Rima Sharp": 276.67,
+  "Rimae Plato": 180,
+  "Rimae Archimedes": 215,
+  "Rimae Aristarchus": 175,
+  "Rima Marius": 283.54,
+  "Rima Cauchy": 167,
+  "Rimae Posidonius": 78,
+  "Rimae Menelaus": 87,
+  "Rimae Sulpicius Gallus": 80,
+  "Rimae Littrow": 165,
+  "Rimae Plinius": 100,
+  "Rimae Maclear": 94,
+  "Rimae Ritter": 75,
+  "Rimae Sosigenes": 130,
+  "Rimae Hypatia": 200,
+  "Rimae Gutenberg": 223,
+  "Rimae Goclenius": 190,
+  "Rimae Herigonius": 180,
+  "Rimae Gassendi": 70,
+  "Rimae Mersenius": 240,
+  "Rimae Doppelmayer": 7.8,
+  "Rimae Palmieri": 27.13,
+  "Rimae Ramsden": 100,
+  "Rimae Pitatus": 90,
+  "Rima Hesiodus": 251.46,
+  "Rimae Alphonsus": 87,
+  "Rimae Arzachel": 57,
+  "Rimae Parry": 210,
+  "Rimae Opelt": 55,
+  "Rimae Taruntius": 35,
+  "Rimae Apollonius": 89.64,
+  "Rimae Maestlin": 71,
+  "Rima Schröter": 27.25,
+  "Rimae Atlas": 46.8,
+  "Rimae Bürg": 98,
+  "Rimae Chacornac": 100,
+  "Rimae Daniell": 140.25,
+  "Rimae Römer": 112,
+  "Rima G. Bond": 166.85,
+  "Rimae Hevelius": 180,
+  "Rimae Grimaldi": 162,
+  "Rimae Zupus": 130,
+  "Rimae de Gasparis": 46.65,
+  "Rima Cardanus": 221.93,
+  "Dorsum Buckland": 369.13,
+  "Dorsum von Cotta": 183.06,
+  "Dorsum Zirkel": 195.22,
+  "Dorsum Heim": 146.79,
+  "Dorsa Lister": 180.09,
+  "Dorsa Aldrovandi": 126.81,
+  "Dorsa Barlow": 112.57,
+  "Dorsa Argand": 91.94,
+  "Dorsa Cato": 128.64,
+  "Dorsa Geikie": 218.35,
+  "Dorsum Oppel": 297.62,
+  "Dorsa Harker": 213.14,
+  "Dorsa Ewing": 261.57,
+  "Mare Anguis": 145.99,
+  "Mare Spumans": 143.13,
+  "Mare Undarum": 244.84,
+  "Mare Orientale": 294.16,
+  "Vallis Capella": 106.28,
+  "Vallis Palitzsch": 110.5,
+  "Vallis Inghirami": 145.08,
+  "Vallis Baade": 206.79
+ },
+ "meas": {
+  "Petavius": {
+   "rh": 1057,
+   "dp": 2198,
+   "fl": -1763,
+   "pk": 485
+  },
+  "Hipparque": {
+   "rh": 637,
+   "dp": 1292,
+   "fl": -58,
+   "pk": 352
+  },
+  "Ptolémée": {
+   "rh": 974,
+   "dp": 1763,
+   "fl": -640
+  },
+  "Clavius": {
+   "rh": 1635,
+   "dp": 4099,
+   "fl": -2993,
+   "pk": 1137
+  },
+  "Schickard": {
+   "rh": 674,
+   "dp": 2169,
+   "fl": -1490,
+   "pk": 365
+  },
+  "Grimaldi": {
+   "rh": -142,
+   "dp": 1487,
+   "fl": -1880
+  },
+  "Hercule": {
+   "rh": 798,
+   "dp": 3347,
+   "fl": -4116,
+   "pk": 385
+  },
+  "Catherine": {
+   "rh": 135,
+   "dp": 2781,
+   "fl": -1669
+  },
+  "Cléomède": {
+   "rh": 687,
+   "dp": 3135,
+   "fl": -3040
+  },
+  "Fracastor": {},
+  "Stöfler": {
+   "rh": 449,
+   "dp": 2501,
+   "fl": -2820
+  },
+  "Walter": {
+   "rh": 1231,
+   "dp": 2961,
+   "fl": -2334,
+   "pk": 1686
+  },
+  "Regiomontanus": {
+   "rh": 1858,
+   "dp": 2078,
+   "fl": -1240
+  },
+  "Purbach": {
+   "rh": 1326,
+   "dp": 2108,
+   "fl": -1300,
+   "pk": 411
+  },
+  "Deslandres": {
+   "rh": 1074,
+   "dp": 1387,
+   "fl": -1347,
+   "pk": 352
+  },
+  "Maginus": {
+   "rh": 1029,
+   "dp": 3930,
+   "fl": -2873,
+   "pk": 434
+  },
+  "Moretus": {
+   "rh": 1064,
+   "dp": 4202,
+   "fl": -3209,
+   "pk": 306
+  },
+  "Wilhelm": {
+   "rh": 392,
+   "dp": 2471,
+   "fl": -2251
+  },
+  "Bailly": {
+   "rh": 2134,
+   "dp": 4364,
+   "fl": -1462,
+   "pk": 702
+  },
+  "Hévélius": {
+   "rh": 1015,
+   "dp": 1611,
+   "fl": -1348,
+   "pk": 539
+  },
+  "Riccioli": {
+   "rh": 1433,
+   "dp": 1843,
+   "fl": -359
+  },
+  "Hérodote": {
+   "rh": 648,
+   "dp": 981,
+   "fl": -1071
+  },
+  "Pythagore": {
+   "rh": 1413,
+   "dp": 3900,
+   "fl": -3672
+  },
+  "Jules César": {
+   "rh": 815,
+   "dp": 1159,
+   "fl": -824
+  },
+  "Le Monnier": {
+   "rh": 48,
+   "dp": 960,
+   "fl": -2760
+  },
+  "Janssen": {
+   "rh": 1201,
+   "dp": 2933,
+   "fl": -2391,
+   "pk": 892
+  },
+  "Lamont": {},
+  "Wargentin": {},
+  "Letronne": {},
+  "Billy": {
+   "rh": 536,
+   "dp": 1007,
+   "fl": -2391
+  },
+  "Crüger": {
+   "rh": 241,
+   "dp": 528,
+   "fl": -1700
+  },
+  "Capella": {
+   "rh": 1302,
+   "dp": 2572,
+   "fl": -2672,
+   "pk": 783
+  },
+  "Torricelli": {
+   "rh": 444,
+   "dp": 1711,
+   "fl": -3785
+  },
+  "Colombo": {
+   "rh": 676,
+   "dp": 2713,
+   "fl": -2331,
+   "pk": 302
+  },
+  "Blanchinus": {
+   "rh": -493,
+   "dp": 1304,
+   "fl": -1404
+  },
+  "Agatharchides": {
+   "rh": 390,
+   "dp": 743,
+   "fl": -2360
+  },
+  "Opelt": {},
+  "J. Herschel": {
+   "rh": 497,
+   "dp": 1084,
+   "fl": -2103
+  },
+  "Philolaus": {
+   "rh": 1006,
+   "dp": 3424,
+   "fl": -3163,
+   "pk": 860
+  },
+  "W. Bond": {},
+  "Egede": {
+   "rh": 208,
+   "dp": 250,
+   "fl": -2740
+  },
+  "Alexander": {
+   "rh": 1362,
+   "dp": 1812,
+   "fl": -2075
+  },
+  "Römer": {
+   "rh": 168,
+   "dp": 2955,
+   "fl": -3907,
+   "pk": 810
+  },
+  "Messala": {
+   "rh": 930,
+   "dp": 1601,
+   "fl": -2033,
+   "pk": 477
+  },
+  "Gauss": {
+   "rh": 1274,
+   "dp": 2396,
+   "fl": -2146,
+   "pk": 820
+  },
+  "Apollonius": {
+   "rh": 865,
+   "dp": 2534,
+   "fl": -2285
+  },
+  "Humboldt": {
+   "rh": 1241,
+   "dp": 3344,
+   "fl": -3249,
+   "pk": 1542
+  },
+  "Fabricius": {
+   "rh": 1393,
+   "dp": 3603,
+   "fl": -3282,
+   "pk": 708
+  },
+  "Blancanus": {
+   "rh": 1024,
+   "dp": 4234,
+   "fl": -3568,
+   "pk": 421
+  },
+  "Scheiner": {
+   "rh": 1154,
+   "dp": 3806,
+   "fl": -3182,
+   "pk": 488
+  },
+  "Phocylides": {
+   "rh": 791,
+   "dp": 2683,
+   "fl": -1537
+  },
+  "Olbers": {
+   "rh": 496,
+   "dp": 1890,
+   "fl": -2177
+  },
+  "Legendre": {
+   "rh": 654,
+   "dp": 3038,
+   "fl": -2781
+  },
+  "Adams": {
+   "rh": 804,
+   "dp": 4101,
+   "fl": -3795
+  },
+  "Hase": {
+   "rh": 622,
+   "dp": 2450,
+   "fl": -2323,
+   "pk": 339
+  },
+  "Gilbert": {
+   "rh": 557,
+   "dp": 2360,
+   "fl": -2474
+  },
+  "Kästner": {
+   "rh": 523,
+   "dp": 2010,
+   "fl": -1932
+  },
+  "Hécatée": {
+   "rh": 338,
+   "dp": 4212,
+   "fl": -4526
+  },
+  "Wrottesley": {
+   "rh": 1074,
+   "dp": 3392,
+   "fl": -2784
+  },
+  "Reichenbach": {
+   "rh": 663,
+   "dp": 3158,
+   "fl": -2620
+  },
+  "Steinheil": {
+   "rh": 652,
+   "dp": 3979,
+   "fl": -3945
+  },
+  "Biela": {
+   "rh": 974,
+   "dp": 3798,
+   "fl": -4122
+  },
+  "Hommel": {
+   "rh": 976,
+   "dp": 3056,
+   "fl": -2983,
+   "pk": 612
+  },
+  "Pitiscus": {
+   "rh": 995,
+   "dp": 3753,
+   "fl": -3516,
+   "pk": 978
+  },
+  "Brenner": {
+   "rh": 561,
+   "dp": 2914,
+   "fl": -2039
+  },
+  "Zagut": {
+   "rh": 1412,
+   "dp": 2665,
+   "fl": 568
+  },
+  "Rabbi Levi": {
+   "rh": 1313,
+   "dp": 2009,
+   "fl": 32
+  },
+  "Riccius": {
+   "rh": 657,
+   "dp": 2295,
+   "fl": -1031
+  },
+  "Gemma Frisius": {
+   "rh": 394,
+   "dp": 3587,
+   "fl": -2969,
+   "pk": 371
+  },
+  "Wilkins": {
+   "rh": 376,
+   "dp": 1692,
+   "fl": 484
+  },
+  "Clairaut": {
+   "rh": 418,
+   "dp": 2826,
+   "fl": -3040,
+   "pk": 333
+  },
+  "Cuvier": {
+   "rh": 1029,
+   "dp": 3148,
+   "fl": -3000
+  },
+  "Héraclite": {
+   "rh": 1203,
+   "dp": 2004,
+   "fl": -1853,
+   "pk": 641
+  },
+  "Licetus": {
+   "rh": 824,
+   "dp": 3386,
+   "fl": -3509
+  },
+  "Jacobi": {
+   "rh": 1030,
+   "dp": 3374,
+   "fl": -3332
+  },
+  "Orontius": {
+   "rh": 556,
+   "dp": 2950,
+   "fl": -3060
+  },
+  "Sasserides": {
+   "rh": -268,
+   "dp": 1481,
+   "fl": -1863
+  },
+  "Street": {
+   "rh": 77,
+   "dp": 1988,
+   "fl": -1442
+  },
+  "Gruemberger": {
+   "rh": 668,
+   "dp": 3853,
+   "fl": -3784
+  },
+  "Gauricus": {
+   "rh": 999,
+   "dp": 2099,
+   "fl": -1880
+  },
+  "Wurzelbauer": {
+   "rh": 928,
+   "dp": 1206,
+   "fl": -1570
+  },
+  "Lagalla": {
+   "rh": 236,
+   "dp": 912,
+   "fl": -975,
+   "pk": 594
+  },
+  "Zucchius": {
+   "rh": 1126,
+   "dp": 3997,
+   "fl": -2796,
+   "pk": 340
+  },
+  "Segner": {
+   "rh": 306,
+   "dp": 1046,
+   "fl": -2080
+  },
+  "Bettinus": {
+   "rh": 818,
+   "dp": 3529,
+   "fl": -2374
+  },
+  "Wilson": {
+   "rh": 589,
+   "dp": 2623,
+   "fl": -2251
+  },
+  "Casatus": {
+   "rh": 875,
+   "dp": 3047,
+   "fl": -2440,
+   "pk": 593
+  },
+  "Manzinus": {
+   "rh": 447,
+   "dp": 3878,
+   "fl": -2460
+  },
+  "Simpelius": {
+   "rh": 949,
+   "dp": 4019,
+   "fl": -616
+  },
+  "Newton": {
+   "rh": 1229,
+   "dp": 3564,
+   "fl": -2547
+  },
+  "Cabeus": {
+   "rh": -122,
+   "dp": 2817,
+   "fl": -3621
+  },
+  "Malapert": {
+   "rh": 1225,
+   "dp": 2722,
+   "fl": -1544
+  },
+  "Lamarck": {
+   "rh": 908,
+   "dp": 1860,
+   "fl": -619,
+   "pk": 414
+  },
+  "Darwin": {
+   "rh": 1337,
+   "dp": 1783,
+   "fl": -798
+  },
+  "Cavendish": {
+   "rh": 1224,
+   "dp": 2317,
+   "fl": -1358
+  },
+  "Vieta": {
+   "rh": 338,
+   "dp": 3452,
+   "fl": -2240,
+   "pk": 357
+  },
+  "Lehmann": {
+   "rh": 582,
+   "dp": 1266,
+   "fl": -859
+  },
+  "Piazzi": {
+   "rh": 600,
+   "dp": 2494,
+   "fl": -2047
+  },
+  "Lagrange": {
+   "rh": 720,
+   "dp": 1972,
+   "fl": -1072
+  },
+  "Hippalus": {},
+  "Rocca": {
+   "rh": 794,
+   "dp": 2613,
+   "fl": -707
+  },
+  "Hedin": {
+   "rh": 1504,
+   "dp": 1776,
+   "fl": -571,
+   "pk": 455
+  },
+  "Arnold": {
+   "rh": 431,
+   "dp": 1268,
+   "fl": -2020
+  },
+  "Goldschmidt": {
+   "rh": 1217,
+   "dp": 1835,
+   "fl": -1338
+  },
+  "Babbage": {
+   "rh": 741,
+   "dp": 1137,
+   "fl": -1790,
+   "pk": 717
+  },
+  "Anaximène": {
+   "rh": 698,
+   "dp": 1228,
+   "fl": -1260
+  },
+  "Œnopide": {
+   "rh": 840,
+   "dp": 1307,
+   "fl": -2240
+  },
+  "De La Rue": {
+   "rh": 1263,
+   "dp": 1487,
+   "fl": -1546,
+   "pk": 357
+  },
+  "Chevallier": {
+   "rh": 311,
+   "dp": 386,
+   "fl": -1745
+  },
+  "Boscovich": {
+   "rh": 262,
+   "dp": 1012,
+   "fl": -1509
+  },
+  "Ritter": {
+   "rh": 483,
+   "dp": 1061,
+   "fl": -1421
+  },
+  "Halley": {
+   "rh": 74,
+   "dp": 2042,
+   "fl": 304
+  },
+  "Saunder": {
+   "rh": 343,
+   "dp": 558,
+   "fl": 64
+  },
+  "Spörer": {
+   "rh": 348,
+   "dp": 444,
+   "fl": -15
+  },
+  "Taylor": {
+   "rh": 882,
+   "dp": 2419,
+   "fl": -1074
+  },
+  "Zöllner": {
+   "rh": 466,
+   "dp": 1935,
+   "fl": 117
+  },
+  "Descartes": {
+   "rh": 143,
+   "dp": 785,
+   "fl": 137
+  },
+  "Geber": {
+   "rh": 863,
+   "dp": 3220,
+   "fl": -2142
+  },
+  "Almanon": {
+   "rh": 61,
+   "dp": 1959,
+   "fl": -1129
+  },
+  "Playfair": {
+   "rh": 876,
+   "dp": 2499,
+   "fl": -1795
+  },
+  "Davy": {
+   "rh": 509,
+   "dp": 735,
+   "fl": -1881
+  },
+  "Tobias Mayer": {
+   "rh": 619,
+   "dp": 1522,
+   "fl": -1491
+  },
+  "Maupertuis": {
+   "rh": 548,
+   "dp": 1764,
+   "fl": -2557
+  },
+  "Foucault": {
+   "rh": 569,
+   "dp": 2727,
+   "fl": -4765
+  },
+  "Fontenelle": {
+   "rh": 337,
+   "dp": 1278,
+   "fl": -3171
+  },
+  "Harpalus": {
+   "rh": 652,
+   "dp": 2832,
+   "fl": -4660
+  },
+  "Mitchell": {
+   "rh": 541,
+   "dp": 1005,
+   "fl": -2708
+  },
+  "Newcomb": {
+   "rh": 633,
+   "dp": 2326,
+   "fl": -1907
+  },
+  "Williams": {
+   "rh": 397,
+   "dp": 586,
+   "fl": -2042
+  },
+  "Plana": {
+   "rh": 352,
+   "dp": 992,
+   "fl": -2029
+  },
+  "Hall": {},
+  "Lyell": {
+   "rh": 408,
+   "dp": 960,
+   "fl": -1441
+  },
+  "Maraldi": {
+   "rh": 220,
+   "dp": 1037,
+   "fl": -1927
+  },
+  "Isidorus": {
+   "rh": 1107,
+   "dp": 2230,
+   "fl": -2474
+  },
+  "Magelhaens": {
+   "rh": 426,
+   "dp": 1881,
+   "fl": -2593
+  },
+  "Bohnenberger": {
+   "rh": 537,
+   "dp": 780,
+   "fl": -2659
+  },
+  "Eimmart": {
+   "rh": 712,
+   "dp": 3377,
+   "fl": -4928
+  },
+  "Lohrmann": {
+   "rh": 980,
+   "dp": 1328,
+   "fl": -859
+  }
+ },
+ "repl": [
+  [
+   "Petavius",
+   "177 km",
+   "184 km"
+  ],
+  [
+   "Mare Serenitatis",
+   "700 km",
+   "674 km"
+  ],
+  [
+   "Mare Fecunditatis",
+   "900 km",
+   "840 km"
+  ],
+  [
+   "Hipparque",
+   "150 km",
+   "144 km"
+  ],
+  [
+   "Alphonse",
+   "108 km",
+   "111 km"
+  ],
+  [
+   "Archimède",
+   "83 km",
+   "81 km"
+  ],
+  [
+   "Vallis Alpes",
+   "166 km",
+   "155 km"
+  ],
+  [
+   "Rupes Recta",
+   "110 km",
+   "116 km"
+  ],
+  [
+   "Clavius",
+   "225 km",
+   "231 km"
+  ],
+  [
+   "Mare Imbrium",
+   "1 100 km",
+   "1 146 km"
+  ],
+  [
+   "Copernic",
+   "93 km",
+   "96 km"
+  ],
+  [
+   "Kepler",
+   "31 km",
+   "29 km"
+  ],
+  [
+   "Schickard",
+   "227 km",
+   "212 km"
+  ],
+  [
+   "Mare Humorum",
+   "390 km",
+   "420 km"
+  ],
+  [
+   "Mare Nubium",
+   "700 km",
+   "714 km"
+  ],
+  [
+   "Rupes Altai",
+   "500 km",
+   "545 km"
+  ],
+  [
+   "Vallis Schröteri",
+   "160 km",
+   "185 km"
+  ],
+  [
+   "Eudoxe",
+   "67 km",
+   "70 km"
+  ],
+  [
+   "Albategnius",
+   "136 km",
+   "131 km"
+  ],
+  [
+   "Cléomède",
+   "125 km",
+   "131 km"
+  ],
+  [
+   "Proclus",
+   "28 km",
+   "27 km"
+  ],
+  [
+   "Taruntius",
+   "56 km",
+   "57 km"
+  ],
+  [
+   "Vendelinus",
+   "147 km",
+   "141 km"
+  ],
+  [
+   "Stevinus",
+   "75 km",
+   "72 km"
+  ],
+  [
+   "Vallis Rheita",
+   "450 km",
+   "509 km"
+  ],
+  [
+   "Fracastor",
+   "124 km",
+   "121 km"
+  ],
+  [
+   "Stöfler",
+   "126 km",
+   "130 km"
+  ],
+  [
+   "Purbach",
+   "118 km",
+   "115 km"
+  ],
+  [
+   "Deslandres",
+   "234 km",
+   "227 km"
+  ],
+  [
+   "Pitatus",
+   "106 km",
+   "101 km"
+  ],
+  [
+   "Maginus",
+   "194 km",
+   "156 km"
+  ],
+  [
+   "Longomontanus",
+   "157 km",
+   "146 km"
+  ],
+  [
+   "Wilhelm",
+   "106 km",
+   "101 km"
+  ],
+  [
+   "Riccioli",
+   "146 km",
+   "156 km"
+  ],
+  [
+   "Marius",
+   "41 km",
+   "40 km"
+  ],
+  [
+   "Reinhold",
+   "42 km",
+   "43 km"
+  ],
+  [
+   "Hérodote",
+   "35 km",
+   "36 km"
+  ],
+  [
+   "Montes Recti",
+   "90 km",
+   "83 km"
+  ],
+  [
+   "Timocharis",
+   "33 km",
+   "34 km"
+  ],
+  [
+   "Euler",
+   "27 km",
+   "26 km"
+  ],
+  [
+   "Anaxagore",
+   "50 km",
+   "52 km"
+  ],
+  [
+   "Endymion",
+   "125 km",
+   "122 km"
+  ],
+  [
+   "Bürg",
+   "40 km",
+   "41 km"
+  ],
+  [
+   "Jules César",
+   "90 km",
+   "85 km"
+  ],
+  [
+   "Ménélas",
+   "26 km",
+   "27 km"
+  ],
+  [
+   "Pline",
+   "43 km",
+   "41 km"
+  ],
+  [
+   "Le Monnier",
+   "61 km",
+   "68 km"
+  ],
+  [
+   "Mons Rümker",
+   "70 km",
+   "73 km"
+  ],
+  [
+   "Oceanus Procellarum",
+   "2 500 km",
+   "2 592 km"
+  ],
+  [
+   "Hyginus",
+   "9 km",
+   "8,7 km"
+  ],
+  [
+   "Rima Ariadaeus",
+   "300 km",
+   "247 km"
+  ],
+  [
+   "Triesnecker",
+   "26 km",
+   "25 km"
+  ],
+  [
+   "Rima Hadley",
+   "80 km",
+   "116 km"
+  ],
+  [
+   "Birt",
+   "17 km",
+   "16 km"
+  ],
+  [
+   "Vallis Snellius",
+   "600 km",
+   "640 km"
+  ],
+  [
+   "Catena Davy",
+   "50 km",
+   "52 km"
+  ],
+  [
+   "Lamont",
+   "80 km",
+   "83 km"
+  ],
+  [
+   "Hortensius",
+   "15 km",
+   "14 km"
+  ],
+  [
+   "Sirsalis",
+   "42 km",
+   "44 km"
+  ],
+  [
+   "Flamsteed",
+   "20 km",
+   "19 km"
+  ],
+  [
+   "Letronne",
+   "120 km",
+   "118 km"
+  ],
+  [
+   "Crüger",
+   "45 km",
+   "46 km"
+  ],
+  [
+   "Pytheas",
+   "20 km",
+   "19 km"
+  ],
+  [
+   "Mösting",
+   "25 km",
+   "24 km"
+  ],
+  [
+   "Herschel",
+   "41 km",
+   "39 km"
+  ],
+  [
+   "Dionysius",
+   "18 km",
+   "17 km"
+  ],
+  [
+   "Maskelyne",
+   "23 km",
+   "22 km"
+  ],
+  [
+   "Censorinus",
+   "4 km",
+   "4,1 km"
+  ],
+  [
+   "Torricelli",
+   "22 km",
+   "31 km"
+  ],
+  [
+   "Gutenberg",
+   "74 km",
+   "71 km"
+  ],
+  [
+   "Colombo",
+   "76 km",
+   "79 km"
+  ],
+  [
+   "Rosse",
+   "12 km",
+   "11 km"
+  ],
+  [
+   "Beaumont",
+   "53 km",
+   "51 km"
+  ],
+  [
+   "Blanchinus",
+   "68 km",
+   "60 km"
+  ],
+  [
+   "Thebit",
+   "57 km",
+   "55 km"
+  ],
+  [
+   "Alpetragius",
+   "39 km",
+   "40 km"
+  ],
+  [
+   "Lassell",
+   "23 km",
+   "22 km"
+  ],
+  [
+   "Cichus",
+   "40 km",
+   "39 km"
+  ],
+  [
+   "Campanus",
+   "48 km",
+   "46 km"
+  ],
+  [
+   "Agatharchides",
+   "49 km",
+   "52 km"
+  ],
+  [
+   "Guericke",
+   "63 km",
+   "61 km"
+  ],
+  [
+   "Kirch",
+   "11 km",
+   "12 km"
+  ],
+  [
+   "Le Verrier",
+   "20 km",
+   "21 km"
+  ],
+  [
+   "Diophantus",
+   "17 km",
+   "18 km"
+  ],
+  [
+   "Sharp",
+   "39 km",
+   "38 km"
+  ],
+  [
+   "J. Herschel",
+   "165 km",
+   "154 km"
+  ],
+  [
+   "Philolaus",
+   "70 km",
+   "71 km"
+  ],
+  [
+   "W. Bond",
+   "156 km",
+   "171 km"
+  ],
+  [
+   "Egede",
+   "37 km",
+   "34 km"
+  ],
+  [
+   "Alexander",
+   "82 km",
+   "95 km"
+  ],
+  [
+   "Calippus",
+   "32 km",
+   "34 km"
+  ],
+  [
+   "Linné",
+   "2 km",
+   "2,2 km"
+  ],
+  [
+   "Bessel",
+   "15 km",
+   "16 km"
+  ],
+  [
+   "Römer",
+   "40 km",
+   "44 km"
+  ],
+  [
+   "Littrow",
+   "30 km",
+   "29 km"
+  ],
+  [
+   "Vitruvius",
+   "29 km",
+   "31 km"
+  ],
+  [
+   "Mons Argaeus",
+   "50 km",
+   "61 km"
+  ],
+  [
+   "Geminus",
+   "85 km",
+   "82 km"
+  ],
+  [
+   "Messala",
+   "125 km",
+   "122 km"
+  ],
+  [
+   "Gauss",
+   "177 km",
+   "171 km"
+  ],
+  [
+   "Picard",
+   "23 km",
+   "22 km"
+  ],
+  [
+   "Peirce",
+   "18 km",
+   "19 km"
+  ],
+  [
+   "Apollonius",
+   "53 km",
+   "51 km"
+  ],
+  [
+   "Snellius",
+   "83 km",
+   "86 km"
+  ],
+  [
+   "Humboldt",
+   "189 km",
+   "199 km"
+  ],
+  [
+   "Metius",
+   "87 km",
+   "84 km"
+  ],
+  [
+   "Curtius",
+   "95 km",
+   "99 km"
+  ],
+  [
+   "Phocylides",
+   "121 km",
+   "115 km"
+  ],
+  [
+   "Inghirami",
+   "91 km",
+   "95 km"
+  ],
+  [
+   "Cavalerius",
+   "57 km",
+   "59 km"
+  ],
+  [
+   "Seleucus",
+   "43 km",
+   "45 km"
+  ],
+  [
+   "Hahn",
+   "84 km",
+   "87 km"
+  ],
+  [
+   "Burckhardt",
+   "56 km",
+   "54 km"
+  ],
+  [
+   "Dubyago",
+   "51 km",
+   "48 km"
+  ],
+  [
+   "Legendre",
+   ", profond d'environ 3,1 km (relief LOLA)",
+   ", profond d'environ 3,0 km (relief LOLA)"
+  ],
+  [
+   "Adams",
+   "66 km",
+   "63 km"
+  ],
+  [
+   "Hase",
+   ", profond d'environ 2,8 km (relief LOLA)",
+   ", profond d'environ 2,5 km (relief LOLA)"
+  ],
+  [
+   "Gilbert",
+   "112 km",
+   "100 km"
+  ],
+  [
+   "Gilbert",
+   ", profond d'environ 2,8 km (relief LOLA)",
+   ", profond d'environ 2,4 km (relief LOLA)"
+  ],
+  [
+   "Kästner",
+   "108 km",
+   "116 km"
+  ],
+  [
+   "Kästner",
+   ", profond d'environ 1,9 km (relief LOLA)",
+   ", profond d'environ 2,0 km (relief LOLA)"
+  ],
+  [
+   "Hécatée",
+   "167 km",
+   "134 km"
+  ],
+  [
+   "Hécatée",
+   ", profond d'environ 4,6 km (relief LOLA)",
+   ", profond d'environ 4,2 km (relief LOLA)"
+  ],
+  [
+   "Wrottesley",
+   "57 km",
+   "58 km"
+  ],
+  [
+   "Wrottesley",
+   ", profond d'environ 3,3 km (relief LOLA)",
+   ", profond d'environ 3,4 km (relief LOLA)"
+  ],
+  [
+   "Vega",
+   "75 km",
+   "74 km"
+  ],
+  [
+   "Reichenbach",
+   "71 km",
+   "65 km"
+  ],
+  [
+   "Steinheil",
+   "67 km",
+   "63 km"
+  ],
+  [
+   "Steinheil",
+   ", profond d'environ 4,2 km (relief LOLA)",
+   ", profond d'environ 4,0 km (relief LOLA)"
+  ],
+  [
+   "Biela",
+   ", profond d'environ 3,9 km (relief LOLA)",
+   ", profond d'environ 3,8 km (relief LOLA)"
+  ],
+  [
+   "Hagecius",
+   "76 km",
+   "80 km"
+  ],
+  [
+   "Rosenberger",
+   "95 km",
+   "92 km"
+  ],
+  [
+   "Nearch",
+   "75 km",
+   "73 km"
+  ],
+  [
+   "Hommel",
+   "126 km",
+   "114 km"
+  ],
+  [
+   "Hommel",
+   ", profond d'environ 3,6 km (relief LOLA)",
+   ", profond d'environ 3,1 km (relief LOLA)"
+  ],
+  [
+   "Pitiscus",
+   "82 km",
+   "80 km"
+  ],
+  [
+   "Brenner",
+   "97 km",
+   "90 km"
+  ],
+  [
+   "Brenner",
+   ", profond d'environ 3,2 km (relief LOLA)",
+   ", profond d'environ 2,9 km (relief LOLA)"
+  ],
+  [
+   "Zagut",
+   "84 km",
+   "79 km"
+  ],
+  [
+   "Zagut",
+   ", profond d'environ 2,9 km (relief LOLA)",
+   ", profond d'environ 2,7 km (relief LOLA)"
+  ],
+  [
+   "Rabbi Levi",
+   ", profond d'environ 2,1 km (relief LOLA)",
+   ", profond d'environ 2,0 km (relief LOLA)"
+  ],
+  [
+   "Riccius",
+   ", profond d'environ 2,2 km (relief LOLA)",
+   ", profond d'environ 2,3 km (relief LOLA)"
+  ],
+  [
+   "Büsching",
+   "52 km",
+   "53 km"
+  ],
+  [
+   "Buch",
+   "53 km",
+   "51 km"
+  ],
+  [
+   "Nonius",
+   "69 km",
+   "71 km"
+  ],
+  [
+   "Kaiser",
+   "52 km",
+   "53 km"
+  ],
+  [
+   "Fernelius",
+   "65 km",
+   "68 km"
+  ],
+  [
+   "Wilkins",
+   "57 km",
+   "59 km"
+  ],
+  [
+   "Wilkins",
+   ", profond d'environ 1,6 km (relief LOLA)",
+   ", profond d'environ 1,7 km (relief LOLA)"
+  ],
+  [
+   "Pontanus",
+   "57 km",
+   "56 km"
+  ],
+  [
+   "Lade",
+   "55 km",
+   "58 km"
+  ],
+  [
+   "Clairaut",
+   "75 km",
+   "77 km"
+  ],
+  [
+   "Clairaut",
+   ", profond d'environ 3,3 km (relief LOLA)",
+   ", profond d'environ 2,8 km (relief LOLA)"
+  ],
+  [
+   "Cuvier",
+   "75 km",
+   "77 km"
+  ],
+  [
+   "Cuvier",
+   ", profond d'environ 3,0 km (relief LOLA)",
+   ", profond d'environ 3,1 km (relief LOLA)"
+  ],
+  [
+   "Héraclite",
+   "90 km",
+   "86 km"
+  ],
+  [
+   "Héraclite",
+   ", profond d'environ 2,3 km (relief LOLA)",
+   ", profond d'environ 2,0 km (relief LOLA)"
+  ],
+  [
+   "Zach",
+   "70 km",
+   "69 km"
+  ],
+  [
+   "Jacobi",
+   "68 km",
+   "66 km"
+  ],
+  [
+   "Jacobi",
+   ", profond d'environ 3,5 km (relief LOLA)",
+   ", profond d'environ 3,4 km (relief LOLA)"
+  ],
+  [
+   "Orontius",
+   "105 km",
+   "121 km"
+  ],
+  [
+   "Orontius",
+   ", profond d'environ 3,3 km (relief LOLA)",
+   ", profond d'environ 3,0 km (relief LOLA)"
+  ],
+  [
+   "Lexell",
+   "62 km",
+   "64 km"
+  ],
+  [
+   "Sasserides",
+   "90 km",
+   "82 km"
+  ],
+  [
+   "Sasserides",
+   ", profond d'environ 2,0 km (relief LOLA)",
+   ", profond d'environ 1,5 km (relief LOLA)"
+  ],
+  [
+   "Pictet",
+   "62 km",
+   "60 km"
+  ],
+  [
+   "Street",
+   "57 km",
+   "59 km"
+  ],
+  [
+   "Gruemberger",
+   ", profond d'environ 4,0 km (relief LOLA)",
+   ", profond d'environ 3,9 km (relief LOLA)"
+  ],
+  [
+   "Wurzelbauer",
+   ", profond d'environ 1,3 km (relief LOLA)",
+   ", profond d'environ 1,2 km (relief LOLA)"
+  ],
+  [
+   "Lagalla",
+   "85 km",
+   "89 km"
+  ],
+  [
+   "Lagalla",
+   ", profond d'environ 1,1 km (relief LOLA)",
+   ", profond d'environ 0,9 km (relief LOLA)"
+  ],
+  [
+   "Mee",
+   "126 km",
+   "134 km"
+  ],
+  [
+   "Zucchius",
+   ", profond d'environ 4,3 km (relief LOLA)",
+   ", profond d'environ 4,0 km (relief LOLA)"
+  ],
+  [
+   "Segner",
+   ", profond d'environ 1,1 km (relief LOLA)",
+   ", profond d'environ 1,0 km (relief LOLA)"
+  ],
+  [
+   "Bettinus",
+   ", profond d'environ 3,7 km (relief LOLA)",
+   ", profond d'environ 3,5 km (relief LOLA)"
+  ],
+  [
+   "Wilson",
+   "69 km",
+   "67 km"
+  ],
+  [
+   "Casatus",
+   "108 km",
+   "103 km"
+  ],
+  [
+   "Casatus",
+   ", profond d'environ 3,7 km (relief LOLA)",
+   ", profond d'environ 3,0 km (relief LOLA)"
+  ],
+  [
+   "Manzinus",
+   "98 km",
+   "96 km"
+  ],
+  [
+   "Manzinus",
+   ", profond d'environ 3,8 km (relief LOLA)",
+   ", profond d'environ 3,9 km (relief LOLA)"
+  ],
+  [
+   "Boguslawsky",
+   "97 km",
+   "95 km"
+  ],
+  [
+   "Simpelius",
+   ", profond d'environ 4,2 km (relief LOLA)",
+   ", profond d'environ 4,0 km (relief LOLA)"
+  ],
+  [
+   "Newton",
+   "78 km",
+   "84 km"
+  ],
+  [
+   "Newton",
+   ", profond d'environ 4,4 km (relief LOLA)",
+   ", profond d'environ 3,6 km (relief LOLA)"
+  ],
+  [
+   "Short",
+   "70 km",
+   "68 km"
+  ],
+  [
+   "Cabeus",
+   "98 km",
+   "101 km"
+  ],
+  [
+   "Cabeus",
+   ", profond d'environ 3,9 km (relief LOLA)",
+   ", profond d'environ 2,8 km (relief LOLA)"
+  ],
+  [
+   "Malapert",
+   "69 km",
+   "72 km"
+  ],
+  [
+   "Malapert",
+   ", profond d'environ 3,0 km (relief LOLA)",
+   ", profond d'environ 2,7 km (relief LOLA)"
+  ],
+  [
+   "Byrgius",
+   "87 km",
+   "84 km"
+  ],
+  [
+   "Lamarck",
+   "100 km",
+   "115 km"
+  ],
+  [
+   "Darwin",
+   ", profond d'environ 1,7 km (relief LOLA)",
+   ", profond d'environ 1,8 km (relief LOLA)"
+  ],
+  [
+   "Cavendish",
+   "56 km",
+   "53 km"
+  ],
+  [
+   "Vieta",
+   ", profond d'environ 3,4 km (relief LOLA)",
+   ", profond d'environ 3,5 km (relief LOLA)"
+  ],
+  [
+   "Nasmyth",
+   "76 km",
+   "78 km"
+  ],
+  [
+   "Piazzi",
+   "134 km",
+   "103 km"
+  ],
+  [
+   "Piazzi",
+   ", profond d'environ 2,7 km (relief LOLA)",
+   ", profond d'environ 2,5 km (relief LOLA)"
+  ],
+  [
+   "Lagrange",
+   "225 km",
+   "162 km"
+  ],
+  [
+   "Lagrange",
+   ", profond d'environ 1,8 km (relief LOLA)",
+   ", profond d'environ 2,0 km (relief LOLA)"
+  ],
+  [
+   "Hippalus",
+   ", profond d'environ 0,4 km (relief LOLA)",
+   ""
+  ],
+  [
+   "Rocca",
+   "89 km",
+   "84 km"
+  ],
+  [
+   "Rocca",
+   ", profond d'environ 3,0 km (relief LOLA)",
+   ", profond d'environ 2,6 km (relief LOLA)"
+  ],
+  [
+   "Hedin",
+   "150 km",
+   "157 km"
+  ],
+  [
+   "Arnold",
+   ", profond d'environ 1,5 km (relief LOLA)",
+   ", profond d'environ 1,3 km (relief LOLA)"
+  ],
+  [
+   "Goldschmidt",
+   ", profond d'environ 1,6 km (relief LOLA)",
+   ", profond d'environ 1,8 km (relief LOLA)"
+  ],
+  [
+   "Babbage",
+   "143 km",
+   "147 km"
+  ],
+  [
+   "Babbage",
+   ", profond d'environ 1,6 km (relief LOLA)",
+   ", profond d'environ 1,1 km (relief LOLA)"
+  ],
+  [
+   "Anaximène",
+   ", profond d'environ 1,3 km (relief LOLA)",
+   ", profond d'environ 1,2 km (relief LOLA)"
+  ],
+  [
+   "Œnopide",
+   "67 km",
+   "73 km"
+  ],
+  [
+   "De La Rue",
+   ", profond d'environ 1,8 km (relief LOLA)",
+   ", profond d'environ 1,5 km (relief LOLA)"
+  ],
+  [
+   "Mercurius",
+   "67 km",
+   "64 km"
+  ],
+  [
+   "Schumacher",
+   "60 km",
+   "61 km"
+  ],
+  [
+   "Zénon",
+   "65 km",
+   "67 km"
+  ],
+  [
+   "Chevallier",
+   ", profond d'environ 0,6 km (relief LOLA)",
+   ", profond d'environ 0,4 km (relief LOLA)"
+  ],
+  [
+   "Berzelius",
+   "50 km",
+   "49 km"
+  ],
+  [
+   "Boscovich",
+   "46 km",
+   "42 km"
+  ],
+  [
+   "Theon Senior",
+   "17 km",
+   "18 km"
+  ],
+  [
+   "Theon Junior",
+   "17 km",
+   "18 km"
+  ],
+  [
+   "Ukert",
+   "23 km",
+   "22 km"
+  ],
+  [
+   "Schröter",
+   "35 km",
+   "37 km"
+  ],
+  [
+   "Halley",
+   "36 km",
+   "35 km"
+  ],
+  [
+   "Halley",
+   ", profond d'environ 2,2 km (relief LOLA)",
+   ", profond d'environ 2,0 km (relief LOLA)"
+  ],
+  [
+   "Spörer",
+   "28 km",
+   "26 km"
+  ],
+  [
+   "Taylor",
+   "42 km",
+   "36 km"
+  ],
+  [
+   "Taylor",
+   ", profond d'environ 2,7 km (relief LOLA)",
+   ", profond d'environ 2,4 km (relief LOLA)"
+  ],
+  [
+   "Zöllner",
+   ", profond d'environ 2,4 km (relief LOLA)",
+   ", profond d'environ 1,9 km (relief LOLA)"
+  ],
+  [
+   "Descartes",
+   ", profond d'environ 0,9 km (relief LOLA)",
+   ", profond d'environ 0,8 km (relief LOLA)"
+  ],
+  [
+   "Geber",
+   ", profond d'environ 3,3 km (relief LOLA)",
+   ", profond d'environ 3,2 km (relief LOLA)"
+  ],
+  [
+   "Almanon",
+   "49 km",
+   "48 km"
+  ],
+  [
+   "Almanon",
+   ", profond d'environ 2,2 km (relief LOLA)",
+   ", profond d'environ 2,0 km (relief LOLA)"
+  ],
+  [
+   "Playfair",
+   "47 km",
+   "50 km"
+  ],
+  [
+   "Playfair",
+   ", profond d'environ 2,8 km (relief LOLA)",
+   ", profond d'environ 2,5 km (relief LOLA)"
+  ],
+  [
+   "Davy",
+   "35 km",
+   "34 km"
+  ],
+  [
+   "Davy",
+   ", profond d'environ 0,9 km (relief LOLA)",
+   ", profond d'environ 0,7 km (relief LOLA)"
+  ],
+  [
+   "Müller",
+   "24 km",
+   "23 km"
+  ],
+  [
+   "Tobias Mayer",
+   ", profond d'environ 1,2 km (relief LOLA)",
+   ", profond d'environ 1,5 km (relief LOLA)"
+  ],
+  [
+   "Gay-Lussac",
+   "26 km",
+   "25 km"
+  ],
+  [
+   "Beer",
+   "10 km",
+   "9,1 km"
+  ],
+  [
+   "Gruithuisen",
+   "16 km",
+   "15 km"
+  ],
+  [
+   "Maupertuis",
+   ", profond d'environ 1,9 km (relief LOLA)",
+   ", profond d'environ 1,8 km (relief LOLA)"
+  ],
+  [
+   "Foucault",
+   "23 km",
+   "25 km"
+  ],
+  [
+   "Foucault",
+   ", profond d'environ 2,8 km (relief LOLA)",
+   ", profond d'environ 2,7 km (relief LOLA)"
+  ],
+  [
+   "Fontenelle",
+   ", profond d'environ 1,5 km (relief LOLA)",
+   ", profond d'environ 1,3 km (relief LOLA)"
+  ],
+  [
+   "Harpalus",
+   ", profond d'environ 2,9 km (relief LOLA)",
+   ", profond d'environ 2,8 km (relief LOLA)"
+  ],
+  [
+   "Protagoras",
+   "22 km",
+   "21 km"
+  ],
+  [
+   "Mitchell",
+   "31 km",
+   "32 km"
+  ],
+  [
+   "Mitchell",
+   ", profond d'environ 1,2 km (relief LOLA)",
+   ", profond d'environ 1,0 km (relief LOLA)"
+  ],
+  [
+   "Baily",
+   "27 km",
+   "26 km"
+  ],
+  [
+   "Newcomb",
+   "41 km",
+   "40 km"
+  ],
+  [
+   "Newcomb",
+   ", profond d'environ 2,5 km (relief LOLA)",
+   ", profond d'environ 2,3 km (relief LOLA)"
+  ],
+  [
+   "Williams",
+   ", profond d'environ 0,7 km (relief LOLA)",
+   ", profond d'environ 0,6 km (relief LOLA)"
+  ],
+  [
+   "Plana",
+   "44 km",
+   "43 km"
+  ],
+  [
+   "Plana",
+   ", profond d'environ 1,2 km (relief LOLA)",
+   ", profond d'environ 1,0 km (relief LOLA)"
+  ],
+  [
+   "Hall",
+   "39 km",
+   "32 km"
+  ],
+  [
+   "Hall",
+   ", profond d'environ 0,5 km (relief LOLA)",
+   ""
+  ],
+  [
+   "Daniell",
+   "29 km",
+   "28 km"
+  ],
+  [
+   "Lyell",
+   "32 km",
+   "31 km"
+  ],
+  [
+   "Lyell",
+   ", profond d'environ 0,5 km (relief LOLA)",
+   ", profond d'environ 1,0 km (relief LOLA)"
+  ],
+  [
+   "Maraldi",
+   ", profond d'environ 1,1 km (relief LOLA)",
+   ", profond d'environ 1,0 km (relief LOLA)"
+  ],
+  [
+   "Isidorus",
+   ", profond d'environ 2,3 km (relief LOLA)",
+   ", profond d'environ 2,2 km (relief LOLA)"
+  ],
+  [
+   "Magelhaens",
+   "40 km",
+   "37 km"
+  ],
+  [
+   "Santbech",
+   "64 km",
+   "62 km"
+  ],
+  [
+   "Bohnenberger",
+   "33 km",
+   "32 km"
+  ],
+  [
+   "Eimmart",
+   "46 km",
+   "45 km"
+  ],
+  [
+   "Eimmart",
+   ", profond d'environ 3,2 km (relief LOLA)",
+   ", profond d'environ 3,4 km (relief LOLA)"
+  ],
+  [
+   "Lohrmann",
+   "30 km",
+   "31 km"
+  ],
+  [
+   "Lohrmann",
+   ", profond d'environ 1,4 km (relief LOLA)",
+   ", profond d'environ 1,3 km (relief LOLA)"
+  ],
+  [
+   "Galilaei",
+   "15 km",
+   "16 km"
+  ],
+  [
+   "Lacus Mortis",
+   "151 km",
+   "159 km"
+  ],
+  [
+   "Lacus Bonitatis",
+   "92 km",
+   "122 km"
+  ],
+  [
+   "Lacus Felicitatis",
+   "90 km",
+   "98 km"
+  ],
+  [
+   "Lacus Gaudii",
+   "113 km",
+   "89 km"
+  ],
+  [
+   "Lacus Lenitatis",
+   "80 km",
+   "78 km"
+  ],
+  [
+   "Lacus Hiemalis",
+   "50 km",
+   "48 km"
+  ],
+  [
+   "Lacus Odii",
+   "70 km",
+   "73 km"
+  ],
+  [
+   "Lacus Doloris",
+   "110 km",
+   "103 km"
+  ],
+  [
+   "Lacus Excellentiae",
+   "184 km",
+   "198 km"
+  ],
+  [
+   "Lacus Timoris",
+   "117 km",
+   "154 km"
+  ],
+  [
+   "Lacus Spei",
+   "80 km",
+   "77 km"
+  ],
+  [
+   "Lacus Temporis",
+   "117 km",
+   "205 km"
+  ],
+  [
+   "Lacus Aestatis",
+   "90 km",
+   "86 km"
+  ],
+  [
+   "Lacus Autumni",
+   "183 km",
+   "196 km"
+  ],
+  [
+   "Lacus Veris",
+   "396 km",
+   "383 km"
+  ],
+  [
+   "Sinus Amoris",
+   "130 km",
+   "189 km"
+  ],
+  [
+   "Sinus Asperitatis",
+   "206 km",
+   "219 km"
+  ],
+  [
+   "Sinus Concordiae",
+   "142 km",
+   "159 km"
+  ],
+  [
+   "Sinus Honoris",
+   "109 km",
+   "112 km"
+  ],
+  [
+   "Sinus Lunicus",
+   "126 km",
+   "119 km"
+  ],
+  [
+   "Sinus Roris",
+   "202 km",
+   "195 km"
+  ],
+  [
+   "Sinus Successus",
+   "132 km",
+   "127 km"
+  ],
+  [
+   "Palus Epidemiarum",
+   "286 km",
+   "300 km"
+  ],
+  [
+   "Palus Somni",
+   "143 km",
+   "163 km"
+  ],
+  [
+   "Promontorium Kelvin",
+   "50 km",
+   "45 km"
+  ],
+  [
+   "Promontorium Deville",
+   "20 km",
+   "17 km"
+  ],
+  [
+   "Promontorium Archerusia",
+   "10 km",
+   "11 km"
+  ],
+  [
+   "Rupes Cauchy",
+   "120 km",
+   "170 km"
+  ],
+  [
+   "Rupes Liebig",
+   "37 km",
+   "145 km"
+  ],
+  [
+   "Rupes Mercator",
+   "93 km",
+   "132 km"
+  ],
+  [
+   "Rupes Kelvin",
+   "78 km",
+   "86 km"
+  ],
+  [
+   "Rupes Toscanelli",
+   "70 km",
+   "50 km"
+  ],
+  [
+   "Mons Hadley",
+   "25 km",
+   "26 km"
+  ],
+  [
+   "Mons Hadley Delta",
+   "15 km",
+   "17 km"
+  ],
+  [
+   "Mons Bradley",
+   "30 km",
+   "76 km"
+  ],
+  [
+   "Mons Huygens",
+   "40 km",
+   "42 km"
+  ],
+  [
+   "Mons Wolff",
+   "35 km",
+   "33 km"
+  ],
+  [
+   "Montes Archimedes",
+   "163 km",
+   "147 km"
+  ],
+  [
+   "Montes Agricola",
+   "141 km",
+   "160 km"
+  ],
+  [
+   "Mons Gruithuisen Delta",
+   "20 km",
+   "27 km"
+  ],
+  [
+   "Mons Vinogradov",
+   "25 km",
+   "29 km"
+  ],
+  [
+   "Mons Delisle",
+   "30 km",
+   "32 km"
+  ],
+  [
+   "Montes Pyrenaeus",
+   "164 km",
+   "251 km"
+  ],
+  [
+   "Montes Secchi",
+   "50 km",
+   "52 km"
+  ],
+  [
+   "Montes Taurus",
+   "172 km",
+   "166 km"
+  ],
+  [
+   "Mons Penck",
+   "30 km",
+   "38 km"
+  ],
+  [
+   "Mons Hansteen",
+   "30 km",
+   "31 km"
+  ],
+  [
+   "Mons Maraldi",
+   "15 km",
+   "16 km"
+  ],
+  [
+   "Mont Blanc",
+   "25 km",
+   "22 km"
+  ],
+  [
+   "Montes Cordillera",
+   "574 km",
+   "964 km"
+  ],
+  [
+   "Montes Rook",
+   "791 km",
+   "682 km"
+  ],
+  [
+   "Rima Hyginus",
+   "219 km",
+   "204 km"
+  ],
+  [
+   "Rimae Triesnecker",
+   "215 km",
+   "200 km"
+  ],
+  [
+   "Rimae Bode",
+   "70 km",
+   "233 km"
+  ],
+  [
+   "Rima Bradley",
+   "161 km",
+   "134 km"
+  ],
+  [
+   "Rima Sharp",
+   "107 km",
+   "277 km"
+  ],
+  [
+   "Rimae Plato",
+   "87 km",
+   "180 km"
+  ],
+  [
+   "Rimae Archimedes",
+   "169 km",
+   "215 km"
+  ],
+  [
+   "Rimae Aristarchus",
+   "121 km",
+   "175 km"
+  ],
+  [
+   "Rima Marius",
+   "121 km",
+   "284 km"
+  ],
+  [
+   "Rima Cauchy",
+   "140 km",
+   "167 km"
+  ],
+  [
+   "Rimae Posidonius",
+   "70 km",
+   "78 km"
+  ],
+  [
+   "Rimae Menelaus",
+   "131 km",
+   "87 km"
+  ],
+  [
+   "Rimae Sulpicius Gallus",
+   "90 km",
+   "80 km"
+  ],
+  [
+   "Rimae Littrow",
+   "115 km",
+   "165 km"
+  ],
+  [
+   "Rimae Plinius",
+   "124 km",
+   "100 km"
+  ],
+  [
+   "Rimae Maclear",
+   "110 km",
+   "94 km"
+  ],
+  [
+   "Rimae Ritter",
+   "100 km",
+   "75 km"
+  ],
+  [
+   "Rimae Sosigenes",
+   "190 km",
+   "130 km"
+  ],
+  [
+   "Rimae Hypatia",
+   "206 km",
+   "200 km"
+  ],
+  [
+   "Rimae Gutenberg",
+   "330 km",
+   "223 km"
+  ],
+  [
+   "Rimae Goclenius",
+   "240 km",
+   "190 km"
+  ],
+  [
+   "Rimae Herigonius",
+   "100 km",
+   "180 km"
+  ],
+  [
+   "Rimae Mersenius",
+   "84 km",
+   "240 km"
+  ],
+  [
+   "Rimae Doppelmayer",
+   "162 km",
+   "7,8 km"
+  ],
+  [
+   "Rimae Palmieri",
+   "150 km",
+   "27 km"
+  ],
+  [
+   "Rimae Ramsden",
+   "108 km",
+   "100 km"
+  ],
+  [
+   "Rimae Pitatus",
+   "94 km",
+   "90 km"
+  ],
+  [
+   "Rimae Alphonsus",
+   "80 km",
+   "87 km"
+  ],
+  [
+   "Rimae Arzachel",
+   "50 km",
+   "57 km"
+  ],
+  [
+   "Rimae Parry",
+   "82 km",
+   "210 km"
+  ],
+  [
+   "Rimae Opelt",
+   "70 km",
+   "55 km"
+  ],
+  [
+   "Rimae Taruntius",
+   "25 km",
+   "35 km"
+  ],
+  [
+   "Rimae Apollonius",
+   "230 km",
+   "90 km"
+  ],
+  [
+   "Rimae Maestlin",
+   "80 km",
+   "71 km"
+  ],
+  [
+   "Rima Schröter",
+   "200 km",
+   "27 km"
+  ],
+  [
+   "Rimae Atlas",
+   "60 km",
+   "47 km"
+  ],
+  [
+   "Rimae Bürg",
+   "147 km",
+   "98 km"
+  ],
+  [
+   "Rimae Chacornac",
+   "120 km",
+   "100 km"
+  ],
+  [
+   "Rimae Daniell",
+   "200 km",
+   "140 km"
+  ],
+  [
+   "Rimae Grimaldi",
+   "230 km",
+   "162 km"
+  ],
+  [
+   "Rimae Zupus",
+   "120 km",
+   "130 km"
+  ],
+  [
+   "Rimae de Gasparis",
+   "93 km",
+   "47 km"
+  ],
+  [
+   "Rima Cardanus",
+   "175 km",
+   "222 km"
+  ],
+  [
+   "Dorsum Buckland",
+   "380 km",
+   "369 km"
+  ],
+  [
+   "Dorsum von Cotta",
+   "199 km",
+   "183 km"
+  ],
+  [
+   "Dorsa Lister",
+   "203 km",
+   "180 km"
+  ],
+  [
+   "Dorsa Aldrovandi",
+   "136 km",
+   "127 km"
+  ],
+  [
+   "Dorsa Barlow",
+   "120 km",
+   "113 km"
+  ],
+  [
+   "Dorsa Argand",
+   "109 km",
+   "92 km"
+  ],
+  [
+   "Dorsa Cato",
+   "140 km",
+   "129 km"
+  ],
+  [
+   "Dorsa Geikie",
+   "228 km",
+   "218 km"
+  ],
+  [
+   "Dorsum Oppel",
+   "268 km",
+   "298 km"
+  ],
+  [
+   "Dorsa Harker",
+   "197 km",
+   "213 km"
+  ],
+  [
+   "Dorsa Ewing",
+   "141 km",
+   "262 km"
+  ],
+  [
+   "Mare Anguis",
+   "150 km",
+   "146 km"
+  ],
+  [
+   "Mare Spumans",
+   "139 km",
+   "143 km"
+  ],
+  [
+   "Mare Orientale",
+   "930 km",
+   "294 km"
+  ],
+  [
+   "Vallis Capella",
+   "49 km",
+   "106 km"
+  ],
+  [
+   "Vallis Palitzsch",
+   "132 km",
+   "110 km"
+  ],
+  [
+   "Vallis Inghirami",
+   "148 km",
+   "145 km"
+  ],
+  [
+   "Condorcet",
+   "Situé à environ 610 km au sud-est de Cléomède.",
+   "Situé à environ 620 km au sud-est de Cléomède."
+  ],
+  [
+   "Hahn",
+   "Situé à environ 480 km à l'est de Cléomède.",
+   "Situé à environ 490 km à l'est de Cléomède."
+  ],
+  [
+   "Berosus",
+   "Situé à environ 400 km au nord-est de Cléomède.",
+   "Situé à environ 420 km au nord-est de Cléomède."
+  ],
+  [
+   "Dubyago",
+   "Situé à environ 490 km au nord-est de Langrenus.",
+   "Situé à environ 480 km au nord-est de Langrenus."
+  ],
+  [
+   "Legendre",
+   "Situé à environ 290 km au sud-est de Petavius.",
+   "Situé à environ 270 km au sud-est de Petavius."
+  ],
+  [
+   "Hase",
+   "Situé à environ 140 km au sud-est de Petavius.",
+   "Situé à environ 130 km au sud-est de Petavius."
+  ],
+  [
+   "Gilbert",
+   "Situé à environ 480 km à l'est de Langrenus.",
+   "Situé à environ 490 km à l'est de Langrenus."
+  ],
+  [
+   "Kästner",
+   "Situé à environ 530 km à l'est de Langrenus.",
+   "Situé à environ 540 km à l'est de Langrenus."
+  ],
+  [
+   "Hécatée",
+   "Situé à environ 530 km à l'est de Vendelinus.",
+   "Situé à environ 550 km à l'est de Vendelinus."
+  ],
+  [
+   "Wrottesley",
+   "Situé à environ 110 km à l'ouest de Petavius.",
+   "Situé à environ 120 km à l'ouest de Petavius."
+  ],
+  [
+   "Young",
+   "Situé à environ 240 km à l'est de Janssen.",
+   "Situé à environ 250 km au nord-est de Janssen."
+  ],
+  [
+   "Steinheil",
+   "Situé à environ 160 km au sud-est de Janssen.",
+   "Situé à environ 170 km au sud-est de Janssen."
+  ],
+  [
+   "Biela",
+   "Situé à environ 360 km au sud-est de Janssen.",
+   "Situé à environ 370 km au sud-est de Janssen."
+  ],
+  [
+   "Hagecius",
+   "Situé à environ 460 km au sud de Janssen.",
+   "Situé à environ 470 km au sud de Janssen."
+  ],
+  [
+   "Pitiscus",
+   "Situé à environ 260 km au sud-ouest de Janssen.",
+   "Situé à environ 270 km au sud-ouest de Janssen."
+  ],
+  [
+   "Brenner",
+   "Situé à environ 100 km à l'ouest de Metius.",
+   "Situé à environ 110 km à l'ouest de Metius."
+  ],
+  [
+   "Zagut",
+   "Situé à environ 270 km à l'ouest de Piccolomini.",
+   "Situé à environ 280 km à l'ouest de Piccolomini."
+  ],
+  [
+   "Riccius",
+   "Situé à environ 260 km au sud-ouest de Piccolomini.",
+   "Situé à environ 270 km au sud-ouest de Piccolomini."
+  ],
+  [
+   "Nonius",
+   "Situé à environ 90 km au sud-est de Walter.",
+   "Situé à environ 95 km au sud-est de Walter."
+  ],
+  [
+   "Fernelius",
+   "Situé à environ 90 km au nord de Stöfler.",
+   "Situé à environ 95 km au nord de Stöfler."
+  ],
+  [
+   "Lade",
+   "Situé à environ 90 km au sud de Godin.",
+   "Situé à environ 95 km au sud de Godin."
+  ],
+  [
+   "Murchison",
+   "Situé à environ 50 km à l'est de Pallas.",
+   "Situé à environ 45 km à l'est de Pallas."
+  ],
+  [
+   "Réaumur",
+   "Situé à environ 160 km au nord-ouest d'Hipparque.",
+   "Situé à environ 150 km au nord-ouest d'Hipparque."
+  ],
+  [
+   "Barocius",
+   "Situé à environ 110 km au sud-est de Maurolycus.",
+   "Situé à environ 120 km au sud-est de Maurolycus."
+  ],
+  [
+   "Lilius",
+   "Situé à environ 270 km au sud-est de Maginus.",
+   "Situé à environ 260 km au sud-est de Maginus."
+  ],
+  [
+   "Jacobi",
+   "Situé à environ 380 km au sud-est de Maginus.",
+   "Situé à environ 370 km au sud-est de Maginus."
+  ],
+  [
+   "Pentland",
+   "Situé à environ 120 km au nord-est de Curtius.",
+   "Situé à environ 110 km au nord-est de Curtius."
+  ],
+  [
+   "Faraday",
+   "Situé à environ 70 km au sud-est de Stöfler.",
+   "Situé à environ 75 km au sud-est de Stöfler."
+  ],
+  [
+   "Orontius",
+   "Situé à environ 170 km au nord-est de Tycho.",
+   "Situé à environ 190 km au nord-est de Tycho."
+  ],
+  [
+   "Saussure",
+   "Situé à environ 170 km à l'est de Tycho.",
+   "Situé à environ 160 km à l'est de Tycho."
+  ],
+  [
+   "Lexell",
+   "Situé à environ 90 km au sud de Deslandres.",
+   "Situé à environ 100 km au sud de Deslandres."
+  ],
+  [
+   "Sasserides",
+   "Situé à environ 140 km au nord de Tycho.",
+   "Situé à environ 130 km au nord de Tycho."
+  ],
+  [
+   "Pictet",
+   "Situé à environ 90 km à l'est de Tycho.",
+   "Situé à environ 85 km à l'est de Tycho."
+  ],
+  [
+   "Porter",
+   "Situé à environ 100 km au nord-est de Clavius.",
+   "Situé à environ 110 km au nord-est de Clavius."
+  ],
+  [
+   "Lagalla",
+   "Situé à environ 60 km au sud-ouest de Wilhelm.",
+   "Situé à environ 50 km au sud-ouest de Wilhelm."
+  ],
+  [
+   "Wilson",
+   "Situé à environ 310 km au sud-est de Bailly.",
+   "Situé à environ 300 km à l'est de Bailly."
+  ],
+  [
+   "Casatus",
+   "Situé à environ 240 km au sud-ouest de Moretus.",
+   "Situé à environ 240 km à l'ouest de Moretus."
+  ],
+  [
+   "Manzinus",
+   "Situé à environ 350 km à l'est de Moretus.",
+   "Situé à environ 360 km à l'est de Moretus."
+  ],
+  [
+   "Mutus",
+   "Situé à environ 460 km à l'est de Moretus.",
+   "Situé à environ 460 km au nord-est de Moretus."
+  ],
+  [
+   "Boguslawsky",
+   "Situé à environ 450 km au sud-est de Moretus.",
+   "Situé à environ 460 km à l'est de Moretus."
+  ],
+  [
+   "Simpelius",
+   "Situé à environ 210 km au sud-est de Moretus.",
+   "Situé à environ 210 km à l'est de Moretus."
+  ],
+  [
+   "Newton",
+   "Situé à environ 210 km au sud de Moretus.",
+   "Situé à environ 200 km au sud-ouest de Moretus."
+  ],
+  [
+   "Cabeus",
+   "Situé à environ 460 km au sud de Moretus.",
+   "Situé à environ 480 km au sud-ouest de Moretus."
+  ],
+  [
+   "Lamarck",
+   "Situé à environ 530 km au sud de Grimaldi.",
+   "Situé à environ 540 km au sud de Grimaldi."
+  ],
+  [
+   "Darwin",
+   "Situé à environ 450 km au sud de Grimaldi.",
+   "Situé à environ 440 km au sud de Grimaldi."
+  ],
+  [
+   "Vieta",
+   "Situé à environ 300 km au sud-ouest de Mersenius.",
+   "Situé à environ 310 km au sud-ouest de Mersenius."
+  ],
+  [
+   "Lehmann",
+   "Situé à environ 130 km au nord de Schickard.",
+   "Situé à environ 140 km au nord de Schickard."
+  ],
+  [
+   "Piazzi",
+   "Situé à environ 380 km au nord-ouest de Schickard.",
+   "Situé à environ 390 km au nord-ouest de Schickard."
+  ],
+  [
+   "Lagrange",
+   "Situé à environ 560 km au nord-ouest de Schickard.",
+   "Situé à environ 530 km au nord-ouest de Schickard."
+  ],
+  [
+   "Rocca",
+   "Situé à environ 260 km au sud-ouest de Grimaldi.",
+   "Situé à environ 270 km au sud-ouest de Grimaldi."
+  ],
+  [
+   "Hedin",
+   "Situé à environ 170 km au nord de Riccioli.",
+   "Situé à environ 190 km au nord de Riccioli."
+  ],
+  [
+   "Arnold",
+   "Situé à environ 500 km à l'est d'Anaxagore.",
+   "Situé à environ 500 km au sud-est d'Anaxagore."
+  ],
+  [
+   "Baillaud",
+   "Situé à environ 390 km au nord-est d'Anaxagore.",
+   "Situé à environ 390 km à l'est d'Anaxagore."
+  ],
+  [
+   "Barrow",
+   "Situé à environ 170 km à l'est d'Anaxagore.",
+   "Situé à environ 180 km à l'est d'Anaxagore."
+  ],
+  [
+   "Babbage",
+   "Situé à environ 140 km au sud-est de Pythagore.",
+   "Situé à environ 150 km au sud-est de Pythagore."
+  ],
+  [
+   "Schumacher",
+   "Situé à environ 100 km au nord de Messala.",
+   "Situé à environ 95 km au nord de Messala."
+  ],
+  [
+   "Chevallier",
+   "Situé à environ 150 km à l'est d'Atlas.",
+   "Situé à environ 160 km à l'est d'Atlas."
+  ],
+  [
+   "Dawes",
+   "Situé à environ 100 km au nord-est de Pline.",
+   "Situé à environ 95 km au nord-est de Pline."
+  ],
+  [
+   "Sosigenes",
+   "Situé à environ 70 km à l'est de Jules César.",
+   "Situé à environ 75 km à l'est de Jules César."
+  ],
+  [
+   "Pickering",
+   "Situé à environ 90 km au nord-est d'Hipparque.",
+   "Situé à environ 100 km au nord-est d'Hipparque."
+  ],
+  [
+   "Cayley",
+   "Situé à environ 70 km au nord-ouest de Dionysius.",
+   "Situé à environ 75 km au nord-ouest de Dionysius."
+  ],
+  [
+   "Ritter",
+   "Situé à environ 70 km au sud-est de Dionysius.",
+   "Situé à environ 60 km au sud-est de Dionysius."
+  ],
+  [
+   "Sabine",
+   "Situé à environ 90 km au sud-est de Dionysius.",
+   "Situé à environ 95 km au sud-est de Dionysius."
+  ],
+  [
+   "Rhaeticus",
+   "Situé à environ 150 km au nord d'Hipparque.",
+   "Situé à environ 160 km au nord d'Hipparque."
+  ],
+  [
+   "Halley",
+   "Situé à environ 100 km au sud d'Hipparque.",
+   "Situé à environ 85 km au sud d'Hipparque."
+  ],
+  [
+   "Horrocks",
+   "Situé à environ 40 km au nord-est d'Hipparque.",
+   "Situé à environ 50 km au nord-est d'Hipparque."
+  ],
+  [
+   "Saunder",
+   "Situé à environ 110 km à l'est d'Hipparque.",
+   "Situé à environ 120 km à l'est d'Hipparque."
+  ],
+  [
+   "Spörer",
+   "Situé à environ 40 km au nord de Herschel.",
+   "Situé à environ 45 km au nord de Herschel."
+  ],
+  [
+   "Taylor",
+   "Situé à environ 110 km au sud de Delambre.",
+   "Situé à environ 100 km au sud de Delambre."
+  ],
+  [
+   "Zöllner",
+   "Situé à environ 200 km au sud de Delambre.",
+   "Situé à environ 190 km au sud de Delambre."
+  ],
+  [
+   "Descartes",
+   "Situé à environ 90 km au nord-est d'Abulféda.",
+   "Situé à environ 85 km au nord-est d'Abulféda."
+  ],
+  [
+   "Azophi",
+   "Situé à environ 120 km à l'ouest de Sacrobosco.",
+   "Situé à environ 120 km au nord-ouest de Sacrobosco."
+  ],
+  [
+   "Almanon",
+   "Situé à environ 100 km au sud-est d'Abulféda.",
+   "Situé à environ 95 km au sud d'Abulféda."
+  ],
+  [
+   "Playfair",
+   "Situé à environ 110 km au nord d'Apianus.",
+   "Situé à environ 100 km au nord d'Apianus."
+  ],
+  [
+   "Hesiodus",
+   "Situé à environ 70 km à l'ouest de Pitatus.",
+   "Situé à environ 75 km à l'ouest de Pitatus."
+  ],
+  [
+   "Müller",
+   "Situé à environ 120 km au sud-ouest d'Hipparque.",
+   "Situé à environ 110 km au sud-ouest d'Hipparque."
+  ],
+  [
+   "Tobias Mayer",
+   "Situé à environ 240 km au sud d'Euler.",
+   "Situé à environ 230 km au sud d'Euler."
+  ],
+  [
+   "Encke",
+   "Situé à environ 120 km au sud de Kepler.",
+   "Situé à environ 110 km au sud de Kepler."
+  ],
+  [
+   "Maupertuis",
+   "Situé à environ 360 km à l'ouest de Platon.",
+   "Situé à environ 350 km à l'ouest de Platon."
+  ],
+  [
+   "Fontenelle",
+   "Situé à environ 310 km au sud-ouest d'Anaxagore.",
+   "Situé à environ 320 km au sud d'Anaxagore."
+  ],
+  [
+   "Mitchell",
+   "Situé à environ 60 km à l'est d'Aristote.",
+   "Situé à environ 55 km à l'est d'Aristote."
+  ],
+  [
+   "Baily",
+   "Situé à environ 160 km au nord de Bürg.",
+   "Situé à environ 150 km au nord de Bürg."
+  ],
+  [
+   "Plana",
+   "Situé à environ 90 km au sud de Bürg.",
+   "Situé à environ 85 km au sud de Bürg."
+  ],
+  [
+   "Hall",
+   "Situé à environ 190 km à l'est de Posidonius.",
+   "Situé à environ 180 km à l'est de Posidonius."
+  ],
+  [
+   "Lyell",
+   "Situé à environ 200 km au sud-ouest de Proclus.",
+   "Situé à environ 200 km à l'ouest de Proclus."
+  ],
+  [
+   "Isidorus",
+   "Situé à environ 50 km à l'ouest de Capella.",
+   "Situé à environ 45 km à l'ouest de Capella."
+  ],
+  [
+   "Magelhaens",
+   "Situé à environ 70 km au sud-ouest de Goclenius.",
+   "Situé à environ 65 km au sud-ouest de Goclenius."
+  ],
+  [
+   "Bohnenberger",
+   "Situé à environ 260 km au nord-est de Fracastor.",
+   "Situé à environ 250 km au nord-est de Fracastor."
+  ],
+  [
+   "Eimmart",
+   "Situé à environ 260 km à l'est de Cléomède.",
+   "Situé à environ 280 km au sud-est de Cléomède."
+  ],
+  [
+   "Lacus Bonitatis",
+   "Situé à environ 90 km au nord-ouest de Macrobe.",
+   "Situé à environ 75 km au nord-ouest de Macrobe."
+  ],
+  [
+   "Lacus Felicitatis",
+   "Situé à environ 180 km au nord-ouest de Manilius.",
+   "Situé à environ 160 km au nord-ouest de Manilius."
+  ],
+  [
+   "Lacus Gaudii",
+   "Situé à environ 100 km à l'ouest de Ménélas.",
+   "Situé à environ 110 km à l'ouest de Ménélas."
+  ],
+  [
+   "Lacus Odii",
+   "Situé à environ 150 km au nord-ouest de Manilius.",
+   "Situé à environ 150 km au nord de Manilius."
+  ],
+  [
+   "Lacus Doloris",
+   "Situé à environ 80 km au nord de Manilius.",
+   "Situé à environ 75 km au nord de Manilius."
+  ],
+  [
+   "Lacus Excellentiae",
+   "Situé à environ 370 km au nord-est de Schickard.",
+   "Situé à environ 380 km au nord-est de Schickard."
+  ],
+  [
+   "Lacus Perseverantiae",
+   "Situé à environ 50 km au nord-ouest de Firmicus.",
+   "Situé à environ 50 km à l'ouest de Firmicus."
+  ],
+  [
+   "Lacus Spei",
+   "Situé à environ 360 km au sud-est d'Endymion.",
+   "Situé à environ 350 km au sud-est d'Endymion."
+  ],
+  [
+   "Lacus Temporis",
+   "Situé à environ 240 km au sud d'Endymion.",
+   "Situé à environ 210 km au sud d'Endymion."
+  ],
+  [
+   "Lacus Aestatis",
+   "Situé à environ 80 km au nord-ouest de Crüger.",
+   "Situé à environ 75 km au nord-ouest de Crüger."
+  ],
+  [
+   "Lacus Autumni",
+   "Situé à environ 340 km au sud-ouest de Riccioli.",
+   "Situé à environ 380 km au sud-ouest de Riccioli."
+  ],
+  [
+   "Lacus Veris",
+   "Situé à environ 530 km au sud-ouest de Riccioli.",
+   "Situé à environ 540 km au sud-ouest de Riccioli."
+  ],
+  [
+   "Sinus Amoris",
+   "Situé à environ 220 km au sud-ouest de Macrobe.",
+   "Situé à environ 250 km à l'ouest de Macrobe."
+  ],
+  [
+   "Sinus Asperitatis",
+   "Situé à environ 40 km au nord-ouest de Torricelli.",
+   "Situé à environ 35 km au sud-ouest de Torricelli."
+  ],
+  [
+   "Sinus Concordiae",
+   "Situé à environ 190 km au nord-ouest de Taruntius.",
+   "Situé à environ 210 km au nord-ouest de Taruntius."
+  ],
+  [
+   "Sinus Lunicus",
+   "Situé à environ 80 km au nord-ouest d'Autolycus.",
+   "Situé à environ 100 km au nord-ouest d'Autolycus."
+  ],
+  [
+   "Sinus Roris",
+   "Situé à environ 300 km au sud de Pythagore.",
+   "Situé à environ 450 km au sud-est de Pythagore."
+  ],
+  [
+   "Sinus Successus",
+   "Situé à environ 300 km au nord de Langrenus.",
+   "Situé à environ 310 km au nord de Langrenus."
+  ],
+  [
+   "Palus Epidemiarum",
+   "Situé à environ 70 km au nord-ouest de Capuanus.",
+   "Situé à environ 65 km au nord de Capuanus."
+  ],
+  [
+   "Palus Somni",
+   "Situé à environ 80 km au sud-ouest de Proclus.",
+   "Situé à environ 95 km au sud-ouest de Proclus."
+  ],
+  [
+   "Promontorium Taenarium",
+   "Situé à environ 100 km au nord de Birt.",
+   "Situé à environ 120 km au nord de Birt."
+  ],
+  [
+   "Promontorium Fresnel",
+   "Situé à environ 100 km au sud-est d'Autolycus.",
+   "Situé à environ 110 km au sud-est d'Autolycus."
+  ],
+  [
+   "Promontorium Deville",
+   "Situé à environ 100 km au nord-est de Piazzi Smyth.",
+   "Situé à environ 110 km au nord-est de Piazzi Smyth."
+  ],
+  [
+   "Promontorium Archerusia",
+   "Situé à environ 60 km au nord-ouest de Pline.",
+   "Situé à environ 65 km au nord-ouest de Pline."
+  ],
+  [
+   "Rupes Cauchy",
+   "Situé à environ 50 km à l'ouest de Cauchy.",
+   "Situé à environ 45 km à l'ouest de Cauchy."
+  ],
+  [
+   "Rupes Liebig",
+   "Situé à environ 90 km au sud de Mersenius.",
+   "Situé à environ 150 km au sud-est de Mersenius."
+  ],
+  [
+   "Rupes Mercator",
+   "Situé à environ 80 km au nord-ouest de Cichus.",
+   "Situé à environ 100 km au nord-ouest de Cichus."
+  ],
+  [
+   "Rupes Kelvin",
+   "Situé à environ 350 km au sud-est de Gassendi.",
+   "Situé à environ 370 km au sud-est de Gassendi."
+  ],
+  [
+   "Rupes Toscanelli",
+   "Situé à environ 110 km au nord-ouest de Prinz.",
+   "Situé à environ 100 km au nord-ouest de Prinz."
+  ],
+  [
+   "Mons Hadley",
+   "Situé à environ 150 km au sud-est d'Autolycus.",
+   "Situé à environ 140 km au sud-est d'Autolycus."
+  ],
+  [
+   "Mons Hadley Delta",
+   "Situé à environ 160 km au sud-est d'Autolycus.",
+   "Situé à environ 160 km au sud d'Autolycus."
+  ],
+  [
+   "Mons Bradley",
+   "Situé à environ 260 km au sud d'Autolycus.",
+   "Situé à environ 270 km au sud d'Autolycus."
+  ],
+  [
+   "Mons Huygens",
+   "Situé à environ 290 km au nord-est d'Ératosthène.",
+   "Situé à environ 300 km au nord-est d'Ératosthène."
+  ],
+  [
+   "Mons Ampère",
+   "Situé à environ 250 km au nord-est d'Ératosthène.",
+   "Situé à environ 270 km au nord-est d'Ératosthène."
+  ],
+  [
+   "Montes Archimedes",
+   "Situé à environ 130 km au sud d'Archimède.",
+   "Situé à environ 140 km au sud d'Archimède."
+  ],
+  [
+   "Montes Agricola",
+   "Situé à environ 220 km au nord-ouest d'Hérodote.",
+   "Situé à environ 210 km au nord-ouest d'Hérodote."
+  ],
+  [
+   "Mons Gruithuisen Delta",
+   "Situé à environ 35 km au sud-est de Gruithuisen Gamma.",
+   "Situé à environ 30 km au sud-est de Gruithuisen Gamma."
+  ],
+  [
+   "Mons Vinogradov",
+   "Situé à environ 90 km à l'ouest d'Euler.",
+   "Situé à environ 95 km à l'ouest d'Euler."
+  ],
+  [
+   "Mons Delisle",
+   "Situé à environ 35 km à l'ouest de Delisle.",
+   "Situé à environ 35 km au sud-ouest de Delisle."
+  ],
+  [
+   "Montes Riphaeus",
+   "Situé à environ 230 km au sud de Lansberg.",
+   "Situé à environ 220 km au sud de Lansberg."
+  ],
+  [
+   "Montes Pyrenaeus",
+   "Situé à environ 290 km au nord-est de Fracastor.",
+   "Situé à environ 330 km au nord-est de Fracastor."
+  ],
+  [
+   "Montes Taurus",
+   "Situé à environ 250 km au nord-ouest de Macrobe.",
+   "Situé à environ 240 km au nord-ouest de Macrobe."
+  ],
+  [
+   "Mont Blanc",
+   "Situé à environ 170 km au nord-ouest de Cassini.",
+   "Situé à environ 180 km au nord-ouest de Cassini."
+  ],
+  [
+   "Montes Cordillera",
+   "Situé à environ 480 km au sud-ouest de Riccioli.",
+   "Situé à environ 790 km au sud-ouest de Riccioli."
+  ],
+  [
+   "Montes Rook",
+   "Situé à environ 570 km au sud-ouest de Riccioli.",
+   "Situé à environ 790 km au sud-ouest de Riccioli."
+  ],
+  [
+   "Rima Hyginus",
+   "Situé à environ 50 km à l'est d'Hyginus.",
+   "Situé à environ 15 km à l'est d'Hyginus."
+  ],
+  [
+   "Rimae Triesnecker",
+   "Situé à environ 30 km à l'est de Triesnecker.",
+   "Situé à environ 45 km au nord-est de Triesnecker."
+  ],
+  [
+   "Rimae Bode",
+   "Situé à environ 110 km au nord-ouest de Bode.",
+   "Situé à environ 90 km au nord de Bode."
+  ],
+  [
+   "Rima Sharp",
+   "Situé à environ 550 km au sud-est de Pythagore.",
+   "Situé à environ 580 km au sud de Pythagore."
+  ],
+  [
+   "Rimae Archimedes",
+   "Situé à environ 90 km au sud d'Archimède.",
+   "Situé à environ 100 km au sud d'Archimède."
+  ],
+  [
+   "Rimae Aristarchus",
+   "Situé à environ 100 km au nord d'Aristarque.",
+   "Situé à environ 120 km au nord d'Aristarque."
+  ],
+  [
+   "Rima Marius",
+   "Situé à environ 150 km au nord de Marius.",
+   "Situé à environ 140 km au nord de Marius."
+  ],
+  [
+   "Rima Cauchy",
+   "Situé à environ 35 km au nord-ouest de Cauchy.",
+   "Situé à environ 30 km au nord-ouest de Cauchy."
+  ],
+  [
+   "Rimae Posidonius",
+   "Situé à environ 30 km à l'ouest de Posidonius.",
+   "Situé à environ 10 km au nord-ouest de Posidonius."
+  ],
+  [
+   "Rimae Sulpicius Gallus",
+   "Situé à environ 200 km au nord de Manilius.",
+   "Situé à environ 190 km au nord de Manilius."
+  ],
+  [
+   "Rimae Littrow",
+   "Situé à environ 50 km au nord-ouest de Littrow.",
+   "Situé à environ 40 km au nord-ouest de Littrow."
+  ],
+  [
+   "Rimae Plinius",
+   "Situé à environ 80 km au nord de Pline.",
+   "Situé à environ 55 km au nord de Pline."
+  ],
+  [
+   "Rimae Maclear",
+   "Situé à environ 130 km au sud-ouest de Pline.",
+   "Situé à environ 140 km au sud-ouest de Pline."
+  ],
+  [
+   "Rimae Ritter",
+   "Situé à environ 20 km à l'est de Dionysius.",
+   "Situé à environ 30 km au nord-est de Dionysius."
+  ],
+  [
+   "Rimae Sosigenes",
+   "Situé à environ 100 km à l'est de Jules César.",
+   "Situé à environ 110 km à l'est de Jules César."
+  ],
+  [
+   "Rimae Hypatia",
+   "Situé à environ 160 km à l'est de Delambre.",
+   "Situé à environ 170 km à l'est de Delambre."
+  ],
+  [
+   "Rimae Gutenberg",
+   "Situé à environ 120 km au nord-est de Capella.",
+   "Situé à environ 110 km au nord-est de Capella."
+  ],
+  [
+   "Rimae Goclenius",
+   "Situé à environ 60 km à l'est de Gutenberg.",
+   "Situé à environ 55 km au nord-est de Gutenberg."
+  ],
+  [
+   "Rimae Herigonius",
+   "Situé à environ 160 km au nord-est de Gassendi.",
+   "Situé à environ 140 km au nord-est de Gassendi."
+  ],
+  [
+   "Rimae Gassendi",
+   "Situé à environ 10 km au sud de Gassendi.",
+   "Situé à environ 5 km au nord-est de Gassendi."
+  ],
+  [
+   "Rimae Mersenius",
+   "Situé à environ 5 km au nord de Mersenius.",
+   "Situé à environ 85 km à l'est de Mersenius."
+  ],
+  [
+   "Rimae Doppelmayer",
+   "Situé à environ 180 km au sud-est de Mersenius.",
+   "Situé à environ 200 km au sud-est de Mersenius."
+  ],
+  [
+   "Rimae Palmieri",
+   "Situé à environ 210 km au sud de Mersenius.",
+   "Situé à environ 200 km au sud de Mersenius."
+  ],
+  [
+   "Rimae Ramsden",
+   "Situé à environ 30 km au sud de Ramsden.",
+   "Situé à environ 15 km à l'est de Ramsden."
+  ],
+  [
+   "Rimae Pitatus",
+   "Situé à environ 40 km au nord de Pitatus.",
+   "Situé à environ 5 km au nord-ouest de Pitatus."
+  ],
+  [
+   "Rima Hesiodus",
+   "Situé à environ 100 km au nord de Cichus.",
+   "Situé à environ 85 km au nord de Cichus."
+  ],
+  [
+   "Rimae Alphonsus",
+   "Situé à environ 30 km au sud-est d'Alphonse.",
+   "Situé à environ 25 km à l'est d'Alphonse."
+  ],
+  [
+   "Rimae Arzachel",
+   "Situé à environ 5 km au nord-ouest d'Arzachel.",
+   "Situé à environ 15 km à l'est d'Arzachel."
+  ],
+  [
+   "Rimae Parry",
+   "Situé à environ 5 km à l'est de Fra Mauro.",
+   "Situé à environ 60 km au sud de Fra Mauro."
+  ],
+  [
+   "Rimae Opelt",
+   "Situé à environ 100 km au nord d'Opelt.",
+   "Situé à environ 85 km au nord d'Opelt."
+  ],
+  [
+   "Rimae Taruntius",
+   "Situé à environ 5 km au nord de Taruntius.",
+   "Situé à environ 15 km au nord-est de Taruntius."
+  ],
+  [
+   "Rimae Apollonius",
+   "Situé à environ 200 km à l'est de Taruntius.",
+   "Situé à environ 240 km à l'est de Taruntius."
+  ],
+  [
+   "Rimae Maestlin",
+   "Situé à environ 190 km au sud de Kepler.",
+   "Situé à environ 180 km au sud-ouest de Kepler."
+  ],
+  [
+   "Rima Schröter",
+   "Situé à environ 200 km au sud-est d'Archimède.",
+   "Situé à environ 860 km au sud d'Archimède."
+  ],
+  [
+   "Rimae Atlas",
+   "Situé à environ 30 km au nord-ouest d'Atlas.",
+   "Situé à environ 5 km au nord d'Atlas."
+  ],
+  [
+   "Rimae Bürg",
+   "Situé à environ 100 km à l'ouest de Bürg.",
+   "Situé à environ 65 km à l'ouest de Bürg."
+  ],
+  [
+   "Rimae Chacornac",
+   "Situé à environ 25 km au sud de Chacornac.",
+   "Situé à environ 30 km au sud-ouest de Chacornac."
+  ],
+  [
+   "Rimae Daniell",
+   "Situé à environ 190 km au nord-ouest de Posidonius.",
+   "Situé à environ 220 km au nord-ouest de Posidonius."
+  ],
+  [
+   "Rimae Römer",
+   "Situé à environ 60 km au nord-ouest de Römer.",
+   "Situé à environ 65 km au nord-ouest de Römer."
+  ],
+  [
+   "Rima G. Bond",
+   "Situé à environ 150 km à l'est de Posidonius.",
+   "Situé à environ 140 km à l'est de Posidonius."
+  ],
+  [
+   "Rimae Hevelius",
+   "Situé à environ 40 km au sud d'Hévélius.",
+   "Situé à environ 55 km au sud-est d'Hévélius."
+  ],
+  [
+   "Rimae Grimaldi",
+   "Situé à environ 230 km au nord-est d'Hévélius.",
+   "Situé à environ 280 km au sud-est d'Hévélius."
+  ],
+  [
+   "Rimae Zupus",
+   "Situé à environ 90 km au sud-ouest de Billy.",
+   "Situé à environ 110 km au sud-ouest de Billy."
+  ],
+  [
+   "Rimae de Gasparis",
+   "Situé à environ 110 km au sud-ouest de Mersenius.",
+   "Situé à environ 110 km au sud de Mersenius."
+  ],
+  [
+   "Rima Cardanus",
+   "Situé à environ 300 km au nord-ouest d'Hévélius.",
+   "Situé à environ 300 km au nord d'Hévélius."
+  ],
+  [
+   "Dorsum Buckland",
+   "Situé à environ 150 km au nord-ouest de Ménélas.",
+   "Situé à environ 110 km au nord-ouest de Ménélas."
+  ],
+  [
+   "Dorsum von Cotta",
+   "Situé à environ 240 km au nord-ouest de Ménélas.",
+   "Situé à environ 250 km au nord-ouest de Ménélas."
+  ],
+  [
+   "Dorsum Zirkel",
+   "Situé à environ 100 km au nord-ouest de Lambert.",
+   "Situé à environ 150 km au nord-ouest de Lambert."
+  ],
+  [
+   "Dorsum Heim",
+   "Situé à environ 260 km au nord d'Euler.",
+   "Situé à environ 270 km au nord d'Euler."
+  ],
+  [
+   "Dorsa Lister",
+   "Situé à environ 150 km au nord de Pline.",
+   "Situé à environ 130 km au nord de Pline."
+  ],
+  [
+   "Dorsa Aldrovandi",
+   "Situé à environ 100 km au sud-ouest de Le Monnier.",
+   "Situé à environ 110 km au sud-ouest de Le Monnier."
+  ],
+  [
+   "Dorsa Barlow",
+   "Situé à environ 80 km au sud de Vitruvius.",
+   "Situé à environ 110 km au sud de Vitruvius."
+  ],
+  [
+   "Dorsa Argand",
+   "Situé à environ 230 km au nord-est d'Aristarque.",
+   "Situé à environ 240 km au nord-est d'Aristarque."
+  ],
+  [
+   "Dorsa Cato",
+   "Situé à environ 90 km au nord de Messier.",
+   "Situé à environ 65 km au nord de Messier."
+  ],
+  [
+   "Dorsum Oppel",
+   "Situé à environ 25 km au nord-ouest de Peirce.",
+   "Situé à environ 50 km au nord-ouest de Peirce."
+  ],
+  [
+   "Dorsa Harker",
+   "Situé à environ 460 km au sud-est de Cléomède.",
+   "Situé à environ 480 km au sud-est de Cléomède."
+  ],
+  [
+   "Dorsa Ewing",
+   "Situé à environ 90 km à l'est de Letronne.",
+   "Situé à environ 130 km à l'est de Letronne."
+  ],
+  [
+   "Mare Anguis",
+   "Situé à environ 360 km au sud-est de Cléomède.",
+   "Situé à environ 370 km au sud-est de Cléomède."
+  ],
+  [
+   "Mare Spumans",
+   "Situé à environ 330 km au nord de Langrenus.",
+   "Situé à environ 330 km au nord-est de Langrenus."
+  ],
+  [
+   "Mare Undarum",
+   "Situé à environ 530 km au nord-est de Langrenus.",
+   "Situé à environ 550 km au nord-est de Langrenus."
+  ],
+  [
+   "Vallis Capella",
+   "Situé à environ 5 km au sud-ouest de Capella.",
+   "Situé à environ 10 km au nord-est de Capella."
+  ],
+  [
+   "Vallis Baade",
+   "Situé à environ 460 km à l'ouest de Schickard.",
+   "Situé à environ 470 km à l'ouest de Schickard."
+  ],
+  [
+   "Site Luna 9",
+   "Situé à environ 90 km au nord-est de Cavalerius.",
+   "Situé à environ 100 km au nord-est de Cavalerius."
+  ],
+  [
+   "Site Luna 16",
+   "Situé à environ 270 km à l'est de Messier.",
+   "Situé à environ 260 km à l'est de Messier."
+  ],
+  [
+   "Site Luna 24",
+   "Situé à environ 470 km à l'est de Proclus.",
+   "Situé à environ 460 km à l'est de Proclus."
+  ],
+  [
+   "Site Ranger 8",
+   "Situé à environ 60 km au sud-est de Lamont.",
+   "Situé à environ 85 km au sud-est de Lamont."
+  ],
+  [
+   "Site Surveyor 5",
+   "Situé à environ 90 km au sud de Lamont.",
+   "Situé à environ 110 km au sud de Lamont."
+  ]
+ ],
+ "rename": {
+  "Walter": "Walther",
+  "Gruithuisen Gamma": "Mons Gruithuisen Gamma",
+  "Valentine": "Dôme Valentine"
+ },
+ "remove": [
+  "Rimae Liebig"
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Listes de formations lunaires",
+ "type": "object",
+ "required": [
+  "schema",
+  "ensemble",
+  "libre",
+  "licence",
+  "listes"
+ ],
+ "properties": {
+  "schema": {
+   "const": "listes-lune-v1"
+  },
+  "ensemble": {
+   "type": "object",
+   "required": [
+    "id",
+    "titre"
+   ]
+  },
+  "libre": {
+   "type": "boolean"
+  },
+  "licence": {
+   "type": "string",
+   "minLength": 3
+  },
+  "avis": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "listes": {
+   "type": "array",
+   "minItems": 1,
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "groupe",
+     "nom",
+     "formations"
+    ],
+    "properties": {
+     "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]{1,8}$"
+     },
+     "groupe": {
+      "type": "string",
+      "minLength": 1
+     },
+     "nom": {
+      "type": "string",
+      "minLength": 1
+     },
+     "sous_titre": {
+      "type": "string"
+     },
+     "note": {
+      "type": "string"
+     },
+     "formations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+       "type": "string",
+       "minLength": 1
+      }
+     },
+     "ordre": {
+      "type": "integer",
+      "description": "Rang de la liste dans son groupe (facultatif ; ordre croissant, puis nom de fichier)"
+     }
+    }
+   }
+  }
+ },
+ "allOf": [
+  {
+   "if": {
+    "properties": {
+     "libre": {
+      "const": false
+     }
+    }
+   },
+   "then": {
+    "required": [
+     "avis"
+    ]
+   }
+  }
+ ]
+}

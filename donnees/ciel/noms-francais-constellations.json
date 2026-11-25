@@ -1,0 +1,33 @@
+{
+ "schema": "ciel-noms-v1",
+ "description": "Nom français avec article des constellations citées dans les phrases (CONST), par nom anglais.",
+ "noms": {
+  "Aries": "le Bélier",
+  "Taurus": "le Taureau",
+  "Gemini": "les Gémeaux",
+  "Cancer": "le Cancer",
+  "Leo": "le Lion",
+  "Virgo": "la Vierge",
+  "Libra": "la Balance",
+  "Scorpius": "le Scorpion",
+  "Ophiuchus": "Ophiuchus",
+  "Sagittarius": "le Sagittaire",
+  "Capricornus": "le Capricorne",
+  "Aquarius": "le Verseau",
+  "Pisces": "les Poissons",
+  "Cetus": "la Baleine",
+  "Orion": "Orion",
+  "Sextans": "le Sextant",
+  "Crater": "la Coupe",
+  "Corvus": "le Corbeau",
+  "Hydra": "l'Hydre",
+  "Scutum": "l'Écu",
+  "Serpens": "le Serpent",
+  "Pegasus": "Pégase",
+  "Auriga": "le Cocher",
+  "Aquila": "l'Aigle",
+  "Eridanus": "l'Éridan",
+  "Lupus": "le Loup",
+  "Centaurus": "le Centaure"
+ }
+}

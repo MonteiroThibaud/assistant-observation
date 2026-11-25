@@ -1,0 +1,41 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Images DSS",
+ "type": "object",
+ "required": [
+  "images"
+ ],
+ "properties": {
+  "images": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "fov_deg",
+     "ra_deg",
+     "dec_deg",
+     "fichier_512",
+     "source"
+    ],
+    "properties": {
+     "fov_deg": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "maximum": 20
+     },
+     "ra_deg": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 360
+     },
+     "dec_deg": {
+      "type": "number",
+      "minimum": -90,
+      "maximum": 90
+     }
+    }
+   }
+  }
+ }
+}

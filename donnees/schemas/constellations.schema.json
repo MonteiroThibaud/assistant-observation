@@ -1,0 +1,27 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Constellations",
+ "type": "object",
+ "required": [
+  "constellations"
+ ],
+ "properties": {
+  "constellations": {
+   "type": "array",
+   "minItems": 88,
+   "maxItems": 88,
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "abbr",
+     "nom",
+     "centre_ra_deg",
+     "centre_dec_deg",
+     "figure",
+     "limites"
+    ]
+   }
+  }
+ }
+}

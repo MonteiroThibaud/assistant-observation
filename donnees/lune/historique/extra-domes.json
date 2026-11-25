@@ -1,0 +1,550 @@
+{
+ "schema": "lune-extra-domes-v1",
+ "description": "Dômes ajoutés (Head et Gifford, 1980, via les fichiers de points du projet LTVT) : fiabilité A ou B.",
+ "domes": [
+  {
+   "id": "lune:Dôme Arago 1",
+   "nom": "Dôme Arago 1",
+   "lon_deg": 19.9,
+   "lat_deg": 6.2,
+   "diametre_km": 18,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Arago 2",
+   "nom": "Dôme Arago 2",
+   "lon_deg": 21.5,
+   "lat_deg": 7.6,
+   "diametre_km": 21,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Arago 3",
+   "nom": "Dôme Arago 3",
+   "lon_deg": 21.2,
+   "lat_deg": 8.5,
+   "diametre_km": 7,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Arago 4",
+   "nom": "Dôme Arago 4",
+   "lon_deg": 20.9,
+   "lat_deg": 9,
+   "diametre_km": 8,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Arago 5",
+   "nom": "Dôme Arago 5",
+   "lon_deg": 20.7,
+   "lat_deg": 9.3,
+   "diametre_km": 8,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Arago 6",
+   "nom": "Dôme Arago 6",
+   "lon_deg": 24.1,
+   "lat_deg": 11.3,
+   "diametre_km": 5,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Aristarchus 1",
+   "nom": "Dôme Aristarchus 1",
+   "lon_deg": -50,
+   "lat_deg": 20.3,
+   "diametre_km": 11,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Cauchy 1",
+   "nom": "Dôme Cauchy 1",
+   "lon_deg": 38.5,
+   "lat_deg": 7.7,
+   "diametre_km": 10,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Cauchy 2",
+   "nom": "Dôme Cauchy 2",
+   "lon_deg": 36.7,
+   "lat_deg": 7.8,
+   "diametre_km": 9.5,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Cauchy 3",
+   "nom": "Dôme Cauchy 3",
+   "lon_deg": 37.7,
+   "lat_deg": 8.5,
+   "diametre_km": 6,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Cauchy 4",
+   "nom": "Dôme Cauchy 4",
+   "lon_deg": 37.1,
+   "lat_deg": 8.7,
+   "diametre_km": 5.5,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Cauchy 5",
+   "nom": "Dôme Cauchy 5",
+   "lon_deg": 37.6,
+   "lat_deg": 7.2,
+   "diametre_km": 5,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Eratosthenes 2",
+   "nom": "Dôme Eratosthenes 2",
+   "lon_deg": -7.2,
+   "lat_deg": 18.7,
+   "diametre_km": 19,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Eratosthenes 3",
+   "nom": "Dôme Eratosthenes 3",
+   "lon_deg": -4.6,
+   "lat_deg": 21,
+   "diametre_km": 8,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Eratosthenes 4",
+   "nom": "Dôme Eratosthenes 4",
+   "lon_deg": -4.6,
+   "lat_deg": 22.3,
+   "diametre_km": 15,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Euler 1",
+   "nom": "Dôme Euler 1",
+   "lon_deg": 30.5,
+   "lat_deg": 18.9,
+   "diametre_km": 15,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Gambart 1",
+   "nom": "Dôme Gambart 1",
+   "lon_deg": -12.4,
+   "lat_deg": 2.8,
+   "diametre_km": 13.5,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Hortensius 1",
+   "nom": "Dôme Hortensius 1",
+   "lon_deg": -28.4,
+   "lat_deg": 7.1,
+   "diametre_km": 7.9,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Hortensius 2",
+   "nom": "Dôme Hortensius 2",
+   "lon_deg": -28,
+   "lat_deg": 7.1,
+   "diametre_km": 5.6,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Hortensius 3",
+   "nom": "Dôme Hortensius 3",
+   "lon_deg": -27.8,
+   "lat_deg": 7.6,
+   "diametre_km": 8,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Hortensius 4",
+   "nom": "Dôme Hortensius 4",
+   "lon_deg": -27.5,
+   "lat_deg": 7.6,
+   "diametre_km": 6.8,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Hortensius 5",
+   "nom": "Dôme Hortensius 5",
+   "lon_deg": -27.6,
+   "lat_deg": 7.9,
+   "diametre_km": 6.8,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Hortensius 6",
+   "nom": "Dôme Hortensius 6",
+   "lon_deg": -27.3,
+   "lat_deg": 7.9,
+   "diametre_km": 7,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Jansen 1",
+   "nom": "Dôme Jansen 1",
+   "lon_deg": 31.4,
+   "lat_deg": 11.8,
+   "diametre_km": 5.7,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Jansen 2",
+   "nom": "Dôme Jansen 2",
+   "lon_deg": 30.2,
+   "lat_deg": 11.2,
+   "diametre_km": 4.5,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Jansen 3",
+   "nom": "Dôme Jansen 3",
+   "lon_deg": 30.9,
+   "lat_deg": 11.7,
+   "diametre_km": 4,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Jansen 4",
+   "nom": "Dôme Jansen 4",
+   "lon_deg": 31.3,
+   "lat_deg": 11.9,
+   "diametre_km": 5.5,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Jansen 5",
+   "nom": "Dôme Jansen 5",
+   "lon_deg": 32.4,
+   "lat_deg": 12.5,
+   "diametre_km": 6,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Jansen 6",
+   "nom": "Dôme Jansen 6",
+   "lon_deg": 32.3,
+   "lat_deg": 11.9,
+   "diametre_km": 16,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Jansen 7",
+   "nom": "Dôme Jansen 7",
+   "lon_deg": 33.1,
+   "lat_deg": 11.8,
+   "diametre_km": 14.7,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Jansen 8",
+   "nom": "Dôme Jansen 8",
+   "lon_deg": 33.9,
+   "lat_deg": 10.7,
+   "diametre_km": 4.5,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Kies 1",
+   "nom": "Dôme Kies 1",
+   "lon_deg": -24.4,
+   "lat_deg": -26.7,
+   "diametre_km": 11,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme M. Serenitatis 1",
+   "nom": "Dôme M. Serenitatis 1",
+   "lon_deg": 10.2,
+   "lat_deg": 30.8,
+   "diametre_km": 29,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Manilus 1",
+   "nom": "Dôme Manilus 1",
+   "lon_deg": 5.6,
+   "lat_deg": 15.3,
+   "diametre_km": 12.5,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Manilus 3",
+   "nom": "Dôme Manilus 3",
+   "lon_deg": 7.4,
+   "lat_deg": 15,
+   "diametre_km": 6.5,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Manilus 4",
+   "nom": "Dôme Manilus 4",
+   "lon_deg": 6.7,
+   "lat_deg": 14.6,
+   "diametre_km": 5.5,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Manilus 5",
+   "nom": "Dôme Manilus 5",
+   "lon_deg": 6.7,
+   "lat_deg": 13.5,
+   "diametre_km": 19.3,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Manilus 6",
+   "nom": "Dôme Manilus 6",
+   "lon_deg": 6.1,
+   "lat_deg": 13.8,
+   "diametre_km": 4.5,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Manilus 7",
+   "nom": "Dôme Manilus 7",
+   "lon_deg": 6.1,
+   "lat_deg": 13.5,
+   "diametre_km": 2,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Mashelyne 1",
+   "nom": "Dôme Mashelyne 1",
+   "lon_deg": 33.5,
+   "lat_deg": 2.7,
+   "diametre_km": 8,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Milichius 1",
+   "nom": "Dôme Milichius 1",
+   "lon_deg": -31.2,
+   "lat_deg": 10.1,
+   "diametre_km": 9,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Milichius 3",
+   "nom": "Dôme Milichius 3",
+   "lon_deg": -32,
+   "lat_deg": 10.4,
+   "diametre_km": 10.5,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Milichius 4",
+   "nom": "Dôme Milichius 4",
+   "lon_deg": -32.6,
+   "lat_deg": 10.9,
+   "diametre_km": 13,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Orientale 1",
+   "nom": "Dôme Orientale 1",
+   "lon_deg": -85,
+   "lat_deg": -18,
+   "diametre_km": 8,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Reinhold 1",
+   "nom": "Dôme Reinhold 1",
+   "lon_deg": -25.5,
+   "lat_deg": 2,
+   "diametre_km": 8,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Rümker 1",
+   "nom": "Dôme Rümker 1",
+   "lon_deg": -58.2,
+   "lat_deg": 40.5,
+   "diametre_km": 9,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Rümker 2",
+   "nom": "Dôme Rümker 2",
+   "lon_deg": -57.8,
+   "lat_deg": 42,
+   "diametre_km": 3.5,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Sinas 1",
+   "nom": "Dôme Sinas 1",
+   "lon_deg": 32.9,
+   "lat_deg": 10.6,
+   "diametre_km": 10.5,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Sinas 2",
+   "nom": "Dôme Sinas 2",
+   "lon_deg": 32.9,
+   "lat_deg": 10.7,
+   "diametre_km": 6.5,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Sinas 3",
+   "nom": "Dôme Sinas 3",
+   "lon_deg": 32.2,
+   "lat_deg": 11,
+   "diametre_km": 8,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme T. Mayer 1",
+   "nom": "Dôme T. Mayer 1",
+   "lon_deg": -31.3,
+   "lat_deg": 12.9,
+   "diametre_km": 13,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme T. Mayer 2",
+   "nom": "Dôme T. Mayer 2",
+   "lon_deg": -31.1,
+   "lat_deg": 13.1,
+   "diametre_km": 13,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme T. Mayer 3",
+   "nom": "Dôme T. Mayer 3",
+   "lon_deg": -30.5,
+   "lat_deg": 13.6,
+   "diametre_km": 13,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme T. Mayer 4",
+   "nom": "Dôme T. Mayer 4",
+   "lon_deg": -30.1,
+   "lat_deg": 12.7,
+   "diametre_km": 16,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Vitruvius 1",
+   "nom": "Dôme Vitruvius 1",
+   "lon_deg": 35.6,
+   "lat_deg": 14.4,
+   "diametre_km": 8.5,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Vitruvius 10",
+   "nom": "Dôme Vitruvius 10",
+   "lon_deg": 32.6,
+   "lat_deg": 14.6,
+   "diametre_km": 9.5,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Vitruvius 11",
+   "nom": "Dôme Vitruvius 11",
+   "lon_deg": 35.5,
+   "lat_deg": 15.8,
+   "diametre_km": 6,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Vitruvius 12",
+   "nom": "Dôme Vitruvius 12",
+   "lon_deg": 37.7,
+   "lat_deg": 15.2,
+   "diametre_km": 5,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Vitruvius 13",
+   "nom": "Dôme Vitruvius 13",
+   "lon_deg": 39.4,
+   "lat_deg": 13.6,
+   "diametre_km": 12,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Vitruvius 2",
+   "nom": "Dôme Vitruvius 2",
+   "lon_deg": 35.2,
+   "lat_deg": 14.6,
+   "diametre_km": 6.5,
+   "fiabilite": "B"
+  },
+  {
+   "id": "lune:Dôme Vitruvius 3",
+   "nom": "Dôme Vitruvius 3",
+   "lon_deg": 34.9,
+   "lat_deg": 14.9,
+   "diametre_km": 10.5,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Vitruvius 4",
+   "nom": "Dôme Vitruvius 4",
+   "lon_deg": 34.6,
+   "lat_deg": 14.5,
+   "diametre_km": 5,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Vitruvius 5",
+   "nom": "Dôme Vitruvius 5",
+   "lon_deg": 33.9,
+   "lat_deg": 14.3,
+   "diametre_km": 8.7,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Vitruvius 6",
+   "nom": "Dôme Vitruvius 6",
+   "lon_deg": 33.2,
+   "lat_deg": 14.2,
+   "diametre_km": 6,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Vitruvius 7",
+   "nom": "Dôme Vitruvius 7",
+   "lon_deg": 32.2,
+   "lat_deg": 14.8,
+   "diametre_km": 7,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Vitruvius 8",
+   "nom": "Dôme Vitruvius 8",
+   "lon_deg": 32.5,
+   "lat_deg": 15,
+   "diametre_km": 6.5,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Vitruvius 9",
+   "nom": "Dôme Vitruvius 9",
+   "lon_deg": 32.2,
+   "lat_deg": 14.2,
+   "diametre_km": 5,
+   "fiabilite": "A"
+  },
+  {
+   "id": "lune:Dôme Wollaston 1",
+   "nom": "Dôme Wollaston 1",
+   "lon_deg": -48,
+   "lat_deg": 30.2,
+   "diametre_km": 6,
+   "fiabilite": "A"
+  }
+ ]
+}

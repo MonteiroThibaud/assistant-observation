@@ -1,0 +1,1054 @@
+{
+ "schema": "doubles-v1",
+ "description": "Étoiles doubles : position J2000, magnitude de la principale, compagnons (magnitude, écart en secondes d'arc, angle de position) et informations astrophysiques (types spectraux, distance en parsecs, magnitude absolue visuelle).",
+ "objets": [
+  {
+   "id": "dso:β Cyg",
+   "designation": "β Cyg",
+   "ra_deg": 292.68,
+   "dec_deg": 27.96,
+   "type": "ds",
+   "mag": 3.1,
+   "taille_grand_arcmin": 0.573,
+   "taille_petit_arcmin": 0.573,
+   "nom": "Albireo",
+   "couleur_principale": "#ffc469",
+   "couleurs": "or et bleu",
+   "compagnons": [
+    {
+     "mag": 5.1,
+     "separation_arcsec": 34.4,
+     "angle_position_deg": 54,
+     "couleur": "#9db8ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "K0II+B9V",
+    "distance_pc": 111.3,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": -2.18,
+    "types_compagnons": [
+     "B7V"
+    ]
+   }
+  },
+  {
+   "id": "dso:ζ UMa",
+   "designation": "ζ UMa",
+   "ra_deg": 200.981,
+   "dec_deg": 54.925,
+   "type": "ds",
+   "mag": 2.2,
+   "taille_grand_arcmin": 0.24,
+   "taille_petit_arcmin": 0.24,
+   "nom": "Mizar",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 3.9,
+     "separation_arcsec": 14.4,
+     "angle_position_deg": 152,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "A2V",
+    "distance_pc": 24.9,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": 0.25,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:ε¹ Lyr",
+   "designation": "ε¹ Lyr",
+   "ra_deg": 281.085,
+   "dec_deg": 39.67,
+   "type": "ds",
+   "mag": 5,
+   "taille_grand_arcmin": 0.038,
+   "taille_petit_arcmin": 0.038,
+   "nom": "Double-double, paire nord",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 6.1,
+     "separation_arcsec": 2.3,
+     "angle_position_deg": 347,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "F1V",
+    "distance_pc": 48.9,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": 1.22,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:ε² Lyr",
+   "designation": "ε² Lyr",
+   "ra_deg": 281.095,
+   "dec_deg": 39.613,
+   "type": "ds",
+   "mag": 5.2,
+   "taille_grand_arcmin": 0.04,
+   "taille_petit_arcmin": 0.04,
+   "nom": "Double-double, paire sud",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 5.5,
+     "separation_arcsec": 2.4,
+     "angle_position_deg": 76,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "A 8 VN",
+    "distance_pc": 49.2,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": 1.13,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:ζ Lyr",
+   "designation": "ζ Lyr",
+   "ra_deg": 281.193,
+   "dec_deg": 37.605,
+   "type": "ds",
+   "mag": 4.3,
+   "taille_grand_arcmin": 0.733,
+   "taille_petit_arcmin": 0.733,
+   "nom": "",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanche et jaune pâle",
+   "compagnons": [
+    {
+     "mag": 5.7,
+     "separation_arcsec": 44,
+     "angle_position_deg": 150,
+     "couleur": "#ffe9a8"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "AM",
+    "distance_pc": 48.4,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": 0.92,
+    "types_compagnons": [
+     "F0IV"
+    ]
+   }
+  },
+  {
+   "id": "dso:γ And",
+   "designation": "γ And",
+   "ra_deg": 30.975,
+   "dec_deg": 42.33,
+   "type": "ds",
+   "mag": 2.3,
+   "taille_grand_arcmin": 0.16,
+   "taille_petit_arcmin": 0.16,
+   "nom": "Almach",
+   "couleur_principale": "#ffc469",
+   "couleurs": "orange et bleu",
+   "compagnons": [
+    {
+     "mag": 5,
+     "separation_arcsec": 9.6,
+     "angle_position_deg": 63,
+     "couleur": "#9db8ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "B8V",
+    "distance_pc": 120.5,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": -3.31,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:γ Ari",
+   "designation": "γ Ari",
+   "ra_deg": 28.383,
+   "dec_deg": 19.296,
+   "type": "ds",
+   "mag": 4.5,
+   "taille_grand_arcmin": 0.125,
+   "taille_petit_arcmin": 0.125,
+   "nom": "Mesarthim",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 4.6,
+     "separation_arcsec": 7.5,
+     "angle_position_deg": 359,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "A1p Si",
+    "distance_pc": 50.3,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": 0.37,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:δ Cep",
+   "designation": "δ Cep",
+   "ra_deg": 337.293,
+   "dec_deg": 58.415,
+   "type": "ds",
+   "mag": 4,
+   "taille_grand_arcmin": 0.683,
+   "taille_petit_arcmin": 0.683,
+   "nom": "",
+   "couleur_principale": "#ffe9a8",
+   "couleurs": "jaune et bleu",
+   "compagnons": [
+    {
+     "mag": 6.3,
+     "separation_arcsec": 41,
+     "angle_position_deg": 191,
+     "couleur": "#9db8ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "F5IB-G1IB",
+    "distance_pc": 281.3,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": -3.18,
+    "types_compagnons": [
+     "A0"
+    ]
+   }
+  },
+  {
+   "id": "dso:η Cas",
+   "designation": "η Cas",
+   "ra_deg": 12.276,
+   "dec_deg": 57.815,
+   "type": "ds",
+   "mag": 3.5,
+   "taille_grand_arcmin": 0.217,
+   "taille_petit_arcmin": 0.217,
+   "nom": "Achird",
+   "couleur_principale": "#ffe9a8",
+   "couleurs": "jaune et rouge pourpre",
+   "compagnons": [
+    {
+     "mag": 7.4,
+     "separation_arcsec": 13,
+     "angle_position_deg": 324,
+     "couleur": "#e09a84"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "G0V SB",
+    "distance_pc": 5.9,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": 4.6,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:α Gem",
+   "designation": "α Gem",
+   "ra_deg": 113.65,
+   "dec_deg": 31.888,
+   "type": "ds",
+   "mag": 1.9,
+   "taille_grand_arcmin": 0.092,
+   "taille_petit_arcmin": 0.092,
+   "nom": "Castor",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 3,
+     "separation_arcsec": 5.5,
+     "angle_position_deg": 50,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "A1V",
+    "distance_pc": 15.6,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": 0.61,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:γ Leo",
+   "designation": "γ Leo",
+   "ra_deg": 154.993,
+   "dec_deg": 19.841,
+   "type": "ds",
+   "mag": 2.4,
+   "taille_grand_arcmin": 0.078,
+   "taille_petit_arcmin": 0.078,
+   "nom": "Algieba",
+   "couleur_principale": "#ffc469",
+   "couleurs": "or et jaune",
+   "compagnons": [
+    {
+     "mag": 3.6,
+     "separation_arcsec": 4.7,
+     "angle_position_deg": 126,
+     "couleur": "#ffe9a8"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "K0P",
+    "distance_pc": 39.9,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": -0.99,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:ι Cnc",
+   "designation": "ι Cnc",
+   "ra_deg": 131.674,
+   "dec_deg": 28.76,
+   "type": "ds",
+   "mag": 4,
+   "taille_grand_arcmin": 0.508,
+   "taille_petit_arcmin": 0.508,
+   "nom": "",
+   "couleur_principale": "#ffe9a8",
+   "couleurs": "jaune et bleu",
+   "compagnons": [
+    {
+     "mag": 6.6,
+     "separation_arcsec": 30.5,
+     "angle_position_deg": 307,
+     "couleur": "#9db8ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "G 7.5IIIA",
+    "distance_pc": 106.2,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": -1.1,
+    "types_compagnons": [
+     "G8II"
+    ]
+   }
+  },
+  {
+   "id": "dso:61 Cyg",
+   "designation": "61 Cyg",
+   "ra_deg": 316.725,
+   "dec_deg": 38.749,
+   "type": "ds",
+   "mag": 5.2,
+   "taille_grand_arcmin": 0.517,
+   "taille_petit_arcmin": 0.517,
+   "nom": "",
+   "couleur_principale": "#ffc469",
+   "couleurs": "orange",
+   "compagnons": [
+    {
+     "mag": 6,
+     "separation_arcsec": 31,
+     "angle_position_deg": 152,
+     "couleur": "#ffc469"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "K5V",
+    "distance_pc": 3.5,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": 7.48,
+    "types_compagnons": [
+     "K7V"
+    ]
+   }
+  },
+  {
+   "id": "dso:ε Boo",
+   "designation": "ε Boo",
+   "ra_deg": 221.247,
+   "dec_deg": 27.074,
+   "type": "ds",
+   "mag": 2.5,
+   "taille_grand_arcmin": 0.048,
+   "taille_petit_arcmin": 0.048,
+   "nom": "Izar",
+   "couleur_principale": "#ffc469",
+   "couleurs": "orange et bleu-vert",
+   "compagnons": [
+    {
+     "mag": 4.6,
+     "separation_arcsec": 2.9,
+     "angle_position_deg": 344,
+     "couleur": "#a6e3d8"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "A0",
+    "distance_pc": 72.3,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": -1.95,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:ξ Boo",
+   "designation": "ξ Boo",
+   "ra_deg": 222.847,
+   "dec_deg": 19.101,
+   "type": "ds",
+   "mag": 4.7,
+   "taille_grand_arcmin": 0.083,
+   "taille_petit_arcmin": 0.083,
+   "nom": "",
+   "couleur_principale": "#ffe9a8",
+   "couleurs": "jaune et orange",
+   "compagnons": [
+    {
+     "mag": 7,
+     "separation_arcsec": 5,
+     "angle_position_deg": 300,
+     "couleur": "#ffc469"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "G8V + K4V",
+    "distance_pc": 6.8,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": 5.39,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:α CVn",
+   "designation": "α CVn",
+   "ra_deg": 194.007,
+   "dec_deg": 38.318,
+   "type": "ds",
+   "mag": 2.9,
+   "taille_grand_arcmin": 0.322,
+   "taille_petit_arcmin": 0.322,
+   "nom": "Cor Caroli",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanche et jaune pâle",
+   "compagnons": [
+    {
+     "mag": 5.5,
+     "separation_arcsec": 19.3,
+     "angle_position_deg": 229,
+     "couleur": "#ffe9a8"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "A0spe...",
+    "distance_pc": 30.6,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": 0.46,
+    "types_compagnons": [
+     "F 0 V"
+    ]
+   }
+  },
+  {
+   "id": "dso:γ Del",
+   "designation": "γ Del",
+   "ra_deg": 311.665,
+   "dec_deg": 16.124,
+   "type": "ds",
+   "mag": 4.4,
+   "taille_grand_arcmin": 0.15,
+   "taille_petit_arcmin": 0.15,
+   "nom": "",
+   "couleur_principale": "#ffe9a8",
+   "couleurs": "jaune et blanc-vert",
+   "compagnons": [
+    {
+     "mag": 5,
+     "separation_arcsec": 9,
+     "angle_position_deg": 265,
+     "couleur": "#a6e3d8"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "K1IV",
+    "distance_pc": 35.5,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": 1.52,
+    "types_compagnons": [
+     "F8IV-V"
+    ]
+   }
+  },
+  {
+   "id": "dso:α UMi",
+   "designation": "α UMi",
+   "ra_deg": 37.954,
+   "dec_deg": 89.264,
+   "type": "ds",
+   "mag": 2,
+   "taille_grand_arcmin": 0.307,
+   "taille_petit_arcmin": 0.307,
+   "nom": "Polaire",
+   "couleur_principale": "#ffe9a8",
+   "couleurs": "jaune pâle et blanche",
+   "compagnons": [
+    {
+     "mag": 8.6,
+     "separation_arcsec": 18.4,
+     "angle_position_deg": 230,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "F7:Ib-IIv SB",
+    "distance_pc": 132.6,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": -3.64,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:ν Dra",
+   "designation": "ν Dra",
+   "ra_deg": 263.044,
+   "dec_deg": 55.184,
+   "type": "ds",
+   "mag": 4.9,
+   "taille_grand_arcmin": 1.033,
+   "taille_petit_arcmin": 1.033,
+   "nom": "Yeux du Dragon",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 4.9,
+     "separation_arcsec": 62,
+     "angle_position_deg": 312,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "Am...",
+    "distance_pc": 30.1,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": 2.5,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:ψ¹ Dra",
+   "designation": "ψ¹ Dra",
+   "ra_deg": 265.484,
+   "dec_deg": 72.149,
+   "type": "ds",
+   "mag": 4.6,
+   "taille_grand_arcmin": 0.5,
+   "taille_petit_arcmin": 0.5,
+   "nom": "",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanche et jaune",
+   "compagnons": [
+    {
+     "mag": 5.6,
+     "separation_arcsec": 30,
+     "angle_position_deg": 15,
+     "couleur": "#ffe9a8"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "F5IV-V",
+    "distance_pc": 22.8,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": 2.79,
+    "types_compagnons": [
+     "G0V"
+    ]
+   }
+  },
+  {
+   "id": "dso:α Her",
+   "designation": "α Her",
+   "ra_deg": 258.662,
+   "dec_deg": 14.39,
+   "type": "ds",
+   "mag": 3.5,
+   "taille_grand_arcmin": 0.077,
+   "taille_petit_arcmin": 0.077,
+   "nom": "Rasalgethi",
+   "couleur_principale": "#ffc469",
+   "couleurs": "orange et bleu-vert",
+   "compagnons": [
+    {
+     "mag": 5.4,
+     "separation_arcsec": 4.6,
+     "angle_position_deg": 104,
+     "couleur": "#a6e3d8"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "M5II",
+    "distance_pc": 110.3,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": -2.43,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:β Sco",
+   "designation": "β Sco",
+   "ra_deg": 241.359,
+   "dec_deg": -19.806,
+   "type": "ds",
+   "mag": 2.6,
+   "taille_grand_arcmin": 0.227,
+   "taille_petit_arcmin": 0.227,
+   "nom": "Acrab",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 4.9,
+     "separation_arcsec": 13.6,
+     "angle_position_deg": 21,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "B0.5V",
+    "distance_pc": 123.9,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": -2.91,
+    "types_compagnons": [
+     "B2V"
+    ]
+   }
+  },
+  {
+   "id": "dso:θ Ser",
+   "designation": "θ Ser",
+   "ra_deg": 284.055,
+   "dec_deg": 4.204,
+   "type": "ds",
+   "mag": 4.6,
+   "taille_grand_arcmin": 0.373,
+   "taille_petit_arcmin": 0.373,
+   "nom": "Alya",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 4.9,
+     "separation_arcsec": 22.4,
+     "angle_position_deg": 104,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "A5 V",
+    "distance_pc": 41.2,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": 1.54,
+    "types_compagnons": [
+     "A5 V"
+    ]
+   }
+  },
+  {
+   "id": "dso:γ Vir",
+   "designation": "γ Vir",
+   "ra_deg": 190.415,
+   "dec_deg": -1.449,
+   "type": "ds",
+   "mag": 3.5,
+   "taille_grand_arcmin": 0.055,
+   "taille_petit_arcmin": 0.055,
+   "nom": "Porrima",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 3.5,
+     "separation_arcsec": 3.3,
+     "angle_position_deg": 0,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "F0V+...",
+    "distance_pc": 12,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": 2.34,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:24 Com",
+   "designation": "24 Com",
+   "ra_deg": 188.782,
+   "dec_deg": 18.377,
+   "type": "ds",
+   "mag": 5,
+   "taille_grand_arcmin": 0.333,
+   "taille_petit_arcmin": 0.333,
+   "nom": "",
+   "couleur_principale": "#ffc469",
+   "couleurs": "orange et bleu",
+   "compagnons": [
+    {
+     "mag": 6.6,
+     "separation_arcsec": 20,
+     "angle_position_deg": 270,
+     "couleur": "#9db8ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "K0",
+    "distance_pc": 112.1,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": -0.22,
+    "types_compagnons": [
+     "K2III+F1V"
+    ]
+   }
+  },
+  {
+   "id": "dso:70 Oph",
+   "designation": "70 Oph",
+   "ra_deg": 271.364,
+   "dec_deg": 2.5,
+   "type": "ds",
+   "mag": 4.2,
+   "taille_grand_arcmin": 0.112,
+   "taille_petit_arcmin": 0.112,
+   "nom": "",
+   "couleur_principale": "#ffc469",
+   "couleurs": "jaune orangé",
+   "compagnons": [
+    {
+     "mag": 6.2,
+     "separation_arcsec": 6.7,
+     "angle_position_deg": 122,
+     "couleur": "#ffc469"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "K0V SB",
+    "distance_pc": 5.1,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": 5.5,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:ζ Aqr",
+   "designation": "ζ Aqr",
+   "ra_deg": 337.208,
+   "dec_deg": -0.02,
+   "type": "ds",
+   "mag": 4.3,
+   "taille_grand_arcmin": 0.037,
+   "taille_petit_arcmin": 0.037,
+   "nom": "",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 4.5,
+     "separation_arcsec": 2.2,
+     "angle_position_deg": 165,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "F3III-IV",
+    "distance_pc": 28.2,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": 1.4,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:σ Ori",
+   "designation": "σ Ori",
+   "ra_deg": 84.687,
+   "dec_deg": -2.6,
+   "type": "ds",
+   "mag": 3.8,
+   "taille_grand_arcmin": 0.7,
+   "taille_petit_arcmin": 0.7,
+   "nom": "Système multiple",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 6.6,
+     "separation_arcsec": 13,
+     "angle_position_deg": 84,
+     "couleur": "#f2f3ff"
+    },
+    {
+     "mag": 6.7,
+     "separation_arcsec": 42,
+     "angle_position_deg": 61,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "O9.5V...",
+    "distance_pc": 328.9,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": -3.82,
+    "types_compagnons": [
+     "B0",
+     "B1/2 V"
+    ]
+   }
+  },
+  {
+   "id": "dso:θ¹ Ori",
+   "designation": "θ¹ Ori",
+   "ra_deg": 83.8158,
+   "dec_deg": -5.3872,
+   "type": "ds",
+   "mag": 6.7,
+   "taille_grand_arcmin": 0.358,
+   "taille_petit_arcmin": 0.358,
+   "nom": "Trapèze d'Orion",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 7.9,
+     "separation_arcsec": 8.8,
+     "angle_position_deg": 31,
+     "couleur": "#f2f3ff"
+    },
+    {
+     "mag": 5.1,
+     "separation_arcsec": 12.8,
+     "angle_position_deg": 132,
+     "couleur": "#f2f3ff"
+    },
+    {
+     "mag": 6.7,
+     "separation_arcsec": 21.5,
+     "angle_position_deg": 96,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "",
+    "distance_pc": 378.4,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": -2.91,
+    "types_compagnons": [
+     null,
+     "O6pe",
+     "B0.5Vp..."
+    ]
+   }
+  },
+  {
+   "id": "dso:β Mon",
+   "designation": "β Mon",
+   "ra_deg": 97.204,
+   "dec_deg": -7.033,
+   "type": "ds",
+   "mag": 4.6,
+   "taille_grand_arcmin": 0.165,
+   "taille_petit_arcmin": 0.165,
+   "nom": "Système triple",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 5,
+     "separation_arcsec": 7.1,
+     "angle_position_deg": 132,
+     "couleur": "#f2f3ff"
+    },
+    {
+     "mag": 5.4,
+     "separation_arcsec": 9.9,
+     "angle_position_deg": 124,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "B3Ve",
+    "distance_pc": 207.5,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": -2.83,
+    "types_compagnons": [
+     null,
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:λ Ori",
+   "designation": "λ Ori",
+   "ra_deg": 83.785,
+   "dec_deg": 9.934,
+   "type": "ds",
+   "mag": 3.5,
+   "taille_grand_arcmin": 0.072,
+   "taille_petit_arcmin": 0.072,
+   "nom": "Meissa",
+   "couleur_principale": "#f2f3ff",
+   "couleurs": "blanches",
+   "compagnons": [
+    {
+     "mag": 5.5,
+     "separation_arcsec": 4.3,
+     "angle_position_deg": 44,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "O7.5(II)",
+    "distance_pc": 336.7,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": -4.25,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:β Ori",
+   "designation": "β Ori",
+   "ra_deg": 78.634,
+   "dec_deg": -8.202,
+   "type": "ds",
+   "mag": 0.1,
+   "taille_grand_arcmin": 0.158,
+   "taille_petit_arcmin": 0.158,
+   "nom": "Rigel",
+   "couleur_principale": "#9db8ff",
+   "couleurs": "bleutée et blanche",
+   "compagnons": [
+    {
+     "mag": 6.8,
+     "separation_arcsec": 9.5,
+     "angle_position_deg": 204,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "B8 Ia",
+    "distance_pc": 264.6,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": -6.93,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:ζ Ori",
+   "designation": "ζ Ori",
+   "ra_deg": 85.19,
+   "dec_deg": -1.943,
+   "type": "ds",
+   "mag": 1.9,
+   "taille_grand_arcmin": 0.037,
+   "taille_petit_arcmin": 0.037,
+   "nom": "Alnitak",
+   "couleur_principale": "#9db8ff",
+   "couleurs": "bleutées",
+   "compagnons": [
+    {
+     "mag": 3.7,
+     "separation_arcsec": 2.2,
+     "angle_position_deg": 167,
+     "couleur": "#f2f3ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "O9.5 Ib",
+    "distance_pc": 225.7,
+    "source_distance": "Hipparcos",
+    "magnitude_absolue": -5.03,
+    "types_compagnons": [
+     null
+    ]
+   }
+  },
+  {
+   "id": "dso:h3945 CMa",
+   "designation": "h3945 CMa",
+   "ra_deg": 109.153,
+   "dec_deg": -23.318,
+   "type": "ds",
+   "mag": 4.8,
+   "taille_grand_arcmin": 0.443,
+   "taille_petit_arcmin": 0.443,
+   "nom": "Albireo d'hiver",
+   "couleur_principale": "#ffc469",
+   "couleurs": "orange et bleu",
+   "compagnons": [
+    {
+     "mag": 6.8,
+     "separation_arcsec": 26.6,
+     "angle_position_deg": 52,
+     "couleur": "#9db8ff"
+    }
+   ],
+   "infos": {
+    "types_spectraux": "K4 III",
+    "distance_pc": 822.7,
+    "source_distance": "Gaia DR3",
+    "magnitude_absolue": -4.75,
+    "types_compagnons": [
+     null
+    ]
+   }
+  }
+ ]
+}

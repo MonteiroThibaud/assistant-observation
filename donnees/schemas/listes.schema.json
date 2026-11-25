@@ -1,0 +1,122 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Ensemble de listes d'objets",
+ "type": "object",
+ "required": [
+  "schema",
+  "ensemble",
+  "libre",
+  "licence",
+  "listes"
+ ],
+ "properties": {
+  "schema": {
+   "const": "listes-v1"
+  },
+  "ensemble": {
+   "type": "object",
+   "required": [
+    "id",
+    "titre"
+   ]
+  },
+  "libre": {
+   "type": "boolean"
+  },
+  "licence": {
+   "type": "string",
+   "minLength": 3
+  },
+  "avis": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "listes": {
+   "type": "array",
+   "minItems": 1,
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "nom",
+     "objets"
+    ],
+    "properties": {
+     "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]{1,6}$"
+     },
+     "nom": {
+      "type": "string",
+      "minLength": 1
+     },
+     "nom_complet": {
+      "type": "string"
+     },
+     "pages": {
+      "type": "boolean"
+     },
+     "objets": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+       "type": "object",
+       "required": [
+        "objet",
+        "page"
+       ],
+       "properties": {
+        "objet": {
+         "type": "string",
+         "minLength": 1
+        },
+        "page": {
+         "type": "integer",
+         "minimum": 0
+        }
+       }
+      }
+     },
+     "ordre": {
+      "type": "integer",
+      "description": "Rang de la liste dans son groupe (facultatif ; ordre croissant, puis nom de fichier)"
+     },
+     "filtres": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+       "enum": [
+        "gal",
+        "amas",
+        "neb",
+        "dbl",
+        "com",
+        "ast"
+       ]
+      },
+      "description": "Types d'objets que la liste fournit, pour les boutons de filtre de l'onglet Ciel profond : gal (galaxies), amas, neb (nébuleuses), dbl (doubles), com (comètes), ast (petites planètes). Facultatif : une liste du ciel profond n'a rien à indiquer (galaxies, amas, nébuleuses)."
+     }
+    }
+   }
+  }
+ },
+ "allOf": [
+  {
+   "if": {
+    "properties": {
+     "libre": {
+      "const": false
+     }
+    }
+   },
+   "then": {
+    "required": [
+     "avis"
+    ]
+   }
+  }
+ ]
+}

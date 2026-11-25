@@ -1,0 +1,35 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Assistant d'observation",
+  "description": "Application web gratuite et libre, utilisable sans réseau, d'aide à l'observation de la Lune, des planètes et du ciel profond au télescope : tableau de la nuit, atlas lunaire avec relief et ombres calculés, objets de Messier et classiques, étoiles doubles, vue à l'oculaire à l'échelle, transits de l'ISS, carnet d'observation. Interface en français.",
+  "license": "https://spdx.org/licenses/GPL-3.0-or-later",
+  "version": "1.0.0",
+  "dateModified": "2026-11-25",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Thibaud",
+      "familyName": "Monteiro",
+      "email": "contact.assistantobservation@laposte.net"
+    }
+  ],
+  "programmingLanguage": [
+    "JavaScript",
+    "Python"
+  ],
+  "applicationCategory": "Astronomie",
+  "operatingSystem": "Navigateur web, Android",
+  "inLanguage": "fr",
+  "keywords": [
+    "astronomie",
+    "observation",
+    "télescope",
+    "Lune",
+    "ciel profond",
+    "application web",
+    "hors ligne"
+  ],
+  "codeRepository": "https://github.com/MonteiroThibaud/assistant-observation",
+  "url": "https://github.com/MonteiroThibaud/assistant-observation"
+}

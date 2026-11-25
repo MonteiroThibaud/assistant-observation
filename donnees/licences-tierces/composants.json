@@ -1,0 +1,35 @@
+{
+ "intro": "Le code de l'application est sous licence GNU GPL version 3 ou ultérieure (fichier LICENSE). Les composants ci-dessous gardent leurs propres licences, reproduites ici comme elles l'exigent. Les données et images (OpenNGC et AT-HYG : CC BY-SA 4.0 ; GeoNames, photos de l'auteur : CC BY 4.0 ; photo de NGC 2169 : CC0 1.0 ; IGN, Etalab : Licence Ouverte 2.0 ; DSS, NASA, ESA et autres) sont décrites dans la rubrique « Informations » de l'application et dans le fichier DONNEES-ET-LICENCES.md du dépôt.",
+ "composants": [
+  {
+   "id": "astronomy-engine",
+   "titre": "Astronomy Engine 2.1.19 (Don Cross) — licence MIT — https://github.com/cosinekitty/astronomy",
+   "fichier": "astronomy-engine.txt"
+  },
+  {
+   "id": "satellite-js",
+   "titre": "satellite.js 5.0.0 (Shashwat Kandadai et UCSC) — licence MIT — https://github.com/shashwatak/satellite-js",
+   "fichier": "satellite-js.txt"
+  },
+  {
+   "id": "astronomia",
+   "titre": "astronomia (Sonia Keys, Commenthol), d'après Jean Meeus — licence MIT — https://github.com/commenthol/astronomia",
+   "fichier": "astronomia.txt"
+  },
+  {
+   "id": "d3-celestial",
+   "titre": "d3-celestial (Olaf Frohn) : données des constellations — licence BSD à 3 clauses — https://github.com/ofrohn/d3-celestial",
+   "fichier": "d3-celestial.txt"
+  },
+  {
+   "id": "alegreya",
+   "titre": "Police Alegreya (Huerta Tipográfica) — SIL Open Font License 1.1 — https://github.com/huertatipografica/Alegreya",
+   "fichier": "alegreya-ofl.txt"
+  },
+  {
+   "id": "alegreya-sans",
+   "titre": "Police Alegreya Sans (Huerta Tipográfica) — SIL Open Font License 1.1 — https://github.com/huertatipografica/Alegreya-Sans",
+   "fichier": "alegreya-sans-ofl.txt"
+  }
+ ]
+}

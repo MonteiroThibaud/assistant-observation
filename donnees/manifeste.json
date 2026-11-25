@@ -1,0 +1,556 @@
+{
+ "jeu": "assistant-observation-donnees",
+ "reference": "0.87 du 5 novembre 2026",
+ "etape_terminee": "0 à 7",
+ "etape_en_cours": "aucune (chantier terminé : voir LISEZ-MOI)",
+ "fichiers": {
+  "LISEZ-MOI.md": {
+   "octets": 7477,
+   "sha256": "543015b47daa14088a4c590d46c6c0263d8ee78c1ae687d856520a7857305ee2"
+  },
+  "RAPPORT-CONTROLES.md": {
+   "octets": 1046,
+   "sha256": "78a6c72533fbb6dcb9b3ec6a2b08956d94ae2bb9fb2d3f5ec705de457a9cb417"
+  },
+  "sources.json": {
+   "octets": 27292,
+   "sha256": "78cd32c0a79dc1bd11f742979162b0d4c050cc8979ccc1d1e042ca819404bfa7"
+  },
+  "version.json": {
+   "octets": 49,
+   "sha256": "e56710fc593ff72dc94d9add407cf9a8251360a582de20db678783e5d007928a"
+  },
+  "ciel-profond/LISEZ-MOI-photos.md": {
+   "octets": 1304,
+   "sha256": "786ef71d671d38e71b4ace6d8e2168ad201db3ba6a46962e9d6e972908d8bc33"
+  },
+  "ciel-profond/asterismes.json": {
+   "octets": 14713,
+   "sha256": "9003089169a1ac22abf3d2d069d00265a2acf83af08f7fbe2597eaf8ad55f194"
+  },
+  "ciel-profond/classiques.json": {
+   "octets": 37908,
+   "sha256": "626e331f2ff33b0c7d465079225c8ec34bd35071f53685cbb17e0017f0ca4bc1"
+  },
+  "ciel-profond/doubles.json": {
+   "octets": 21836,
+   "sha256": "cb61a4360bad40c4a0ac046ac149c84bf631c21835978ec43aa2680f39acdea8"
+  },
+  "ciel-profond/images-a-ajouter-0.89.json": {
+   "octets": 4421,
+   "sha256": "ca8c32fa5fe594347321b23112dfa011221e3a8af911976a83aaee37d325bddb"
+  },
+  "ciel-profond/images-dss.json": {
+   "octets": 44696,
+   "sha256": "d71a4af878d303ca43e45e7830e63d5010e14de15fb8d4e08fc46ccc45ac2a15"
+  },
+  "ciel-profond/messier.json": {
+   "octets": 23119,
+   "sha256": "40fce0d67d75abd9955d04bb9ce098cad4983af9c67198447ff93f789d9f74a1"
+  },
+  "ciel-profond/photos.json": {
+   "octets": 6831,
+   "sha256": "7f0fec8060f1db361079c9597ade202bb8dc6a935906e97b407bc633ffe03d56"
+  },
+  "ciel-profond/types.json": {
+   "octets": 632,
+   "sha256": "48489b4db777cfbb2a03458873c2b40ba196766d2f4111883e4346ab664f62e9"
+  },
+  "ciel-profond/_archives/images-installee-lignes-0.88.json": {
+   "octets": 4011,
+   "sha256": "01bdd804bf7654438c5befe84fee6066fc2942b3f51e96c520ee2163d955a32a"
+  },
+  "ciel-profond/listes/LISEZ-MOI.md": {
+   "octets": 4391,
+   "sha256": "640e40a91619e345628160abfcb6420dc93fd9d2a9b372054fb2c55c3c66ebbc"
+  },
+  "ciel-profond/listes/_archives/selection-300mm.json": {
+   "octets": 5825,
+   "sha256": "8a6790b73b611df3ffc8b910b71ce6bf849b0b918d7339e1ef4d5ac7266a93f5"
+  },
+  "_reference-0.88/ASTERISMS.json": {
+   "octets": 1950,
+   "sha256": "28ad8cbc08454a006add3f835dade8b7b49ef3fecf422d2a04af2a2f50868792"
+  },
+  "_reference-0.88/CONST.json": {
+   "octets": 591,
+   "sha256": "585c7f7af4a98f3f61e25e2b49b6a5874155443f7b7683377e027f1eacd6c328"
+  },
+  "_reference-0.88/DESC.json": {
+   "octets": 267393,
+   "sha256": "f2e7796b14638af229499ed97be295543380d54356525dc3febc107371f78def"
+  },
+  "_reference-0.88/DOUBLE_INFO.json": {
+   "octets": 2532,
+   "sha256": "889aa042d0853fa0925fb0ad09a9fbaf337ea5990f2ba9abc02aaec55ae898a0"
+  },
+  "_reference-0.88/DSO_DOUBLE.json": {
+   "octets": 4296,
+   "sha256": "98dc56d49463ff74c5927a2ba8716a057aaa5ccd136e1e9d079a1fcbed7227bd"
+  },
+  "_reference-0.88/DSO_EXTRA.json": {
+   "octets": 4473,
+   "sha256": "931a9a24c6e823c9b8b3ea3f7da70b7410ca702c71489308ddb92a293eef9c35"
+  },
+  "_reference-0.88/DSO_TYPE.json": {
+   "octets": 431,
+   "sha256": "3d4e1c5343299795d32e4864b00bd12f634b4629504ba3f1b384cd0698471eb1"
+  },
+  "_reference-0.88/FEATURES.json": {
+   "octets": 32602,
+   "sha256": "f958f35975532c33f36689c62cd5a62f9605a6b89c8a97b584ff1abc9f5af3a2"
+  },
+  "_reference-0.88/FEAT_M.json": {
+   "octets": 60616,
+   "sha256": "9cd156a2718bfcaa05349e8897f22f215840a219d8496dfb59c2d2ad9e83bb87"
+  },
+  "_reference-0.88/MANIFESTE.json": {
+   "octets": 1991,
+   "sha256": "0aef67579241a32cc42527e076a7332cd5c8a6aad37240a1a9f98d2362ffa840"
+  },
+  "_reference-0.88/MESSIER.json": {
+   "octets": 5093,
+   "sha256": "1bfe6f413eae2cc9f381f338282c9a1e81b55e9f78890052175645511e35d0f0"
+  },
+  "_reference-0.88/MOON_FILTERS.json": {
+   "octets": 213,
+   "sha256": "a0fc75761b7cdc2f8d430bb9456083a65af471e392d04ef41a3349c7e9991ce9"
+  },
+  "_reference-0.88/SKY_CONS.json": {
+   "octets": 29872,
+   "sha256": "427360cea4cd7e5ff975f116117ca772a305427fb3e6fa6b5255d1e3dfe60659"
+  },
+  "_reference-0.88/SKY_STARS.json": {
+   "octets": 78516,
+   "sha256": "9d652d3747f606d3d83989e027c600e9310c0d385b97d3420f0b50c73698e10c"
+  },
+  "lune/filtres.json": {
+   "octets": 492,
+   "sha256": "433d867dfe4666e7764d2b169a3f3635e6d5660110e38d8e7f9e00f105ec37e0"
+  },
+  "lune/formations.json": {
+   "octets": 508524,
+   "sha256": "180f4651e8f4bf0d4ce67ad2c07c17725440ab4ec79e43f45f7b93e4cb2ac652"
+  },
+  "lune/notes-sources.md": {
+   "octets": 4454,
+   "sha256": "a7a4fd97fd9827f2910a0ffda6752ae390b60a72e126b06bad253530b4ba36f1"
+  },
+  "lune/historique/corrections-0.76.json": {
+   "octets": 95550,
+   "sha256": "9c65fec8bbcc196363f4025e3da7d9ac906aa25ef9c8efb9c6a260271224e3df"
+  },
+  "lune/historique/descriptions-base.json": {
+   "octets": 111299,
+   "sha256": "656e08df73cf503db1c1d61dc2292d6d323aa60199f758c2a6885aae372e806c"
+  },
+  "lune/historique/extra-craters-mesures.json": {
+   "octets": 55957,
+   "sha256": "c247b7839d35f5ed48fb606879db2ece392118530112245d775dff6b098d3468"
+  },
+  "lune/historique/extra-craters.json": {
+   "octets": 29443,
+   "sha256": "027b763e6812b3c0fef79a80877ec3da95bc38db0a3ad55f23c89ff11b05176b"
+  },
+  "lune/historique/extra-domes.json": {
+   "octets": 10669,
+   "sha256": "be2ff9603bae1670d6af11f389d4255adf469f8a54f64f08e0fe1f8b34797fe4"
+  },
+  "lune/historique/formations-base.json": {
+   "octets": 66372,
+   "sha256": "fb85571f935d0b84849363590e5dd14c93678a3d37b6c7ba3aa7f9f1314a9d32"
+  },
+  "lune/historique/mesures-base.json": {
+   "octets": 36176,
+   "sha256": "9695710c89dc90b00ffb189f77d9c1c43e158a454acc575179d4febf5f1ccf09"
+  },
+  "lune/historique/mesures-relief.json": {
+   "octets": 27196,
+   "sha256": "0ba4da508c2aa9ea66cef6eb50f53f364561e03db629f214d3ba13f3c853b76d"
+  },
+  "lune/historique/montagnes.json": {
+   "octets": 2767,
+   "sha256": "847c60374d8392f2dec443c077146186e793f7d671677c2424d63d757c4e1699"
+  },
+  "lune/historique/profondeurs-maximales.json": {
+   "octets": 14785,
+   "sha256": "cb1119a20ff7f1d39107341f296ce7abb8ce554dcc856c7676773299b2c9b84f"
+  },
+  "lune/listes/LISEZ-MOI.md": {
+   "octets": 2083,
+   "sha256": "2ee0f3ce8bce0145339821c84dae2e1ea7eada2fac863a5e1ea24ebc14bf9481"
+  },
+  "lune/listes/rayons.json": {
+   "octets": 1187,
+   "sha256": "8c6532079576f80bf8afa1567260279a8844c73cca8624b80653fd0a926c4c54"
+  },
+  "schemas/asterismes.schema.json": {
+   "octets": 905,
+   "sha256": "1ae79169590160dbef03024ec9a6a5bd00c05840a33b4bee63ff00b8a9db4d5d"
+  },
+  "schemas/constellations.schema.json": {
+   "octets": 428,
+   "sha256": "df33b0b93c51ba125dc4d003fa27fdfc56efaea93f1eb5b9aabed469efbdbbd8"
+  },
+  "schemas/dso.schema.json": {
+   "octets": 1410,
+   "sha256": "6d4a1817ad74f04466577429eb3ac27d33d454bba35fac234789da8fdc04240d"
+  },
+  "schemas/formations.schema.json": {
+   "octets": 1826,
+   "sha256": "604875af8b5fbf2e455c806f9c1538ebe792fd451a09957ba7fb9dad87d75896"
+  },
+  "schemas/images-dss.schema.json": {
+   "octets": 658,
+   "sha256": "7f09409a070705670d0987552fcfb85e614f3dbb87821e52a925853ee68d2610"
+  },
+  "schemas/listes-lune.schema.json": {
+   "octets": 1519,
+   "sha256": "68444e66357f80afb80318bcb302d82bc48e5026bc7f16745ad30ee98ea15b6d"
+  },
+  "schemas/listes.schema.json": {
+   "octets": 2195,
+   "sha256": "1f87651bcd2f20da34253104794133459eb2d2e7f2a53278f1bb8ccbb5c7a042"
+  },
+  "schemas/photos.schema.json": {
+   "octets": 2271,
+   "sha256": "d19a3cb6bb466e91f4fafbecd315e44ae07e92f4e9d0ea4f39960b3cc1ea252f"
+  },
+  "schemas/sources.schema.json": {
+   "octets": 1357,
+   "sha256": "a65f6ffa61b9890f75a6593223b7572bfc9e25a3d76272890a3f5e58fd11d101"
+  },
+  "_reference-0.89/ASTERISMS.json": {
+   "octets": 4564,
+   "sha256": "d712201b11f8c993e4502e465220ff97b1e9a7f941a7a6411e0b9fb20ba64787"
+  },
+  "_reference-0.89/CONST.json": {
+   "octets": 591,
+   "sha256": "585c7f7af4a98f3f61e25e2b49b6a5874155443f7b7683377e027f1eacd6c328"
+  },
+  "_reference-0.89/DESC.json": {
+   "octets": 267393,
+   "sha256": "af07414753ea055d8582a978bc71023dae3a723d334d7d907a50b1d746c6f813"
+  },
+  "_reference-0.89/DOUBLE_INFO.json": {
+   "octets": 2532,
+   "sha256": "889aa042d0853fa0925fb0ad09a9fbaf337ea5990f2ba9abc02aaec55ae898a0"
+  },
+  "_reference-0.89/DSO_DOUBLE.json": {
+   "octets": 4296,
+   "sha256": "98dc56d49463ff74c5927a2ba8716a057aaa5ccd136e1e9d079a1fcbed7227bd"
+  },
+  "_reference-0.89/DSO_EXTRA.json": {
+   "octets": 9776,
+   "sha256": "c5afb26939cd8f91aca2267be8c4abc8f05719dc85aedb1a330a508f396cb33b"
+  },
+  "_reference-0.89/DSO_TYPE.json": {
+   "octets": 431,
+   "sha256": "3d4e1c5343299795d32e4864b00bd12f634b4629504ba3f1b384cd0698471eb1"
+  },
+  "_reference-0.89/FEATURES.json": {
+   "octets": 32602,
+   "sha256": "f958f35975532c33f36689c62cd5a62f9605a6b89c8a97b584ff1abc9f5af3a2"
+  },
+  "_reference-0.89/FEAT_M.json": {
+   "octets": 60616,
+   "sha256": "bca043088f839f2714d70d5ec21bbe61b40e02aba20a7e7e0068ae3056d9be80"
+  },
+  "_reference-0.89/MANIFESTE.json": {
+   "octets": 1992,
+   "sha256": "05c9e3b17c5ccc8beb24445320604a6ceed8af957c25d9904ddfa588f6784fa9"
+  },
+  "_reference-0.89/MESSIER.json": {
+   "octets": 5151,
+   "sha256": "0e4548421e30f93ff8b7c0600ca27762bd6dce7d611625ec3f726f5a62f45c26"
+  },
+  "_reference-0.89/MOON_FILTERS.json": {
+   "octets": 213,
+   "sha256": "a0fc75761b7cdc2f8d430bb9456083a65af471e392d04ef41a3349c7e9991ce9"
+  },
+  "_reference-0.89/SKY_CONS.json": {
+   "octets": 29872,
+   "sha256": "427360cea4cd7e5ff975f116117ca772a305427fb3e6fa6b5255d1e3dfe60659"
+  },
+  "_reference-0.89/SKY_STARS.json": {
+   "octets": 78516,
+   "sha256": "9d652d3747f606d3d83989e027c600e9310c0d385b97d3420f0b50c73698e10c"
+  },
+  "licences-tierces/alegreya-ofl.txt": {
+   "octets": 4395,
+   "sha256": "f6f60d5d4cf4f4b1fc4e41353c897a2f5a16e6396c0cd8fa8bdfd2f4586a9a68"
+  },
+  "licences-tierces/alegreya-sans-ofl.txt": {
+   "octets": 4405,
+   "sha256": "0677891e6a143f297350d260ad766ad33bfc18ed5fa4f213acf648d6b597ec1a"
+  },
+  "licences-tierces/astronomia.txt": {
+   "octets": 1107,
+   "sha256": "cbbbb9d4a989c03eccd056006f3a4d3aabb74c5281b47c2e66d802d4ec0be2ef"
+  },
+  "licences-tierces/astronomy-engine.txt": {
+   "octets": 1095,
+   "sha256": "a76df666a7db8a06f599d08e07c3ff74c4b250b50b49c43353af2bd5bb34604e"
+  },
+  "licences-tierces/composants.json": {
+   "octets": 1739,
+   "sha256": "81fbfbd58cb9d39ea1e06af5e7535008873ec116872f0f32a45566abdc5a6331"
+  },
+  "licences-tierces/d3-celestial.txt": {
+   "octets": 1481,
+   "sha256": "221e8ff1505d1e70f60234e7d809c67a8729b78ac27ae8645e3e15abbb22b612"
+  },
+  "licences-tierces/satellite-js.txt": {
+   "octets": 1114,
+   "sha256": "68f09159260abc93ae30985052af180e38cc62d16b4ba1f58a98d576fbaa0859"
+  },
+  "_reference-0.87/ASTERISMS.json": {
+   "octets": 1950,
+   "sha256": "28ad8cbc08454a006add3f835dade8b7b49ef3fecf422d2a04af2a2f50868792"
+  },
+  "_reference-0.87/CONST.json": {
+   "octets": 591,
+   "sha256": "585c7f7af4a98f3f61e25e2b49b6a5874155443f7b7683377e027f1eacd6c328"
+  },
+  "_reference-0.87/DESC.json": {
+   "octets": 267393,
+   "sha256": "f2e7796b14638af229499ed97be295543380d54356525dc3febc107371f78def"
+  },
+  "_reference-0.87/DOUBLE_INFO.json": {
+   "octets": 2532,
+   "sha256": "889aa042d0853fa0925fb0ad09a9fbaf337ea5990f2ba9abc02aaec55ae898a0"
+  },
+  "_reference-0.87/DSO_DOUBLE.json": {
+   "octets": 4296,
+   "sha256": "98dc56d49463ff74c5927a2ba8716a057aaa5ccd136e1e9d079a1fcbed7227bd"
+  },
+  "_reference-0.87/DSO_EXTRA.json": {
+   "octets": 4473,
+   "sha256": "a40eb8d037a919a0eb6717be5469dc176d9734e87556f6bd916f70aa6b1a6a65"
+  },
+  "_reference-0.87/DSO_TYPE.json": {
+   "octets": 431,
+   "sha256": "3d4e1c5343299795d32e4864b00bd12f634b4629504ba3f1b384cd0698471eb1"
+  },
+  "_reference-0.87/FEATURES.json": {
+   "octets": 32602,
+   "sha256": "f958f35975532c33f36689c62cd5a62f9605a6b89c8a97b584ff1abc9f5af3a2"
+  },
+  "_reference-0.87/FEAT_M.json": {
+   "octets": 60616,
+   "sha256": "9cd156a2718bfcaa05349e8897f22f215840a219d8496dfb59c2d2ad9e83bb87"
+  },
+  "_reference-0.87/MANIFESTE.json": {
+   "octets": 1991,
+   "sha256": "0a7e3891548aa8937e5076363a2f4c3998c776e3b8d67afdcc58aab6a4840735"
+  },
+  "_reference-0.87/MESSIER.json": {
+   "octets": 5093,
+   "sha256": "1bfe6f413eae2cc9f381f338282c9a1e81b55e9f78890052175645511e35d0f0"
+  },
+  "_reference-0.87/MOON_FILTERS.json": {
+   "octets": 213,
+   "sha256": "a0fc75761b7cdc2f8d430bb9456083a65af471e392d04ef41a3349c7e9991ce9"
+  },
+  "_reference-0.87/SKY_CONS.json": {
+   "octets": 29872,
+   "sha256": "427360cea4cd7e5ff975f116117ca772a305427fb3e6fa6b5255d1e3dfe60659"
+  },
+  "_reference-0.87/SKY_STARS.json": {
+   "octets": 78516,
+   "sha256": "9d652d3747f606d3d83989e027c600e9310c0d385b97d3420f0b50c73698e10c"
+  },
+  "_reference-0.97/ASTERISMS.json": {
+   "octets": 4564,
+   "sha256": "d712201b11f8c993e4502e465220ff97b1e9a7f941a7a6411e0b9fb20ba64787"
+  },
+  "_reference-0.97/CONST.json": {
+   "octets": 591,
+   "sha256": "585c7f7af4a98f3f61e25e2b49b6a5874155443f7b7683377e027f1eacd6c328"
+  },
+  "_reference-0.97/DESC.json": {
+   "octets": 267393,
+   "sha256": "f9b88504f258d0a2d32c91d0c5ed0a081fea671b445f01e63866aa7680d07761"
+  },
+  "_reference-0.97/DOUBLE_INFO.json": {
+   "octets": 2532,
+   "sha256": "889aa042d0853fa0925fb0ad09a9fbaf337ea5990f2ba9abc02aaec55ae898a0"
+  },
+  "_reference-0.97/DSO_DOUBLE.json": {
+   "octets": 4296,
+   "sha256": "98dc56d49463ff74c5927a2ba8716a057aaa5ccd136e1e9d079a1fcbed7227bd"
+  },
+  "_reference-0.97/DSO_EXTRA.json": {
+   "octets": 9776,
+   "sha256": "c5afb26939cd8f91aca2267be8c4abc8f05719dc85aedb1a330a508f396cb33b"
+  },
+  "_reference-0.97/DSO_TYPE.json": {
+   "octets": 431,
+   "sha256": "3d4e1c5343299795d32e4864b00bd12f634b4629504ba3f1b384cd0698471eb1"
+  },
+  "_reference-0.97/FEATURES.json": {
+   "octets": 32602,
+   "sha256": "f958f35975532c33f36689c62cd5a62f9605a6b89c8a97b584ff1abc9f5af3a2"
+  },
+  "_reference-0.97/FEAT_M.json": {
+   "octets": 60616,
+   "sha256": "bca043088f839f2714d70d5ec21bbe61b40e02aba20a7e7e0068ae3056d9be80"
+  },
+  "_reference-0.97/MANIFESTE.json": {
+   "octets": 1992,
+   "sha256": "05ad89df87793eea64ea44e89edcd98ffa8b05d70e7e0b7f7d494ec4e63b8d71"
+  },
+  "_reference-0.97/MESSIER.json": {
+   "octets": 5151,
+   "sha256": "0e4548421e30f93ff8b7c0600ca27762bd6dce7d611625ec3f726f5a62f45c26"
+  },
+  "_reference-0.97/MOON_FILTERS.json": {
+   "octets": 213,
+   "sha256": "a0fc75761b7cdc2f8d430bb9456083a65af471e392d04ef41a3349c7e9991ce9"
+  },
+  "_reference-0.97/SKY_CONS.json": {
+   "octets": 29872,
+   "sha256": "427360cea4cd7e5ff975f116117ca772a305427fb3e6fa6b5255d1e3dfe60659"
+  },
+  "_reference-0.97/SKY_STARS.json": {
+   "octets": 78516,
+   "sha256": "9d652d3747f606d3d83989e027c600e9310c0d385b97d3420f0b50c73698e10c"
+  },
+  "binaires/installee/photos/ph_Horsehead.jpg": {
+   "octets": 563970,
+   "sha256": "675bd9dcd6edb3f300d8ed4b8883dc1edeb6863326de6a496816389541a56f02"
+  },
+  "binaires/installee/photos/ph_IC1396.jpg": {
+   "octets": 1021086,
+   "sha256": "ad3bf0f8b89fe0556bfbc68ad32f38a5f78c36e1b368534c978b83b637e0da04"
+  },
+  "binaires/installee/photos/ph_IC5070.jpg": {
+   "octets": 1000558,
+   "sha256": "c9ce93f7628d74295648f5165b1fbfc9f06c54d34fa923397142b67662cabd05"
+  },
+  "binaires/installee/photos/ph_M101.jpg": {
+   "octets": 210384,
+   "sha256": "2d2d7d8eeecb1b8092dcb966c29885f8521df9c2bbbca8549b6a9efc3b69952b"
+  },
+  "binaires/installee/photos/ph_M13.jpg": {
+   "octets": 883883,
+   "sha256": "e5eeee39aa50b46ca20af3bda8d354e8d11354a9878faf083ec4167d42bb51ee"
+  },
+  "binaires/installee/photos/ph_M27.jpg": {
+   "octets": 1332241,
+   "sha256": "de3f2e2c6213571b66dd9f838807e6ddb491797fe4e843fa872ef6043df9bd04"
+  },
+  "binaires/installee/photos/ph_M31.jpg": {
+   "octets": 751562,
+   "sha256": "917ec1ee5bd33894870dd2953d4a8153080f163fbb1250b1fb4ccd216035f6ec"
+  },
+  "binaires/installee/photos/ph_M33.jpg": {
+   "octets": 591973,
+   "sha256": "8abfab1c707017335cb0f46b27cbe07bb362e4406a422775367e1fd97a5c49df"
+  },
+  "binaires/installee/photos/ph_M45.jpg": {
+   "octets": 960142,
+   "sha256": "9776a51820facd2287d19b4d17c8566bcdc274397764d3b979bbf78c59416ad4"
+  },
+  "binaires/installee/photos/ph_M81.jpg": {
+   "octets": 396510,
+   "sha256": "34d8160ab9a10833d80fbd311b0bdec7fdcb4ba1c0583cbd78e91382163e409e"
+  },
+  "binaires/installee/photos/ph_NGC6888.jpg": {
+   "octets": 962129,
+   "sha256": "40d054c7f2762e141efae7d7c617a20df529fbae227afaf7253ddd10bb6ab030"
+  },
+  "binaires/installee/photos/ph_NGC6960.jpg": {
+   "octets": 618089,
+   "sha256": "16de1ee83aab8797458bce0d97d75a16d70ec80374d871f777139bec2e6919e9"
+  },
+  "binaires/installee/photos/ph_NGC6992.jpg": {
+   "octets": 1584201,
+   "sha256": "3df3b88b38b58cc35fe337499dd0bd548fa2d1554974e101483d2623c44b01e1"
+  },
+  "binaires/installee/photos/ph_NGC7000.jpg": {
+   "octets": 915209,
+   "sha256": "01484949647edcb443ae2b11e5792e8a673c1b0fc8bc41903575c77b18d9bb82"
+  },
+  "binaires/installee/photos/ph_NGC7023.jpg": {
+   "octets": 1018190,
+   "sha256": "cf3d56163010605e351f2bb11eb6c03df2b06447aced158e3404dd6b0fd40cef"
+  },
+  "binaires/installee/photos/ph_NGC7635.jpg": {
+   "octets": 811010,
+   "sha256": "cef131f7b18137e4fcd953c42118dbf41a72561d9e99bd702be1c7016bae7ef8"
+  },
+  "binaires/installee/photos/ph_ORION.jpg": {
+   "octets": 304249,
+   "sha256": "b92f0f23bfecc110bbd527f1b56f02ed414b9054a154f0240722b653f1dcf8df"
+  },
+  "binaires/installee/photos/ph_Rosette.jpg": {
+   "octets": 772460,
+   "sha256": "e003aa9aa015c5a727bfb50fe7704a5046ca848d0ad4b221c07bc1099d3a2f7e"
+  },
+  "binaires/web/MANIFESTE.json": {
+   "octets": 4477,
+   "sha256": "663921989cfd15082d87d9a21da9daa647f28b4a9718568b01c44e61d73df365"
+  },
+  "binaires/web/carte-lune.jpg": {
+   "octets": 3187319,
+   "sha256": "4cc4c178e2c377190e131a603ba73442b0e011c7eb198dd6aab37d013d4077f4"
+  },
+  "binaires/web/etoiles-champ.bin": {
+   "octets": 691693,
+   "sha256": "de3d92a5e18d4a301132561266cc63a723095914e43ab44fee6d03737e8adc95"
+  },
+  "binaires/web/etoiles-info.bin.gz": {
+   "octets": 69568,
+   "sha256": "6fa4ed5c6c81f345ccb0b76c5473f916371f6d5fbacfc43b1200fbcbeb22e787"
+  },
+  "binaires/web/photo-ORION.jpg": {
+   "octets": 124068,
+   "sha256": "2a6e2083e53eba27ffc1769a3a35ca3702a32a298e385d85852df7feb5c8cfc8"
+  },
+  "binaires/web/police-AlegreyaL-500.woff2": {
+   "octets": 24200,
+   "sha256": "53addbca37745d63946bfb8fefc33570c075a91d5463c4194139b6a2efad3930"
+  },
+  "binaires/web/police-AlegreyaL-700.woff2": {
+   "octets": 24352,
+   "sha256": "1c582501cee54f7137a80732266cbd3f0e9ef1f0e85d093228fb4f4db852df4e"
+  },
+  "binaires/web/police-AlegreyaSansL-400.woff2": {
+   "octets": 23708,
+   "sha256": "b2a5a35a2563a2f9bf9fb91939fc6ea6c115e9811cda5c4a37d02f623c7c4dbe"
+  },
+  "binaires/web/police-AlegreyaSansL-500.woff2": {
+   "octets": 23928,
+   "sha256": "55b61d22cc7afd0bca94d17a84f0e92963b8f5216dbfbde56b2f6cf530c9b2dd"
+  },
+  "binaires/web/police-AlegreyaSansL-700.woff2": {
+   "octets": 23976,
+   "sha256": "5acd19a588614d23e52b741a21dd8555178ab4932c3195c6d8fb4b296f84acae"
+  },
+  "binaires/web/relief-lune.webp": {
+   "octets": 3990528,
+   "sha256": "0a52af17f17b883c5a33d40b9a473cb7e67954f5093474f974c3aa43919c6df1"
+  },
+  "textes/fr/INVENTAIRE.md": {
+   "octets": 1376,
+   "sha256": "52511fca1f5f43651f37d4fb7e5a280b379e2fcb3765c8d3a77cfd81ddae896d"
+  },
+  "textes/fr/informations.json": {
+   "octets": 63015,
+   "sha256": "a00a7943c592cb7a7d06f4edd0aaafd5c6f61eb8b992067e7a3299b25f8dba33"
+  },
+  "ciel/constellations.json": {
+   "octets": 122307,
+   "sha256": "d9919bfa53a11255e9da5d0952f8e6daff2921ed4d660d6dea4592d8cfc25896"
+  },
+  "ciel/etoiles-reperes.json": {
+   "octets": 190915,
+   "sha256": "7b57e300ba017e8a7df1483ca636c5d002f6c088aa4e2ac9f978616d2b434917"
+  },
+  "ciel/noms-francais-constellations.json": {
+   "octets": 857,
+   "sha256": "391ced41d245002499cdc5bb704d705ea7b00858d1b7b62a734858815e039c39"
+  }
+ }
+}
